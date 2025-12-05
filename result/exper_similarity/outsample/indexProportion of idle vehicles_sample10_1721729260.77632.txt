@@ -1,0 +1,1 @@
+temp_text:model.setObjective(gp.quicksum((I[S.index(i)][K.index(k)] - model.getVarByName(f'cluster{i}_cluster{j}_{k}')) * (w[S.index(i)][D.index(j)] + w_hat[S.index(i)][D.index(j)]) for i in S for j in D for k in K), GRB.MINIMIZE)

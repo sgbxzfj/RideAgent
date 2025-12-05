@@ -1,0 +1,2358 @@
+\ LP format - for model browsing. Use MPS format to capture full model detail.
+Minimize
+  261.7382039431067 cluster0_cluster4_0
+   + 261.7382039431067 cluster0_cluster4_1
+   + 261.7382039431067 cluster0_cluster4_2
+   + 8437.519824887349 cluster0_cluster7_0
+   + 8437.519824887349 cluster0_cluster7_1
+   + 8437.519824887349 cluster0_cluster7_2
+   + 202787.7679077955 cluster0_cluster12_0
+   + 202787.7679077955 cluster0_cluster12_1
+   + 202787.7679077955 cluster0_cluster12_2
+   + 9.653440052270515 cluster0_cluster15_0
+   + 9.653440052270515 cluster0_cluster15_1
+   + 9.653440052270515 cluster0_cluster15_2
+   - 10.2536072142618 cluster0_cluster37_0
+   - 10.2536072142618 cluster0_cluster37_1
+   - 10.2536072142618 cluster0_cluster37_2
+   + 1000.345489667271 cluster0_cluster38_0
+   + 1000.345489667271 cluster0_cluster38_1
+   + 1000.345489667271 cluster0_cluster38_2
+   + 645.2961596323719 cluster0_cluster44_0
+   + 645.2961596323719 cluster0_cluster44_1
+   + 645.2961596323719 cluster0_cluster44_2
+   + 280068.372620718 cluster0_cluster49_0
+   + 280068.372620718 cluster0_cluster49_1
+   + 280068.372620718 cluster0_cluster49_2
+   + 16.88283294023429 cluster1_cluster4_0
+   + 16.88283294023429 cluster1_cluster4_1
+   + 16.88283294023429 cluster1_cluster4_2
+   + 5525.448850443591 cluster1_cluster7_0
+   + 5525.448850443591 cluster1_cluster7_1
+   + 5525.448850443591 cluster1_cluster7_2
+   + 187620.166254469 cluster1_cluster12_0
+   + 187620.166254469 cluster1_cluster12_1
+   + 187620.166254469 cluster1_cluster12_2
+   + 399.9700903716452 cluster1_cluster15_0
+   + 399.9700903716452 cluster1_cluster15_1
+   + 399.9700903716452 cluster1_cluster15_2
+   + 10.34144359650076 cluster1_cluster37_0
+   + 10.34144359650076 cluster1_cluster37_1
+   + 10.34144359650076 cluster1_cluster37_2
+   + 182.514034893552 cluster1_cluster38_0
+   + 182.514034893552 cluster1_cluster38_1
+   + 182.514034893552 cluster1_cluster38_2
+   + 79.17503490402406 cluster1_cluster44_0
+   + 79.17503490402406 cluster1_cluster44_1
+   + 79.17503490402406 cluster1_cluster44_2
+   + 292793.9641458814 cluster1_cluster49_0
+   + 292793.9641458814 cluster1_cluster49_1
+   + 292793.9641458814 cluster1_cluster49_2
+   + 67.22398901008945 cluster2_cluster4_0
+   + 67.22398901008945 cluster2_cluster4_1
+   + 67.22398901008945 cluster2_cluster4_2
+   + 5747.860581709013 cluster2_cluster7_0
+   + 5747.860581709013 cluster2_cluster7_1
+   + 5747.860581709013 cluster2_cluster7_2
+   + 183573.6735529402 cluster2_cluster12_0
+   + 183573.6735529402 cluster2_cluster12_1
+   + 183573.6735529402 cluster2_cluster12_2
+   + 582.6005986172937 cluster2_cluster15_0
+   + 582.6005986172937 cluster2_cluster15_1
+   + 582.6005986172937 cluster2_cluster15_2
+   - 10.92512627947754 cluster2_cluster37_0
+   - 10.92512627947754 cluster2_cluster37_1
+   - 10.92512627947754 cluster2_cluster37_2
+   + 132.7061811520618 cluster2_cluster38_0
+   + 132.7061811520618 cluster2_cluster38_1
+   + 132.7061811520618 cluster2_cluster38_2
+   + 18.93059060830889 cluster2_cluster44_0
+   + 18.93059060830889 cluster2_cluster44_1
+   + 18.93059060830889 cluster2_cluster44_2
+   + 288205.8817266367 cluster2_cluster49_0
+   + 288205.8817266367 cluster2_cluster49_1
+   + 288205.8817266367 cluster2_cluster49_2
+   + 21.03910143934936 cluster3_cluster4_0
+   + 21.03910143934936 cluster3_cluster4_1
+   + 21.03910143934936 cluster3_cluster4_2
+   + 6063.647481738917 cluster3_cluster7_0
+   + 6063.647481738917 cluster3_cluster7_1
+   + 6063.647481738917 cluster3_cluster7_2
+   + 189200.3744968799 cluster3_cluster12_0
+   + 189200.3744968799 cluster3_cluster12_1
+   + 189200.3744968799 cluster3_cluster12_2
+   + 318.1676256823731 cluster3_cluster15_0
+   + 318.1676256823731 cluster3_cluster15_1
+   + 318.1676256823731 cluster3_cluster15_2
+   + 13.77589135595703 cluster3_cluster37_0
+   + 13.77589135595703 cluster3_cluster37_1
+   + 13.77589135595703 cluster3_cluster37_2
+   + 295.3873132339081 cluster3_cluster38_0
+   + 295.3873132339081 cluster3_cluster38_1
+   + 295.3873132339081 cluster3_cluster38_2
+   + 93.10324274344319 cluster3_cluster44_0
+   + 93.10324274344319 cluster3_cluster44_1
+   + 93.10324274344319 cluster3_cluster44_2
+   + 291292.4788507094 cluster3_cluster49_0
+   + 291292.4788507094 cluster3_cluster49_1
+   + 291292.4788507094 cluster3_cluster49_2
+   + 10.58142056556767 cluster5_cluster4_0
+   + 10.58142056556767 cluster5_cluster4_1
+   + 10.58142056556767 cluster5_cluster4_2
+   + 6120.622336017475 cluster5_cluster7_0
+   + 6120.622336017475 cluster5_cluster7_1
+   + 6120.622336017475 cluster5_cluster7_2
+   + 191166.1663779817 cluster5_cluster12_0
+   + 191166.1663779817 cluster5_cluster12_1
+   + 191166.1663779817 cluster5_cluster12_2
+   + 257.0315574811548 cluster5_cluster15_0
+   + 257.0315574811548 cluster5_cluster15_1
+   + 257.0315574811548 cluster5_cluster15_2
+   + 60.81343906860236 cluster5_cluster37_0
+   + 60.81343906860236 cluster5_cluster37_1
+   + 60.81343906860236 cluster5_cluster37_2
+   + 314.4604615024155 cluster5_cluster38_0
+   + 314.4604615024155 cluster5_cluster38_1
+   + 314.4604615024155 cluster5_cluster38_2
+   + 165.134099346522 cluster5_cluster44_0
+   + 165.134099346522 cluster5_cluster44_1
+   + 165.134099346522 cluster5_cluster44_2
+   + 294258.5097795151 cluster5_cluster49_0
+   + 294258.5097795151 cluster5_cluster49_1
+   + 294258.5097795151 cluster5_cluster49_2
+   + 84.19638021758199 cluster6_cluster4_0
+   + 84.19638021758199 cluster6_cluster4_1
+   + 84.19638021758199 cluster6_cluster4_2
+   + 7111.459388350029 cluster6_cluster7_0
+   + 7111.459388350029 cluster6_cluster7_1
+   + 7111.459388350029 cluster6_cluster7_2
+   + 196542.9537885048 cluster6_cluster12_0
+   + 196542.9537885048 cluster6_cluster12_1
+   + 196542.9537885048 cluster6_cluster12_2
+   + 135.7536595369695 cluster6_cluster15_0
+   + 135.7536595369695 cluster6_cluster15_1
+   + 135.7536595369695 cluster6_cluster15_2
+   + 46.92452291307586 cluster6_cluster37_0
+   + 46.92452291307586 cluster6_cluster37_1
+   + 46.92452291307586 cluster6_cluster37_2
+   + 566.9642569310447 cluster6_cluster38_0
+   + 566.9642569310447 cluster6_cluster38_1
+   + 566.9642569310447 cluster6_cluster38_2
+   + 360.0810616264442 cluster6_cluster44_0
+   + 360.0810616264442 cluster6_cluster44_1
+   + 360.0810616264442 cluster6_cluster44_2
+   + 288049.7985195428 cluster6_cluster49_0
+   + 288049.7985195428 cluster6_cluster49_1
+   + 288049.7985195428 cluster6_cluster49_2
+   + 488.9608479376692 cluster8_cluster4_0
+   + 488.9608479376692 cluster8_cluster4_1
+   + 488.9608479376692 cluster8_cluster4_2
+   + 9547.761247499597 cluster8_cluster7_0
+   + 9547.761247499597 cluster8_cluster7_1
+   + 9547.761247499597 cluster8_cluster7_2
+   + 208433.2861453615 cluster8_cluster12_0
+   + 208433.2861453615 cluster8_cluster12_1
+   + 208433.2861453615 cluster8_cluster12_2
+   + 60.17832868857539 cluster8_cluster15_0
+   + 60.17832868857539 cluster8_cluster15_1
+   + 60.17832868857539 cluster8_cluster15_2
+   + 9.482733728194448 cluster8_cluster37_0
+   + 9.482733728194448 cluster8_cluster37_1
+   + 9.482733728194448 cluster8_cluster37_2
+   + 1401.896371396718 cluster8_cluster38_0
+   + 1401.896371396718 cluster8_cluster38_1
+   + 1401.896371396718 cluster8_cluster38_2
+   + 1016.856325643724 cluster8_cluster44_0
+   + 1016.856325643724 cluster8_cluster44_1
+   + 1016.856325643724 cluster8_cluster44_2
+   + 274112.8870179235 cluster8_cluster49_0
+   + 274112.8870179235 cluster8_cluster49_1
+   + 274112.8870179235 cluster8_cluster49_2
+   + 88.57100746597008 cluster9_cluster4_0
+   + 88.57100746597008 cluster9_cluster4_1
+   + 88.57100746597008 cluster9_cluster4_2
+   + 7222.199421230688 cluster9_cluster7_0
+   + 7222.199421230688 cluster9_cluster7_1
+   + 7222.199421230688 cluster9_cluster7_2
+   + 196355.9825794742 cluster9_cluster12_0
+   + 196355.9825794742 cluster9_cluster12_1
+   + 196355.9825794742 cluster9_cluster12_2
+   + 94.37947703080667 cluster9_cluster15_0
+   + 94.37947703080667 cluster9_cluster15_1
+   + 94.37947703080667 cluster9_cluster15_2
+   + 27.34297297721942 cluster9_cluster37_0
+   + 27.34297297721942 cluster9_cluster37_1
+   + 27.34297297721942 cluster9_cluster37_2
+   + 610.3298000867543 cluster9_cluster38_0
+   + 610.3298000867543 cluster9_cluster38_1
+   + 610.3298000867543 cluster9_cluster38_2
+   + 326.0638852335621 cluster9_cluster44_0
+   + 326.0638852335621 cluster9_cluster44_1
+   + 326.0638852335621 cluster9_cluster44_2
+   + 286920.1630259596 cluster9_cluster49_0
+   + 286920.1630259596 cluster9_cluster49_1
+   + 286920.1630259596 cluster9_cluster49_2
+   + 531.6467074411549 cluster10_cluster4_0
+   + 531.6467074411549 cluster10_cluster4_1
+   + 531.6467074411549 cluster10_cluster4_2
+   + 8221.240083823448 cluster10_cluster7_0
+   + 8221.240083823448 cluster10_cluster7_1
+   + 8221.240083823448 cluster10_cluster7_2
+   + 194917.7191717056 cluster10_cluster12_0
+   + 194917.7191717056 cluster10_cluster12_1
+   + 194917.7191717056 cluster10_cluster12_2
+   + 1477.587348003007 cluster10_cluster15_0
+   + 1477.587348003007 cluster10_cluster15_1
+   + 1477.587348003007 cluster10_cluster15_2
+   + 198.023200088604 cluster10_cluster37_0
+   + 198.023200088604 cluster10_cluster37_1
+   + 198.023200088604 cluster10_cluster37_2
+   + 691.3344093270911 cluster10_cluster38_0
+   + 691.3344093270911 cluster10_cluster38_1
+   + 691.3344093270911 cluster10_cluster38_2
+   + 254.4426948852565 cluster10_cluster44_0
+   + 254.4426948852565 cluster10_cluster44_1
+   + 254.4426948852565 cluster10_cluster44_2
+   + 272513.2391939556 cluster10_cluster49_0
+   + 272513.2391939556 cluster10_cluster49_1
+   + 272513.2391939556 cluster10_cluster49_2
+   + 124.6261626661526 cluster11_cluster4_0
+   + 124.6261626661526 cluster11_cluster4_1
+   + 124.6261626661526 cluster11_cluster4_2
+   + 7502.764139609901 cluster11_cluster7_0
+   + 7502.764139609901 cluster11_cluster7_1
+   + 7502.764139609901 cluster11_cluster7_2
+   + 198551.0701526231 cluster11_cluster12_0
+   + 198551.0701526231 cluster11_cluster12_1
+   + 198551.0701526231 cluster11_cluster12_2
+   + 77.9884250037141 cluster11_cluster15_0
+   + 77.9884250037141 cluster11_cluster15_1
+   + 77.9884250037141 cluster11_cluster15_2
+   + 28.19220604379822 cluster11_cluster37_0
+   + 28.19220604379822 cluster11_cluster37_1
+   + 28.19220604379822 cluster11_cluster37_2
+   + 687.5128035202672 cluster11_cluster38_0
+   + 687.5128035202672 cluster11_cluster38_1
+   + 687.5128035202672 cluster11_cluster38_2
+   + 446.070311807333 cluster11_cluster44_0
+   + 446.070311807333 cluster11_cluster44_1
+   + 446.070311807333 cluster11_cluster44_2
+   + 285809.598946394 cluster11_cluster49_0
+   + 285809.598946394 cluster11_cluster49_1
+   + 285809.598946394 cluster11_cluster49_2
+   + 5.814567106685299 cluster13_cluster4_0
+   + 5.814567106685299 cluster13_cluster4_1
+   + 5.814567106685299 cluster13_cluster4_2
+   + 5895.597585212305 cluster13_cluster7_0
+   + 5895.597585212305 cluster13_cluster7_1
+   + 5895.597585212305 cluster13_cluster7_2
+   + 189036.4959401125 cluster13_cluster12_0
+   + 189036.4959401125 cluster13_cluster12_1
+   + 189036.4959401125 cluster13_cluster12_2
+   + 301.8041498395583 cluster13_cluster15_0
+   + 301.8041498395583 cluster13_cluster15_1
+   + 301.8041498395583 cluster13_cluster15_2
+   + 28.43445664355072 cluster13_cluster37_0
+   + 28.43445664355072 cluster13_cluster37_1
+   + 28.43445664355072 cluster13_cluster37_2
+   + 268.6842129048731 cluster13_cluster38_0
+   + 268.6842129048731 cluster13_cluster38_1
+   + 268.6842129048731 cluster13_cluster38_2
+   + 95.84006365411544 cluster13_cluster44_0
+   + 95.84006365411544 cluster13_cluster44_1
+   + 95.84006365411544 cluster13_cluster44_2
+   + 293294.0151084862 cluster13_cluster49_0
+   + 293294.0151084862 cluster13_cluster49_1
+   + 293294.0151084862 cluster13_cluster49_2
+   + 128.1919052287471 cluster14_cluster4_0
+   + 128.1919052287471 cluster14_cluster4_1
+   + 128.1919052287471 cluster14_cluster4_2
+   + 6332.486676387962 cluster14_cluster7_0
+   + 6332.486676387962 cluster14_cluster7_1
+   + 6332.486676387962 cluster14_cluster7_2
+   + 185595.8104460745 cluster14_cluster12_0
+   + 185595.8104460745 cluster14_cluster12_1
+   + 185595.8104460745 cluster14_cluster12_2
+   + 702.7490761953939 cluster14_cluster15_0
+   + 702.7490761953939 cluster14_cluster15_1
+   + 702.7490761953939 cluster14_cluster15_2
+   - 3.392185408632738 cluster14_cluster37_0
+   - 3.392185408632738 cluster14_cluster37_1
+   - 3.392185408632738 cluster14_cluster37_2
+   + 253.3592415669324 cluster14_cluster38_0
+   + 253.3592415669324 cluster14_cluster38_1
+   + 253.3592415669324 cluster14_cluster38_2
+   + 18.32671486927556 cluster14_cluster44_0
+   + 18.32671486927556 cluster14_cluster44_1
+   + 18.32671486927556 cluster14_cluster44_2
+   + 284676.4889782019 cluster14_cluster49_0
+   + 284676.4889782019 cluster14_cluster49_1
+   + 284676.4889782019 cluster14_cluster49_2
+   + 1296.402874930113 cluster16_cluster4_0
+   + 1296.402874930113 cluster16_cluster4_1
+   + 1296.402874930113 cluster16_cluster4_2
+   + 10733.44111855153 cluster16_cluster7_0
+   + 10733.44111855153 cluster16_cluster7_1
+   + 10733.44111855153 cluster16_cluster7_2
+   + 206512.6128506915 cluster16_cluster12_0
+   + 206512.6128506915 cluster16_cluster12_1
+   + 206512.6128506915 cluster16_cluster12_2
+   + 2616.823959663656 cluster16_cluster15_0
+   + 2616.823959663656 cluster16_cluster15_1
+   + 2616.823959663656 cluster16_cluster15_2
+   + 737.7575301798755 cluster16_cluster37_0
+   + 737.7575301798755 cluster16_cluster37_1
+   + 737.7575301798755 cluster16_cluster37_2
+   + 1539.960258887086 cluster16_cluster38_0
+   + 1539.960258887086 cluster16_cluster38_1
+   + 1539.960258887086 cluster16_cluster38_2
+   + 835.2147463982262 cluster16_cluster44_0
+   + 835.2147463982262 cluster16_cluster44_1
+   + 835.2147463982262 cluster16_cluster44_2
+   + 259167.9789726125 cluster16_cluster49_0
+   + 259167.9789726125 cluster16_cluster49_1
+   + 259167.9789726125 cluster16_cluster49_2
+   + 30.25196278046397 cluster17_cluster4_0
+   + 30.25196278046397 cluster17_cluster4_1
+   + 30.25196278046397 cluster17_cluster4_2
+   + 6301.703813949915 cluster17_cluster7_0
+   + 6301.703813949915 cluster17_cluster7_1
+   + 6301.703813949915 cluster17_cluster7_2
+   + 192085.262906486 cluster17_cluster12_0
+   + 192085.262906486 cluster17_cluster12_1
+   + 192085.262906486 cluster17_cluster12_2
+   + 275.7630377882324 cluster17_cluster15_0
+   + 275.7630377882324 cluster17_cluster15_1
+   + 275.7630377882324 cluster17_cluster15_2
+   + 41.46696972319398 cluster17_cluster37_0
+   + 41.46696972319398 cluster17_cluster37_1
+   + 41.46696972319398 cluster17_cluster37_2
+   + 344.3258532159591 cluster17_cluster38_0
+   + 344.3258532159591 cluster17_cluster38_1
+   + 344.3258532159591 cluster17_cluster38_2
+   + 198.3749823070399 cluster17_cluster44_0
+   + 198.3749823070399 cluster17_cluster44_1
+   + 198.3749823070399 cluster17_cluster44_2
+   + 292098.7407279465 cluster17_cluster49_0
+   + 292098.7407279465 cluster17_cluster49_1
+   + 292098.7407279465 cluster17_cluster49_2
+   + 294.9261185341645 cluster18_cluster4_0
+   + 294.9261185341645 cluster18_cluster4_1
+   + 294.9261185341645 cluster18_cluster4_2
+   + 8620.826872718177 cluster18_cluster7_0
+   + 8620.826872718177 cluster18_cluster7_1
+   + 8620.826872718177 cluster18_cluster7_2
+   + 203941.4225155439 cluster18_cluster12_0
+   + 203941.4225155439 cluster18_cluster12_1
+   + 203941.4225155439 cluster18_cluster12_2
+   + 5.795947012056605 cluster18_cluster15_0
+   + 5.795947012056605 cluster18_cluster15_1
+   + 5.795947012056605 cluster18_cluster15_2
+   - 10.90287529191337 cluster18_cluster37_0
+   - 10.90287529191337 cluster18_cluster37_1
+   - 10.90287529191337 cluster18_cluster37_2
+   + 1062.54232382 cluster18_cluster38_0
+   + 1062.54232382 cluster18_cluster38_1
+   + 1062.54232382 cluster18_cluster38_2
+   + 722.2312295524121 cluster18_cluster44_0
+   + 722.2312295524121 cluster18_cluster44_1
+   + 722.2312295524121 cluster18_cluster44_2
+   + 279215.1860751301 cluster18_cluster49_0
+   + 279215.1860751301 cluster18_cluster49_1
+   + 279215.1860751301 cluster18_cluster49_2
+   + 23.48012781746359 cluster19_cluster4_0
+   + 23.48012781746359 cluster19_cluster4_1
+   + 23.48012781746359 cluster19_cluster4_2
+   + 5821.983290965256 cluster19_cluster7_0
+   + 5821.983290965256 cluster19_cluster7_1
+   + 5821.983290965256 cluster19_cluster7_2
+   + 187443.697098463 cluster19_cluster12_0
+   + 187443.697098463 cluster19_cluster12_1
+   + 187443.697098463 cluster19_cluster12_2
+   + 385.1417204071001 cluster19_cluster15_0
+   + 385.1417204071001 cluster19_cluster15_1
+   + 385.1417204071001 cluster19_cluster15_2
+   + 3.842844208666582 cluster19_cluster37_0
+   + 3.842844208666582 cluster19_cluster37_1
+   + 3.842844208666582 cluster19_cluster37_2
+   + 234.7506639643615 cluster19_cluster38_0
+   + 234.7506639643615 cluster19_cluster38_1
+   + 234.7506639643615 cluster19_cluster38_2
+   + 57.99235359144019 cluster19_cluster44_0
+   + 57.99235359144019 cluster19_cluster44_1
+   + 57.99235359144019 cluster19_cluster44_2
+   + 291129.1162086827 cluster19_cluster49_0
+   + 291129.1162086827 cluster19_cluster49_1
+   + 291129.1162086827 cluster19_cluster49_2
+   + 113.0628388628642 cluster20_cluster4_0
+   + 113.0628388628642 cluster20_cluster4_1
+   + 113.0628388628642 cluster20_cluster4_2
+   + 7466.662556372665 cluster20_cluster7_0
+   + 7466.662556372665 cluster20_cluster7_1
+   + 7466.662556372665 cluster20_cluster7_2
+   + 198014.6510722424 cluster20_cluster12_0
+   + 198014.6510722424 cluster20_cluster12_1
+   + 198014.6510722424 cluster20_cluster12_2
+   + 48.02518090207837 cluster20_cluster15_0
+   + 48.02518090207837 cluster20_cluster15_1
+   + 48.02518090207837 cluster20_cluster15_2
+   + 29.54767532551649 cluster20_cluster37_0
+   + 29.54767532551649 cluster20_cluster37_1
+   + 29.54767532551649 cluster20_cluster37_2
+   + 684.9115705268944 cluster20_cluster38_0
+   + 684.9115705268944 cluster20_cluster38_1
+   + 684.9115705268944 cluster20_cluster38_2
+   + 406.1686486582775 cluster20_cluster44_0
+   + 406.1686486582775 cluster20_cluster44_1
+   + 406.1686486582775 cluster20_cluster44_2
+   + 285935.4534012669 cluster20_cluster49_0
+   + 285935.4534012669 cluster20_cluster49_1
+   + 285935.4534012669 cluster20_cluster49_2
+   + 55.19164495404074 cluster21_cluster4_0
+   + 55.19164495404074 cluster21_cluster4_1
+   + 55.19164495404074 cluster21_cluster4_2
+   + 6934.720658196974 cluster21_cluster7_0
+   + 6934.720658196974 cluster21_cluster7_1
+   + 6934.720658196974 cluster21_cluster7_2
+   + 195413.4952699789 cluster21_cluster12_0
+   + 195413.4952699789 cluster21_cluster12_1
+   + 195413.4952699789 cluster21_cluster12_2
+   + 103.0558851718576 cluster21_cluster15_0
+   + 103.0558851718576 cluster21_cluster15_1
+   + 103.0558851718576 cluster21_cluster15_2
+   + 86.15146856577647 cluster21_cluster37_0
+   + 86.15146856577647 cluster21_cluster37_1
+   + 86.15146856577647 cluster21_cluster37_2
+   + 529.1596150923056 cluster21_cluster38_0
+   + 529.1596150923056 cluster21_cluster38_1
+   + 529.1596150923056 cluster21_cluster38_2
+   + 301.8305984619199 cluster21_cluster44_0
+   + 301.8305984619199 cluster21_cluster44_1
+   + 301.8305984619199 cluster21_cluster44_2
+   + 289447.9547503166 cluster21_cluster49_0
+   + 289447.9547503166 cluster21_cluster49_1
+   + 289447.9547503166 cluster21_cluster49_2
+   + 134.7056076900597 cluster22_cluster4_0
+   + 134.7056076900597 cluster22_cluster4_1
+   + 134.7056076900597 cluster22_cluster4_2
+   + 7616.535590423901 cluster22_cluster7_0
+   + 7616.535590423901 cluster22_cluster7_1
+   + 7616.535590423901 cluster22_cluster7_2
+   + 199042.3179707453 cluster22_cluster12_0
+   + 199042.3179707453 cluster22_cluster12_1
+   + 199042.3179707453 cluster22_cluster12_2
+   + 45.95270749657538 cluster22_cluster15_0
+   + 45.95270749657538 cluster22_cluster15_1
+   + 45.95270749657538 cluster22_cluster15_2
+   + 24.11641558401696 cluster22_cluster37_0
+   + 24.11641558401696 cluster22_cluster37_1
+   + 24.11641558401696 cluster22_cluster37_2
+   + 727.3890981973433 cluster22_cluster38_0
+   + 727.3890981973433 cluster22_cluster38_1
+   + 727.3890981973433 cluster22_cluster38_2
+   + 463.5937519908956 cluster22_cluster44_0
+   + 463.5937519908956 cluster22_cluster44_1
+   + 463.5937519908956 cluster22_cluster44_2
+   + 285182.6671456075 cluster22_cluster49_0
+   + 285182.6671456075 cluster22_cluster49_1
+   + 285182.6671456075 cluster22_cluster49_2
+   + 61.92907758689762 cluster23_cluster4_0
+   + 61.92907758689762 cluster23_cluster4_1
+   + 61.92907758689762 cluster23_cluster4_2
+   + 5962.193479737997 cluster23_cluster7_0
+   + 5962.193479737997 cluster23_cluster7_1
+   + 5962.193479737997 cluster23_cluster7_2
+   + 185741.7136182625 cluster23_cluster12_0
+   + 185741.7136182625 cluster23_cluster12_1
+   + 185741.7136182625 cluster23_cluster12_2
+   + 517.5843556435442 cluster23_cluster15_0
+   + 517.5843556435442 cluster23_cluster15_1
+   + 517.5843556435442 cluster23_cluster15_2
+   - 10.41250238183247 cluster23_cluster37_0
+   - 10.41250238183247 cluster23_cluster37_1
+   - 10.41250238183247 cluster23_cluster37_2
+   + 220.2851973632821 cluster23_cluster38_0
+   + 220.2851973632821 cluster23_cluster38_1
+   + 220.2851973632821 cluster23_cluster38_2
+   + 23.92622375255899 cluster23_cluster44_0
+   + 23.92622375255899 cluster23_cluster44_1
+   + 23.92622375255899 cluster23_cluster44_2
+   + 288161.7188461673 cluster23_cluster49_0
+   + 288161.7188461673 cluster23_cluster49_1
+   + 288161.7188461673 cluster23_cluster49_2
+   + 53.81034186730313 cluster24_cluster4_0
+   + 53.81034186730313 cluster24_cluster4_1
+   + 53.81034186730313 cluster24_cluster4_2
+   + 6842.649931451707 cluster24_cluster7_0
+   + 6842.649931451707 cluster24_cluster7_1
+   + 6842.649931451707 cluster24_cluster7_2
+   + 195105.2706118584 cluster24_cluster12_0
+   + 195105.2706118584 cluster24_cluster12_1
+   + 195105.2706118584 cluster24_cluster12_2
+   + 144.4951945512531 cluster24_cluster15_0
+   + 144.4951945512531 cluster24_cluster15_1
+   + 144.4951945512531 cluster24_cluster15_2
+   + 77.99352528107204 cluster24_cluster37_0
+   + 77.99352528107204 cluster24_cluster37_1
+   + 77.99352528107204 cluster24_cluster37_2
+   + 496.4114917999278 cluster24_cluster38_0
+   + 496.4114917999278 cluster24_cluster38_1
+   + 496.4114917999278 cluster24_cluster38_2
+   + 298.5691777736886 cluster24_cluster44_0
+   + 298.5691777736886 cluster24_cluster44_1
+   + 298.5691777736886 cluster24_cluster44_2
+   + 289915.410923848 cluster24_cluster49_0
+   + 289915.410923848 cluster24_cluster49_1
+   + 289915.410923848 cluster24_cluster49_2
+   + 51.70390577888564 cluster25_cluster4_0
+   + 51.70390577888564 cluster25_cluster4_1
+   + 51.70390577888564 cluster25_cluster4_2
+   + 5772.161381280845 cluster25_cluster7_0
+   + 5772.161381280845 cluster25_cluster7_1
+   + 5772.161381280845 cluster25_cluster7_2
+   + 184886.2165843345 cluster25_cluster12_0
+   + 184886.2165843345 cluster25_cluster12_1
+   + 184886.2165843345 cluster25_cluster12_2
+   + 512.5433803813422 cluster25_cluster15_0
+   + 512.5433803813422 cluster25_cluster15_1
+   + 512.5433803813422 cluster25_cluster15_2
+   - 9.399571501652186 cluster25_cluster37_0
+   - 9.399571501652186 cluster25_cluster37_1
+   - 9.399571501652186 cluster25_cluster37_2
+   + 181.3417595937499 cluster25_cluster38_0
+   + 181.3417595937499 cluster25_cluster38_1
+   + 181.3417595937499 cluster25_cluster38_2
+   + 18.94688458891248 cluster25_cluster44_0
+   + 18.94688458891248 cluster25_cluster44_1
+   + 18.94688458891248 cluster25_cluster44_2
+   + 288969.1655324808 cluster25_cluster49_0
+   + 288969.1655324808 cluster25_cluster49_1
+   + 288969.1655324808 cluster25_cluster49_2
+   + 14.21258323943601 cluster26_cluster4_0
+   + 14.21258323943601 cluster26_cluster4_1
+   + 14.21258323943601 cluster26_cluster4_2
+   + 6381.307694187544 cluster26_cluster7_0
+   + 6381.307694187544 cluster26_cluster7_1
+   + 6381.307694187544 cluster26_cluster7_2
+   + 192269.8481626903 cluster26_cluster12_0
+   + 192269.8481626903 cluster26_cluster12_1
+   + 192269.8481626903 cluster26_cluster12_2
+   + 184.1816581083404 cluster26_cluster15_0
+   + 184.1816581083404 cluster26_cluster15_1
+   + 184.1816581083404 cluster26_cluster15_2
+   + 88.09342060489222 cluster26_cluster37_0
+   + 88.09342060489222 cluster26_cluster37_1
+   + 88.09342060489222 cluster26_cluster37_2
+   + 385.3697101504013 cluster26_cluster38_0
+   + 385.3697101504013 cluster26_cluster38_1
+   + 385.3697101504013 cluster26_cluster38_2
+   + 187.644334252796 cluster26_cluster44_0
+   + 187.644334252796 cluster26_cluster44_1
+   + 187.644334252796 cluster26_cluster44_2
+   + 292807.6027150999 cluster26_cluster49_0
+   + 292807.6027150999 cluster26_cluster49_1
+   + 292807.6027150999 cluster26_cluster49_2
+   + 24.13611105494496 cluster27_cluster4_0
+   + 24.13611105494496 cluster27_cluster4_1
+   + 24.13611105494496 cluster27_cluster4_2
+   + 6333.75440668435 cluster27_cluster7_0
+   + 6333.75440668435 cluster27_cluster7_1
+   + 6333.75440668435 cluster27_cluster7_2
+   + 192339.2498659567 cluster27_cluster12_0
+   + 192339.2498659567 cluster27_cluster12_1
+   + 192339.2498659567 cluster27_cluster12_2
+   + 239.3339639436824 cluster27_cluster15_0
+   + 239.3339639436824 cluster27_cluster15_1
+   + 239.3339639436824 cluster27_cluster15_2
+   + 61.27189148986656 cluster27_cluster37_0
+   + 61.27189148986656 cluster27_cluster37_1
+   + 61.27189148986656 cluster27_cluster37_2
+   + 359.8784207424074 cluster27_cluster38_0
+   + 359.8784207424074 cluster27_cluster38_1
+   + 359.8784207424074 cluster27_cluster38_2
+   + 203.5182646325831 cluster27_cluster44_0
+   + 203.5182646325831 cluster27_cluster44_1
+   + 203.5182646325831 cluster27_cluster44_2
+   + 292642.8892337306 cluster27_cluster49_0
+   + 292642.8892337306 cluster27_cluster49_1
+   + 292642.8892337306 cluster27_cluster49_2
+   + 871.7827141113065 cluster28_cluster4_0
+   + 871.7827141113065 cluster28_cluster4_1
+   + 871.7827141113065 cluster28_cluster4_2
+   + 9445.285780122244 cluster28_cluster7_0
+   + 9445.285780122244 cluster28_cluster7_1
+   + 9445.285780122244 cluster28_cluster7_2
+   + 200711.3512147249 cluster28_cluster12_0
+   + 200711.3512147249 cluster28_cluster12_1
+   + 200711.3512147249 cluster28_cluster12_2
+   + 1994.765168742945 cluster28_cluster15_0
+   + 1994.765168742945 cluster28_cluster15_1
+   + 1994.765168742945 cluster28_cluster15_2
+   + 425.4718344132889 cluster28_cluster37_0
+   + 425.4718344132889 cluster28_cluster37_1
+   + 425.4718344132889 cluster28_cluster37_2
+   + 1079.884557862052 cluster28_cluster38_0
+   + 1079.884557862052 cluster28_cluster38_1
+   + 1079.884557862052 cluster28_cluster38_2
+   + 502.4026758854812 cluster28_cluster44_0
+   + 502.4026758854812 cluster28_cluster44_1
+   + 502.4026758854812 cluster28_cluster44_2
+   + 265783.1601870091 cluster28_cluster49_0
+   + 265783.1601870091 cluster28_cluster49_1
+   + 265783.1601870091 cluster28_cluster49_2
+   + 559.0421008042857 cluster29_cluster4_0
+   + 559.0421008042857 cluster29_cluster4_1
+   + 559.0421008042857 cluster29_cluster4_2
+   + 8355.644881535429 cluster29_cluster7_0
+   + 8355.644881535429 cluster29_cluster7_1
+   + 8355.644881535429 cluster29_cluster7_2
+   + 195562.661202279 cluster29_cluster12_0
+   + 195562.661202279 cluster29_cluster12_1
+   + 195562.661202279 cluster29_cluster12_2
+   + 1500.941095569809 cluster29_cluster15_0
+   + 1500.941095569809 cluster29_cluster15_1
+   + 1500.941095569809 cluster29_cluster15_2
+   + 214.5086858446048 cluster29_cluster37_0
+   + 214.5086858446048 cluster29_cluster37_1
+   + 214.5086858446048 cluster29_cluster37_2
+   + 737.5100987243142 cluster29_cluster38_0
+   + 737.5100987243142 cluster29_cluster38_1
+   + 737.5100987243142 cluster29_cluster38_2
+   + 273.2221713909521 cluster29_cluster44_0
+   + 273.2221713909521 cluster29_cluster44_1
+   + 273.2221713909521 cluster29_cluster44_2
+   + 271842.8332088424 cluster29_cluster49_0
+   + 271842.8332088424 cluster29_cluster49_1
+   + 271842.8332088424 cluster29_cluster49_2
+   + 17.46420839249291 cluster30_cluster4_0
+   + 17.46420839249291 cluster30_cluster4_1
+   + 17.46420839249291 cluster30_cluster4_2
+   + 5536.015885101165 cluster30_cluster7_0
+   + 5536.015885101165 cluster30_cluster7_1
+   + 5536.015885101165 cluster30_cluster7_2
+   + 186646.0292622968 cluster30_cluster12_0
+   + 186646.0292622968 cluster30_cluster12_1
+   + 186646.0292622968 cluster30_cluster12_2
+   + 403.104566291415 cluster30_cluster15_0
+   + 403.104566291415 cluster30_cluster15_1
+   + 403.104566291415 cluster30_cluster15_2
+   + 5.363526965339112 cluster30_cluster37_0
+   + 5.363526965339112 cluster30_cluster37_1
+   + 5.363526965339112 cluster30_cluster37_2
+   + 187.322939978876 cluster30_cluster38_0
+   + 187.322939978876 cluster30_cluster38_1
+   + 187.322939978876 cluster30_cluster38_2
+   + 50.8771890499462 cluster30_cluster44_0
+   + 50.8771890499462 cluster30_cluster44_1
+   + 50.8771890499462 cluster30_cluster44_2
+   + 292013.1643811419 cluster30_cluster49_0
+   + 292013.1643811419 cluster30_cluster49_1
+   + 292013.1643811419 cluster30_cluster49_2
+   + 39.1073286071564 cluster31_cluster4_0
+   + 39.1073286071564 cluster31_cluster4_1
+   + 39.1073286071564 cluster31_cluster4_2
+   + 6745.846729467108 cluster31_cluster7_0
+   + 6745.846729467108 cluster31_cluster7_1
+   + 6745.846729467108 cluster31_cluster7_2
+   + 194153.892382841 cluster31_cluster12_0
+   + 194153.892382841 cluster31_cluster12_1
+   + 194153.892382841 cluster31_cluster12_2
+   + 130.1405312722803 cluster31_cluster15_0
+   + 130.1405312722803 cluster31_cluster15_1
+   + 130.1405312722803 cluster31_cluster15_2
+   + 78.1423301769165 cluster31_cluster37_0
+   + 78.1423301769165 cluster31_cluster37_1
+   + 78.1423301769165 cluster31_cluster37_2
+   + 478.9443042827556 cluster31_cluster38_0
+   + 478.9443042827556 cluster31_cluster38_1
+   + 478.9443042827556 cluster31_cluster38_2
+   + 248.4930235522997 cluster31_cluster44_0
+   + 248.4930235522997 cluster31_cluster44_1
+   + 248.4930235522997 cluster31_cluster44_2
+   + 290345.6357284875 cluster31_cluster49_0
+   + 290345.6357284875 cluster31_cluster49_1
+   + 290345.6357284875 cluster31_cluster49_2
+   + 251.2972571875899 cluster32_cluster4_0
+   + 251.2972571875899 cluster32_cluster4_1
+   + 251.2972571875899 cluster32_cluster4_2
+   + 8368.242318885925 cluster32_cluster7_0
+   + 8368.242318885925 cluster32_cluster7_1
+   + 8368.242318885925 cluster32_cluster7_2
+   + 202802.4233423493 cluster32_cluster12_0
+   + 202802.4233423493 cluster32_cluster12_1
+   + 202802.4233423493 cluster32_cluster12_2
+   + 17.47851192874148 cluster32_cluster15_0
+   + 17.47851192874148 cluster32_cluster15_1
+   + 17.47851192874148 cluster32_cluster15_2
+   - 8.047104747681237 cluster32_cluster37_0
+   - 8.047104747681237 cluster32_cluster37_1
+   - 8.047104747681237 cluster32_cluster37_2
+   + 972.6119302690271 cluster32_cluster38_0
+   + 972.6119302690271 cluster32_cluster38_1
+   + 972.6119302690271 cluster32_cluster38_2
+   + 660.9730140474915 cluster32_cluster44_0
+   + 660.9730140474915 cluster32_cluster44_1
+   + 660.9730140474915 cluster32_cluster44_2
+   + 280697.6779081097 cluster32_cluster49_0
+   + 280697.6779081097 cluster32_cluster49_1
+   + 280697.6779081097 cluster32_cluster49_2
+   + 725.0273749741123 cluster33_cluster4_0
+   + 725.0273749741123 cluster33_cluster4_1
+   + 725.0273749741123 cluster33_cluster4_2
+   + 8933.032214034918 cluster33_cluster7_0
+   + 8933.032214034918 cluster33_cluster7_1
+   + 8933.032214034918 cluster33_cluster7_2
+   + 198333.5511107031 cluster33_cluster12_0
+   + 198333.5511107031 cluster33_cluster12_1
+   + 198333.5511107031 cluster33_cluster12_2
+   + 1786.064639766463 cluster33_cluster15_0
+   + 1786.064639766463 cluster33_cluster15_1
+   + 1786.064639766463 cluster33_cluster15_2
+   + 324.3446237177878 cluster33_cluster37_0
+   + 324.3446237177878 cluster33_cluster37_1
+   + 324.3446237177878 cluster33_cluster37_2
+   + 907.5767258437875 cluster33_cluster38_0
+   + 907.5767258437875 cluster33_cluster38_1
+   + 907.5767258437875 cluster33_cluster38_2
+   + 393.0600346362098 cluster33_cluster44_0
+   + 393.0600346362098 cluster33_cluster44_1
+   + 393.0600346362098 cluster33_cluster44_2
+   + 268500.6604147587 cluster33_cluster49_0
+   + 268500.6604147587 cluster33_cluster49_1
+   + 268500.6604147587 cluster33_cluster49_2
+   + 261.3380043086456 cluster34_cluster4_0
+   + 261.3380043086456 cluster34_cluster4_1
+   + 261.3380043086456 cluster34_cluster4_2
+   + 8394.941883684098 cluster34_cluster7_0
+   + 8394.941883684098 cluster34_cluster7_1
+   + 8394.941883684098 cluster34_cluster7_2
+   + 203028.8327049804 cluster34_cluster12_0
+   + 203028.8327049804 cluster34_cluster12_1
+   + 203028.8327049804 cluster34_cluster12_2
+   + 47.17986129048107 cluster34_cluster15_0
+   + 47.17986129048107 cluster34_cluster15_1
+   + 47.17986129048107 cluster34_cluster15_2
+   - 9.034959789798245 cluster34_cluster37_0
+   - 9.034959789798245 cluster34_cluster37_1
+   - 9.034959789798245 cluster34_cluster37_2
+   + 976.5703292159506 cluster34_cluster38_0
+   + 976.5703292159506 cluster34_cluster38_1
+   + 976.5703292159506 cluster34_cluster38_2
+   + 680.8932345545508 cluster34_cluster44_0
+   + 680.8932345545508 cluster34_cluster44_1
+   + 680.8932345545508 cluster34_cluster44_2
+   + 280498.3109274434 cluster34_cluster49_0
+   + 280498.3109274434 cluster34_cluster49_1
+   + 280498.3109274434 cluster34_cluster49_2
+   + 412.3509408810498 cluster35_cluster4_0
+   + 412.3509408810498 cluster35_cluster4_1
+   + 412.3509408810498 cluster35_cluster4_2
+   + 9210.365663674174 cluster35_cluster7_0
+   + 9210.365663674174 cluster35_cluster7_1
+   + 9210.365663674174 cluster35_cluster7_2
+   + 206710.9400848825 cluster35_cluster12_0
+   + 206710.9400848825 cluster35_cluster12_1
+   + 206710.9400848825 cluster35_cluster12_2
+   + 26.85269922178474 cluster35_cluster15_0
+   + 26.85269922178474 cluster35_cluster15_1
+   + 26.85269922178474 cluster35_cluster15_2
+   - 2.735549020245632 cluster35_cluster37_0
+   - 2.735549020245632 cluster35_cluster37_1
+   - 2.735549020245632 cluster35_cluster37_2
+   + 1277.102478220383 cluster35_cluster38_0
+   + 1277.102478220383 cluster35_cluster38_1
+   + 1277.102478220383 cluster35_cluster38_2
+   + 892.5862341833782 cluster35_cluster44_0
+   + 892.5862341833782 cluster35_cluster44_1
+   + 892.5862341833782 cluster35_cluster44_2
+   + 275888.2747712641 cluster35_cluster49_0
+   + 275888.2747712641 cluster35_cluster49_1
+   + 275888.2747712641 cluster35_cluster49_2
+   + 110.7842752496239 cluster36_cluster4_0
+   + 110.7842752496239 cluster36_cluster4_1
+   + 110.7842752496239 cluster36_cluster4_2
+   + 6126.883452141235 cluster36_cluster7_0
+   + 6126.883452141235 cluster36_cluster7_1
+   + 6126.883452141235 cluster36_cluster7_2
+   + 184097.4739153268 cluster36_cluster12_0
+   + 184097.4739153268 cluster36_cluster12_1
+   + 184097.4739153268 cluster36_cluster12_2
+   + 688.6876883312174 cluster36_cluster15_0
+   + 688.6876883312174 cluster36_cluster15_1
+   + 688.6876883312174 cluster36_cluster15_2
+   - 6.840506888532287 cluster36_cluster37_0
+   - 6.840506888532287 cluster36_cluster37_1
+   - 6.840506888532287 cluster36_cluster37_2
+   + 198.6330503127282 cluster36_cluster38_0
+   + 198.6330503127282 cluster36_cluster38_1
+   + 198.6330503127282 cluster36_cluster38_2
+   + 12.06082461007477 cluster36_cluster44_0
+   + 12.06082461007477 cluster36_cluster44_1
+   + 12.06082461007477 cluster36_cluster44_2
+   + 285667.2615750409 cluster36_cluster49_0
+   + 285667.2615750409 cluster36_cluster49_1
+   + 285667.2615750409 cluster36_cluster49_2
+   + 370.673727264065 cluster39_cluster4_0
+   + 370.673727264065 cluster39_cluster4_1
+   + 370.673727264065 cluster39_cluster4_2
+   + 7581.895077578487 cluster39_cluster7_0
+   + 7581.895077578487 cluster39_cluster7_1
+   + 7581.895077578487 cluster39_cluster7_2
+   + 191748.7749205173 cluster39_cluster12_0
+   + 191748.7749205173 cluster39_cluster12_1
+   + 191748.7749205173 cluster39_cluster12_2
+   + 1185.012491243455 cluster39_cluster15_0
+   + 1185.012491243455 cluster39_cluster15_1
+   + 1185.012491243455 cluster39_cluster15_2
+   + 102.3617245068301 cluster39_cluster37_0
+   + 102.3617245068301 cluster39_cluster37_1
+   + 102.3617245068301 cluster39_cluster37_2
+   + 523.0594328018486 cluster39_cluster38_0
+   + 523.0594328018486 cluster39_cluster38_1
+   + 523.0594328018486 cluster39_cluster38_2
+   + 146.9269851307909 cluster39_cluster44_0
+   + 146.9269851307909 cluster39_cluster44_1
+   + 146.9269851307909 cluster39_cluster44_2
+   + 276417.7004743578 cluster39_cluster49_0
+   + 276417.7004743578 cluster39_cluster49_1
+   + 276417.7004743578 cluster39_cluster49_2
+   + 197.6636582932829 cluster40_cluster4_0
+   + 197.6636582932829 cluster40_cluster4_1
+   + 197.6636582932829 cluster40_cluster4_2
+   + 8055.596590669987 cluster40_cluster7_0
+   + 8055.596590669987 cluster40_cluster7_1
+   + 8055.596590669987 cluster40_cluster7_2
+   + 201188.4538986578 cluster40_cluster12_0
+   + 201188.4538986578 cluster40_cluster12_1
+   + 201188.4538986578 cluster40_cluster12_2
+   + 15.09678082744027 cluster40_cluster15_0
+   + 15.09678082744027 cluster40_cluster15_1
+   + 15.09678082744027 cluster40_cluster15_2
+   + 0.7697546317806143 cluster40_cluster37_0
+   + 0.7697546317806143 cluster40_cluster37_1
+   + 0.7697546317806143 cluster40_cluster37_2
+   + 869.4673505339889 cluster40_cluster38_0
+   + 869.4673505339889 cluster40_cluster38_1
+   + 869.4673505339889 cluster40_cluster38_2
+   + 568.8444207665069 cluster40_cluster44_0
+   + 568.8444207665069 cluster40_cluster44_1
+   + 568.8444207665069 cluster40_cluster44_2
+   + 282516.7658885331 cluster40_cluster49_0
+   + 282516.7658885331 cluster40_cluster49_1
+   + 282516.7658885331 cluster40_cluster49_2
+   + 45.1043293670682 cluster41_cluster4_0
+   + 45.1043293670682 cluster41_cluster4_1
+   + 45.1043293670682 cluster41_cluster4_2
+   + 6578.710684961728 cluster41_cluster7_0
+   + 6578.710684961728 cluster41_cluster7_1
+   + 6578.710684961728 cluster41_cluster7_2
+   + 192134.7699346999 cluster41_cluster12_0
+   + 192134.7699346999 cluster41_cluster12_1
+   + 192134.7699346999 cluster41_cluster12_2
+   + 237.1497926268165 cluster41_cluster15_0
+   + 237.1497926268165 cluster41_cluster15_1
+   + 237.1497926268165 cluster41_cluster15_2
+   + 15.85331359875118 cluster41_cluster37_0
+   + 15.85331359875118 cluster41_cluster37_1
+   + 15.85331359875118 cluster41_cluster37_2
+   + 422.3339539834533 cluster41_cluster38_0
+   + 422.3339539834533 cluster41_cluster38_1
+   + 422.3339539834533 cluster41_cluster38_2
+   + 167.8423732845296 cluster41_cluster44_0
+   + 167.8423732845296 cluster41_cluster44_1
+   + 167.8423732845296 cluster41_cluster44_2
+   + 289263.5107762479 cluster41_cluster49_0
+   + 289263.5107762479 cluster41_cluster49_1
+   + 289263.5107762479 cluster41_cluster49_2
+   + 46.07815013301431 cluster42_cluster4_0
+   + 46.07815013301431 cluster42_cluster4_1
+   + 46.07815013301431 cluster42_cluster4_2
+   + 6106.493284768181 cluster42_cluster7_0
+   + 6106.493284768181 cluster42_cluster7_1
+   + 6106.493284768181 cluster42_cluster7_2
+   + 188074.8641372824 cluster42_cluster12_0
+   + 188074.8641372824 cluster42_cluster12_1
+   + 188074.8641372824 cluster42_cluster12_2
+   + 411.5831334676141 cluster42_cluster15_0
+   + 411.5831334676141 cluster42_cluster15_1
+   + 411.5831334676141 cluster42_cluster15_2
+   - 5.041218682934092 cluster42_cluster37_0
+   - 5.041218682934092 cluster42_cluster37_1
+   - 5.041218682934092 cluster42_cluster37_2
+   + 281.2690521081951 cluster42_cluster38_0
+   + 281.2690521081951 cluster42_cluster38_1
+   + 281.2690521081951 cluster42_cluster38_2
+   + 62.7277475821951 cluster42_cluster44_0
+   + 62.7277475821951 cluster42_cluster44_1
+   + 62.7277475821951 cluster42_cluster44_2
+   + 289110.9524346971 cluster42_cluster49_0
+   + 289110.9524346971 cluster42_cluster49_1
+   + 289110.9524346971 cluster42_cluster49_2
+   + 18.33256984444833 cluster43_cluster4_0
+   + 18.33256984444833 cluster43_cluster4_1
+   + 18.33256984444833 cluster43_cluster4_2
+   + 5941.853360830626 cluster43_cluster7_0
+   + 5941.853360830626 cluster43_cluster7_1
+   + 5941.853360830626 cluster43_cluster7_2
+   + 190018.1137129476 cluster43_cluster12_0
+   + 190018.1137129476 cluster43_cluster12_1
+   + 190018.1137129476 cluster43_cluster12_2
+   + 334.2070999691355 cluster43_cluster15_0
+   + 334.2070999691355 cluster43_cluster15_1
+   + 334.2070999691355 cluster43_cluster15_2
+   + 27.36819265108925 cluster43_cluster37_0
+   + 27.36819265108925 cluster43_cluster37_1
+   + 27.36819265108925 cluster43_cluster37_2
+   + 261.6466048194719 cluster43_cluster38_0
+   + 261.6466048194719 cluster43_cluster38_1
+   + 261.6466048194719 cluster43_cluster38_2
+   + 137.5599163763167 cluster43_cluster44_0
+   + 137.5599163763167 cluster43_cluster44_1
+   + 137.5599163763167 cluster43_cluster44_2
+   + 293198.8742347012 cluster43_cluster49_0
+   + 293198.8742347012 cluster43_cluster49_1
+   + 293198.8742347012 cluster43_cluster49_2
+   + 25.72322198327475 cluster45_cluster4_0
+   + 25.72322198327475 cluster45_cluster4_1
+   + 25.72322198327475 cluster45_cluster4_2
+   + 6511.85745440368 cluster45_cluster7_0
+   + 6511.85745440368 cluster45_cluster7_1
+   + 6511.85745440368 cluster45_cluster7_2
+   + 192600.0360929753 cluster45_cluster12_0
+   + 192600.0360929753 cluster45_cluster12_1
+   + 192600.0360929753 cluster45_cluster12_2
+   + 180.097778823455 cluster45_cluster15_0
+   + 180.097778823455 cluster45_cluster15_1
+   + 180.097778823455 cluster45_cluster15_2
+   + 56.92460220503424 cluster45_cluster37_0
+   + 56.92460220503424 cluster45_cluster37_1
+   + 56.92460220503424 cluster45_cluster37_2
+   + 416.1557092014981 cluster45_cluster38_0
+   + 416.1557092014981 cluster45_cluster38_1
+   + 416.1557092014981 cluster45_cluster38_2
+   + 191.7445853691613 cluster45_cluster44_0
+   + 191.7445853691613 cluster45_cluster44_1
+   + 191.7445853691613 cluster45_cluster44_2
+   + 291221.1437369983 cluster45_cluster49_0
+   + 291221.1437369983 cluster45_cluster49_1
+   + 291221.1437369983 cluster45_cluster49_2
+   + 455.3099301486916 cluster46_cluster4_0
+   + 455.3099301486916 cluster46_cluster4_1
+   + 455.3099301486916 cluster46_cluster4_2
+   + 9404.634497800274 cluster46_cluster7_0
+   + 9404.634497800274 cluster46_cluster7_1
+   + 9404.634497800274 cluster46_cluster7_2
+   + 207697.7320038917 cluster46_cluster12_0
+   + 207697.7320038917 cluster46_cluster12_1
+   + 207697.7320038917 cluster46_cluster12_2
+   + 42.47085496880244 cluster46_cluster15_0
+   + 42.47085496880244 cluster46_cluster15_1
+   + 42.47085496880244 cluster46_cluster15_2
+   + 3.560096439182921 cluster46_cluster37_0
+   + 3.560096439182921 cluster46_cluster37_1
+   + 3.560096439182921 cluster46_cluster37_2
+   + 1349.02050311207 cluster46_cluster38_0
+   + 1349.02050311207 cluster46_cluster38_1
+   + 1349.02050311207 cluster46_cluster38_2
+   + 962.2006165488974 cluster46_cluster44_0
+   + 962.2006165488974 cluster46_cluster44_1
+   + 962.2006165488974 cluster46_cluster44_2
+   + 274865.2933235326 cluster46_cluster49_0
+   + 274865.2933235326 cluster46_cluster49_1
+   + 274865.2933235326 cluster46_cluster49_2
+   + 82.5290463201468 cluster47_cluster4_0
+   + 82.5290463201468 cluster47_cluster4_1
+   + 82.5290463201468 cluster47_cluster4_2
+   + 6167.123151860776 cluster47_cluster7_0
+   + 6167.123151860776 cluster47_cluster7_1
+   + 6167.123151860776 cluster47_cluster7_2
+   + 186400.7744697894 cluster47_cluster12_0
+   + 186400.7744697894 cluster47_cluster12_1
+   + 186400.7744697894 cluster47_cluster12_2
+   + 553.0599306650636 cluster47_cluster15_0
+   + 553.0599306650636 cluster47_cluster15_1
+   + 553.0599306650636 cluster47_cluster15_2
+   - 10.90605482646317 cluster47_cluster37_0
+   - 10.90605482646317 cluster47_cluster37_1
+   - 10.90605482646317 cluster47_cluster37_2
+   + 256.0559324493222 cluster47_cluster38_0
+   + 256.0559324493222 cluster47_cluster38_1
+   + 256.0559324493222 cluster47_cluster38_2
+   + 28.93226964707235 cluster47_cluster44_0
+   + 28.93226964707235 cluster47_cluster44_1
+   + 28.93226964707235 cluster47_cluster44_2
+   + 286858.291669699 cluster47_cluster49_0
+   + 286858.291669699 cluster47_cluster49_1
+   + 286858.291669699 cluster47_cluster49_2
+   + 138.008389222275 cluster48_cluster4_0
+   + 138.008389222275 cluster48_cluster4_1
+   + 138.008389222275 cluster48_cluster4_2
+   + 7657.013744761368 cluster48_cluster7_0
+   + 7657.013744761368 cluster48_cluster7_1
+   + 7657.013744761368 cluster48_cluster7_2
+   + 199099.077906587 cluster48_cluster12_0
+   + 199099.077906587 cluster48_cluster12_1
+   + 199099.077906587 cluster48_cluster12_2
+   + 32.6137460004089 cluster48_cluster15_0
+   + 32.6137460004089 cluster48_cluster15_1
+   + 32.6137460004089 cluster48_cluster15_2
+   + 20.00550227401876 cluster48_cluster37_0
+   + 20.00550227401876 cluster48_cluster37_1
+   + 20.00550227401876 cluster48_cluster37_2
+   + 742.8371627444378 cluster48_cluster38_0
+   + 742.8371627444378 cluster48_cluster38_1
+   + 742.8371627444378 cluster48_cluster38_2
+   + 460.1296581935734 cluster48_cluster44_0
+   + 460.1296581935734 cluster48_cluster44_1
+   + 460.1296581935734 cluster48_cluster44_2
+   + 284868.3686391329 cluster48_cluster49_0
+   + 284868.3686391329 cluster48_cluster49_1
+   + 284868.3686391329 cluster48_cluster49_2 + [
+   2 cluster0_cluster4_0 * avg_reward4_0
+   + 2 cluster0_cluster4_1 * avg_reward4_1
+   + 2 cluster0_cluster4_2 * avg_reward4_2
+   + 2 cluster0_cluster7_0 * avg_reward7_0
+   + 2 cluster0_cluster7_1 * avg_reward7_1
+   + 2 cluster0_cluster7_2 * avg_reward7_2
+   + 2 cluster0_cluster12_0 * avg_reward12_0
+   + 2 cluster0_cluster12_1 * avg_reward12_1
+   + 2 cluster0_cluster12_2 * avg_reward12_2
+   + 2 cluster0_cluster15_0 * avg_reward15_0
+   + 2 cluster0_cluster15_1 * avg_reward15_1
+   + 2 cluster0_cluster15_2 * avg_reward15_2
+   + 2 cluster0_cluster37_0 * avg_reward37_0
+   + 2 cluster0_cluster37_1 * avg_reward37_1
+   + 2 cluster0_cluster37_2 * avg_reward37_2
+   + 2 cluster0_cluster38_0 * avg_reward38_0
+   + 2 cluster0_cluster38_1 * avg_reward38_1
+   + 2 cluster0_cluster38_2 * avg_reward38_2
+   + 2 cluster0_cluster44_0 * avg_reward44_0
+   + 2 cluster0_cluster44_1 * avg_reward44_1
+   + 2 cluster0_cluster44_2 * avg_reward44_2
+   + 2 cluster0_cluster49_0 * avg_reward49_0
+   + 2 cluster0_cluster49_1 * avg_reward49_1
+   + 2 cluster0_cluster49_2 * avg_reward49_2
+   + 2 cluster1_cluster4_0 * avg_reward4_0
+   + 2 cluster1_cluster4_1 * avg_reward4_1
+   + 2 cluster1_cluster4_2 * avg_reward4_2
+   + 2 cluster1_cluster7_0 * avg_reward7_0
+   + 2 cluster1_cluster7_1 * avg_reward7_1
+   + 2 cluster1_cluster7_2 * avg_reward7_2
+   + 2 cluster1_cluster12_0 * avg_reward12_0
+   + 2 cluster1_cluster12_1 * avg_reward12_1
+   + 2 cluster1_cluster12_2 * avg_reward12_2
+   + 2 cluster1_cluster15_0 * avg_reward15_0
+   + 2 cluster1_cluster15_1 * avg_reward15_1
+   + 2 cluster1_cluster15_2 * avg_reward15_2
+   + 2 cluster1_cluster37_0 * avg_reward37_0
+   + 2 cluster1_cluster37_1 * avg_reward37_1
+   + 2 cluster1_cluster37_2 * avg_reward37_2
+   + 2 cluster1_cluster38_0 * avg_reward38_0
+   + 2 cluster1_cluster38_1 * avg_reward38_1
+   + 2 cluster1_cluster38_2 * avg_reward38_2
+   + 2 cluster1_cluster44_0 * avg_reward44_0
+   + 2 cluster1_cluster44_1 * avg_reward44_1
+   + 2 cluster1_cluster44_2 * avg_reward44_2
+   + 2 cluster1_cluster49_0 * avg_reward49_0
+   + 2 cluster1_cluster49_1 * avg_reward49_1
+   + 2 cluster1_cluster49_2 * avg_reward49_2
+   + 2 cluster2_cluster4_0 * avg_reward4_0
+   + 2 cluster2_cluster4_1 * avg_reward4_1
+   + 2 cluster2_cluster4_2 * avg_reward4_2
+   + 2 cluster2_cluster7_0 * avg_reward7_0
+   + 2 cluster2_cluster7_1 * avg_reward7_1
+   + 2 cluster2_cluster7_2 * avg_reward7_2
+   + 2 cluster2_cluster12_0 * avg_reward12_0
+   + 2 cluster2_cluster12_1 * avg_reward12_1
+   + 2 cluster2_cluster12_2 * avg_reward12_2
+   + 2 cluster2_cluster15_0 * avg_reward15_0
+   + 2 cluster2_cluster15_1 * avg_reward15_1
+   + 2 cluster2_cluster15_2 * avg_reward15_2
+   + 2 cluster2_cluster37_0 * avg_reward37_0
+   + 2 cluster2_cluster37_1 * avg_reward37_1
+   + 2 cluster2_cluster37_2 * avg_reward37_2
+   + 2 cluster2_cluster38_0 * avg_reward38_0
+   + 2 cluster2_cluster38_1 * avg_reward38_1
+   + 2 cluster2_cluster38_2 * avg_reward38_2
+   + 2 cluster2_cluster44_0 * avg_reward44_0
+   + 2 cluster2_cluster44_1 * avg_reward44_1
+   + 2 cluster2_cluster44_2 * avg_reward44_2
+   + 2 cluster2_cluster49_0 * avg_reward49_0
+   + 2 cluster2_cluster49_1 * avg_reward49_1
+   + 2 cluster2_cluster49_2 * avg_reward49_2
+   + 2 cluster3_cluster4_0 * avg_reward4_0
+   + 2 cluster3_cluster4_1 * avg_reward4_1
+   + 2 cluster3_cluster4_2 * avg_reward4_2
+   + 2 cluster3_cluster7_0 * avg_reward7_0
+   + 2 cluster3_cluster7_1 * avg_reward7_1
+   + 2 cluster3_cluster7_2 * avg_reward7_2
+   + 2 cluster3_cluster12_0 * avg_reward12_0
+   + 2 cluster3_cluster12_1 * avg_reward12_1
+   + 2 cluster3_cluster12_2 * avg_reward12_2
+   + 2 cluster3_cluster15_0 * avg_reward15_0
+   + 2 cluster3_cluster15_1 * avg_reward15_1
+   + 2 cluster3_cluster15_2 * avg_reward15_2
+   + 2 cluster3_cluster37_0 * avg_reward37_0
+   + 2 cluster3_cluster37_1 * avg_reward37_1
+   + 2 cluster3_cluster37_2 * avg_reward37_2
+   + 2 cluster3_cluster38_0 * avg_reward38_0
+   + 2 cluster3_cluster38_1 * avg_reward38_1
+   + 2 cluster3_cluster38_2 * avg_reward38_2
+   + 2 cluster3_cluster44_0 * avg_reward44_0
+   + 2 cluster3_cluster44_1 * avg_reward44_1
+   + 2 cluster3_cluster44_2 * avg_reward44_2
+   + 2 cluster3_cluster49_0 * avg_reward49_0
+   + 2 cluster3_cluster49_1 * avg_reward49_1
+   + 2 cluster3_cluster49_2 * avg_reward49_2
+   + 2 cluster5_cluster4_0 * avg_reward4_0
+   + 2 cluster5_cluster4_1 * avg_reward4_1
+   + 2 cluster5_cluster4_2 * avg_reward4_2
+   + 2 cluster5_cluster7_0 * avg_reward7_0
+   + 2 cluster5_cluster7_1 * avg_reward7_1
+   + 2 cluster5_cluster7_2 * avg_reward7_2
+   + 2 cluster5_cluster12_0 * avg_reward12_0
+   + 2 cluster5_cluster12_1 * avg_reward12_1
+   + 2 cluster5_cluster12_2 * avg_reward12_2
+   + 2 cluster5_cluster15_0 * avg_reward15_0
+   + 2 cluster5_cluster15_1 * avg_reward15_1
+   + 2 cluster5_cluster15_2 * avg_reward15_2
+   + 2 cluster5_cluster37_0 * avg_reward37_0
+   + 2 cluster5_cluster37_1 * avg_reward37_1
+   + 2 cluster5_cluster37_2 * avg_reward37_2
+   + 2 cluster5_cluster38_0 * avg_reward38_0
+   + 2 cluster5_cluster38_1 * avg_reward38_1
+   + 2 cluster5_cluster38_2 * avg_reward38_2
+   + 2 cluster5_cluster44_0 * avg_reward44_0
+   + 2 cluster5_cluster44_1 * avg_reward44_1
+   + 2 cluster5_cluster44_2 * avg_reward44_2
+   + 2 cluster5_cluster49_0 * avg_reward49_0
+   + 2 cluster5_cluster49_1 * avg_reward49_1
+   + 2 cluster5_cluster49_2 * avg_reward49_2
+   + 2 cluster6_cluster4_0 * avg_reward4_0
+   + 2 cluster6_cluster4_1 * avg_reward4_1
+   + 2 cluster6_cluster4_2 * avg_reward4_2
+   + 2 cluster6_cluster7_0 * avg_reward7_0
+   + 2 cluster6_cluster7_1 * avg_reward7_1
+   + 2 cluster6_cluster7_2 * avg_reward7_2
+   + 2 cluster6_cluster12_0 * avg_reward12_0
+   + 2 cluster6_cluster12_1 * avg_reward12_1
+   + 2 cluster6_cluster12_2 * avg_reward12_2
+   + 2 cluster6_cluster15_0 * avg_reward15_0
+   + 2 cluster6_cluster15_1 * avg_reward15_1
+   + 2 cluster6_cluster15_2 * avg_reward15_2
+   + 2 cluster6_cluster37_0 * avg_reward37_0
+   + 2 cluster6_cluster37_1 * avg_reward37_1
+   + 2 cluster6_cluster37_2 * avg_reward37_2
+   + 2 cluster6_cluster38_0 * avg_reward38_0
+   + 2 cluster6_cluster38_1 * avg_reward38_1
+   + 2 cluster6_cluster38_2 * avg_reward38_2
+   + 2 cluster6_cluster44_0 * avg_reward44_0
+   + 2 cluster6_cluster44_1 * avg_reward44_1
+   + 2 cluster6_cluster44_2 * avg_reward44_2
+   + 2 cluster6_cluster49_0 * avg_reward49_0
+   + 2 cluster6_cluster49_1 * avg_reward49_1
+   + 2 cluster6_cluster49_2 * avg_reward49_2
+   + 2 cluster8_cluster4_0 * avg_reward4_0
+   + 2 cluster8_cluster4_1 * avg_reward4_1
+   + 2 cluster8_cluster4_2 * avg_reward4_2
+   + 2 cluster8_cluster7_0 * avg_reward7_0
+   + 2 cluster8_cluster7_1 * avg_reward7_1
+   + 2 cluster8_cluster7_2 * avg_reward7_2
+   + 2 cluster8_cluster12_0 * avg_reward12_0
+   + 2 cluster8_cluster12_1 * avg_reward12_1
+   + 2 cluster8_cluster12_2 * avg_reward12_2
+   + 2 cluster8_cluster15_0 * avg_reward15_0
+   + 2 cluster8_cluster15_1 * avg_reward15_1
+   + 2 cluster8_cluster15_2 * avg_reward15_2
+   + 2 cluster8_cluster37_0 * avg_reward37_0
+   + 2 cluster8_cluster37_1 * avg_reward37_1
+   + 2 cluster8_cluster37_2 * avg_reward37_2
+   + 2 cluster8_cluster38_0 * avg_reward38_0
+   + 2 cluster8_cluster38_1 * avg_reward38_1
+   + 2 cluster8_cluster38_2 * avg_reward38_2
+   + 2 cluster8_cluster44_0 * avg_reward44_0
+   + 2 cluster8_cluster44_1 * avg_reward44_1
+   + 2 cluster8_cluster44_2 * avg_reward44_2
+   + 2 cluster8_cluster49_0 * avg_reward49_0
+   + 2 cluster8_cluster49_1 * avg_reward49_1
+   + 2 cluster8_cluster49_2 * avg_reward49_2
+   + 2 cluster9_cluster4_0 * avg_reward4_0
+   + 2 cluster9_cluster4_1 * avg_reward4_1
+   + 2 cluster9_cluster4_2 * avg_reward4_2
+   + 2 cluster9_cluster7_0 * avg_reward7_0
+   + 2 cluster9_cluster7_1 * avg_reward7_1
+   + 2 cluster9_cluster7_2 * avg_reward7_2
+   + 2 cluster9_cluster12_0 * avg_reward12_0
+   + 2 cluster9_cluster12_1 * avg_reward12_1
+   + 2 cluster9_cluster12_2 * avg_reward12_2
+   + 2 cluster9_cluster15_0 * avg_reward15_0
+   + 2 cluster9_cluster15_1 * avg_reward15_1
+   + 2 cluster9_cluster15_2 * avg_reward15_2
+   + 2 cluster9_cluster37_0 * avg_reward37_0
+   + 2 cluster9_cluster37_1 * avg_reward37_1
+   + 2 cluster9_cluster37_2 * avg_reward37_2
+   + 2 cluster9_cluster38_0 * avg_reward38_0
+   + 2 cluster9_cluster38_1 * avg_reward38_1
+   + 2 cluster9_cluster38_2 * avg_reward38_2
+   + 2 cluster9_cluster44_0 * avg_reward44_0
+   + 2 cluster9_cluster44_1 * avg_reward44_1
+   + 2 cluster9_cluster44_2 * avg_reward44_2
+   + 2 cluster9_cluster49_0 * avg_reward49_0
+   + 2 cluster9_cluster49_1 * avg_reward49_1
+   + 2 cluster9_cluster49_2 * avg_reward49_2
+   + 2 cluster10_cluster4_0 * avg_reward4_0
+   + 2 cluster10_cluster4_1 * avg_reward4_1
+   + 2 cluster10_cluster4_2 * avg_reward4_2
+   + 2 cluster10_cluster7_0 * avg_reward7_0
+   + 2 cluster10_cluster7_1 * avg_reward7_1
+   + 2 cluster10_cluster7_2 * avg_reward7_2
+   + 2 cluster10_cluster12_0 * avg_reward12_0
+   + 2 cluster10_cluster12_1 * avg_reward12_1
+   + 2 cluster10_cluster12_2 * avg_reward12_2
+   + 2 cluster10_cluster15_0 * avg_reward15_0
+   + 2 cluster10_cluster15_1 * avg_reward15_1
+   + 2 cluster10_cluster15_2 * avg_reward15_2
+   + 2 cluster10_cluster37_0 * avg_reward37_0
+   + 2 cluster10_cluster37_1 * avg_reward37_1
+   + 2 cluster10_cluster37_2 * avg_reward37_2
+   + 2 cluster10_cluster38_0 * avg_reward38_0
+   + 2 cluster10_cluster38_1 * avg_reward38_1
+   + 2 cluster10_cluster38_2 * avg_reward38_2
+   + 2 cluster10_cluster44_0 * avg_reward44_0
+   + 2 cluster10_cluster44_1 * avg_reward44_1
+   + 2 cluster10_cluster44_2 * avg_reward44_2
+   + 2 cluster10_cluster49_0 * avg_reward49_0
+   + 2 cluster10_cluster49_1 * avg_reward49_1
+   + 2 cluster10_cluster49_2 * avg_reward49_2
+   + 2 cluster11_cluster4_0 * avg_reward4_0
+   + 2 cluster11_cluster4_1 * avg_reward4_1
+   + 2 cluster11_cluster4_2 * avg_reward4_2
+   + 2 cluster11_cluster7_0 * avg_reward7_0
+   + 2 cluster11_cluster7_1 * avg_reward7_1
+   + 2 cluster11_cluster7_2 * avg_reward7_2
+   + 2 cluster11_cluster12_0 * avg_reward12_0
+   + 2 cluster11_cluster12_1 * avg_reward12_1
+   + 2 cluster11_cluster12_2 * avg_reward12_2
+   + 2 cluster11_cluster15_0 * avg_reward15_0
+   + 2 cluster11_cluster15_1 * avg_reward15_1
+   + 2 cluster11_cluster15_2 * avg_reward15_2
+   + 2 cluster11_cluster37_0 * avg_reward37_0
+   + 2 cluster11_cluster37_1 * avg_reward37_1
+   + 2 cluster11_cluster37_2 * avg_reward37_2
+   + 2 cluster11_cluster38_0 * avg_reward38_0
+   + 2 cluster11_cluster38_1 * avg_reward38_1
+   + 2 cluster11_cluster38_2 * avg_reward38_2
+   + 2 cluster11_cluster44_0 * avg_reward44_0
+   + 2 cluster11_cluster44_1 * avg_reward44_1
+   + 2 cluster11_cluster44_2 * avg_reward44_2
+   + 2 cluster11_cluster49_0 * avg_reward49_0
+   + 2 cluster11_cluster49_1 * avg_reward49_1
+   + 2 cluster11_cluster49_2 * avg_reward49_2
+   + 2 cluster13_cluster4_0 * avg_reward4_0
+   + 2 cluster13_cluster4_1 * avg_reward4_1
+   + 2 cluster13_cluster4_2 * avg_reward4_2
+   + 2 cluster13_cluster7_0 * avg_reward7_0
+   + 2 cluster13_cluster7_1 * avg_reward7_1
+   + 2 cluster13_cluster7_2 * avg_reward7_2
+   + 2 cluster13_cluster12_0 * avg_reward12_0
+   + 2 cluster13_cluster12_1 * avg_reward12_1
+   + 2 cluster13_cluster12_2 * avg_reward12_2
+   + 2 cluster13_cluster15_0 * avg_reward15_0
+   + 2 cluster13_cluster15_1 * avg_reward15_1
+   + 2 cluster13_cluster15_2 * avg_reward15_2
+   + 2 cluster13_cluster37_0 * avg_reward37_0
+   + 2 cluster13_cluster37_1 * avg_reward37_1
+   + 2 cluster13_cluster37_2 * avg_reward37_2
+   + 2 cluster13_cluster38_0 * avg_reward38_0
+   + 2 cluster13_cluster38_1 * avg_reward38_1
+   + 2 cluster13_cluster38_2 * avg_reward38_2
+   + 2 cluster13_cluster44_0 * avg_reward44_0
+   + 2 cluster13_cluster44_1 * avg_reward44_1
+   + 2 cluster13_cluster44_2 * avg_reward44_2
+   + 2 cluster13_cluster49_0 * avg_reward49_0
+   + 2 cluster13_cluster49_1 * avg_reward49_1
+   + 2 cluster13_cluster49_2 * avg_reward49_2
+   + 2 cluster14_cluster4_0 * avg_reward4_0
+   + 2 cluster14_cluster4_1 * avg_reward4_1
+   + 2 cluster14_cluster4_2 * avg_reward4_2
+   + 2 cluster14_cluster7_0 * avg_reward7_0
+   + 2 cluster14_cluster7_1 * avg_reward7_1
+   + 2 cluster14_cluster7_2 * avg_reward7_2
+   + 2 cluster14_cluster12_0 * avg_reward12_0
+   + 2 cluster14_cluster12_1 * avg_reward12_1
+   + 2 cluster14_cluster12_2 * avg_reward12_2
+   + 2 cluster14_cluster15_0 * avg_reward15_0
+   + 2 cluster14_cluster15_1 * avg_reward15_1
+   + 2 cluster14_cluster15_2 * avg_reward15_2
+   + 2 cluster14_cluster37_0 * avg_reward37_0
+   + 2 cluster14_cluster37_1 * avg_reward37_1
+   + 2 cluster14_cluster37_2 * avg_reward37_2
+   + 2 cluster14_cluster38_0 * avg_reward38_0
+   + 2 cluster14_cluster38_1 * avg_reward38_1
+   + 2 cluster14_cluster38_2 * avg_reward38_2
+   + 2 cluster14_cluster44_0 * avg_reward44_0
+   + 2 cluster14_cluster44_1 * avg_reward44_1
+   + 2 cluster14_cluster44_2 * avg_reward44_2
+   + 2 cluster14_cluster49_0 * avg_reward49_0
+   + 2 cluster14_cluster49_1 * avg_reward49_1
+   + 2 cluster14_cluster49_2 * avg_reward49_2
+   + 2 cluster16_cluster4_0 * avg_reward4_0
+   + 2 cluster16_cluster4_1 * avg_reward4_1
+   + 2 cluster16_cluster4_2 * avg_reward4_2
+   + 2 cluster16_cluster7_0 * avg_reward7_0
+   + 2 cluster16_cluster7_1 * avg_reward7_1
+   + 2 cluster16_cluster7_2 * avg_reward7_2
+   + 2 cluster16_cluster12_0 * avg_reward12_0
+   + 2 cluster16_cluster12_1 * avg_reward12_1
+   + 2 cluster16_cluster12_2 * avg_reward12_2
+   + 2 cluster16_cluster15_0 * avg_reward15_0
+   + 2 cluster16_cluster15_1 * avg_reward15_1
+   + 2 cluster16_cluster15_2 * avg_reward15_2
+   + 2 cluster16_cluster37_0 * avg_reward37_0
+   + 2 cluster16_cluster37_1 * avg_reward37_1
+   + 2 cluster16_cluster37_2 * avg_reward37_2
+   + 2 cluster16_cluster38_0 * avg_reward38_0
+   + 2 cluster16_cluster38_1 * avg_reward38_1
+   + 2 cluster16_cluster38_2 * avg_reward38_2
+   + 2 cluster16_cluster44_0 * avg_reward44_0
+   + 2 cluster16_cluster44_1 * avg_reward44_1
+   + 2 cluster16_cluster44_2 * avg_reward44_2
+   + 2 cluster16_cluster49_0 * avg_reward49_0
+   + 2 cluster16_cluster49_1 * avg_reward49_1
+   + 2 cluster16_cluster49_2 * avg_reward49_2
+   + 2 cluster17_cluster4_0 * avg_reward4_0
+   + 2 cluster17_cluster4_1 * avg_reward4_1
+   + 2 cluster17_cluster4_2 * avg_reward4_2
+   + 2 cluster17_cluster7_0 * avg_reward7_0
+   + 2 cluster17_cluster7_1 * avg_reward7_1
+   + 2 cluster17_cluster7_2 * avg_reward7_2
+   + 2 cluster17_cluster12_0 * avg_reward12_0
+   + 2 cluster17_cluster12_1 * avg_reward12_1
+   + 2 cluster17_cluster12_2 * avg_reward12_2
+   + 2 cluster17_cluster15_0 * avg_reward15_0
+   + 2 cluster17_cluster15_1 * avg_reward15_1
+   + 2 cluster17_cluster15_2 * avg_reward15_2
+   + 2 cluster17_cluster37_0 * avg_reward37_0
+   + 2 cluster17_cluster37_1 * avg_reward37_1
+   + 2 cluster17_cluster37_2 * avg_reward37_2
+   + 2 cluster17_cluster38_0 * avg_reward38_0
+   + 2 cluster17_cluster38_1 * avg_reward38_1
+   + 2 cluster17_cluster38_2 * avg_reward38_2
+   + 2 cluster17_cluster44_0 * avg_reward44_0
+   + 2 cluster17_cluster44_1 * avg_reward44_1
+   + 2 cluster17_cluster44_2 * avg_reward44_2
+   + 2 cluster17_cluster49_0 * avg_reward49_0
+   + 2 cluster17_cluster49_1 * avg_reward49_1
+   + 2 cluster17_cluster49_2 * avg_reward49_2
+   + 2 cluster18_cluster4_0 * avg_reward4_0
+   + 2 cluster18_cluster4_1 * avg_reward4_1
+   + 2 cluster18_cluster4_2 * avg_reward4_2
+   + 2 cluster18_cluster7_0 * avg_reward7_0
+   + 2 cluster18_cluster7_1 * avg_reward7_1
+   + 2 cluster18_cluster7_2 * avg_reward7_2
+   + 2 cluster18_cluster12_0 * avg_reward12_0
+   + 2 cluster18_cluster12_1 * avg_reward12_1
+   + 2 cluster18_cluster12_2 * avg_reward12_2
+   + 2 cluster18_cluster15_0 * avg_reward15_0
+   + 2 cluster18_cluster15_1 * avg_reward15_1
+   + 2 cluster18_cluster15_2 * avg_reward15_2
+   + 2 cluster18_cluster37_0 * avg_reward37_0
+   + 2 cluster18_cluster37_1 * avg_reward37_1
+   + 2 cluster18_cluster37_2 * avg_reward37_2
+   + 2 cluster18_cluster38_0 * avg_reward38_0
+   + 2 cluster18_cluster38_1 * avg_reward38_1
+   + 2 cluster18_cluster38_2 * avg_reward38_2
+   + 2 cluster18_cluster44_0 * avg_reward44_0
+   + 2 cluster18_cluster44_1 * avg_reward44_1
+   + 2 cluster18_cluster44_2 * avg_reward44_2
+   + 2 cluster18_cluster49_0 * avg_reward49_0
+   + 2 cluster18_cluster49_1 * avg_reward49_1
+   + 2 cluster18_cluster49_2 * avg_reward49_2
+   + 2 cluster19_cluster4_0 * avg_reward4_0
+   + 2 cluster19_cluster4_1 * avg_reward4_1
+   + 2 cluster19_cluster4_2 * avg_reward4_2
+   + 2 cluster19_cluster7_0 * avg_reward7_0
+   + 2 cluster19_cluster7_1 * avg_reward7_1
+   + 2 cluster19_cluster7_2 * avg_reward7_2
+   + 2 cluster19_cluster12_0 * avg_reward12_0
+   + 2 cluster19_cluster12_1 * avg_reward12_1
+   + 2 cluster19_cluster12_2 * avg_reward12_2
+   + 2 cluster19_cluster15_0 * avg_reward15_0
+   + 2 cluster19_cluster15_1 * avg_reward15_1
+   + 2 cluster19_cluster15_2 * avg_reward15_2
+   + 2 cluster19_cluster37_0 * avg_reward37_0
+   + 2 cluster19_cluster37_1 * avg_reward37_1
+   + 2 cluster19_cluster37_2 * avg_reward37_2
+   + 2 cluster19_cluster38_0 * avg_reward38_0
+   + 2 cluster19_cluster38_1 * avg_reward38_1
+   + 2 cluster19_cluster38_2 * avg_reward38_2
+   + 2 cluster19_cluster44_0 * avg_reward44_0
+   + 2 cluster19_cluster44_1 * avg_reward44_1
+   + 2 cluster19_cluster44_2 * avg_reward44_2
+   + 2 cluster19_cluster49_0 * avg_reward49_0
+   + 2 cluster19_cluster49_1 * avg_reward49_1
+   + 2 cluster19_cluster49_2 * avg_reward49_2
+   + 2 cluster20_cluster4_0 * avg_reward4_0
+   + 2 cluster20_cluster4_1 * avg_reward4_1
+   + 2 cluster20_cluster4_2 * avg_reward4_2
+   + 2 cluster20_cluster7_0 * avg_reward7_0
+   + 2 cluster20_cluster7_1 * avg_reward7_1
+   + 2 cluster20_cluster7_2 * avg_reward7_2
+   + 2 cluster20_cluster12_0 * avg_reward12_0
+   + 2 cluster20_cluster12_1 * avg_reward12_1
+   + 2 cluster20_cluster12_2 * avg_reward12_2
+   + 2 cluster20_cluster15_0 * avg_reward15_0
+   + 2 cluster20_cluster15_1 * avg_reward15_1
+   + 2 cluster20_cluster15_2 * avg_reward15_2
+   + 2 cluster20_cluster37_0 * avg_reward37_0
+   + 2 cluster20_cluster37_1 * avg_reward37_1
+   + 2 cluster20_cluster37_2 * avg_reward37_2
+   + 2 cluster20_cluster38_0 * avg_reward38_0
+   + 2 cluster20_cluster38_1 * avg_reward38_1
+   + 2 cluster20_cluster38_2 * avg_reward38_2
+   + 2 cluster20_cluster44_0 * avg_reward44_0
+   + 2 cluster20_cluster44_1 * avg_reward44_1
+   + 2 cluster20_cluster44_2 * avg_reward44_2
+   + 2 cluster20_cluster49_0 * avg_reward49_0
+   + 2 cluster20_cluster49_1 * avg_reward49_1
+   + 2 cluster20_cluster49_2 * avg_reward49_2
+   + 2 cluster21_cluster4_0 * avg_reward4_0
+   + 2 cluster21_cluster4_1 * avg_reward4_1
+   + 2 cluster21_cluster4_2 * avg_reward4_2
+   + 2 cluster21_cluster7_0 * avg_reward7_0
+   + 2 cluster21_cluster7_1 * avg_reward7_1
+   + 2 cluster21_cluster7_2 * avg_reward7_2
+   + 2 cluster21_cluster12_0 * avg_reward12_0
+   + 2 cluster21_cluster12_1 * avg_reward12_1
+   + 2 cluster21_cluster12_2 * avg_reward12_2
+   + 2 cluster21_cluster15_0 * avg_reward15_0
+   + 2 cluster21_cluster15_1 * avg_reward15_1
+   + 2 cluster21_cluster15_2 * avg_reward15_2
+   + 2 cluster21_cluster37_0 * avg_reward37_0
+   + 2 cluster21_cluster37_1 * avg_reward37_1
+   + 2 cluster21_cluster37_2 * avg_reward37_2
+   + 2 cluster21_cluster38_0 * avg_reward38_0
+   + 2 cluster21_cluster38_1 * avg_reward38_1
+   + 2 cluster21_cluster38_2 * avg_reward38_2
+   + 2 cluster21_cluster44_0 * avg_reward44_0
+   + 2 cluster21_cluster44_1 * avg_reward44_1
+   + 2 cluster21_cluster44_2 * avg_reward44_2
+   + 2 cluster21_cluster49_0 * avg_reward49_0
+   + 2 cluster21_cluster49_1 * avg_reward49_1
+   + 2 cluster21_cluster49_2 * avg_reward49_2
+   + 2 cluster22_cluster4_0 * avg_reward4_0
+   + 2 cluster22_cluster4_1 * avg_reward4_1
+   + 2 cluster22_cluster4_2 * avg_reward4_2
+   + 2 cluster22_cluster7_0 * avg_reward7_0
+   + 2 cluster22_cluster7_1 * avg_reward7_1
+   + 2 cluster22_cluster7_2 * avg_reward7_2
+   + 2 cluster22_cluster12_0 * avg_reward12_0
+   + 2 cluster22_cluster12_1 * avg_reward12_1
+   + 2 cluster22_cluster12_2 * avg_reward12_2
+   + 2 cluster22_cluster15_0 * avg_reward15_0
+   + 2 cluster22_cluster15_1 * avg_reward15_1
+   + 2 cluster22_cluster15_2 * avg_reward15_2
+   + 2 cluster22_cluster37_0 * avg_reward37_0
+   + 2 cluster22_cluster37_1 * avg_reward37_1
+   + 2 cluster22_cluster37_2 * avg_reward37_2
+   + 2 cluster22_cluster38_0 * avg_reward38_0
+   + 2 cluster22_cluster38_1 * avg_reward38_1
+   + 2 cluster22_cluster38_2 * avg_reward38_2
+   + 2 cluster22_cluster44_0 * avg_reward44_0
+   + 2 cluster22_cluster44_1 * avg_reward44_1
+   + 2 cluster22_cluster44_2 * avg_reward44_2
+   + 2 cluster22_cluster49_0 * avg_reward49_0
+   + 2 cluster22_cluster49_1 * avg_reward49_1
+   + 2 cluster22_cluster49_2 * avg_reward49_2
+   + 2 cluster23_cluster4_0 * avg_reward4_0
+   + 2 cluster23_cluster4_1 * avg_reward4_1
+   + 2 cluster23_cluster4_2 * avg_reward4_2
+   + 2 cluster23_cluster7_0 * avg_reward7_0
+   + 2 cluster23_cluster7_1 * avg_reward7_1
+   + 2 cluster23_cluster7_2 * avg_reward7_2
+   + 2 cluster23_cluster12_0 * avg_reward12_0
+   + 2 cluster23_cluster12_1 * avg_reward12_1
+   + 2 cluster23_cluster12_2 * avg_reward12_2
+   + 2 cluster23_cluster15_0 * avg_reward15_0
+   + 2 cluster23_cluster15_1 * avg_reward15_1
+   + 2 cluster23_cluster15_2 * avg_reward15_2
+   + 2 cluster23_cluster37_0 * avg_reward37_0
+   + 2 cluster23_cluster37_1 * avg_reward37_1
+   + 2 cluster23_cluster37_2 * avg_reward37_2
+   + 2 cluster23_cluster38_0 * avg_reward38_0
+   + 2 cluster23_cluster38_1 * avg_reward38_1
+   + 2 cluster23_cluster38_2 * avg_reward38_2
+   + 2 cluster23_cluster44_0 * avg_reward44_0
+   + 2 cluster23_cluster44_1 * avg_reward44_1
+   + 2 cluster23_cluster44_2 * avg_reward44_2
+   + 2 cluster23_cluster49_0 * avg_reward49_0
+   + 2 cluster23_cluster49_1 * avg_reward49_1
+   + 2 cluster23_cluster49_2 * avg_reward49_2
+   + 2 cluster24_cluster4_0 * avg_reward4_0
+   + 2 cluster24_cluster4_1 * avg_reward4_1
+   + 2 cluster24_cluster4_2 * avg_reward4_2
+   + 2 cluster24_cluster7_0 * avg_reward7_0
+   + 2 cluster24_cluster7_1 * avg_reward7_1
+   + 2 cluster24_cluster7_2 * avg_reward7_2
+   + 2 cluster24_cluster12_0 * avg_reward12_0
+   + 2 cluster24_cluster12_1 * avg_reward12_1
+   + 2 cluster24_cluster12_2 * avg_reward12_2
+   + 2 cluster24_cluster15_0 * avg_reward15_0
+   + 2 cluster24_cluster15_1 * avg_reward15_1
+   + 2 cluster24_cluster15_2 * avg_reward15_2
+   + 2 cluster24_cluster37_0 * avg_reward37_0
+   + 2 cluster24_cluster37_1 * avg_reward37_1
+   + 2 cluster24_cluster37_2 * avg_reward37_2
+   + 2 cluster24_cluster38_0 * avg_reward38_0
+   + 2 cluster24_cluster38_1 * avg_reward38_1
+   + 2 cluster24_cluster38_2 * avg_reward38_2
+   + 2 cluster24_cluster44_0 * avg_reward44_0
+   + 2 cluster24_cluster44_1 * avg_reward44_1
+   + 2 cluster24_cluster44_2 * avg_reward44_2
+   + 2 cluster24_cluster49_0 * avg_reward49_0
+   + 2 cluster24_cluster49_1 * avg_reward49_1
+   + 2 cluster24_cluster49_2 * avg_reward49_2
+   + 2 cluster25_cluster4_0 * avg_reward4_0
+   + 2 cluster25_cluster4_1 * avg_reward4_1
+   + 2 cluster25_cluster4_2 * avg_reward4_2
+   + 2 cluster25_cluster7_0 * avg_reward7_0
+   + 2 cluster25_cluster7_1 * avg_reward7_1
+   + 2 cluster25_cluster7_2 * avg_reward7_2
+   + 2 cluster25_cluster12_0 * avg_reward12_0
+   + 2 cluster25_cluster12_1 * avg_reward12_1
+   + 2 cluster25_cluster12_2 * avg_reward12_2
+   + 2 cluster25_cluster15_0 * avg_reward15_0
+   + 2 cluster25_cluster15_1 * avg_reward15_1
+   + 2 cluster25_cluster15_2 * avg_reward15_2
+   + 2 cluster25_cluster37_0 * avg_reward37_0
+   + 2 cluster25_cluster37_1 * avg_reward37_1
+   + 2 cluster25_cluster37_2 * avg_reward37_2
+   + 2 cluster25_cluster38_0 * avg_reward38_0
+   + 2 cluster25_cluster38_1 * avg_reward38_1
+   + 2 cluster25_cluster38_2 * avg_reward38_2
+   + 2 cluster25_cluster44_0 * avg_reward44_0
+   + 2 cluster25_cluster44_1 * avg_reward44_1
+   + 2 cluster25_cluster44_2 * avg_reward44_2
+   + 2 cluster25_cluster49_0 * avg_reward49_0
+   + 2 cluster25_cluster49_1 * avg_reward49_1
+   + 2 cluster25_cluster49_2 * avg_reward49_2
+   + 2 cluster26_cluster4_0 * avg_reward4_0
+   + 2 cluster26_cluster4_1 * avg_reward4_1
+   + 2 cluster26_cluster4_2 * avg_reward4_2
+   + 2 cluster26_cluster7_0 * avg_reward7_0
+   + 2 cluster26_cluster7_1 * avg_reward7_1
+   + 2 cluster26_cluster7_2 * avg_reward7_2
+   + 2 cluster26_cluster12_0 * avg_reward12_0
+   + 2 cluster26_cluster12_1 * avg_reward12_1
+   + 2 cluster26_cluster12_2 * avg_reward12_2
+   + 2 cluster26_cluster15_0 * avg_reward15_0
+   + 2 cluster26_cluster15_1 * avg_reward15_1
+   + 2 cluster26_cluster15_2 * avg_reward15_2
+   + 2 cluster26_cluster37_0 * avg_reward37_0
+   + 2 cluster26_cluster37_1 * avg_reward37_1
+   + 2 cluster26_cluster37_2 * avg_reward37_2
+   + 2 cluster26_cluster38_0 * avg_reward38_0
+   + 2 cluster26_cluster38_1 * avg_reward38_1
+   + 2 cluster26_cluster38_2 * avg_reward38_2
+   + 2 cluster26_cluster44_0 * avg_reward44_0
+   + 2 cluster26_cluster44_1 * avg_reward44_1
+   + 2 cluster26_cluster44_2 * avg_reward44_2
+   + 2 cluster26_cluster49_0 * avg_reward49_0
+   + 2 cluster26_cluster49_1 * avg_reward49_1
+   + 2 cluster26_cluster49_2 * avg_reward49_2
+   + 2 cluster27_cluster4_0 * avg_reward4_0
+   + 2 cluster27_cluster4_1 * avg_reward4_1
+   + 2 cluster27_cluster4_2 * avg_reward4_2
+   + 2 cluster27_cluster7_0 * avg_reward7_0
+   + 2 cluster27_cluster7_1 * avg_reward7_1
+   + 2 cluster27_cluster7_2 * avg_reward7_2
+   + 2 cluster27_cluster12_0 * avg_reward12_0
+   + 2 cluster27_cluster12_1 * avg_reward12_1
+   + 2 cluster27_cluster12_2 * avg_reward12_2
+   + 2 cluster27_cluster15_0 * avg_reward15_0
+   + 2 cluster27_cluster15_1 * avg_reward15_1
+   + 2 cluster27_cluster15_2 * avg_reward15_2
+   + 2 cluster27_cluster37_0 * avg_reward37_0
+   + 2 cluster27_cluster37_1 * avg_reward37_1
+   + 2 cluster27_cluster37_2 * avg_reward37_2
+   + 2 cluster27_cluster38_0 * avg_reward38_0
+   + 2 cluster27_cluster38_1 * avg_reward38_1
+   + 2 cluster27_cluster38_2 * avg_reward38_2
+   + 2 cluster27_cluster44_0 * avg_reward44_0
+   + 2 cluster27_cluster44_1 * avg_reward44_1
+   + 2 cluster27_cluster44_2 * avg_reward44_2
+   + 2 cluster27_cluster49_0 * avg_reward49_0
+   + 2 cluster27_cluster49_1 * avg_reward49_1
+   + 2 cluster27_cluster49_2 * avg_reward49_2
+   + 2 cluster28_cluster4_0 * avg_reward4_0
+   + 2 cluster28_cluster4_1 * avg_reward4_1
+   + 2 cluster28_cluster4_2 * avg_reward4_2
+   + 2 cluster28_cluster7_0 * avg_reward7_0
+   + 2 cluster28_cluster7_1 * avg_reward7_1
+   + 2 cluster28_cluster7_2 * avg_reward7_2
+   + 2 cluster28_cluster12_0 * avg_reward12_0
+   + 2 cluster28_cluster12_1 * avg_reward12_1
+   + 2 cluster28_cluster12_2 * avg_reward12_2
+   + 2 cluster28_cluster15_0 * avg_reward15_0
+   + 2 cluster28_cluster15_1 * avg_reward15_1
+   + 2 cluster28_cluster15_2 * avg_reward15_2
+   + 2 cluster28_cluster37_0 * avg_reward37_0
+   + 2 cluster28_cluster37_1 * avg_reward37_1
+   + 2 cluster28_cluster37_2 * avg_reward37_2
+   + 2 cluster28_cluster38_0 * avg_reward38_0
+   + 2 cluster28_cluster38_1 * avg_reward38_1
+   + 2 cluster28_cluster38_2 * avg_reward38_2
+   + 2 cluster28_cluster44_0 * avg_reward44_0
+   + 2 cluster28_cluster44_1 * avg_reward44_1
+   + 2 cluster28_cluster44_2 * avg_reward44_2
+   + 2 cluster28_cluster49_0 * avg_reward49_0
+   + 2 cluster28_cluster49_1 * avg_reward49_1
+   + 2 cluster28_cluster49_2 * avg_reward49_2
+   + 2 cluster29_cluster4_0 * avg_reward4_0
+   + 2 cluster29_cluster4_1 * avg_reward4_1
+   + 2 cluster29_cluster4_2 * avg_reward4_2
+   + 2 cluster29_cluster7_0 * avg_reward7_0
+   + 2 cluster29_cluster7_1 * avg_reward7_1
+   + 2 cluster29_cluster7_2 * avg_reward7_2
+   + 2 cluster29_cluster12_0 * avg_reward12_0
+   + 2 cluster29_cluster12_1 * avg_reward12_1
+   + 2 cluster29_cluster12_2 * avg_reward12_2
+   + 2 cluster29_cluster15_0 * avg_reward15_0
+   + 2 cluster29_cluster15_1 * avg_reward15_1
+   + 2 cluster29_cluster15_2 * avg_reward15_2
+   + 2 cluster29_cluster37_0 * avg_reward37_0
+   + 2 cluster29_cluster37_1 * avg_reward37_1
+   + 2 cluster29_cluster37_2 * avg_reward37_2
+   + 2 cluster29_cluster38_0 * avg_reward38_0
+   + 2 cluster29_cluster38_1 * avg_reward38_1
+   + 2 cluster29_cluster38_2 * avg_reward38_2
+   + 2 cluster29_cluster44_0 * avg_reward44_0
+   + 2 cluster29_cluster44_1 * avg_reward44_1
+   + 2 cluster29_cluster44_2 * avg_reward44_2
+   + 2 cluster29_cluster49_0 * avg_reward49_0
+   + 2 cluster29_cluster49_1 * avg_reward49_1
+   + 2 cluster29_cluster49_2 * avg_reward49_2
+   + 2 cluster30_cluster4_0 * avg_reward4_0
+   + 2 cluster30_cluster4_1 * avg_reward4_1
+   + 2 cluster30_cluster4_2 * avg_reward4_2
+   + 2 cluster30_cluster7_0 * avg_reward7_0
+   + 2 cluster30_cluster7_1 * avg_reward7_1
+   + 2 cluster30_cluster7_2 * avg_reward7_2
+   + 2 cluster30_cluster12_0 * avg_reward12_0
+   + 2 cluster30_cluster12_1 * avg_reward12_1
+   + 2 cluster30_cluster12_2 * avg_reward12_2
+   + 2 cluster30_cluster15_0 * avg_reward15_0
+   + 2 cluster30_cluster15_1 * avg_reward15_1
+   + 2 cluster30_cluster15_2 * avg_reward15_2
+   + 2 cluster30_cluster37_0 * avg_reward37_0
+   + 2 cluster30_cluster37_1 * avg_reward37_1
+   + 2 cluster30_cluster37_2 * avg_reward37_2
+   + 2 cluster30_cluster38_0 * avg_reward38_0
+   + 2 cluster30_cluster38_1 * avg_reward38_1
+   + 2 cluster30_cluster38_2 * avg_reward38_2
+   + 2 cluster30_cluster44_0 * avg_reward44_0
+   + 2 cluster30_cluster44_1 * avg_reward44_1
+   + 2 cluster30_cluster44_2 * avg_reward44_2
+   + 2 cluster30_cluster49_0 * avg_reward49_0
+   + 2 cluster30_cluster49_1 * avg_reward49_1
+   + 2 cluster30_cluster49_2 * avg_reward49_2
+   + 2 cluster31_cluster4_0 * avg_reward4_0
+   + 2 cluster31_cluster4_1 * avg_reward4_1
+   + 2 cluster31_cluster4_2 * avg_reward4_2
+   + 2 cluster31_cluster7_0 * avg_reward7_0
+   + 2 cluster31_cluster7_1 * avg_reward7_1
+   + 2 cluster31_cluster7_2 * avg_reward7_2
+   + 2 cluster31_cluster12_0 * avg_reward12_0
+   + 2 cluster31_cluster12_1 * avg_reward12_1
+   + 2 cluster31_cluster12_2 * avg_reward12_2
+   + 2 cluster31_cluster15_0 * avg_reward15_0
+   + 2 cluster31_cluster15_1 * avg_reward15_1
+   + 2 cluster31_cluster15_2 * avg_reward15_2
+   + 2 cluster31_cluster37_0 * avg_reward37_0
+   + 2 cluster31_cluster37_1 * avg_reward37_1
+   + 2 cluster31_cluster37_2 * avg_reward37_2
+   + 2 cluster31_cluster38_0 * avg_reward38_0
+   + 2 cluster31_cluster38_1 * avg_reward38_1
+   + 2 cluster31_cluster38_2 * avg_reward38_2
+   + 2 cluster31_cluster44_0 * avg_reward44_0
+   + 2 cluster31_cluster44_1 * avg_reward44_1
+   + 2 cluster31_cluster44_2 * avg_reward44_2
+   + 2 cluster31_cluster49_0 * avg_reward49_0
+   + 2 cluster31_cluster49_1 * avg_reward49_1
+   + 2 cluster31_cluster49_2 * avg_reward49_2
+   + 2 cluster32_cluster4_0 * avg_reward4_0
+   + 2 cluster32_cluster4_1 * avg_reward4_1
+   + 2 cluster32_cluster4_2 * avg_reward4_2
+   + 2 cluster32_cluster7_0 * avg_reward7_0
+   + 2 cluster32_cluster7_1 * avg_reward7_1
+   + 2 cluster32_cluster7_2 * avg_reward7_2
+   + 2 cluster32_cluster12_0 * avg_reward12_0
+   + 2 cluster32_cluster12_1 * avg_reward12_1
+   + 2 cluster32_cluster12_2 * avg_reward12_2
+   + 2 cluster32_cluster15_0 * avg_reward15_0
+   + 2 cluster32_cluster15_1 * avg_reward15_1
+   + 2 cluster32_cluster15_2 * avg_reward15_2
+   + 2 cluster32_cluster37_0 * avg_reward37_0
+   + 2 cluster32_cluster37_1 * avg_reward37_1
+   + 2 cluster32_cluster37_2 * avg_reward37_2
+   + 2 cluster32_cluster38_0 * avg_reward38_0
+   + 2 cluster32_cluster38_1 * avg_reward38_1
+   + 2 cluster32_cluster38_2 * avg_reward38_2
+   + 2 cluster32_cluster44_0 * avg_reward44_0
+   + 2 cluster32_cluster44_1 * avg_reward44_1
+   + 2 cluster32_cluster44_2 * avg_reward44_2
+   + 2 cluster32_cluster49_0 * avg_reward49_0
+   + 2 cluster32_cluster49_1 * avg_reward49_1
+   + 2 cluster32_cluster49_2 * avg_reward49_2
+   + 2 cluster33_cluster4_0 * avg_reward4_0
+   + 2 cluster33_cluster4_1 * avg_reward4_1
+   + 2 cluster33_cluster4_2 * avg_reward4_2
+   + 2 cluster33_cluster7_0 * avg_reward7_0
+   + 2 cluster33_cluster7_1 * avg_reward7_1
+   + 2 cluster33_cluster7_2 * avg_reward7_2
+   + 2 cluster33_cluster12_0 * avg_reward12_0
+   + 2 cluster33_cluster12_1 * avg_reward12_1
+   + 2 cluster33_cluster12_2 * avg_reward12_2
+   + 2 cluster33_cluster15_0 * avg_reward15_0
+   + 2 cluster33_cluster15_1 * avg_reward15_1
+   + 2 cluster33_cluster15_2 * avg_reward15_2
+   + 2 cluster33_cluster37_0 * avg_reward37_0
+   + 2 cluster33_cluster37_1 * avg_reward37_1
+   + 2 cluster33_cluster37_2 * avg_reward37_2
+   + 2 cluster33_cluster38_0 * avg_reward38_0
+   + 2 cluster33_cluster38_1 * avg_reward38_1
+   + 2 cluster33_cluster38_2 * avg_reward38_2
+   + 2 cluster33_cluster44_0 * avg_reward44_0
+   + 2 cluster33_cluster44_1 * avg_reward44_1
+   + 2 cluster33_cluster44_2 * avg_reward44_2
+   + 2 cluster33_cluster49_0 * avg_reward49_0
+   + 2 cluster33_cluster49_1 * avg_reward49_1
+   + 2 cluster33_cluster49_2 * avg_reward49_2
+   + 2 cluster34_cluster4_0 * avg_reward4_0
+   + 2 cluster34_cluster4_1 * avg_reward4_1
+   + 2 cluster34_cluster4_2 * avg_reward4_2
+   + 2 cluster34_cluster7_0 * avg_reward7_0
+   + 2 cluster34_cluster7_1 * avg_reward7_1
+   + 2 cluster34_cluster7_2 * avg_reward7_2
+   + 2 cluster34_cluster12_0 * avg_reward12_0
+   + 2 cluster34_cluster12_1 * avg_reward12_1
+   + 2 cluster34_cluster12_2 * avg_reward12_2
+   + 2 cluster34_cluster15_0 * avg_reward15_0
+   + 2 cluster34_cluster15_1 * avg_reward15_1
+   + 2 cluster34_cluster15_2 * avg_reward15_2
+   + 2 cluster34_cluster37_0 * avg_reward37_0
+   + 2 cluster34_cluster37_1 * avg_reward37_1
+   + 2 cluster34_cluster37_2 * avg_reward37_2
+   + 2 cluster34_cluster38_0 * avg_reward38_0
+   + 2 cluster34_cluster38_1 * avg_reward38_1
+   + 2 cluster34_cluster38_2 * avg_reward38_2
+   + 2 cluster34_cluster44_0 * avg_reward44_0
+   + 2 cluster34_cluster44_1 * avg_reward44_1
+   + 2 cluster34_cluster44_2 * avg_reward44_2
+   + 2 cluster34_cluster49_0 * avg_reward49_0
+   + 2 cluster34_cluster49_1 * avg_reward49_1
+   + 2 cluster34_cluster49_2 * avg_reward49_2
+   + 2 cluster35_cluster4_0 * avg_reward4_0
+   + 2 cluster35_cluster4_1 * avg_reward4_1
+   + 2 cluster35_cluster4_2 * avg_reward4_2
+   + 2 cluster35_cluster7_0 * avg_reward7_0
+   + 2 cluster35_cluster7_1 * avg_reward7_1
+   + 2 cluster35_cluster7_2 * avg_reward7_2
+   + 2 cluster35_cluster12_0 * avg_reward12_0
+   + 2 cluster35_cluster12_1 * avg_reward12_1
+   + 2 cluster35_cluster12_2 * avg_reward12_2
+   + 2 cluster35_cluster15_0 * avg_reward15_0
+   + 2 cluster35_cluster15_1 * avg_reward15_1
+   + 2 cluster35_cluster15_2 * avg_reward15_2
+   + 2 cluster35_cluster37_0 * avg_reward37_0
+   + 2 cluster35_cluster37_1 * avg_reward37_1
+   + 2 cluster35_cluster37_2 * avg_reward37_2
+   + 2 cluster35_cluster38_0 * avg_reward38_0
+   + 2 cluster35_cluster38_1 * avg_reward38_1
+   + 2 cluster35_cluster38_2 * avg_reward38_2
+   + 2 cluster35_cluster44_0 * avg_reward44_0
+   + 2 cluster35_cluster44_1 * avg_reward44_1
+   + 2 cluster35_cluster44_2 * avg_reward44_2
+   + 2 cluster35_cluster49_0 * avg_reward49_0
+   + 2 cluster35_cluster49_1 * avg_reward49_1
+   + 2 cluster35_cluster49_2 * avg_reward49_2
+   + 2 cluster36_cluster4_0 * avg_reward4_0
+   + 2 cluster36_cluster4_1 * avg_reward4_1
+   + 2 cluster36_cluster4_2 * avg_reward4_2
+   + 2 cluster36_cluster7_0 * avg_reward7_0
+   + 2 cluster36_cluster7_1 * avg_reward7_1
+   + 2 cluster36_cluster7_2 * avg_reward7_2
+   + 2 cluster36_cluster12_0 * avg_reward12_0
+   + 2 cluster36_cluster12_1 * avg_reward12_1
+   + 2 cluster36_cluster12_2 * avg_reward12_2
+   + 2 cluster36_cluster15_0 * avg_reward15_0
+   + 2 cluster36_cluster15_1 * avg_reward15_1
+   + 2 cluster36_cluster15_2 * avg_reward15_2
+   + 2 cluster36_cluster37_0 * avg_reward37_0
+   + 2 cluster36_cluster37_1 * avg_reward37_1
+   + 2 cluster36_cluster37_2 * avg_reward37_2
+   + 2 cluster36_cluster38_0 * avg_reward38_0
+   + 2 cluster36_cluster38_1 * avg_reward38_1
+   + 2 cluster36_cluster38_2 * avg_reward38_2
+   + 2 cluster36_cluster44_0 * avg_reward44_0
+   + 2 cluster36_cluster44_1 * avg_reward44_1
+   + 2 cluster36_cluster44_2 * avg_reward44_2
+   + 2 cluster36_cluster49_0 * avg_reward49_0
+   + 2 cluster36_cluster49_1 * avg_reward49_1
+   + 2 cluster36_cluster49_2 * avg_reward49_2
+   + 2 cluster39_cluster4_0 * avg_reward4_0
+   + 2 cluster39_cluster4_1 * avg_reward4_1
+   + 2 cluster39_cluster4_2 * avg_reward4_2
+   + 2 cluster39_cluster7_0 * avg_reward7_0
+   + 2 cluster39_cluster7_1 * avg_reward7_1
+   + 2 cluster39_cluster7_2 * avg_reward7_2
+   + 2 cluster39_cluster12_0 * avg_reward12_0
+   + 2 cluster39_cluster12_1 * avg_reward12_1
+   + 2 cluster39_cluster12_2 * avg_reward12_2
+   + 2 cluster39_cluster15_0 * avg_reward15_0
+   + 2 cluster39_cluster15_1 * avg_reward15_1
+   + 2 cluster39_cluster15_2 * avg_reward15_2
+   + 2 cluster39_cluster37_0 * avg_reward37_0
+   + 2 cluster39_cluster37_1 * avg_reward37_1
+   + 2 cluster39_cluster37_2 * avg_reward37_2
+   + 2 cluster39_cluster38_0 * avg_reward38_0
+   + 2 cluster39_cluster38_1 * avg_reward38_1
+   + 2 cluster39_cluster38_2 * avg_reward38_2
+   + 2 cluster39_cluster44_0 * avg_reward44_0
+   + 2 cluster39_cluster44_1 * avg_reward44_1
+   + 2 cluster39_cluster44_2 * avg_reward44_2
+   + 2 cluster39_cluster49_0 * avg_reward49_0
+   + 2 cluster39_cluster49_1 * avg_reward49_1
+   + 2 cluster39_cluster49_2 * avg_reward49_2
+   + 2 cluster40_cluster4_0 * avg_reward4_0
+   + 2 cluster40_cluster4_1 * avg_reward4_1
+   + 2 cluster40_cluster4_2 * avg_reward4_2
+   + 2 cluster40_cluster7_0 * avg_reward7_0
+   + 2 cluster40_cluster7_1 * avg_reward7_1
+   + 2 cluster40_cluster7_2 * avg_reward7_2
+   + 2 cluster40_cluster12_0 * avg_reward12_0
+   + 2 cluster40_cluster12_1 * avg_reward12_1
+   + 2 cluster40_cluster12_2 * avg_reward12_2
+   + 2 cluster40_cluster15_0 * avg_reward15_0
+   + 2 cluster40_cluster15_1 * avg_reward15_1
+   + 2 cluster40_cluster15_2 * avg_reward15_2
+   + 2 cluster40_cluster37_0 * avg_reward37_0
+   + 2 cluster40_cluster37_1 * avg_reward37_1
+   + 2 cluster40_cluster37_2 * avg_reward37_2
+   + 2 cluster40_cluster38_0 * avg_reward38_0
+   + 2 cluster40_cluster38_1 * avg_reward38_1
+   + 2 cluster40_cluster38_2 * avg_reward38_2
+   + 2 cluster40_cluster44_0 * avg_reward44_0
+   + 2 cluster40_cluster44_1 * avg_reward44_1
+   + 2 cluster40_cluster44_2 * avg_reward44_2
+   + 2 cluster40_cluster49_0 * avg_reward49_0
+   + 2 cluster40_cluster49_1 * avg_reward49_1
+   + 2 cluster40_cluster49_2 * avg_reward49_2
+   + 2 cluster41_cluster4_0 * avg_reward4_0
+   + 2 cluster41_cluster4_1 * avg_reward4_1
+   + 2 cluster41_cluster4_2 * avg_reward4_2
+   + 2 cluster41_cluster7_0 * avg_reward7_0
+   + 2 cluster41_cluster7_1 * avg_reward7_1
+   + 2 cluster41_cluster7_2 * avg_reward7_2
+   + 2 cluster41_cluster12_0 * avg_reward12_0
+   + 2 cluster41_cluster12_1 * avg_reward12_1
+   + 2 cluster41_cluster12_2 * avg_reward12_2
+   + 2 cluster41_cluster15_0 * avg_reward15_0
+   + 2 cluster41_cluster15_1 * avg_reward15_1
+   + 2 cluster41_cluster15_2 * avg_reward15_2
+   + 2 cluster41_cluster37_0 * avg_reward37_0
+   + 2 cluster41_cluster37_1 * avg_reward37_1
+   + 2 cluster41_cluster37_2 * avg_reward37_2
+   + 2 cluster41_cluster38_0 * avg_reward38_0
+   + 2 cluster41_cluster38_1 * avg_reward38_1
+   + 2 cluster41_cluster38_2 * avg_reward38_2
+   + 2 cluster41_cluster44_0 * avg_reward44_0
+   + 2 cluster41_cluster44_1 * avg_reward44_1
+   + 2 cluster41_cluster44_2 * avg_reward44_2
+   + 2 cluster41_cluster49_0 * avg_reward49_0
+   + 2 cluster41_cluster49_1 * avg_reward49_1
+   + 2 cluster41_cluster49_2 * avg_reward49_2
+   + 2 cluster42_cluster4_0 * avg_reward4_0
+   + 2 cluster42_cluster4_1 * avg_reward4_1
+   + 2 cluster42_cluster4_2 * avg_reward4_2
+   + 2 cluster42_cluster7_0 * avg_reward7_0
+   + 2 cluster42_cluster7_1 * avg_reward7_1
+   + 2 cluster42_cluster7_2 * avg_reward7_2
+   + 2 cluster42_cluster12_0 * avg_reward12_0
+   + 2 cluster42_cluster12_1 * avg_reward12_1
+   + 2 cluster42_cluster12_2 * avg_reward12_2
+   + 2 cluster42_cluster15_0 * avg_reward15_0
+   + 2 cluster42_cluster15_1 * avg_reward15_1
+   + 2 cluster42_cluster15_2 * avg_reward15_2
+   + 2 cluster42_cluster37_0 * avg_reward37_0
+   + 2 cluster42_cluster37_1 * avg_reward37_1
+   + 2 cluster42_cluster37_2 * avg_reward37_2
+   + 2 cluster42_cluster38_0 * avg_reward38_0
+   + 2 cluster42_cluster38_1 * avg_reward38_1
+   + 2 cluster42_cluster38_2 * avg_reward38_2
+   + 2 cluster42_cluster44_0 * avg_reward44_0
+   + 2 cluster42_cluster44_1 * avg_reward44_1
+   + 2 cluster42_cluster44_2 * avg_reward44_2
+   + 2 cluster42_cluster49_0 * avg_reward49_0
+   + 2 cluster42_cluster49_1 * avg_reward49_1
+   + 2 cluster42_cluster49_2 * avg_reward49_2
+   + 2 cluster43_cluster4_0 * avg_reward4_0
+   + 2 cluster43_cluster4_1 * avg_reward4_1
+   + 2 cluster43_cluster4_2 * avg_reward4_2
+   + 2 cluster43_cluster7_0 * avg_reward7_0
+   + 2 cluster43_cluster7_1 * avg_reward7_1
+   + 2 cluster43_cluster7_2 * avg_reward7_2
+   + 2 cluster43_cluster12_0 * avg_reward12_0
+   + 2 cluster43_cluster12_1 * avg_reward12_1
+   + 2 cluster43_cluster12_2 * avg_reward12_2
+   + 2 cluster43_cluster15_0 * avg_reward15_0
+   + 2 cluster43_cluster15_1 * avg_reward15_1
+   + 2 cluster43_cluster15_2 * avg_reward15_2
+   + 2 cluster43_cluster37_0 * avg_reward37_0
+   + 2 cluster43_cluster37_1 * avg_reward37_1
+   + 2 cluster43_cluster37_2 * avg_reward37_2
+   + 2 cluster43_cluster38_0 * avg_reward38_0
+   + 2 cluster43_cluster38_1 * avg_reward38_1
+   + 2 cluster43_cluster38_2 * avg_reward38_2
+   + 2 cluster43_cluster44_0 * avg_reward44_0
+   + 2 cluster43_cluster44_1 * avg_reward44_1
+   + 2 cluster43_cluster44_2 * avg_reward44_2
+   + 2 cluster43_cluster49_0 * avg_reward49_0
+   + 2 cluster43_cluster49_1 * avg_reward49_1
+   + 2 cluster43_cluster49_2 * avg_reward49_2
+   + 2 cluster45_cluster4_0 * avg_reward4_0
+   + 2 cluster45_cluster4_1 * avg_reward4_1
+   + 2 cluster45_cluster4_2 * avg_reward4_2
+   + 2 cluster45_cluster7_0 * avg_reward7_0
+   + 2 cluster45_cluster7_1 * avg_reward7_1
+   + 2 cluster45_cluster7_2 * avg_reward7_2
+   + 2 cluster45_cluster12_0 * avg_reward12_0
+   + 2 cluster45_cluster12_1 * avg_reward12_1
+   + 2 cluster45_cluster12_2 * avg_reward12_2
+   + 2 cluster45_cluster15_0 * avg_reward15_0
+   + 2 cluster45_cluster15_1 * avg_reward15_1
+   + 2 cluster45_cluster15_2 * avg_reward15_2
+   + 2 cluster45_cluster37_0 * avg_reward37_0
+   + 2 cluster45_cluster37_1 * avg_reward37_1
+   + 2 cluster45_cluster37_2 * avg_reward37_2
+   + 2 cluster45_cluster38_0 * avg_reward38_0
+   + 2 cluster45_cluster38_1 * avg_reward38_1
+   + 2 cluster45_cluster38_2 * avg_reward38_2
+   + 2 cluster45_cluster44_0 * avg_reward44_0
+   + 2 cluster45_cluster44_1 * avg_reward44_1
+   + 2 cluster45_cluster44_2 * avg_reward44_2
+   + 2 cluster45_cluster49_0 * avg_reward49_0
+   + 2 cluster45_cluster49_1 * avg_reward49_1
+   + 2 cluster45_cluster49_2 * avg_reward49_2
+   + 2 cluster46_cluster4_0 * avg_reward4_0
+   + 2 cluster46_cluster4_1 * avg_reward4_1
+   + 2 cluster46_cluster4_2 * avg_reward4_2
+   + 2 cluster46_cluster7_0 * avg_reward7_0
+   + 2 cluster46_cluster7_1 * avg_reward7_1
+   + 2 cluster46_cluster7_2 * avg_reward7_2
+   + 2 cluster46_cluster12_0 * avg_reward12_0
+   + 2 cluster46_cluster12_1 * avg_reward12_1
+   + 2 cluster46_cluster12_2 * avg_reward12_2
+   + 2 cluster46_cluster15_0 * avg_reward15_0
+   + 2 cluster46_cluster15_1 * avg_reward15_1
+   + 2 cluster46_cluster15_2 * avg_reward15_2
+   + 2 cluster46_cluster37_0 * avg_reward37_0
+   + 2 cluster46_cluster37_1 * avg_reward37_1
+   + 2 cluster46_cluster37_2 * avg_reward37_2
+   + 2 cluster46_cluster38_0 * avg_reward38_0
+   + 2 cluster46_cluster38_1 * avg_reward38_1
+   + 2 cluster46_cluster38_2 * avg_reward38_2
+   + 2 cluster46_cluster44_0 * avg_reward44_0
+   + 2 cluster46_cluster44_1 * avg_reward44_1
+   + 2 cluster46_cluster44_2 * avg_reward44_2
+   + 2 cluster46_cluster49_0 * avg_reward49_0
+   + 2 cluster46_cluster49_1 * avg_reward49_1
+   + 2 cluster46_cluster49_2 * avg_reward49_2
+   + 2 cluster47_cluster4_0 * avg_reward4_0
+   + 2 cluster47_cluster4_1 * avg_reward4_1
+   + 2 cluster47_cluster4_2 * avg_reward4_2
+   + 2 cluster47_cluster7_0 * avg_reward7_0
+   + 2 cluster47_cluster7_1 * avg_reward7_1
+   + 2 cluster47_cluster7_2 * avg_reward7_2
+   + 2 cluster47_cluster12_0 * avg_reward12_0
+   + 2 cluster47_cluster12_1 * avg_reward12_1
+   + 2 cluster47_cluster12_2 * avg_reward12_2
+   + 2 cluster47_cluster15_0 * avg_reward15_0
+   + 2 cluster47_cluster15_1 * avg_reward15_1
+   + 2 cluster47_cluster15_2 * avg_reward15_2
+   + 2 cluster47_cluster37_0 * avg_reward37_0
+   + 2 cluster47_cluster37_1 * avg_reward37_1
+   + 2 cluster47_cluster37_2 * avg_reward37_2
+   + 2 cluster47_cluster38_0 * avg_reward38_0
+   + 2 cluster47_cluster38_1 * avg_reward38_1
+   + 2 cluster47_cluster38_2 * avg_reward38_2
+   + 2 cluster47_cluster44_0 * avg_reward44_0
+   + 2 cluster47_cluster44_1 * avg_reward44_1
+   + 2 cluster47_cluster44_2 * avg_reward44_2
+   + 2 cluster47_cluster49_0 * avg_reward49_0
+   + 2 cluster47_cluster49_1 * avg_reward49_1
+   + 2 cluster47_cluster49_2 * avg_reward49_2
+   + 2 cluster48_cluster4_0 * avg_reward4_0
+   + 2 cluster48_cluster4_1 * avg_reward4_1
+   + 2 cluster48_cluster4_2 * avg_reward4_2
+   + 2 cluster48_cluster7_0 * avg_reward7_0
+   + 2 cluster48_cluster7_1 * avg_reward7_1
+   + 2 cluster48_cluster7_2 * avg_reward7_2
+   + 2 cluster48_cluster12_0 * avg_reward12_0
+   + 2 cluster48_cluster12_1 * avg_reward12_1
+   + 2 cluster48_cluster12_2 * avg_reward12_2
+   + 2 cluster48_cluster15_0 * avg_reward15_0
+   + 2 cluster48_cluster15_1 * avg_reward15_1
+   + 2 cluster48_cluster15_2 * avg_reward15_2
+   + 2 cluster48_cluster37_0 * avg_reward37_0
+   + 2 cluster48_cluster37_1 * avg_reward37_1
+   + 2 cluster48_cluster37_2 * avg_reward37_2
+   + 2 cluster48_cluster38_0 * avg_reward38_0
+   + 2 cluster48_cluster38_1 * avg_reward38_1
+   + 2 cluster48_cluster38_2 * avg_reward38_2
+   + 2 cluster48_cluster44_0 * avg_reward44_0
+   + 2 cluster48_cluster44_1 * avg_reward44_1
+   + 2 cluster48_cluster44_2 * avg_reward44_2
+   + 2 cluster48_cluster49_0 * avg_reward49_0
+   + 2 cluster48_cluster49_1 * avg_reward49_1
+   + 2 cluster48_cluster49_2 * avg_reward49_2 ] / 2 
+Subject To
+Bounds
+Generals
+ cluster0_cluster4_0 cluster0_cluster4_1 cluster0_cluster4_2
+ cluster0_cluster7_0 cluster0_cluster7_1 cluster0_cluster7_2
+ cluster0_cluster12_0 cluster0_cluster12_1 cluster0_cluster12_2
+ cluster0_cluster15_0 cluster0_cluster15_1 cluster0_cluster15_2
+ cluster0_cluster37_0 cluster0_cluster37_1 cluster0_cluster37_2
+ cluster0_cluster38_0 cluster0_cluster38_1 cluster0_cluster38_2
+ cluster0_cluster44_0 cluster0_cluster44_1 cluster0_cluster44_2
+ cluster0_cluster49_0 cluster0_cluster49_1 cluster0_cluster49_2
+ cluster1_cluster4_0 cluster1_cluster4_1 cluster1_cluster4_2
+ cluster1_cluster7_0 cluster1_cluster7_1 cluster1_cluster7_2
+ cluster1_cluster12_0 cluster1_cluster12_1 cluster1_cluster12_2
+ cluster1_cluster15_0 cluster1_cluster15_1 cluster1_cluster15_2
+ cluster1_cluster37_0 cluster1_cluster37_1 cluster1_cluster37_2
+ cluster1_cluster38_0 cluster1_cluster38_1 cluster1_cluster38_2
+ cluster1_cluster44_0 cluster1_cluster44_1 cluster1_cluster44_2
+ cluster1_cluster49_0 cluster1_cluster49_1 cluster1_cluster49_2
+ cluster2_cluster4_0 cluster2_cluster4_1 cluster2_cluster4_2
+ cluster2_cluster7_0 cluster2_cluster7_1 cluster2_cluster7_2
+ cluster2_cluster12_0 cluster2_cluster12_1 cluster2_cluster12_2
+ cluster2_cluster15_0 cluster2_cluster15_1 cluster2_cluster15_2
+ cluster2_cluster37_0 cluster2_cluster37_1 cluster2_cluster37_2
+ cluster2_cluster38_0 cluster2_cluster38_1 cluster2_cluster38_2
+ cluster2_cluster44_0 cluster2_cluster44_1 cluster2_cluster44_2
+ cluster2_cluster49_0 cluster2_cluster49_1 cluster2_cluster49_2
+ cluster3_cluster4_0 cluster3_cluster4_1 cluster3_cluster4_2
+ cluster3_cluster7_0 cluster3_cluster7_1 cluster3_cluster7_2
+ cluster3_cluster12_0 cluster3_cluster12_1 cluster3_cluster12_2
+ cluster3_cluster15_0 cluster3_cluster15_1 cluster3_cluster15_2
+ cluster3_cluster37_0 cluster3_cluster37_1 cluster3_cluster37_2
+ cluster3_cluster38_0 cluster3_cluster38_1 cluster3_cluster38_2
+ cluster3_cluster44_0 cluster3_cluster44_1 cluster3_cluster44_2
+ cluster3_cluster49_0 cluster3_cluster49_1 cluster3_cluster49_2
+ cluster5_cluster4_0 cluster5_cluster4_1 cluster5_cluster4_2
+ cluster5_cluster7_0 cluster5_cluster7_1 cluster5_cluster7_2
+ cluster5_cluster12_0 cluster5_cluster12_1 cluster5_cluster12_2
+ cluster5_cluster15_0 cluster5_cluster15_1 cluster5_cluster15_2
+ cluster5_cluster37_0 cluster5_cluster37_1 cluster5_cluster37_2
+ cluster5_cluster38_0 cluster5_cluster38_1 cluster5_cluster38_2
+ cluster5_cluster44_0 cluster5_cluster44_1 cluster5_cluster44_2
+ cluster5_cluster49_0 cluster5_cluster49_1 cluster5_cluster49_2
+ cluster6_cluster4_0 cluster6_cluster4_1 cluster6_cluster4_2
+ cluster6_cluster7_0 cluster6_cluster7_1 cluster6_cluster7_2
+ cluster6_cluster12_0 cluster6_cluster12_1 cluster6_cluster12_2
+ cluster6_cluster15_0 cluster6_cluster15_1 cluster6_cluster15_2
+ cluster6_cluster37_0 cluster6_cluster37_1 cluster6_cluster37_2
+ cluster6_cluster38_0 cluster6_cluster38_1 cluster6_cluster38_2
+ cluster6_cluster44_0 cluster6_cluster44_1 cluster6_cluster44_2
+ cluster6_cluster49_0 cluster6_cluster49_1 cluster6_cluster49_2
+ cluster8_cluster4_0 cluster8_cluster4_1 cluster8_cluster4_2
+ cluster8_cluster7_0 cluster8_cluster7_1 cluster8_cluster7_2
+ cluster8_cluster12_0 cluster8_cluster12_1 cluster8_cluster12_2
+ cluster8_cluster15_0 cluster8_cluster15_1 cluster8_cluster15_2
+ cluster8_cluster37_0 cluster8_cluster37_1 cluster8_cluster37_2
+ cluster8_cluster38_0 cluster8_cluster38_1 cluster8_cluster38_2
+ cluster8_cluster44_0 cluster8_cluster44_1 cluster8_cluster44_2
+ cluster8_cluster49_0 cluster8_cluster49_1 cluster8_cluster49_2
+ cluster9_cluster4_0 cluster9_cluster4_1 cluster9_cluster4_2
+ cluster9_cluster7_0 cluster9_cluster7_1 cluster9_cluster7_2
+ cluster9_cluster12_0 cluster9_cluster12_1 cluster9_cluster12_2
+ cluster9_cluster15_0 cluster9_cluster15_1 cluster9_cluster15_2
+ cluster9_cluster37_0 cluster9_cluster37_1 cluster9_cluster37_2
+ cluster9_cluster38_0 cluster9_cluster38_1 cluster9_cluster38_2
+ cluster9_cluster44_0 cluster9_cluster44_1 cluster9_cluster44_2
+ cluster9_cluster49_0 cluster9_cluster49_1 cluster9_cluster49_2
+ cluster10_cluster4_0 cluster10_cluster4_1 cluster10_cluster4_2
+ cluster10_cluster7_0 cluster10_cluster7_1 cluster10_cluster7_2
+ cluster10_cluster12_0 cluster10_cluster12_1 cluster10_cluster12_2
+ cluster10_cluster15_0 cluster10_cluster15_1 cluster10_cluster15_2
+ cluster10_cluster37_0 cluster10_cluster37_1 cluster10_cluster37_2
+ cluster10_cluster38_0 cluster10_cluster38_1 cluster10_cluster38_2
+ cluster10_cluster44_0 cluster10_cluster44_1 cluster10_cluster44_2
+ cluster10_cluster49_0 cluster10_cluster49_1 cluster10_cluster49_2
+ cluster11_cluster4_0 cluster11_cluster4_1 cluster11_cluster4_2
+ cluster11_cluster7_0 cluster11_cluster7_1 cluster11_cluster7_2
+ cluster11_cluster12_0 cluster11_cluster12_1 cluster11_cluster12_2
+ cluster11_cluster15_0 cluster11_cluster15_1 cluster11_cluster15_2
+ cluster11_cluster37_0 cluster11_cluster37_1 cluster11_cluster37_2
+ cluster11_cluster38_0 cluster11_cluster38_1 cluster11_cluster38_2
+ cluster11_cluster44_0 cluster11_cluster44_1 cluster11_cluster44_2
+ cluster11_cluster49_0 cluster11_cluster49_1 cluster11_cluster49_2
+ cluster13_cluster4_0 cluster13_cluster4_1 cluster13_cluster4_2
+ cluster13_cluster7_0 cluster13_cluster7_1 cluster13_cluster7_2
+ cluster13_cluster12_0 cluster13_cluster12_1 cluster13_cluster12_2
+ cluster13_cluster15_0 cluster13_cluster15_1 cluster13_cluster15_2
+ cluster13_cluster37_0 cluster13_cluster37_1 cluster13_cluster37_2
+ cluster13_cluster38_0 cluster13_cluster38_1 cluster13_cluster38_2
+ cluster13_cluster44_0 cluster13_cluster44_1 cluster13_cluster44_2
+ cluster13_cluster49_0 cluster13_cluster49_1 cluster13_cluster49_2
+ cluster14_cluster4_0 cluster14_cluster4_1 cluster14_cluster4_2
+ cluster14_cluster7_0 cluster14_cluster7_1 cluster14_cluster7_2
+ cluster14_cluster12_0 cluster14_cluster12_1 cluster14_cluster12_2
+ cluster14_cluster15_0 cluster14_cluster15_1 cluster14_cluster15_2
+ cluster14_cluster37_0 cluster14_cluster37_1 cluster14_cluster37_2
+ cluster14_cluster38_0 cluster14_cluster38_1 cluster14_cluster38_2
+ cluster14_cluster44_0 cluster14_cluster44_1 cluster14_cluster44_2
+ cluster14_cluster49_0 cluster14_cluster49_1 cluster14_cluster49_2
+ cluster16_cluster4_0 cluster16_cluster4_1 cluster16_cluster4_2
+ cluster16_cluster7_0 cluster16_cluster7_1 cluster16_cluster7_2
+ cluster16_cluster12_0 cluster16_cluster12_1 cluster16_cluster12_2
+ cluster16_cluster15_0 cluster16_cluster15_1 cluster16_cluster15_2
+ cluster16_cluster37_0 cluster16_cluster37_1 cluster16_cluster37_2
+ cluster16_cluster38_0 cluster16_cluster38_1 cluster16_cluster38_2
+ cluster16_cluster44_0 cluster16_cluster44_1 cluster16_cluster44_2
+ cluster16_cluster49_0 cluster16_cluster49_1 cluster16_cluster49_2
+ cluster17_cluster4_0 cluster17_cluster4_1 cluster17_cluster4_2
+ cluster17_cluster7_0 cluster17_cluster7_1 cluster17_cluster7_2
+ cluster17_cluster12_0 cluster17_cluster12_1 cluster17_cluster12_2
+ cluster17_cluster15_0 cluster17_cluster15_1 cluster17_cluster15_2
+ cluster17_cluster37_0 cluster17_cluster37_1 cluster17_cluster37_2
+ cluster17_cluster38_0 cluster17_cluster38_1 cluster17_cluster38_2
+ cluster17_cluster44_0 cluster17_cluster44_1 cluster17_cluster44_2
+ cluster17_cluster49_0 cluster17_cluster49_1 cluster17_cluster49_2
+ cluster18_cluster4_0 cluster18_cluster4_1 cluster18_cluster4_2
+ cluster18_cluster7_0 cluster18_cluster7_1 cluster18_cluster7_2
+ cluster18_cluster12_0 cluster18_cluster12_1 cluster18_cluster12_2
+ cluster18_cluster15_0 cluster18_cluster15_1 cluster18_cluster15_2
+ cluster18_cluster37_0 cluster18_cluster37_1 cluster18_cluster37_2
+ cluster18_cluster38_0 cluster18_cluster38_1 cluster18_cluster38_2
+ cluster18_cluster44_0 cluster18_cluster44_1 cluster18_cluster44_2
+ cluster18_cluster49_0 cluster18_cluster49_1 cluster18_cluster49_2
+ cluster19_cluster4_0 cluster19_cluster4_1 cluster19_cluster4_2
+ cluster19_cluster7_0 cluster19_cluster7_1 cluster19_cluster7_2
+ cluster19_cluster12_0 cluster19_cluster12_1 cluster19_cluster12_2
+ cluster19_cluster15_0 cluster19_cluster15_1 cluster19_cluster15_2
+ cluster19_cluster37_0 cluster19_cluster37_1 cluster19_cluster37_2
+ cluster19_cluster38_0 cluster19_cluster38_1 cluster19_cluster38_2
+ cluster19_cluster44_0 cluster19_cluster44_1 cluster19_cluster44_2
+ cluster19_cluster49_0 cluster19_cluster49_1 cluster19_cluster49_2
+ cluster20_cluster4_0 cluster20_cluster4_1 cluster20_cluster4_2
+ cluster20_cluster7_0 cluster20_cluster7_1 cluster20_cluster7_2
+ cluster20_cluster12_0 cluster20_cluster12_1 cluster20_cluster12_2
+ cluster20_cluster15_0 cluster20_cluster15_1 cluster20_cluster15_2
+ cluster20_cluster37_0 cluster20_cluster37_1 cluster20_cluster37_2
+ cluster20_cluster38_0 cluster20_cluster38_1 cluster20_cluster38_2
+ cluster20_cluster44_0 cluster20_cluster44_1 cluster20_cluster44_2
+ cluster20_cluster49_0 cluster20_cluster49_1 cluster20_cluster49_2
+ cluster21_cluster4_0 cluster21_cluster4_1 cluster21_cluster4_2
+ cluster21_cluster7_0 cluster21_cluster7_1 cluster21_cluster7_2
+ cluster21_cluster12_0 cluster21_cluster12_1 cluster21_cluster12_2
+ cluster21_cluster15_0 cluster21_cluster15_1 cluster21_cluster15_2
+ cluster21_cluster37_0 cluster21_cluster37_1 cluster21_cluster37_2
+ cluster21_cluster38_0 cluster21_cluster38_1 cluster21_cluster38_2
+ cluster21_cluster44_0 cluster21_cluster44_1 cluster21_cluster44_2
+ cluster21_cluster49_0 cluster21_cluster49_1 cluster21_cluster49_2
+ cluster22_cluster4_0 cluster22_cluster4_1 cluster22_cluster4_2
+ cluster22_cluster7_0 cluster22_cluster7_1 cluster22_cluster7_2
+ cluster22_cluster12_0 cluster22_cluster12_1 cluster22_cluster12_2
+ cluster22_cluster15_0 cluster22_cluster15_1 cluster22_cluster15_2
+ cluster22_cluster37_0 cluster22_cluster37_1 cluster22_cluster37_2
+ cluster22_cluster38_0 cluster22_cluster38_1 cluster22_cluster38_2
+ cluster22_cluster44_0 cluster22_cluster44_1 cluster22_cluster44_2
+ cluster22_cluster49_0 cluster22_cluster49_1 cluster22_cluster49_2
+ cluster23_cluster4_0 cluster23_cluster4_1 cluster23_cluster4_2
+ cluster23_cluster7_0 cluster23_cluster7_1 cluster23_cluster7_2
+ cluster23_cluster12_0 cluster23_cluster12_1 cluster23_cluster12_2
+ cluster23_cluster15_0 cluster23_cluster15_1 cluster23_cluster15_2
+ cluster23_cluster37_0 cluster23_cluster37_1 cluster23_cluster37_2
+ cluster23_cluster38_0 cluster23_cluster38_1 cluster23_cluster38_2
+ cluster23_cluster44_0 cluster23_cluster44_1 cluster23_cluster44_2
+ cluster23_cluster49_0 cluster23_cluster49_1 cluster23_cluster49_2
+ cluster24_cluster4_0 cluster24_cluster4_1 cluster24_cluster4_2
+ cluster24_cluster7_0 cluster24_cluster7_1 cluster24_cluster7_2
+ cluster24_cluster12_0 cluster24_cluster12_1 cluster24_cluster12_2
+ cluster24_cluster15_0 cluster24_cluster15_1 cluster24_cluster15_2
+ cluster24_cluster37_0 cluster24_cluster37_1 cluster24_cluster37_2
+ cluster24_cluster38_0 cluster24_cluster38_1 cluster24_cluster38_2
+ cluster24_cluster44_0 cluster24_cluster44_1 cluster24_cluster44_2
+ cluster24_cluster49_0 cluster24_cluster49_1 cluster24_cluster49_2
+ cluster25_cluster4_0 cluster25_cluster4_1 cluster25_cluster4_2
+ cluster25_cluster7_0 cluster25_cluster7_1 cluster25_cluster7_2
+ cluster25_cluster12_0 cluster25_cluster12_1 cluster25_cluster12_2
+ cluster25_cluster15_0 cluster25_cluster15_1 cluster25_cluster15_2
+ cluster25_cluster37_0 cluster25_cluster37_1 cluster25_cluster37_2
+ cluster25_cluster38_0 cluster25_cluster38_1 cluster25_cluster38_2
+ cluster25_cluster44_0 cluster25_cluster44_1 cluster25_cluster44_2
+ cluster25_cluster49_0 cluster25_cluster49_1 cluster25_cluster49_2
+ cluster26_cluster4_0 cluster26_cluster4_1 cluster26_cluster4_2
+ cluster26_cluster7_0 cluster26_cluster7_1 cluster26_cluster7_2
+ cluster26_cluster12_0 cluster26_cluster12_1 cluster26_cluster12_2
+ cluster26_cluster15_0 cluster26_cluster15_1 cluster26_cluster15_2
+ cluster26_cluster37_0 cluster26_cluster37_1 cluster26_cluster37_2
+ cluster26_cluster38_0 cluster26_cluster38_1 cluster26_cluster38_2
+ cluster26_cluster44_0 cluster26_cluster44_1 cluster26_cluster44_2
+ cluster26_cluster49_0 cluster26_cluster49_1 cluster26_cluster49_2
+ cluster27_cluster4_0 cluster27_cluster4_1 cluster27_cluster4_2
+ cluster27_cluster7_0 cluster27_cluster7_1 cluster27_cluster7_2
+ cluster27_cluster12_0 cluster27_cluster12_1 cluster27_cluster12_2
+ cluster27_cluster15_0 cluster27_cluster15_1 cluster27_cluster15_2
+ cluster27_cluster37_0 cluster27_cluster37_1 cluster27_cluster37_2
+ cluster27_cluster38_0 cluster27_cluster38_1 cluster27_cluster38_2
+ cluster27_cluster44_0 cluster27_cluster44_1 cluster27_cluster44_2
+ cluster27_cluster49_0 cluster27_cluster49_1 cluster27_cluster49_2
+ cluster28_cluster4_0 cluster28_cluster4_1 cluster28_cluster4_2
+ cluster28_cluster7_0 cluster28_cluster7_1 cluster28_cluster7_2
+ cluster28_cluster12_0 cluster28_cluster12_1 cluster28_cluster12_2
+ cluster28_cluster15_0 cluster28_cluster15_1 cluster28_cluster15_2
+ cluster28_cluster37_0 cluster28_cluster37_1 cluster28_cluster37_2
+ cluster28_cluster38_0 cluster28_cluster38_1 cluster28_cluster38_2
+ cluster28_cluster44_0 cluster28_cluster44_1 cluster28_cluster44_2
+ cluster28_cluster49_0 cluster28_cluster49_1 cluster28_cluster49_2
+ cluster29_cluster4_0 cluster29_cluster4_1 cluster29_cluster4_2
+ cluster29_cluster7_0 cluster29_cluster7_1 cluster29_cluster7_2
+ cluster29_cluster12_0 cluster29_cluster12_1 cluster29_cluster12_2
+ cluster29_cluster15_0 cluster29_cluster15_1 cluster29_cluster15_2
+ cluster29_cluster37_0 cluster29_cluster37_1 cluster29_cluster37_2
+ cluster29_cluster38_0 cluster29_cluster38_1 cluster29_cluster38_2
+ cluster29_cluster44_0 cluster29_cluster44_1 cluster29_cluster44_2
+ cluster29_cluster49_0 cluster29_cluster49_1 cluster29_cluster49_2
+ cluster30_cluster4_0 cluster30_cluster4_1 cluster30_cluster4_2
+ cluster30_cluster7_0 cluster30_cluster7_1 cluster30_cluster7_2
+ cluster30_cluster12_0 cluster30_cluster12_1 cluster30_cluster12_2
+ cluster30_cluster15_0 cluster30_cluster15_1 cluster30_cluster15_2
+ cluster30_cluster37_0 cluster30_cluster37_1 cluster30_cluster37_2
+ cluster30_cluster38_0 cluster30_cluster38_1 cluster30_cluster38_2
+ cluster30_cluster44_0 cluster30_cluster44_1 cluster30_cluster44_2
+ cluster30_cluster49_0 cluster30_cluster49_1 cluster30_cluster49_2
+ cluster31_cluster4_0 cluster31_cluster4_1 cluster31_cluster4_2
+ cluster31_cluster7_0 cluster31_cluster7_1 cluster31_cluster7_2
+ cluster31_cluster12_0 cluster31_cluster12_1 cluster31_cluster12_2
+ cluster31_cluster15_0 cluster31_cluster15_1 cluster31_cluster15_2
+ cluster31_cluster37_0 cluster31_cluster37_1 cluster31_cluster37_2
+ cluster31_cluster38_0 cluster31_cluster38_1 cluster31_cluster38_2
+ cluster31_cluster44_0 cluster31_cluster44_1 cluster31_cluster44_2
+ cluster31_cluster49_0 cluster31_cluster49_1 cluster31_cluster49_2
+ cluster32_cluster4_0 cluster32_cluster4_1 cluster32_cluster4_2
+ cluster32_cluster7_0 cluster32_cluster7_1 cluster32_cluster7_2
+ cluster32_cluster12_0 cluster32_cluster12_1 cluster32_cluster12_2
+ cluster32_cluster15_0 cluster32_cluster15_1 cluster32_cluster15_2
+ cluster32_cluster37_0 cluster32_cluster37_1 cluster32_cluster37_2
+ cluster32_cluster38_0 cluster32_cluster38_1 cluster32_cluster38_2
+ cluster32_cluster44_0 cluster32_cluster44_1 cluster32_cluster44_2
+ cluster32_cluster49_0 cluster32_cluster49_1 cluster32_cluster49_2
+ cluster33_cluster4_0 cluster33_cluster4_1 cluster33_cluster4_2
+ cluster33_cluster7_0 cluster33_cluster7_1 cluster33_cluster7_2
+ cluster33_cluster12_0 cluster33_cluster12_1 cluster33_cluster12_2
+ cluster33_cluster15_0 cluster33_cluster15_1 cluster33_cluster15_2
+ cluster33_cluster37_0 cluster33_cluster37_1 cluster33_cluster37_2
+ cluster33_cluster38_0 cluster33_cluster38_1 cluster33_cluster38_2
+ cluster33_cluster44_0 cluster33_cluster44_1 cluster33_cluster44_2
+ cluster33_cluster49_0 cluster33_cluster49_1 cluster33_cluster49_2
+ cluster34_cluster4_0 cluster34_cluster4_1 cluster34_cluster4_2
+ cluster34_cluster7_0 cluster34_cluster7_1 cluster34_cluster7_2
+ cluster34_cluster12_0 cluster34_cluster12_1 cluster34_cluster12_2
+ cluster34_cluster15_0 cluster34_cluster15_1 cluster34_cluster15_2
+ cluster34_cluster37_0 cluster34_cluster37_1 cluster34_cluster37_2
+ cluster34_cluster38_0 cluster34_cluster38_1 cluster34_cluster38_2
+ cluster34_cluster44_0 cluster34_cluster44_1 cluster34_cluster44_2
+ cluster34_cluster49_0 cluster34_cluster49_1 cluster34_cluster49_2
+ cluster35_cluster4_0 cluster35_cluster4_1 cluster35_cluster4_2
+ cluster35_cluster7_0 cluster35_cluster7_1 cluster35_cluster7_2
+ cluster35_cluster12_0 cluster35_cluster12_1 cluster35_cluster12_2
+ cluster35_cluster15_0 cluster35_cluster15_1 cluster35_cluster15_2
+ cluster35_cluster37_0 cluster35_cluster37_1 cluster35_cluster37_2
+ cluster35_cluster38_0 cluster35_cluster38_1 cluster35_cluster38_2
+ cluster35_cluster44_0 cluster35_cluster44_1 cluster35_cluster44_2
+ cluster35_cluster49_0 cluster35_cluster49_1 cluster35_cluster49_2
+ cluster36_cluster4_0 cluster36_cluster4_1 cluster36_cluster4_2
+ cluster36_cluster7_0 cluster36_cluster7_1 cluster36_cluster7_2
+ cluster36_cluster12_0 cluster36_cluster12_1 cluster36_cluster12_2
+ cluster36_cluster15_0 cluster36_cluster15_1 cluster36_cluster15_2
+ cluster36_cluster37_0 cluster36_cluster37_1 cluster36_cluster37_2
+ cluster36_cluster38_0 cluster36_cluster38_1 cluster36_cluster38_2
+ cluster36_cluster44_0 cluster36_cluster44_1 cluster36_cluster44_2
+ cluster36_cluster49_0 cluster36_cluster49_1 cluster36_cluster49_2
+ cluster39_cluster4_0 cluster39_cluster4_1 cluster39_cluster4_2
+ cluster39_cluster7_0 cluster39_cluster7_1 cluster39_cluster7_2
+ cluster39_cluster12_0 cluster39_cluster12_1 cluster39_cluster12_2
+ cluster39_cluster15_0 cluster39_cluster15_1 cluster39_cluster15_2
+ cluster39_cluster37_0 cluster39_cluster37_1 cluster39_cluster37_2
+ cluster39_cluster38_0 cluster39_cluster38_1 cluster39_cluster38_2
+ cluster39_cluster44_0 cluster39_cluster44_1 cluster39_cluster44_2
+ cluster39_cluster49_0 cluster39_cluster49_1 cluster39_cluster49_2
+ cluster40_cluster4_0 cluster40_cluster4_1 cluster40_cluster4_2
+ cluster40_cluster7_0 cluster40_cluster7_1 cluster40_cluster7_2
+ cluster40_cluster12_0 cluster40_cluster12_1 cluster40_cluster12_2
+ cluster40_cluster15_0 cluster40_cluster15_1 cluster40_cluster15_2
+ cluster40_cluster37_0 cluster40_cluster37_1 cluster40_cluster37_2
+ cluster40_cluster38_0 cluster40_cluster38_1 cluster40_cluster38_2
+ cluster40_cluster44_0 cluster40_cluster44_1 cluster40_cluster44_2
+ cluster40_cluster49_0 cluster40_cluster49_1 cluster40_cluster49_2
+ cluster41_cluster4_0 cluster41_cluster4_1 cluster41_cluster4_2
+ cluster41_cluster7_0 cluster41_cluster7_1 cluster41_cluster7_2
+ cluster41_cluster12_0 cluster41_cluster12_1 cluster41_cluster12_2
+ cluster41_cluster15_0 cluster41_cluster15_1 cluster41_cluster15_2
+ cluster41_cluster37_0 cluster41_cluster37_1 cluster41_cluster37_2
+ cluster41_cluster38_0 cluster41_cluster38_1 cluster41_cluster38_2
+ cluster41_cluster44_0 cluster41_cluster44_1 cluster41_cluster44_2
+ cluster41_cluster49_0 cluster41_cluster49_1 cluster41_cluster49_2
+ cluster42_cluster4_0 cluster42_cluster4_1 cluster42_cluster4_2
+ cluster42_cluster7_0 cluster42_cluster7_1 cluster42_cluster7_2
+ cluster42_cluster12_0 cluster42_cluster12_1 cluster42_cluster12_2
+ cluster42_cluster15_0 cluster42_cluster15_1 cluster42_cluster15_2
+ cluster42_cluster37_0 cluster42_cluster37_1 cluster42_cluster37_2
+ cluster42_cluster38_0 cluster42_cluster38_1 cluster42_cluster38_2
+ cluster42_cluster44_0 cluster42_cluster44_1 cluster42_cluster44_2
+ cluster42_cluster49_0 cluster42_cluster49_1 cluster42_cluster49_2
+ cluster43_cluster4_0 cluster43_cluster4_1 cluster43_cluster4_2
+ cluster43_cluster7_0 cluster43_cluster7_1 cluster43_cluster7_2
+ cluster43_cluster12_0 cluster43_cluster12_1 cluster43_cluster12_2
+ cluster43_cluster15_0 cluster43_cluster15_1 cluster43_cluster15_2
+ cluster43_cluster37_0 cluster43_cluster37_1 cluster43_cluster37_2
+ cluster43_cluster38_0 cluster43_cluster38_1 cluster43_cluster38_2
+ cluster43_cluster44_0 cluster43_cluster44_1 cluster43_cluster44_2
+ cluster43_cluster49_0 cluster43_cluster49_1 cluster43_cluster49_2
+ cluster45_cluster4_0 cluster45_cluster4_1 cluster45_cluster4_2
+ cluster45_cluster7_0 cluster45_cluster7_1 cluster45_cluster7_2
+ cluster45_cluster12_0 cluster45_cluster12_1 cluster45_cluster12_2
+ cluster45_cluster15_0 cluster45_cluster15_1 cluster45_cluster15_2
+ cluster45_cluster37_0 cluster45_cluster37_1 cluster45_cluster37_2
+ cluster45_cluster38_0 cluster45_cluster38_1 cluster45_cluster38_2
+ cluster45_cluster44_0 cluster45_cluster44_1 cluster45_cluster44_2
+ cluster45_cluster49_0 cluster45_cluster49_1 cluster45_cluster49_2
+ cluster46_cluster4_0 cluster46_cluster4_1 cluster46_cluster4_2
+ cluster46_cluster7_0 cluster46_cluster7_1 cluster46_cluster7_2
+ cluster46_cluster12_0 cluster46_cluster12_1 cluster46_cluster12_2
+ cluster46_cluster15_0 cluster46_cluster15_1 cluster46_cluster15_2
+ cluster46_cluster37_0 cluster46_cluster37_1 cluster46_cluster37_2
+ cluster46_cluster38_0 cluster46_cluster38_1 cluster46_cluster38_2
+ cluster46_cluster44_0 cluster46_cluster44_1 cluster46_cluster44_2
+ cluster46_cluster49_0 cluster46_cluster49_1 cluster46_cluster49_2
+ cluster47_cluster4_0 cluster47_cluster4_1 cluster47_cluster4_2
+ cluster47_cluster7_0 cluster47_cluster7_1 cluster47_cluster7_2
+ cluster47_cluster12_0 cluster47_cluster12_1 cluster47_cluster12_2
+ cluster47_cluster15_0 cluster47_cluster15_1 cluster47_cluster15_2
+ cluster47_cluster37_0 cluster47_cluster37_1 cluster47_cluster37_2
+ cluster47_cluster38_0 cluster47_cluster38_1 cluster47_cluster38_2
+ cluster47_cluster44_0 cluster47_cluster44_1 cluster47_cluster44_2
+ cluster47_cluster49_0 cluster47_cluster49_1 cluster47_cluster49_2
+ cluster48_cluster4_0 cluster48_cluster4_1 cluster48_cluster4_2
+ cluster48_cluster7_0 cluster48_cluster7_1 cluster48_cluster7_2
+ cluster48_cluster12_0 cluster48_cluster12_1 cluster48_cluster12_2
+ cluster48_cluster15_0 cluster48_cluster15_1 cluster48_cluster15_2
+ cluster48_cluster37_0 cluster48_cluster37_1 cluster48_cluster37_2
+ cluster48_cluster38_0 cluster48_cluster38_1 cluster48_cluster38_2
+ cluster48_cluster44_0 cluster48_cluster44_1 cluster48_cluster44_2
+ cluster48_cluster49_0 cluster48_cluster49_1 cluster48_cluster49_2
+End

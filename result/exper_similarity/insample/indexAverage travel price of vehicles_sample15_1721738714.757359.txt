@@ -1,0 +1,1 @@
+temp_text:model.setObjective(gp.quicksum(model.getVarByName(f'avg_reward{j}_{k}') for j in D for k in K), GRB.MAXIMIZE)

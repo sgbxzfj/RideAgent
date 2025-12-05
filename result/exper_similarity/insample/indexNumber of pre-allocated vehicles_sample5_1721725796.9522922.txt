@@ -1,0 +1,1 @@
+temp_text:model.setObjective(gp.quicksum(model.getVarByName(f'cluster{i}_cluster{j}_{k}') - w[S.index(i)][D.index(j)] for i in S for j in D for k in K), GRB.MAXIMIZE)

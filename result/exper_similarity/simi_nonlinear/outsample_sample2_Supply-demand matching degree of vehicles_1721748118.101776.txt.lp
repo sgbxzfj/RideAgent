@@ -1,0 +1,3366 @@
+\ LP format - for model browsing. Use MPS format to capture full model detail.
+Maximize
+  - 12.61175646233088 cluster0_cluster4_0
+   - 12.61175646233088 cluster0_cluster4_1
+   - 12.61175646233088 cluster0_cluster4_2
+   - 14.68293109326494 cluster0_cluster7_0
+   - 14.68293109326494 cluster0_cluster7_1
+   - 14.68293109326494 cluster0_cluster7_2
+   - 16.45895148936765 cluster0_cluster12_0
+   - 16.45895148936765 cluster0_cluster12_1
+   - 16.45895148936765 cluster0_cluster12_2
+   - 6.083489981965904 cluster0_cluster15_0
+   - 6.083489981965904 cluster0_cluster15_1
+   - 6.083489981965904 cluster0_cluster15_2
+   - 10.62875390270224 cluster0_cluster37_0
+   - 10.62875390270224 cluster0_cluster37_1
+   - 10.62875390270224 cluster0_cluster37_2
+   - 15.79346728003753 cluster0_cluster38_0
+   - 15.79346728003753 cluster0_cluster38_1
+   - 15.79346728003753 cluster0_cluster38_2
+   - 16.50272604934229 cluster0_cluster44_0
+   - 16.50272604934229 cluster0_cluster44_1
+   - 16.50272604934229 cluster0_cluster44_2
+   - 12.62160548537826 cluster0_cluster49_0
+   - 12.62160548537826 cluster0_cluster49_1
+   - 12.62160548537826 cluster0_cluster49_2
+   - 6.761259576686582 cluster1_cluster4_0
+   - 6.761259576686582 cluster1_cluster4_1
+   - 6.761259576686582 cluster1_cluster4_2
+   - 5.901524356276795 cluster1_cluster7_0
+   - 5.901524356276795 cluster1_cluster7_1
+   - 5.901524356276795 cluster1_cluster7_2
+   - 7.870260247047912 cluster1_cluster12_0
+   - 7.870260247047912 cluster1_cluster12_1
+   - 7.870260247047912 cluster1_cluster12_2
+   - 14.27652464021808 cluster1_cluster15_0
+   - 14.27652464021808 cluster1_cluster15_1
+   - 14.27652464021808 cluster1_cluster15_2
+   - 8.750295278801813 cluster1_cluster37_0
+   - 8.750295278801813 cluster1_cluster37_1
+   - 8.750295278801813 cluster1_cluster37_2
+   - 6.733360920563036 cluster1_cluster38_0
+   - 6.733360920563036 cluster1_cluster38_1
+   - 6.733360920563036 cluster1_cluster38_2
+   - 8.316854976381169 cluster1_cluster44_0
+   - 8.316854976381169 cluster1_cluster44_1
+   - 8.316854976381169 cluster1_cluster44_2
+   - 6.67971735741382 cluster1_cluster49_0
+   - 6.67971735741382 cluster1_cluster49_1
+   - 6.67971735741382 cluster1_cluster49_2
+   - 8.686326299462422 cluster2_cluster4_0
+   - 8.686326299462422 cluster2_cluster4_1
+   - 8.686326299462422 cluster2_cluster4_2
+   - 6.6442262244217 cluster2_cluster7_0
+   - 6.6442262244217 cluster2_cluster7_1
+   - 6.6442262244217 cluster2_cluster7_2
+   - 5.52071340633359 cluster2_cluster12_0
+   - 5.52071340633359 cluster2_cluster12_1
+   - 5.52071340633359 cluster2_cluster12_2
+   - 16.3365967012745 cluster2_cluster15_0
+   - 16.3365967012745 cluster2_cluster15_1
+   - 16.3365967012745 cluster2_cluster15_2
+   - 10.92548817847261 cluster2_cluster37_0
+   - 10.92548817847261 cluster2_cluster37_1
+   - 10.92548817847261 cluster2_cluster37_2
+   - 5.738117773024051 cluster2_cluster38_0
+   - 5.738117773024051 cluster2_cluster38_1
+   - 5.738117773024051 cluster2_cluster38_2
+   - 6.143712393728427 cluster2_cluster44_0
+   - 6.143712393728427 cluster2_cluster44_1
+   - 6.143712393728427 cluster2_cluster44_2
+   - 8.806849196180206 cluster2_cluster49_0
+   - 8.806849196180206 cluster2_cluster49_1
+   - 8.806849196180206 cluster2_cluster49_2
+   - 6.976487727481008 cluster3_cluster4_0
+   - 6.976487727481008 cluster3_cluster4_1
+   - 6.976487727481008 cluster3_cluster4_2
+   - 7.674343633370832 cluster3_cluster7_0
+   - 7.674343633370832 cluster3_cluster7_1
+   - 7.674343633370832 cluster3_cluster7_2
+   - 8.780893712008002 cluster3_cluster12_0
+   - 8.780893712008002 cluster3_cluster12_1
+   - 8.780893712008002 cluster3_cluster12_2
+   - 13.20177734048212 cluster3_cluster15_0
+   - 13.20177734048212 cluster3_cluster15_1
+   - 13.20177734048212 cluster3_cluster15_2
+   - 8.571356224971268 cluster3_cluster37_0
+   - 8.571356224971268 cluster3_cluster37_1
+   - 8.571356224971268 cluster3_cluster37_2
+   - 8.572217601322549 cluster3_cluster38_0
+   - 8.572217601322549 cluster3_cluster38_1
+   - 8.572217601322549 cluster3_cluster38_2
+   - 8.684495470661682 cluster3_cluster44_0
+   - 8.684495470661682 cluster3_cluster44_1
+   - 8.684495470661682 cluster3_cluster44_2
+   - 7.373992792816496 cluster3_cluster49_0
+   - 7.373992792816496 cluster3_cluster49_1
+   - 7.373992792816496 cluster3_cluster49_2
+   - 6.389807520502212 cluster5_cluster4_0
+   - 6.389807520502212 cluster5_cluster4_1
+   - 6.389807520502212 cluster5_cluster4_2
+   - 7.857303328194904 cluster5_cluster7_0
+   - 7.857303328194904 cluster5_cluster7_1
+   - 7.857303328194904 cluster5_cluster7_2
+   - 9.908431753669483 cluster5_cluster12_0
+   - 9.908431753669483 cluster5_cluster12_1
+   - 9.908431753669483 cluster5_cluster12_2
+   - 12.30574961685416 cluster5_cluster15_0
+   - 12.30574961685416 cluster5_cluster15_1
+   - 12.30574961685416 cluster5_cluster15_2
+   - 6.822933235462227 cluster5_cluster37_0
+   - 6.822933235462227 cluster5_cluster37_1
+   - 6.822933235462227 cluster5_cluster37_2
+   - 8.845353370035731 cluster5_cluster38_0
+   - 8.845353370035731 cluster5_cluster38_1
+   - 8.845353370035731 cluster5_cluster38_2
+   - 10.26185691982135 cluster5_cluster44_0
+   - 10.26185691982135 cluster5_cluster44_1
+   - 10.26185691982135 cluster5_cluster44_2
+   - 6.004233855481236 cluster5_cluster49_0
+   - 6.004233855481236 cluster5_cluster49_1
+   - 6.004233855481236 cluster5_cluster49_2
+   - 9.161083302959639 cluster6_cluster4_0
+   - 9.161083302959639 cluster6_cluster4_1
+   - 9.161083302959639 cluster6_cluster4_2
+   - 10.91207175891755 cluster6_cluster7_0
+   - 10.91207175891755 cluster6_cluster7_1
+   - 10.91207175891755 cluster6_cluster7_2
+   - 12.96313601591457 cluster6_cluster12_0
+   - 12.96313601591457 cluster6_cluster12_1
+   - 12.96313601591457 cluster6_cluster12_2
+   - 10.13930806470566 cluster6_cluster15_0
+   - 10.13930806470566 cluster6_cluster15_1
+   - 10.13930806470566 cluster6_cluster15_2
+   - 7.254674031272883 cluster6_cluster37_0
+   - 7.254674031272883 cluster6_cluster37_1
+   - 7.254674031272883 cluster6_cluster37_2
+   - 11.88463939952661 cluster6_cluster38_0
+   - 11.88463939952661 cluster6_cluster38_1
+   - 11.88463939952661 cluster6_cluster38_2
+   - 13.30155547913454 cluster6_cluster44_0
+   - 13.30155547913454 cluster6_cluster44_1
+   - 13.30155547913454 cluster6_cluster44_2
+   - 8.879509079550264 cluster6_cluster49_0
+   - 8.879509079550264 cluster6_cluster49_1
+   - 8.879509079550264 cluster6_cluster49_2
+   - 15.56077944065239 cluster8_cluster4_0
+   - 15.56077944065239 cluster8_cluster4_1
+   - 15.56077944065239 cluster8_cluster4_2
+   - 17.61637426946471 cluster8_cluster7_0
+   - 17.61637426946471 cluster8_cluster7_1
+   - 17.61637426946471 cluster8_cluster7_2
+   - 19.57318999400472 cluster8_cluster12_0
+   - 19.57318999400472 cluster8_cluster12_1
+   - 19.57318999400472 cluster8_cluster12_2
+   - 8.235636753951153 cluster8_cluster15_0
+   - 8.235636753951153 cluster8_cluster15_1
+   - 8.235636753951153 cluster8_cluster15_2
+   - 13.32275461154068 cluster8_cluster37_0
+   - 13.32275461154068 cluster8_cluster37_1
+   - 13.32275461154068 cluster8_cluster37_2
+   - 18.70040244891064 cluster8_cluster38_0
+   - 18.70040244891064 cluster8_cluster38_1
+   - 18.70040244891064 cluster8_cluster38_2
+   - 19.73809320109699 cluster8_cluster44_0
+   - 19.73809320109699 cluster8_cluster44_1
+   - 19.73809320109699 cluster8_cluster44_2
+   - 15.44866742830531 cluster8_cluster49_0
+   - 15.44866742830531 cluster8_cluster49_1
+   - 15.44866742830531 cluster8_cluster49_2
+   - 9.275879262799736 cluster9_cluster4_0
+   - 9.275879262799736 cluster9_cluster4_1
+   - 9.275879262799736 cluster9_cluster4_2
+   - 11.23981403623927 cluster9_cluster7_0
+   - 11.23981403623927 cluster9_cluster7_1
+   - 11.23981403623927 cluster9_cluster7_2
+   - 12.85761958771296 cluster9_cluster12_0
+   - 12.85761958771296 cluster9_cluster12_1
+   - 12.85761958771296 cluster9_cluster12_2
+   - 9.188415583819438 cluster9_cluster15_0
+   - 9.188415583819438 cluster9_cluster15_1
+   - 9.188415583819438 cluster9_cluster15_2
+   - 7.964015787458719 cluster9_cluster37_0
+   - 7.964015787458719 cluster9_cluster37_1
+   - 7.964015787458719 cluster9_cluster37_2
+   - 12.3315920035309 cluster9_cluster38_0
+   - 12.3315920035309 cluster9_cluster38_1
+   - 12.3315920035309 cluster9_cluster38_2
+   - 12.84473547568378 cluster9_cluster44_0
+   - 12.84473547568378 cluster9_cluster44_1
+   - 12.84473547568378 cluster9_cluster44_2
+   - 9.405964517251761 cluster9_cluster49_0
+   - 9.405964517251761 cluster9_cluster49_1
+   - 9.405964517251761 cluster9_cluster49_2
+   - 16.03126027092898 cluster10_cluster4_0
+   - 16.03126027092898 cluster10_cluster4_1
+   - 16.03126027092898 cluster10_cluster4_2
+   - 14.08935796180828 cluster10_cluster7_0
+   - 14.08935796180828 cluster10_cluster7_1
+   - 14.08935796180828 cluster10_cluster7_2
+   - 12.04425444719791 cluster10_cluster12_0
+   - 12.04425444719791 cluster10_cluster12_1
+   - 12.04425444719791 cluster10_cluster12_2
+   - 23.47175198574429 cluster10_cluster15_0
+   - 23.47175198574429 cluster10_cluster15_1
+   - 23.47175198574429 cluster10_cluster15_2
+   - 18.28877410230469 cluster10_cluster37_0
+   - 18.28877410230469 cluster10_cluster37_1
+   - 18.28877410230469 cluster10_cluster37_2
+   - 13.12583498039485 cluster10_cluster38_0
+   - 13.12583498039485 cluster10_cluster38_1
+   - 13.12583498039485 cluster10_cluster38_2
+   - 11.79844874392774 cluster10_cluster44_0
+   - 11.79844874392774 cluster10_cluster44_1
+   - 11.79844874392774 cluster10_cluster44_2
+   - 16.21323250423163 cluster10_cluster49_0
+   - 16.21323250423163 cluster10_cluster49_1
+   - 16.21323250423163 cluster10_cluster49_2
+   - 10.13431911997716 cluster11_cluster4_0
+   - 10.13431911997716 cluster11_cluster4_1
+   - 10.13431911997716 cluster11_cluster4_2
+   - 12.05903990028556 cluster11_cluster7_0
+   - 12.05903990028556 cluster11_cluster7_1
+   - 12.05903990028556 cluster11_cluster7_2
+   - 14.09325592804468 cluster11_cluster12_0
+   - 14.09325592804468 cluster11_cluster12_1
+   - 14.09325592804468 cluster11_cluster12_2
+   - 8.756857373189114 cluster11_cluster15_0
+   - 8.756857373189114 cluster11_cluster15_1
+   - 8.756857373189114 cluster11_cluster15_2
+   - 7.929915893949564 cluster11_cluster37_0
+   - 7.929915893949564 cluster11_cluster37_1
+   - 7.929915893949564 cluster11_cluster37_2
+   - 13.08944605542381 cluster11_cluster38_0
+   - 13.08944605542381 cluster11_cluster38_1
+   - 13.08944605542381 cluster11_cluster38_2
+   - 14.36892394125086 cluster11_cluster44_0
+   - 14.36892394125086 cluster11_cluster44_1
+   - 14.36892394125086 cluster11_cluster44_2
+   - 9.924542157180491 cluster11_cluster49_0
+   - 9.924542157180491 cluster11_cluster49_1
+   - 9.924542157180491 cluster11_cluster49_2
+   - 6.052425045713045 cluster13_cluster4_0
+   - 6.052425045713045 cluster13_cluster4_1
+   - 6.052425045713045 cluster13_cluster4_2
+   - 7.129603958556114 cluster13_cluster7_0
+   - 7.129603958556114 cluster13_cluster7_1
+   - 7.129603958556114 cluster13_cluster7_2
+   - 8.68663208764306 cluster13_cluster12_0
+   - 8.68663208764306 cluster13_cluster12_1
+   - 8.68663208764306 cluster13_cluster12_2
+   - 12.97095120383653 cluster13_cluster15_0
+   - 12.97095120383653 cluster13_cluster15_1
+   - 12.97095120383653 cluster13_cluster15_2
+   - 7.92025651352094 cluster13_cluster37_0
+   - 7.92025651352094 cluster13_cluster37_1
+   - 7.92025651352094 cluster13_cluster37_2
+   - 8.174536486355912 cluster13_cluster38_0
+   - 8.174536486355912 cluster13_cluster38_1
+   - 8.174536486355912 cluster13_cluster38_2
+   - 8.753550983354671 cluster13_cluster44_0
+   - 8.753550983354671 cluster13_cluster44_1
+   - 8.753550983354671 cluster13_cluster44_2
+   - 6.448892527232185 cluster13_cluster49_0
+   - 6.448892527232185 cluster13_cluster49_1
+   - 6.448892527232185 cluster13_cluster49_2
+   - 10.21226508918834 cluster14_cluster4_0
+   - 10.21226508918834 cluster14_cluster4_1
+   - 10.21226508918834 cluster14_cluster4_2
+   - 8.530251247592155 cluster14_cluster7_0
+   - 8.530251247592155 cluster14_cluster7_1
+   - 8.530251247592155 cluster14_cluster7_2
+   - 6.698047954358513 cluster14_cluster12_0
+   - 6.698047954358513 cluster14_cluster12_1
+   - 6.698047954358513 cluster14_cluster12_2
+   - 17.51890439445269 cluster14_cluster15_0
+   - 17.51890439445269 cluster14_cluster15_1
+   - 17.51890439445269 cluster14_cluster15_2
+   - 12.43888674220975 cluster14_cluster37_0
+   - 12.43888674220975 cluster14_cluster37_1
+   - 12.43888674220975 cluster14_cluster37_2
+   - 7.937335319799781 cluster14_cluster38_0
+   - 7.937335319799781 cluster14_cluster38_1
+   - 7.937335319799781 cluster14_cluster38_2
+   - 6.111764521062752 cluster14_cluster44_0
+   - 6.111764521062752 cluster14_cluster44_1
+   - 6.111764521062752 cluster14_cluster44_2
+   - 10.45468604100355 cluster14_cluster49_0
+   - 10.45468604100355 cluster14_cluster49_1
+   - 10.45468604100355 cluster14_cluster49_2
+   - 22.48827046690445 cluster16_cluster4_0
+   - 22.48827046690445 cluster16_cluster4_1
+   - 22.48827046690445 cluster16_cluster4_2
+   - 20.56576393479252 cluster16_cluster7_0
+   - 20.56576393479252 cluster16_cluster7_1
+   - 20.56576393479252 cluster16_cluster7_2
+   - 18.51848156220078 cluster16_cluster12_0
+   - 18.51848156220078 cluster16_cluster12_1
+   - 18.51848156220078 cluster16_cluster12_2
+   - 29.82278535178218 cluster16_cluster15_0
+   - 29.82278535178218 cluster16_cluster15_1
+   - 29.82278535178218 cluster16_cluster15_2
+   - 24.74169424979848 cluster16_cluster37_0
+   - 24.74169424979848 cluster16_cluster37_1
+   - 24.74169424979848 cluster16_cluster37_2
+   - 19.6006381068958 cluster16_cluster38_0
+   - 19.6006381068958 cluster16_cluster38_1
+   - 19.6006381068958 cluster16_cluster38_2
+   - 18.2470340974449 cluster16_cluster44_0
+   - 18.2470340974449 cluster16_cluster44_1
+   - 18.2470340974449 cluster16_cluster44_2
+   - 22.68114512949231 cluster16_cluster49_0
+   - 22.68114512949231 cluster16_cluster49_1
+   - 22.68114512949231 cluster16_cluster49_2
+   - 7.397977352124204 cluster17_cluster4_0
+   - 7.397977352124204 cluster17_cluster4_1
+   - 7.397977352124204 cluster17_cluster4_2
+   - 8.433185379399308 cluster17_cluster7_0
+   - 8.433185379399308 cluster17_cluster7_1
+   - 8.433185379399308 cluster17_cluster7_2
+   - 10.43361530842875 cluster17_cluster12_0
+   - 10.43361530842875 cluster17_cluster12_1
+   - 10.43361530842875 cluster17_cluster12_2
+   - 12.59048769929513 cluster17_cluster15_0
+   - 12.59048769929513 cluster17_cluster15_1
+   - 12.59048769929513 cluster17_cluster15_2
+   - 7.438381931953827 cluster17_cluster37_0
+   - 7.438381931953827 cluster17_cluster37_1
+   - 7.438381931953827 cluster17_cluster37_2
+   - 9.256898097100656 cluster17_cluster38_0
+   - 9.256898097100656 cluster17_cluster38_1
+   - 9.256898097100656 cluster17_cluster38_2
+   - 10.87269798013112 cluster17_cluster44_0
+   - 10.87269798013112 cluster17_cluster44_1
+   - 10.87269798013112 cluster17_cluster44_2
+   - 7.000961761980962 cluster17_cluster49_0
+   - 7.000961761980962 cluster17_cluster49_1
+   - 7.000961761980962 cluster17_cluster49_2
+   - 13.10541355274655 cluster18_cluster4_0
+   - 13.10541355274655 cluster18_cluster4_1
+   - 13.10541355274655 cluster18_cluster4_2
+   - 15.18005927034993 cluster18_cluster7_0
+   - 15.18005927034993 cluster18_cluster7_1
+   - 15.18005927034993 cluster18_cluster7_2
+   - 17.09883582765956 cluster18_cluster12_0
+   - 17.09883582765956 cluster18_cluster12_1
+   - 17.09883582765956 cluster18_cluster12_2
+   - 5.802850358245087 cluster18_cluster15_0
+   - 5.802850358245087 cluster18_cluster15_1
+   - 5.802850358245087 cluster18_cluster15_2
+   - 10.90619435308917 cluster18_cluster37_0
+   - 10.90619435308917 cluster18_cluster37_1
+   - 10.90619435308917 cluster18_cluster37_2
+   - 16.27769787285923 cluster18_cluster38_0
+   - 16.27769787285923 cluster18_cluster38_1
+   - 16.27769787285923 cluster18_cluster38_2
+   - 17.23657868952645 cluster18_cluster44_0
+   - 17.23657868952645 cluster18_cluster44_1
+   - 17.23657868952645 cluster18_cluster44_2
+   - 13.02475661807313 cluster18_cluster49_0
+   - 13.02475661807313 cluster18_cluster49_1
+   - 13.02475661807313 cluster18_cluster49_2
+   - 7.094726681754363 cluster19_cluster4_0
+   - 7.094726681754363 cluster19_cluster4_1
+   - 7.094726681754363 cluster19_cluster4_2
+   - 6.888524251819732 cluster19_cluster7_0
+   - 6.888524251819732 cluster19_cluster7_1
+   - 6.888524251819732 cluster19_cluster7_2
+   - 7.768327683249986 cluster19_cluster12_0
+   - 7.768327683249986 cluster19_cluster12_1
+   - 7.768327683249986 cluster19_cluster12_2
+   - 14.09039685475324 cluster19_cluster15_0
+   - 14.09039685475324 cluster19_cluster15_1
+   - 14.09039685475324 cluster19_cluster15_2
+   - 9.133841633674258 cluster19_cluster37_0
+   - 9.133841633674258 cluster19_cluster37_1
+   - 9.133841633674258 cluster19_cluster37_2
+   - 7.639441297581069 cluster19_cluster38_0
+   - 7.639441297581069 cluster19_cluster38_1
+   - 7.639441297581069 cluster19_cluster38_2
+   - 7.692303578520516 cluster19_cluster44_0
+   - 7.692303578520516 cluster19_cluster44_1
+   - 7.692303578520516 cluster19_cluster44_2
+   - 7.449638162647307 cluster19_cluster49_0
+   - 7.449638162647307 cluster19_cluster49_1
+   - 7.449638162647307 cluster19_cluster49_2
+   - 9.873840716953771 cluster20_cluster4_0
+   - 9.873840716953771 cluster20_cluster4_1
+   - 9.873840716953771 cluster20_cluster4_2
+   - 11.95449888486664 cluster20_cluster7_0
+   - 11.95449888486664 cluster20_cluster7_1
+   - 11.95449888486664 cluster20_cluster7_2
+   - 13.79193426491108 cluster20_cluster12_0
+   - 13.79193426491108 cluster20_cluster12_1
+   - 13.79193426491108 cluster20_cluster12_2
+   - 7.837052079569118 cluster20_cluster15_0
+   - 7.837052079569118 cluster20_cluster15_1
+   - 7.837052079569118 cluster20_cluster15_2
+   - 7.876245324875184 cluster20_cluster37_0
+   - 7.876245324875184 cluster20_cluster37_1
+   - 7.876245324875184 cluster20_cluster37_2
+   - 13.06461950657044 cluster20_cluster38_0
+   - 13.06461950657044 cluster20_cluster38_1
+   - 13.06461950657044 cluster20_cluster38_2
+   - 13.88763736209934 cluster20_cluster44_0
+   - 13.88763736209934 cluster20_cluster44_1
+   - 13.88763736209934 cluster20_cluster44_2
+   - 9.865723939152833 cluster20_cluster49_0
+   - 9.865723939152833 cluster20_cluster49_1
+   - 9.865723939152833 cluster20_cluster49_2
+   - 8.314538345257136 cluster21_cluster4_0
+   - 8.314538345257136 cluster21_cluster4_1
+   - 8.314538345257136 cluster21_cluster4_2
+   - 10.38364619950016 cluster21_cluster7_0
+   - 10.38364619950016 cluster21_cluster7_1
+   - 10.38364619950016 cluster21_cluster7_2
+   - 12.32496342966224 cluster21_cluster12_0
+   - 12.32496342966224 cluster21_cluster12_1
+   - 12.32496342966224 cluster21_cluster12_2
+   - 9.402315548907985 cluster21_cluster15_0
+   - 9.402315548907985 cluster21_cluster15_1
+   - 9.402315548907985 cluster21_cluster15_2
+   - 6.131791183254901 cluster21_cluster37_0
+   - 6.131791183254901 cluster21_cluster37_1
+   - 6.131791183254901 cluster21_cluster37_2
+   - 11.48083817697981 cluster21_cluster38_0
+   - 11.48083817697981 cluster21_cluster38_1
+   - 11.48083817697981 cluster21_cluster38_2
+   - 12.50475254887002 cluster21_cluster44_0
+   - 12.50475254887002 cluster21_cluster44_1
+   - 12.50475254887002 cluster21_cluster44_2
+   - 8.229338308361543 cluster21_cluster49_0
+   - 8.229338308361543 cluster21_cluster49_1
+   - 8.229338308361543 cluster21_cluster49_2
+   - 10.35199304073821 cluster22_cluster4_0
+   - 10.35199304073821 cluster22_cluster4_1
+   - 10.35199304073821 cluster22_cluster4_2
+   - 12.38685146604719 cluster22_cluster7_0
+   - 12.38685146604719 cluster22_cluster7_1
+   - 12.38685146604719 cluster22_cluster7_2
+   - 14.36884638459665 cluster22_cluster12_0
+   - 14.36884638459665 cluster22_cluster12_1
+   - 14.36884638459665 cluster22_cluster12_2
+   - 7.764604762419647 cluster22_cluster15_0
+   - 7.764604762419647 cluster22_cluster15_1
+   - 7.764604762419647 cluster22_cluster15_2
+   - 8.097150206979057 cluster22_cluster37_0
+   - 8.097150206979057 cluster22_cluster37_1
+   - 8.097150206979057 cluster22_cluster37_2
+   - 13.46431123748395 cluster22_cluster38_0
+   - 13.46431123748395 cluster22_cluster38_1
+   - 13.46431123748395 cluster22_cluster38_2
+   - 14.57351807593085 cluster22_cluster44_0
+   - 14.57351807593085 cluster22_cluster44_1
+   - 14.57351807593085 cluster22_cluster44_2
+   - 10.2177323570793 cluster22_cluster49_0
+   - 10.2177323570793 cluster22_cluster49_1
+   - 10.2177323570793 cluster22_cluster49_2
+   - 8.52690304363014 cluster23_cluster4_0
+   - 8.52690304363014 cluster23_cluster4_1
+   - 8.52690304363014 cluster23_cluster4_2
+   - 7.346398753122831 cluster23_cluster7_0
+   - 7.346398753122831 cluster23_cluster7_1
+   - 7.346398753122831 cluster23_cluster7_2
+   - 6.782747189697888 cluster23_cluster12_0
+   - 6.782747189697888 cluster23_cluster12_1
+   - 6.782747189697888 cluster23_cluster12_2
+   - 15.64588936602076 cluster23_cluster15_0
+   - 15.64588936602076 cluster23_cluster15_1
+   - 15.64588936602076 cluster23_cluster15_2
+   - 10.67757431500763 cluster23_cluster37_0
+   - 10.67757431500763 cluster23_cluster37_1
+   - 10.67757431500763 cluster23_cluster37_2
+   - 7.399614163878101 cluster23_cluster38_0
+   - 7.399614163878101 cluster23_cluster38_1
+   - 7.399614163878101 cluster23_cluster38_2
+   - 6.39315162008202 cluster23_cluster44_0
+   - 6.39315162008202 cluster23_cluster44_1
+   - 6.39315162008202 cluster23_cluster44_2
+   - 8.827405914027208 cluster23_cluster49_0
+   - 8.827405914027208 cluster23_cluster49_1
+   - 8.827405914027208 cluster23_cluster49_2
+   - 8.269539351851778 cluster24_cluster4_0
+   - 8.269539351851778 cluster24_cluster4_1
+   - 8.269539351851778 cluster24_cluster4_2
+   - 10.10568620370836 cluster24_cluster7_0
+   - 10.10568620370836 cluster24_cluster7_1
+   - 10.10568620370836 cluster24_cluster7_2
+   - 12.15048826132284 cluster24_cluster12_0
+   - 12.15048826132284 cluster24_cluster12_1
+   - 12.15048826132284 cluster24_cluster12_2
+   - 10.32126308797556 cluster24_cluster15_0
+   - 10.32126308797556 cluster24_cluster15_1
+   - 10.32126308797556 cluster24_cluster15_2
+   - 6.343247269543589 cluster24_cluster37_0
+   - 6.343247269543589 cluster24_cluster37_1
+   - 6.343247269543589 cluster24_cluster37_2
+   - 11.11922115544808 cluster24_cluster38_0
+   - 11.11922115544808 cluster24_cluster38_1
+   - 11.11922115544808 cluster24_cluster38_2
+   - 12.45798104469475 cluster24_cluster44_0
+   - 12.45798104469475 cluster24_cluster44_1
+   - 12.45798104469475 cluster24_cluster44_2
+   - 8.012311860743786 cluster24_cluster49_0
+   - 8.012311860743786 cluster24_cluster49_1
+   - 8.012311860743786 cluster24_cluster49_2
+   - 8.19987669285938 cluster25_cluster4_0
+   - 8.19987669285938 cluster25_cluster4_1
+   - 8.19987669285938 cluster25_cluster4_2
+   - 6.724491818159727 cluster25_cluster7_0
+   - 6.724491818159727 cluster25_cluster7_1
+   - 6.724491818159727 cluster25_cluster7_2
+   - 6.285640784365023 cluster25_cluster12_0
+   - 6.285640784365023 cluster25_cluster12_1
+   - 6.285640784365023 cluster25_cluster12_2
+   - 15.59058269933115 cluster25_cluster15_0
+   - 15.59058269933115 cluster25_cluster15_1
+   - 15.59058269933115 cluster25_cluster15_2
+   - 10.42795401703123 cluster25_cluster37_0
+   - 10.42795401703123 cluster25_cluster37_1
+   - 10.42795401703123 cluster25_cluster37_2
+   - 6.71162795306139 cluster25_cluster38_0
+   - 6.71162795306139 cluster25_cluster38_1
+   - 6.71162795306139 cluster25_cluster38_2
+   - 6.144568479205446 cluster25_cluster44_0
+   - 6.144568479205446 cluster25_cluster44_1
+   - 6.144568479205446 cluster25_cluster44_2
+   - 8.451807937875975 cluster25_cluster49_0
+   - 8.451807937875975 cluster25_cluster49_1
+   - 8.451807937875975 cluster25_cluster49_2
+   - 6.611680507135677 cluster26_cluster4_0
+   - 6.611680507135677 cluster26_cluster4_1
+   - 6.611680507135677 cluster26_cluster4_2
+   - 8.683710903314292 cluster26_cluster7_0
+   - 8.683710903314292 cluster26_cluster7_1
+   - 8.683710903314292 cluster26_cluster7_2
+   - 10.5389379111113 cluster26_cluster12_0
+   - 10.5389379111113 cluster26_cluster12_1
+   - 10.5389379111113 cluster26_cluster12_2
+   - 11.08692680863656 cluster26_cluster15_0
+   - 11.08692680863656 cluster26_cluster15_1
+   - 11.08692680863656 cluster26_cluster15_2
+   - 6.082778872581303 cluster26_cluster37_0
+   - 6.082778872581303 cluster26_cluster37_1
+   - 6.082778872581303 cluster26_cluster37_2
+   - 9.794367149113606 cluster26_cluster38_0
+   - 9.794367149113606 cluster26_cluster38_1
+   - 9.794367149113606 cluster26_cluster38_2
+   - 10.68140864634233 cluster26_cluster44_0
+   - 10.68140864634233 cluster26_cluster44_1
+   - 10.68140864634233 cluster26_cluster44_2
+   - 6.673419147208238 cluster26_cluster49_0
+   - 6.673419147208238 cluster26_cluster49_1
+   - 6.673419147208238 cluster26_cluster49_2
+   - 7.125609062318228 cluster27_cluster4_0
+   - 7.125609062318228 cluster27_cluster4_1
+   - 7.125609062318228 cluster27_cluster4_2
+   - 8.53424362135004 cluster27_cluster7_0
+   - 8.53424362135004 cluster27_cluster7_1
+   - 8.53424362135004 cluster27_cluster7_2
+   - 10.57852477428623 cluster27_cluster12_0
+   - 10.57852477428623 cluster27_cluster12_1
+   - 10.57852477428623 cluster27_cluster12_2
+   - 12.02718661568157 cluster27_cluster15_0
+   - 12.02718661568157 cluster27_cluster15_1
+   - 12.02718661568157 cluster27_cluster15_2
+   - 6.809429700326479 cluster27_cluster37_0
+   - 6.809429700326479 cluster27_cluster37_1
+   - 6.809429700326479 cluster27_cluster37_2
+   - 9.464143618988583 cluster27_cluster38_0
+   - 9.464143618988583 cluster27_cluster38_1
+   - 9.464143618988583 cluster27_cluster38_2
+   - 10.96258231339842 cluster27_cluster44_0
+   - 10.96258231339842 cluster27_cluster44_1
+   - 10.96258231339842 cluster27_cluster44_2
+   - 6.749492658853605 cluster27_cluster49_0
+   - 6.749492658853605 cluster27_cluster49_1
+   - 6.749492658853605 cluster27_cluster49_2
+   - 19.25512849700389 cluster28_cluster4_0
+   - 19.25512849700389 cluster28_cluster4_1
+   - 19.25512849700389 cluster28_cluster4_2
+   - 17.35304793589618 cluster28_cluster7_0
+   - 17.35304793589618 cluster28_cluster7_1
+   - 17.35304793589618 cluster28_cluster7_2
+   - 15.30264130402827 cluster28_cluster12_0
+   - 15.30264130402827 cluster28_cluster12_1
+   - 15.30264130402827 cluster28_cluster12_2
+   - 26.5796844573064 cluster28_cluster15_0
+   - 26.5796844573064 cluster28_cluster15_1
+   - 26.5796844573064 cluster28_cluster15_2
+   - 21.50592425797364 cluster28_cluster37_0
+   - 21.50592425797364 cluster28_cluster37_1
+   - 21.50592425797364 cluster28_cluster37_2
+   - 16.41017085929155 cluster28_cluster38_0
+   - 16.41017085929155 cluster28_cluster38_1
+   - 16.41017085929155 cluster28_cluster38_2
+   - 15.01339072807174 cluster28_cluster44_0
+   - 15.01339072807174 cluster28_cluster44_1
+   - 15.01339072807174 cluster28_cluster44_2
+   - 19.45475689363683 cluster28_cluster49_0
+   - 19.45475689363683 cluster28_cluster49_1
+   - 19.45475689363683 cluster28_cluster49_2
+   - 16.32338869438777 cluster29_cluster4_0
+   - 16.32338869438777 cluster29_cluster4_1
+   - 16.32338869438777 cluster29_cluster4_2
+   - 14.45913628493921 cluster29_cluster7_0
+   - 14.45913628493921 cluster29_cluster7_1
+   - 14.45913628493921 cluster29_cluster7_2
+   - 12.40935156937777 cluster29_cluster12_0
+   - 12.40935156937777 cluster29_cluster12_1
+   - 12.40935156937777 cluster29_cluster12_2
+   - 23.62283232457823 cluster29_cluster15_0
+   - 23.62283232457823 cluster29_cluster15_1
+   - 23.62283232457823 cluster29_cluster15_2
+   - 18.56843169118233 cluster29_cluster37_0
+   - 18.56843169118233 cluster29_cluster37_1
+   - 18.56843169118233 cluster29_cluster37_2
+   - 13.5578090898745 cluster29_cluster38_0
+   - 13.5578090898745 cluster29_cluster38_1
+   - 13.5578090898745 cluster29_cluster38_2
+   - 12.08552689724263 cluster29_cluster44_0
+   - 12.08552689724263 cluster29_cluster44_1
+   - 12.08552689724263 cluster29_cluster44_2
+   - 16.53432511884381 cluster29_cluster49_0
+   - 16.53432511884381 cluster29_cluster49_1
+   - 16.53432511884381 cluster29_cluster49_2
+   - 6.792557934709476 cluster30_cluster4_0
+   - 6.792557934709476 cluster30_cluster4_1
+   - 6.792557934709476 cluster30_cluster4_2
+   - 5.937147414259382 cluster30_cluster7_0
+   - 5.937147414259382 cluster30_cluster7_1
+   - 5.937147414259382 cluster30_cluster7_2
+   - 7.306976322822612 cluster30_cluster12_0
+   - 7.306976322822612 cluster30_cluster12_1
+   - 7.306976322822612 cluster30_cluster12_2
+   - 14.31542945433215 cluster30_cluster15_0
+   - 14.31542945433215 cluster30_cluster15_1
+   - 14.31542945433215 cluster30_cluster15_2
+   - 9.037561684170619 cluster30_cluster37_0
+   - 9.037561684170619 cluster30_cluster37_1
+   - 9.037561684170619 cluster30_cluster37_2
+   - 6.821791431687976 cluster30_cluster38_0
+   - 6.821791431687976 cluster30_cluster38_1
+   - 6.821791431687976 cluster30_cluster38_2
+   - 7.458903391060268 cluster30_cluster44_0
+   - 7.458903391060268 cluster30_cluster44_1
+   - 7.458903391060268 cluster30_cluster44_2
+   - 7.040530722839918 cluster30_cluster49_0
+   - 7.040530722839918 cluster30_cluster49_1
+   - 7.040530722839918 cluster30_cluster49_2
+   - 7.75271999293286 cluster31_cluster4_0
+   - 7.75271999293286 cluster31_cluster4_1
+   - 7.75271999293286 cluster31_cluster4_2
+   - 9.811405362359459 cluster31_cluster7_0
+   - 9.811405362359459 cluster31_cluster7_1
+   - 9.811405362359459 cluster31_cluster7_2
+   - 11.61107448978338 cluster31_cluster12_0
+   - 11.61107448978338 cluster31_cluster12_1
+   - 11.61107448978338 cluster31_cluster12_2
+   - 10.01945923430911 cluster31_cluster15_0
+   - 10.01945923430911 cluster31_cluster15_1
+   - 10.01945923430911 cluster31_cluster15_2
+   - 6.339305396000592 cluster31_cluster37_0
+   - 6.339305396000592 cluster31_cluster37_1
+   - 6.339305396000592 cluster31_cluster37_2
+   - 10.92145561937208 cluster31_cluster38_0
+   - 10.92145561937208 cluster31_cluster38_1
+   - 10.92145561937208 cluster31_cluster38_2
+   - 11.70533254266312 cluster31_cluster44_0
+   - 11.70533254266312 cluster31_cluster44_1
+   - 11.70533254266312 cluster31_cluster44_2
+   - 7.812725283445232 cluster31_cluster49_0
+   - 7.812725283445232 cluster31_cluster49_1
+   - 7.812725283445232 cluster31_cluster49_2
+   - 12.45015098649785 cluster32_cluster4_0
+   - 12.45015098649785 cluster32_cluster4_1
+   - 12.45015098649785 cluster32_cluster4_2
+   - 14.49364119893923 cluster32_cluster7_0
+   - 14.49364119893923 cluster32_cluster7_1
+   - 14.49364119893923 cluster32_cluster7_2
+   - 16.46709166010278 cluster32_cluster12_0
+   - 16.46709166010278 cluster32_cluster12_1
+   - 16.46709166010278 cluster32_cluster12_2
+   - 6.550995052055221 cluster32_cluster15_0
+   - 6.550995052055221 cluster32_cluster15_1
+   - 6.550995052055221 cluster32_cluster15_2
+   - 10.2011642688618 cluster32_cluster37_0
+   - 10.2011642688618 cluster32_cluster37_1
+   - 10.2011642688618 cluster32_cluster37_2
+   - 15.57270206113285 cluster32_cluster38_0
+   - 15.57270206113285 cluster32_cluster38_1
+   - 15.57270206113285 cluster32_cluster38_2
+   - 16.65565081801043 cluster32_cluster44_0
+   - 16.65565081801043 cluster32_cluster44_1
+   - 16.65565081801043 cluster32_cluster44_2
+   - 12.32463660102373 cluster32_cluster49_0
+   - 12.32463660102373 cluster32_cluster49_1
+   - 12.32463660102373 cluster32_cluster49_2
+   - 17.95888717160833 cluster33_cluster4_0
+   - 17.95888717160833 cluster33_cluster4_1
+   - 17.95888717160833 cluster33_cluster4_2
+   - 16.01470114911942 cluster33_cluster7_0
+   - 16.01470114911942 cluster33_cluster7_1
+   - 16.01470114911942 cluster33_cluster7_2
+   - 13.97111854693136 cluster33_cluster12_0
+   - 13.97111854693136 cluster33_cluster12_1
+   - 13.97111854693136 cluster33_cluster12_2
+   - 25.38053792607543 cluster33_cluster15_0
+   - 25.38053792607543 cluster33_cluster15_1
+   - 25.38053792607543 cluster33_cluster15_2
+   - 20.21617447023849 cluster33_cluster37_0
+   - 20.21617447023849 cluster33_cluster37_1
+   - 20.21617447023849 cluster33_cluster37_2
+   - 15.04232241259451 cluster33_cluster38_0
+   - 15.04232241259451 cluster33_cluster38_1
+   - 15.04232241259451 cluster33_cluster38_2
+   - 13.72444946566086 cluster33_cluster44_0
+   - 13.72444946566086 cluster33_cluster44_1
+   - 13.72444946566086 cluster33_cluster44_2
+   - 18.14100093031439 cluster33_cluster49_0
+   - 18.14100093031439 cluster33_cluster49_1
+   - 18.14100093031439 cluster33_cluster49_2
+   - 12.60562120805288 cluster34_cluster4_0
+   - 12.60562120805288 cluster34_cluster4_1
+   - 12.60562120805288 cluster34_cluster4_2
+   - 14.56668636497755 cluster34_cluster7_0
+   - 14.56668636497755 cluster34_cluster7_1
+   - 14.56668636497755 cluster34_cluster7_2
+   - 16.59281041045118 cluster34_cluster12_0
+   - 16.59281041045118 cluster34_cluster12_1
+   - 16.59281041045118 cluster34_cluster12_2
+   - 7.807679210119191 cluster34_cluster15_0
+   - 7.807679210119191 cluster34_cluster15_1
+   - 7.807679210119191 cluster34_cluster15_2
+   - 10.35954653791245 cluster34_cluster37_0
+   - 10.35954653791245 cluster34_cluster37_1
+   - 10.35954653791245 cluster34_cluster37_2
+   - 15.60440262230808 cluster34_cluster38_0
+   - 15.60440262230808 cluster34_cluster38_1
+   - 15.60440262230808 cluster34_cluster38_2
+   - 16.84739021122049 cluster34_cluster44_0
+   - 16.84739021122049 cluster34_cluster44_1
+   - 16.84739021122049 cluster34_cluster44_2
+   - 12.41868176733766 cluster34_cluster49_0
+   - 12.41868176733766 cluster34_cluster49_1
+   - 12.41868176733766 cluster34_cluster49_2
+   - 14.66214750653984 cluster35_cluster4_0
+   - 14.66214750653984 cluster35_cluster4_1
+   - 14.66214750653984 cluster35_cluster4_2
+   - 16.74392250033961 cluster35_cluster7_0
+   - 16.74392250033961 cluster35_cluster7_1
+   - 16.74392250033961 cluster35_cluster7_2
+   - 18.62761660880679 cluster35_cluster12_0
+   - 18.62761660880679 cluster35_cluster12_1
+   - 18.62761660880679 cluster35_cluster12_2
+   - 7.009564562987575 cluster35_cluster15_0
+   - 7.009564562987575 cluster35_cluster15_1
+   - 7.009564562987575 cluster35_cluster15_2
+   - 12.49718048446901 cluster35_cluster37_0
+   - 12.49718048446901 cluster35_cluster37_1
+   - 12.49718048446901 cluster35_cluster37_2
+   - 17.84770815060219 cluster35_cluster38_0
+   - 17.84770815060219 cluster35_cluster38_1
+   - 17.84770815060219 cluster35_cluster38_2
+   - 18.73404083586669 cluster35_cluster44_0
+   - 18.73404083586669 cluster35_cluster44_1
+   - 18.73404083586669 cluster35_cluster44_2
+   - 14.6027107237251 cluster35_cluster49_0
+   - 14.6027107237251 cluster35_cluster49_1
+   - 14.6027107237251 cluster35_cluster49_2
+   - 9.821022159142281 cluster36_cluster4_0
+   - 9.821022159142281 cluster36_cluster4_1
+   - 9.821022159142281 cluster36_cluster4_2
+   - 7.877356955041273 cluster36_cluster7_0
+   - 7.877356955041273 cluster36_cluster7_1
+   - 7.877356955041273 cluster36_cluster7_2
+   - 5.826302416247864 cluster36_cluster12_0
+   - 5.826302416247864 cluster36_cluster12_1
+   - 5.826302416247864 cluster36_cluster12_2
+   - 17.38602378551169 cluster36_cluster15_0
+   - 17.38602378551169 cluster36_cluster15_1
+   - 17.38602378551169 cluster36_cluster15_2
+   - 12.07943527399582 cluster36_cluster37_0
+   - 12.07943527399582 cluster36_cluster37_1
+   - 12.07943527399582 cluster36_cluster37_2
+   - 7.025398326438475 cluster36_cluster38_0
+   - 7.025398326438475 cluster36_cluster38_1
+   - 7.025398326438475 cluster36_cluster38_2
+   - 5.750152677382445 cluster36_cluster44_0
+   - 5.750152677382445 cluster36_cluster44_1
+   - 5.750152677382445 cluster36_cluster44_2
+   - 9.9910792766665 cluster36_cluster49_0
+   - 9.9910792766665 cluster36_cluster49_1
+   - 9.9910792766665 cluster36_cluster49_2
+   - 14.13831331807539 cluster39_cluster4_0
+   - 14.13831331807539 cluster39_cluster4_1
+   - 14.13831331807539 cluster39_cluster4_2
+   - 12.28730307389196 cluster39_cluster7_0
+   - 12.28730307389196 cluster39_cluster7_1
+   - 12.28730307389196 cluster39_cluster7_2
+   - 10.24148801077378 cluster39_cluster12_0
+   - 10.24148801077378 cluster39_cluster12_1
+   - 10.24148801077378 cluster39_cluster12_2
+   - 21.46720832175693 cluster39_cluster15_0
+   - 21.46720832175693 cluster39_cluster15_1
+   - 21.46720832175693 cluster39_cluster15_2
+   - 16.38351445256867 cluster39_cluster37_0
+   - 16.38351445256867 cluster39_cluster37_1
+   - 16.38351445256867 cluster39_cluster37_2
+   - 11.41434445871132 cluster39_cluster38_0
+   - 11.41434445871132 cluster39_cluster38_1
+   - 11.41434445871132 cluster39_cluster38_2
+   - 9.901560215845496 cluster39_cluster44_0
+   - 9.901560215845496 cluster39_cluster44_1
+   - 9.901560215845496 cluster39_cluster44_2
+   - 14.35097069950345 cluster39_cluster49_0
+   - 14.35097069950345 cluster39_cluster49_1
+   - 14.35097069950345 cluster39_cluster49_2
+   - 11.56232295406088 cluster40_cluster4_0
+   - 11.56232295406088 cluster40_cluster4_1
+   - 11.56232295406088 cluster40_cluster4_2
+   - 13.62943539125602 cluster40_cluster7_0
+   - 13.62943539125602 cluster40_cluster7_1
+   - 13.62943539125602 cluster40_cluster7_2
+   - 15.56885698145912 cluster40_cluster12_0
+   - 15.56885698145912 cluster40_cluster12_1
+   - 15.56885698145912 cluster40_cluster12_2
+   - 6.419269857346645 cluster40_cluster15_0
+   - 6.419269857346645 cluster40_cluster15_1
+   - 6.419269857346645 cluster40_cluster15_2
+   - 9.34482838819401 cluster40_cluster37_0
+   - 9.34482838819401 cluster40_cluster37_1
+   - 9.34482838819401 cluster40_cluster37_2
+   - 14.72266640175709 cluster40_cluster38_0
+   - 14.72266640175709 cluster40_cluster38_1
+   - 14.72266640175709 cluster40_cluster38_2
+   - 15.72897635368888 cluster40_cluster44_0
+   - 15.72897635368888 cluster40_cluster44_1
+   - 15.72897635368888 cluster40_cluster44_2
+   - 11.46807487414501 cluster40_cluster49_0
+   - 11.46807487414501 cluster40_cluster49_1
+   - 11.46807487414501 cluster40_cluster49_2
+   - 7.972699154528007 cluster41_cluster4_0
+   - 7.972699154528007 cluster41_cluster4_1
+   - 7.972699154528007 cluster41_cluster4_2
+   - 9.29827537402493 cluster41_cluster7_0
+   - 9.29827537402493 cluster41_cluster7_1
+   - 9.29827537402493 cluster41_cluster7_2
+   - 10.46186852058618 cluster41_cluster12_0
+   - 10.46186852058618 cluster41_cluster12_1
+   - 10.46186852058618 cluster41_cluster12_2
+   - 11.99211485409506 cluster41_cluster15_0
+   - 11.99211485409506 cluster41_cluster15_1
+   - 11.99211485409506 cluster41_cluster15_2
+   - 8.469111465213565 cluster41_cluster37_0
+   - 8.469111465213565 cluster41_cluster37_1
+   - 8.469111465213565 cluster41_cluster37_2
+   - 10.25437898346481 cluster41_cluster38_0
+   - 10.25437898346481 cluster41_cluster38_1
+   - 10.25437898346481 cluster41_cluster38_2
+   - 10.31375700580899 cluster41_cluster44_0
+   - 10.31375700580899 cluster41_cluster44_1
+   - 10.31375700580899 cluster41_cluster44_2
+   - 8.315018502366463 cluster41_cluster49_0
+   - 8.315018502366463 cluster41_cluster49_1
+   - 8.315018502366463 cluster41_cluster49_2
+   - 8.007134926104804 cluster42_cluster4_0
+   - 8.007134926104804 cluster42_cluster4_1
+   - 8.007134926104804 cluster42_cluster4_2
+   - 7.812011703170334 cluster42_cluster7_0
+   - 7.812011703170334 cluster42_cluster7_1
+   - 7.812011703170334 cluster42_cluster7_2
+   - 8.132683079439968 cluster42_cluster12_0
+   - 8.132683079439968 cluster42_cluster12_1
+   - 8.132683079439968 cluster42_cluster12_2
+   - 14.4199207141058 cluster42_cluster15_0
+   - 14.4199207141058 cluster42_cluster15_1
+   - 14.4199207141058 cluster42_cluster15_2
+   - 9.839725305815744 cluster42_cluster37_0
+   - 9.839725305815744 cluster42_cluster37_1
+   - 9.839725305815744 cluster42_cluster37_2
+   - 8.364309036948052 cluster42_cluster38_0
+   - 8.364309036948052 cluster42_cluster38_1
+   - 8.364309036948052 cluster42_cluster38_2
+   - 7.840237648965858 cluster42_cluster44_0
+   - 7.840237648965858 cluster42_cluster44_1
+   - 7.840237648965858 cluster42_cluster44_2
+   - 8.385907411746723 cluster42_cluster49_0
+   - 8.385907411746723 cluster42_cluster49_1
+   - 8.385907411746723 cluster42_cluster49_2
+   - 6.838540950164709 cluster43_cluster4_0
+   - 6.838540950164709 cluster43_cluster4_1
+   - 6.838540950164709 cluster43_cluster4_2
+   - 7.280313672076829 cluster43_cluster7_0
+   - 7.280313672076829 cluster43_cluster7_1
+   - 7.280313672076829 cluster43_cluster7_2
+   - 9.250641145421602 cluster43_cluster12_0
+   - 9.250641145421602 cluster43_cluster12_1
+   - 9.250641145421602 cluster43_cluster12_2
+   - 13.42241267924213 cluster43_cluster15_0
+   - 13.42241267924213 cluster43_cluster15_1
+   - 13.42241267924213 cluster43_cluster15_2
+   - 7.962997713469957 cluster43_cluster37_0
+   - 7.962997713469957 cluster43_cluster37_1
+   - 7.962997713469957 cluster43_cluster37_2
+   - 8.06647180202021 cluster43_cluster38_0
+   - 8.06647180202021 cluster43_cluster38_1
+   - 8.06647180202021 cluster43_cluster38_2
+   - 9.707693336701734 cluster43_cluster44_0
+   - 9.707693336701734 cluster43_cluster44_1
+   - 9.707693336701734 cluster43_cluster44_2
+   - 6.492794650819194 cluster43_cluster49_0
+   - 6.492794650819194 cluster43_cluster49_1
+   - 6.492794650819194 cluster43_cluster49_2
+   - 7.198889665387201 cluster45_cluster4_0
+   - 7.198889665387201 cluster45_cluster4_1
+   - 7.198889665387201 cluster45_cluster4_2
+   - 9.091195492816361 cluster45_cluster7_0
+   - 9.091195492816361 cluster45_cluster7_1
+   - 9.091195492816361 cluster45_cluster7_2
+   - 10.72721386015834 cluster45_cluster12_0
+   - 10.72721386015834 cluster45_cluster12_1
+   - 10.72721386015834 cluster45_cluster12_2
+   - 11.01212529027303 cluster45_cluster15_0
+   - 11.01212529027303 cluster45_cluster15_1
+   - 11.01212529027303 cluster45_cluster15_2
+   - 6.939256674911848 cluster45_cluster37_0
+   - 6.939256674911848 cluster45_cluster37_1
+   - 6.939256674911848 cluster45_cluster37_2
+   - 10.17893633181297 cluster45_cluster38_0
+   - 10.17893633181297 cluster45_cluster38_1
+   - 10.17893633181297 cluster45_cluster38_2
+   - 10.75511955135893 cluster45_cluster44_0
+   - 10.75511955135893 cluster45_cluster44_1
+   - 10.75511955135893 cluster45_cluster44_2
+   - 7.407022040412487 cluster45_cluster49_0
+   - 7.407022040412487 cluster45_cluster49_1
+   - 7.407022040412487 cluster45_cluster49_2
+   - 15.17533616717185 cluster46_cluster4_0
+   - 15.17533616717185 cluster46_cluster4_1
+   - 15.17533616717185 cluster46_cluster4_2
+   - 17.24819144989894 cluster46_cluster7_0
+   - 17.24819144989894 cluster46_cluster7_1
+   - 17.24819144989894 cluster46_cluster7_2
+   - 19.16984874305732 cluster46_cluster12_0
+   - 19.16984874305732 cluster46_cluster12_1
+   - 19.16984874305732 cluster46_cluster12_2
+   - 7.639430954375943 cluster46_cluster15_0
+   - 7.639430954375943 cluster46_cluster15_1
+   - 7.639430954375943 cluster46_cluster15_2
+   - 12.96772092031191 cluster46_cluster37_0
+   - 12.96772092031191 cluster46_cluster37_1
+   - 12.96772092031191 cluster46_cluster37_2
+   - 18.34394567564437 cluster46_cluster38_0
+   - 18.34394567564437 cluster46_cluster38_1
+   - 18.34394567564437 cluster46_cluster38_2
+   - 19.30449095489374 cluster46_cluster44_0
+   - 19.30449095489374 cluster46_cluster44_1
+   - 19.30449095489374 cluster46_cluster44_2
+   - 15.08981925906423 cluster46_cluster49_0
+   - 15.08981925906423 cluster46_cluster49_1
+   - 15.08981925906423 cluster46_cluster49_2
+   - 9.116586272937218 cluster47_cluster4_0
+   - 9.116586272937218 cluster47_cluster4_1
+   - 9.116586272937218 cluster47_cluster4_2
+   - 8.005994982448673 cluster47_cluster7_0
+   - 8.005994982448673 cluster47_cluster7_1
+   - 8.005994982448673 cluster47_cluster7_2
+   - 7.164928719449056 cluster47_cluster12_0
+   - 7.164928719449056 cluster47_cluster12_1
+   - 7.164928719449056 cluster47_cluster12_2
+   - 16.02777965846461 cluster47_cluster15_0
+   - 16.02777965846461 cluster47_cluster15_1
+   - 16.02777965846461 cluster47_cluster15_2
+   - 11.21119951515863 cluster47_cluster37_0
+   - 11.21119951515863 cluster47_cluster37_1
+   - 11.21119951515863 cluster47_cluster37_2
+   - 7.979584871249918 cluster47_cluster38_0
+   - 7.979584871249918 cluster47_cluster38_1
+   - 7.979584871249918 cluster47_cluster38_2
+   - 6.621342488527608 cluster47_cluster44_0
+   - 6.621342488527608 cluster47_cluster44_1
+   - 6.621342488527608 cluster47_cluster44_2
+   - 9.434828930865919 cluster47_cluster49_0
+   - 9.434828930865919 cluster47_cluster49_1
+   - 9.434828930865919 cluster47_cluster49_2
+   - 10.42159218529042 cluster48_cluster4_0
+   - 10.42159218529042 cluster48_cluster4_1
+   - 10.42159218529042 cluster48_cluster4_2
+   - 12.50288825982933 cluster48_cluster7_0
+   - 12.50288825982933 cluster48_cluster7_1
+   - 12.50288825982933 cluster48_cluster7_2
+   - 14.40066680763751 cluster48_cluster12_0
+   - 14.40066680763751 cluster48_cluster12_1
+   - 14.40066680763751 cluster48_cluster12_2
+   - 7.257171086878547 cluster48_cluster15_0
+   - 7.257171086878547 cluster48_cluster15_1
+   - 7.257171086878547 cluster48_cluster15_2
+   - 8.275983015765764 cluster48_cluster37_0
+   - 8.275983015765764 cluster48_cluster37_1
+   - 8.275983015765764 cluster48_cluster37_2
+   - 13.60676284691671 cluster48_cluster38_0
+   - 13.60676284691671 cluster48_cluster38_1
+   - 13.60676284691671 cluster48_cluster38_2
+   - 14.53338147301596 cluster48_cluster44_0
+   - 14.53338147301596 cluster48_cluster44_1
+   - 14.53338147301596 cluster48_cluster44_2
+   - 10.36483799367594 cluster48_cluster49_0
+   - 10.36483799367594 cluster48_cluster49_1
+   - 10.36483799367594 cluster48_cluster49_2 + [
+   2 cluster0_cluster4_0 * avg_reward4_0
+   - 15.22351292466177 cluster0_cluster4_0 ^2
+   + 2 cluster0_cluster4_1 * avg_reward4_1
+   - 15.22351292466177 cluster0_cluster4_1 ^2
+   + 2 cluster0_cluster4_2 * avg_reward4_2
+   - 15.22351292466177 cluster0_cluster4_2 ^2
+   + 2 cluster0_cluster7_0 * avg_reward7_0
+   - 19.36586218652988 cluster0_cluster7_0 ^2
+   + 2 cluster0_cluster7_1 * avg_reward7_1
+   - 19.36586218652988 cluster0_cluster7_1 ^2
+   + 2 cluster0_cluster7_2 * avg_reward7_2
+   - 19.36586218652988 cluster0_cluster7_2 ^2
+   + 2 cluster0_cluster12_0 * avg_reward12_0
+   - 22.9179029787353 cluster0_cluster12_0 ^2
+   + 2 cluster0_cluster12_1 * avg_reward12_1
+   - 22.9179029787353 cluster0_cluster12_1 ^2
+   + 2 cluster0_cluster12_2 * avg_reward12_2
+   - 22.9179029787353 cluster0_cluster12_2 ^2
+   + 2 cluster0_cluster15_0 * avg_reward15_0
+   - 2.166979963931809 cluster0_cluster15_0 ^2
+   + 2 cluster0_cluster15_1 * avg_reward15_1
+   - 2.166979963931809 cluster0_cluster15_1 ^2
+   + 2 cluster0_cluster15_2 * avg_reward15_2
+   - 2.166979963931809 cluster0_cluster15_2 ^2
+   + 2 cluster0_cluster37_0 * avg_reward37_0
+   - 11.25750780540448 cluster0_cluster37_0 ^2
+   + 2 cluster0_cluster37_1 * avg_reward37_1
+   - 11.25750780540448 cluster0_cluster37_1 ^2
+   + 2 cluster0_cluster37_2 * avg_reward37_2
+   - 11.25750780540448 cluster0_cluster37_2 ^2
+   + 2 cluster0_cluster38_0 * avg_reward38_0
+   - 21.58693456007507 cluster0_cluster38_0 ^2
+   + 2 cluster0_cluster38_1 * avg_reward38_1
+   - 21.58693456007507 cluster0_cluster38_1 ^2
+   + 2 cluster0_cluster38_2 * avg_reward38_2
+   - 21.58693456007507 cluster0_cluster38_2 ^2
+   + 2 cluster0_cluster44_0 * avg_reward44_0
+   - 23.00545209868457 cluster0_cluster44_0 ^2
+   + 2 cluster0_cluster44_1 * avg_reward44_1
+   - 23.00545209868457 cluster0_cluster44_1 ^2
+   + 2 cluster0_cluster44_2 * avg_reward44_2
+   - 23.00545209868457 cluster0_cluster44_2 ^2
+   + 2 cluster0_cluster49_0 * avg_reward49_0
+   - 15.24321097075652 cluster0_cluster49_0 ^2
+   + 2 cluster0_cluster49_1 * avg_reward49_1
+   - 15.24321097075652 cluster0_cluster49_1 ^2
+   + 2 cluster0_cluster49_2 * avg_reward49_2
+   - 15.24321097075652 cluster0_cluster49_2 ^2
+   + 2 cluster1_cluster4_0 * avg_reward4_0
+   - 3.522519153373164 cluster1_cluster4_0 ^2
+   + 2 cluster1_cluster4_1 * avg_reward4_1
+   - 3.522519153373164 cluster1_cluster4_1 ^2
+   + 2 cluster1_cluster4_2 * avg_reward4_2
+   - 3.522519153373164 cluster1_cluster4_2 ^2
+   + 2 cluster1_cluster7_0 * avg_reward7_0
+   - 1.80304871255359 cluster1_cluster7_0 ^2
+   + 2 cluster1_cluster7_1 * avg_reward7_1
+   - 1.80304871255359 cluster1_cluster7_1 ^2
+   + 2 cluster1_cluster7_2 * avg_reward7_2
+   - 1.80304871255359 cluster1_cluster7_2 ^2
+   + 2 cluster1_cluster12_0 * avg_reward12_0
+   - 5.740520494095824 cluster1_cluster12_0 ^2
+   + 2 cluster1_cluster12_1 * avg_reward12_1
+   - 5.740520494095824 cluster1_cluster12_1 ^2
+   + 2 cluster1_cluster12_2 * avg_reward12_2
+   - 5.740520494095824 cluster1_cluster12_2 ^2
+   + 2 cluster1_cluster15_0 * avg_reward15_0
+   - 18.55304928043617 cluster1_cluster15_0 ^2
+   + 2 cluster1_cluster15_1 * avg_reward15_1
+   - 18.55304928043617 cluster1_cluster15_1 ^2
+   + 2 cluster1_cluster15_2 * avg_reward15_2
+   - 18.55304928043617 cluster1_cluster15_2 ^2
+   + 2 cluster1_cluster37_0 * avg_reward37_0
+   - 7.500590557603627 cluster1_cluster37_0 ^2
+   + 2 cluster1_cluster37_1 * avg_reward37_1
+   - 7.500590557603627 cluster1_cluster37_1 ^2
+   + 2 cluster1_cluster37_2 * avg_reward37_2
+   - 7.500590557603627 cluster1_cluster37_2 ^2
+   + 2 cluster1_cluster38_0 * avg_reward38_0
+   - 3.466721841126072 cluster1_cluster38_0 ^2
+   + 2 cluster1_cluster38_1 * avg_reward38_1
+   - 3.466721841126072 cluster1_cluster38_1 ^2
+   + 2 cluster1_cluster38_2 * avg_reward38_2
+   - 3.466721841126072 cluster1_cluster38_2 ^2
+   + 2 cluster1_cluster44_0 * avg_reward44_0
+   - 6.633709952762339 cluster1_cluster44_0 ^2
+   + 2 cluster1_cluster44_1 * avg_reward44_1
+   - 6.633709952762339 cluster1_cluster44_1 ^2
+   + 2 cluster1_cluster44_2 * avg_reward44_2
+   - 6.633709952762339 cluster1_cluster44_2 ^2
+   + 2 cluster1_cluster49_0 * avg_reward49_0
+   - 3.359434714827639 cluster1_cluster49_0 ^2
+   + 2 cluster1_cluster49_1 * avg_reward49_1
+   - 3.359434714827639 cluster1_cluster49_1 ^2
+   + 2 cluster1_cluster49_2 * avg_reward49_2
+   - 3.359434714827639 cluster1_cluster49_2 ^2
+   + 2 cluster2_cluster4_0 * avg_reward4_0
+   - 7.372652598924846 cluster2_cluster4_0 ^2
+   + 2 cluster2_cluster4_1 * avg_reward4_1
+   - 7.372652598924846 cluster2_cluster4_1 ^2
+   + 2 cluster2_cluster4_2 * avg_reward4_2
+   - 7.372652598924846 cluster2_cluster4_2 ^2
+   + 2 cluster2_cluster7_0 * avg_reward7_0
+   - 3.2884524488434 cluster2_cluster7_0 ^2
+   + 2 cluster2_cluster7_1 * avg_reward7_1
+   - 3.2884524488434 cluster2_cluster7_1 ^2
+   + 2 cluster2_cluster7_2 * avg_reward7_2
+   - 3.2884524488434 cluster2_cluster7_2 ^2
+   + 2 cluster2_cluster12_0 * avg_reward12_0
+   - 1.041426812667179 cluster2_cluster12_0 ^2
+   + 2 cluster2_cluster12_1 * avg_reward12_1
+   - 1.041426812667179 cluster2_cluster12_1 ^2
+   + 2 cluster2_cluster12_2 * avg_reward12_2
+   - 1.041426812667179 cluster2_cluster12_2 ^2
+   + 2 cluster2_cluster15_0 * avg_reward15_0
+   - 22.67319340254901 cluster2_cluster15_0 ^2
+   + 2 cluster2_cluster15_1 * avg_reward15_1
+   - 22.67319340254901 cluster2_cluster15_1 ^2
+   + 2 cluster2_cluster15_2 * avg_reward15_2
+   - 22.67319340254901 cluster2_cluster15_2 ^2
+   + 2 cluster2_cluster37_0 * avg_reward37_0
+   - 11.85097635694522 cluster2_cluster37_0 ^2
+   + 2 cluster2_cluster37_1 * avg_reward37_1
+   - 11.85097635694522 cluster2_cluster37_1 ^2
+   + 2 cluster2_cluster37_2 * avg_reward37_2
+   - 11.85097635694522 cluster2_cluster37_2 ^2
+   + 2 cluster2_cluster38_0 * avg_reward38_0
+   - 1.476235546048102 cluster2_cluster38_0 ^2
+   + 2 cluster2_cluster38_1 * avg_reward38_1
+   - 1.476235546048102 cluster2_cluster38_1 ^2
+   + 2 cluster2_cluster38_2 * avg_reward38_2
+   - 1.476235546048102 cluster2_cluster38_2 ^2
+   + 2 cluster2_cluster44_0 * avg_reward44_0
+   - 2.287424787456854 cluster2_cluster44_0 ^2
+   + 2 cluster2_cluster44_1 * avg_reward44_1
+   - 2.287424787456854 cluster2_cluster44_1 ^2
+   + 2 cluster2_cluster44_2 * avg_reward44_2
+   - 2.287424787456854 cluster2_cluster44_2 ^2
+   + 2 cluster2_cluster49_0 * avg_reward49_0
+   - 7.613698392360414 cluster2_cluster49_0 ^2
+   + 2 cluster2_cluster49_1 * avg_reward49_1
+   - 7.613698392360414 cluster2_cluster49_1 ^2
+   + 2 cluster2_cluster49_2 * avg_reward49_2
+   - 7.613698392360414 cluster2_cluster49_2 ^2
+   + 2 cluster3_cluster4_0 * avg_reward4_0
+   - 3.952975454962016 cluster3_cluster4_0 ^2
+   + 2 cluster3_cluster4_1 * avg_reward4_1
+   - 3.952975454962016 cluster3_cluster4_1 ^2
+   + 2 cluster3_cluster4_2 * avg_reward4_2
+   - 3.952975454962016 cluster3_cluster4_2 ^2
+   + 2 cluster3_cluster7_0 * avg_reward7_0
+   - 5.348687266741664 cluster3_cluster7_0 ^2
+   + 2 cluster3_cluster7_1 * avg_reward7_1
+   - 5.348687266741664 cluster3_cluster7_1 ^2
+   + 2 cluster3_cluster7_2 * avg_reward7_2
+   - 5.348687266741664 cluster3_cluster7_2 ^2
+   + 2 cluster3_cluster12_0 * avg_reward12_0
+   - 7.561787424016004 cluster3_cluster12_0 ^2
+   + 2 cluster3_cluster12_1 * avg_reward12_1
+   - 7.561787424016004 cluster3_cluster12_1 ^2
+   + 2 cluster3_cluster12_2 * avg_reward12_2
+   - 7.561787424016004 cluster3_cluster12_2 ^2
+   + 2 cluster3_cluster15_0 * avg_reward15_0
+   - 16.40355468096424 cluster3_cluster15_0 ^2
+   + 2 cluster3_cluster15_1 * avg_reward15_1
+   - 16.40355468096424 cluster3_cluster15_1 ^2
+   + 2 cluster3_cluster15_2 * avg_reward15_2
+   - 16.40355468096424 cluster3_cluster15_2 ^2
+   + 2 cluster3_cluster37_0 * avg_reward37_0
+   - 7.142712449942535 cluster3_cluster37_0 ^2
+   + 2 cluster3_cluster37_1 * avg_reward37_1
+   - 7.142712449942535 cluster3_cluster37_1 ^2
+   + 2 cluster3_cluster37_2 * avg_reward37_2
+   - 7.142712449942535 cluster3_cluster37_2 ^2
+   + 2 cluster3_cluster38_0 * avg_reward38_0
+   - 7.144435202645099 cluster3_cluster38_0 ^2
+   + 2 cluster3_cluster38_1 * avg_reward38_1
+   - 7.144435202645099 cluster3_cluster38_1 ^2
+   + 2 cluster3_cluster38_2 * avg_reward38_2
+   - 7.144435202645099 cluster3_cluster38_2 ^2
+   + 2 cluster3_cluster44_0 * avg_reward44_0
+   - 7.368990941323363 cluster3_cluster44_0 ^2
+   + 2 cluster3_cluster44_1 * avg_reward44_1
+   - 7.368990941323363 cluster3_cluster44_1 ^2
+   + 2 cluster3_cluster44_2 * avg_reward44_2
+   - 7.368990941323363 cluster3_cluster44_2 ^2
+   + 2 cluster3_cluster49_0 * avg_reward49_0
+   - 4.747985585632994 cluster3_cluster49_0 ^2
+   + 2 cluster3_cluster49_1 * avg_reward49_1
+   - 4.747985585632994 cluster3_cluster49_1 ^2
+   + 2 cluster3_cluster49_2 * avg_reward49_2
+   - 4.747985585632994 cluster3_cluster49_2 ^2
+   + 2 cluster5_cluster4_0 * avg_reward4_0
+   - 2.779615041004424 cluster5_cluster4_0 ^2
+   + 2 cluster5_cluster4_1 * avg_reward4_1
+   - 2.779615041004424 cluster5_cluster4_1 ^2
+   + 2 cluster5_cluster4_2 * avg_reward4_2
+   - 2.779615041004424 cluster5_cluster4_2 ^2
+   + 2 cluster5_cluster7_0 * avg_reward7_0
+   - 5.714606656389808 cluster5_cluster7_0 ^2
+   + 2 cluster5_cluster7_1 * avg_reward7_1
+   - 5.714606656389808 cluster5_cluster7_1 ^2
+   + 2 cluster5_cluster7_2 * avg_reward7_2
+   - 5.714606656389808 cluster5_cluster7_2 ^2
+   + 2 cluster5_cluster12_0 * avg_reward12_0
+   - 9.816863507338963 cluster5_cluster12_0 ^2
+   + 2 cluster5_cluster12_1 * avg_reward12_1
+   - 9.816863507338963 cluster5_cluster12_1 ^2
+   + 2 cluster5_cluster12_2 * avg_reward12_2
+   - 9.816863507338963 cluster5_cluster12_2 ^2
+   + 2 cluster5_cluster15_0 * avg_reward15_0
+   - 14.61149923370833 cluster5_cluster15_0 ^2
+   + 2 cluster5_cluster15_1 * avg_reward15_1
+   - 14.61149923370833 cluster5_cluster15_1 ^2
+   + 2 cluster5_cluster15_2 * avg_reward15_2
+   - 14.61149923370833 cluster5_cluster15_2 ^2
+   + 2 cluster5_cluster37_0 * avg_reward37_0
+   - 3.645866470924453 cluster5_cluster37_0 ^2
+   + 2 cluster5_cluster37_1 * avg_reward37_1
+   - 3.645866470924453 cluster5_cluster37_1 ^2
+   + 2 cluster5_cluster37_2 * avg_reward37_2
+   - 3.645866470924453 cluster5_cluster37_2 ^2
+   + 2 cluster5_cluster38_0 * avg_reward38_0
+   - 7.690706740071461 cluster5_cluster38_0 ^2
+   + 2 cluster5_cluster38_1 * avg_reward38_1
+   - 7.690706740071461 cluster5_cluster38_1 ^2
+   + 2 cluster5_cluster38_2 * avg_reward38_2
+   - 7.690706740071461 cluster5_cluster38_2 ^2
+   + 2 cluster5_cluster44_0 * avg_reward44_0
+   - 10.52371383964269 cluster5_cluster44_0 ^2
+   + 2 cluster5_cluster44_1 * avg_reward44_1
+   - 10.52371383964269 cluster5_cluster44_1 ^2
+   + 2 cluster5_cluster44_2 * avg_reward44_2
+   - 10.52371383964269 cluster5_cluster44_2 ^2
+   + 2 cluster5_cluster49_0 * avg_reward49_0
+   - 2.008467710962473 cluster5_cluster49_0 ^2
+   + 2 cluster5_cluster49_1 * avg_reward49_1
+   - 2.008467710962473 cluster5_cluster49_1 ^2
+   + 2 cluster5_cluster49_2 * avg_reward49_2
+   - 2.008467710962473 cluster5_cluster49_2 ^2
+   + 2 cluster6_cluster4_0 * avg_reward4_0
+   - 8.322166605919277 cluster6_cluster4_0 ^2
+   + 2 cluster6_cluster4_1 * avg_reward4_1
+   - 8.322166605919277 cluster6_cluster4_1 ^2
+   + 2 cluster6_cluster4_2 * avg_reward4_2
+   - 8.322166605919277 cluster6_cluster4_2 ^2
+   + 2 cluster6_cluster7_0 * avg_reward7_0
+   - 11.8241435178351 cluster6_cluster7_0 ^2
+   + 2 cluster6_cluster7_1 * avg_reward7_1
+   - 11.8241435178351 cluster6_cluster7_1 ^2
+   + 2 cluster6_cluster7_2 * avg_reward7_2
+   - 11.8241435178351 cluster6_cluster7_2 ^2
+   + 2 cluster6_cluster12_0 * avg_reward12_0
+   - 15.92627203182915 cluster6_cluster12_0 ^2
+   + 2 cluster6_cluster12_1 * avg_reward12_1
+   - 15.92627203182915 cluster6_cluster12_1 ^2
+   + 2 cluster6_cluster12_2 * avg_reward12_2
+   - 15.92627203182915 cluster6_cluster12_2 ^2
+   + 2 cluster6_cluster15_0 * avg_reward15_0
+   - 10.27861612941131 cluster6_cluster15_0 ^2
+   + 2 cluster6_cluster15_1 * avg_reward15_1
+   - 10.27861612941131 cluster6_cluster15_1 ^2
+   + 2 cluster6_cluster15_2 * avg_reward15_2
+   - 10.27861612941131 cluster6_cluster15_2 ^2
+   + 2 cluster6_cluster37_0 * avg_reward37_0
+   - 4.509348062545767 cluster6_cluster37_0 ^2
+   + 2 cluster6_cluster37_1 * avg_reward37_1
+   - 4.509348062545767 cluster6_cluster37_1 ^2
+   + 2 cluster6_cluster37_2 * avg_reward37_2
+   - 4.509348062545767 cluster6_cluster37_2 ^2
+   + 2 cluster6_cluster38_0 * avg_reward38_0
+   - 13.76927879905321 cluster6_cluster38_0 ^2
+   + 2 cluster6_cluster38_1 * avg_reward38_1
+   - 13.76927879905321 cluster6_cluster38_1 ^2
+   + 2 cluster6_cluster38_2 * avg_reward38_2
+   - 13.76927879905321 cluster6_cluster38_2 ^2
+   + 2 cluster6_cluster44_0 * avg_reward44_0
+   - 16.60311095826908 cluster6_cluster44_0 ^2
+   + 2 cluster6_cluster44_1 * avg_reward44_1
+   - 16.60311095826908 cluster6_cluster44_1 ^2
+   + 2 cluster6_cluster44_2 * avg_reward44_2
+   - 16.60311095826908 cluster6_cluster44_2 ^2
+   + 2 cluster6_cluster49_0 * avg_reward49_0
+   - 7.759018159100528 cluster6_cluster49_0 ^2
+   + 2 cluster6_cluster49_1 * avg_reward49_1
+   - 7.759018159100528 cluster6_cluster49_1 ^2
+   + 2 cluster6_cluster49_2 * avg_reward49_2
+   - 7.759018159100528 cluster6_cluster49_2 ^2
+   + 2 cluster8_cluster4_0 * avg_reward4_0
+   - 21.12155888130478 cluster8_cluster4_0 ^2
+   + 2 cluster8_cluster4_1 * avg_reward4_1
+   - 21.12155888130478 cluster8_cluster4_1 ^2
+   + 2 cluster8_cluster4_2 * avg_reward4_2
+   - 21.12155888130478 cluster8_cluster4_2 ^2
+   + 2 cluster8_cluster7_0 * avg_reward7_0
+   - 25.23274853892942 cluster8_cluster7_0 ^2
+   + 2 cluster8_cluster7_1 * avg_reward7_1
+   - 25.23274853892942 cluster8_cluster7_1 ^2
+   + 2 cluster8_cluster7_2 * avg_reward7_2
+   - 25.23274853892942 cluster8_cluster7_2 ^2
+   + 2 cluster8_cluster12_0 * avg_reward12_0
+   - 29.14637998800945 cluster8_cluster12_0 ^2
+   + 2 cluster8_cluster12_1 * avg_reward12_1
+   - 29.14637998800945 cluster8_cluster12_1 ^2
+   + 2 cluster8_cluster12_2 * avg_reward12_2
+   - 29.14637998800945 cluster8_cluster12_2 ^2
+   + 2 cluster8_cluster15_0 * avg_reward15_0
+   - 6.471273507902307 cluster8_cluster15_0 ^2
+   + 2 cluster8_cluster15_1 * avg_reward15_1
+   - 6.471273507902307 cluster8_cluster15_1 ^2
+   + 2 cluster8_cluster15_2 * avg_reward15_2
+   - 6.471273507902307 cluster8_cluster15_2 ^2
+   + 2 cluster8_cluster37_0 * avg_reward37_0
+   - 16.64550922308136 cluster8_cluster37_0 ^2
+   + 2 cluster8_cluster37_1 * avg_reward37_1
+   - 16.64550922308136 cluster8_cluster37_1 ^2
+   + 2 cluster8_cluster37_2 * avg_reward37_2
+   - 16.64550922308136 cluster8_cluster37_2 ^2
+   + 2 cluster8_cluster38_0 * avg_reward38_0
+   - 27.40080489782128 cluster8_cluster38_0 ^2
+   + 2 cluster8_cluster38_1 * avg_reward38_1
+   - 27.40080489782128 cluster8_cluster38_1 ^2
+   + 2 cluster8_cluster38_2 * avg_reward38_2
+   - 27.40080489782128 cluster8_cluster38_2 ^2
+   + 2 cluster8_cluster44_0 * avg_reward44_0
+   - 29.47618640219399 cluster8_cluster44_0 ^2
+   + 2 cluster8_cluster44_1 * avg_reward44_1
+   - 29.47618640219399 cluster8_cluster44_1 ^2
+   + 2 cluster8_cluster44_2 * avg_reward44_2
+   - 29.47618640219399 cluster8_cluster44_2 ^2
+   + 2 cluster8_cluster49_0 * avg_reward49_0
+   - 20.89733485661062 cluster8_cluster49_0 ^2
+   + 2 cluster8_cluster49_1 * avg_reward49_1
+   - 20.89733485661062 cluster8_cluster49_1 ^2
+   + 2 cluster8_cluster49_2 * avg_reward49_2
+   - 20.89733485661062 cluster8_cluster49_2 ^2
+   + 2 cluster9_cluster4_0 * avg_reward4_0
+   - 8.551758525599471 cluster9_cluster4_0 ^2
+   + 2 cluster9_cluster4_1 * avg_reward4_1
+   - 8.551758525599471 cluster9_cluster4_1 ^2
+   + 2 cluster9_cluster4_2 * avg_reward4_2
+   - 8.551758525599471 cluster9_cluster4_2 ^2
+   + 2 cluster9_cluster7_0 * avg_reward7_0
+   - 12.47962807247854 cluster9_cluster7_0 ^2
+   + 2 cluster9_cluster7_1 * avg_reward7_1
+   - 12.47962807247854 cluster9_cluster7_1 ^2
+   + 2 cluster9_cluster7_2 * avg_reward7_2
+   - 12.47962807247854 cluster9_cluster7_2 ^2
+   + 2 cluster9_cluster12_0 * avg_reward12_0
+   - 15.71523917542592 cluster9_cluster12_0 ^2
+   + 2 cluster9_cluster12_1 * avg_reward12_1
+   - 15.71523917542592 cluster9_cluster12_1 ^2
+   + 2 cluster9_cluster12_2 * avg_reward12_2
+   - 15.71523917542592 cluster9_cluster12_2 ^2
+   + 2 cluster9_cluster15_0 * avg_reward15_0
+   - 8.376831167638878 cluster9_cluster15_0 ^2
+   + 2 cluster9_cluster15_1 * avg_reward15_1
+   - 8.376831167638878 cluster9_cluster15_1 ^2
+   + 2 cluster9_cluster15_2 * avg_reward15_2
+   - 8.376831167638878 cluster9_cluster15_2 ^2
+   + 2 cluster9_cluster37_0 * avg_reward37_0
+   - 5.928031574917437 cluster9_cluster37_0 ^2
+   + 2 cluster9_cluster37_1 * avg_reward37_1
+   - 5.928031574917437 cluster9_cluster37_1 ^2
+   + 2 cluster9_cluster37_2 * avg_reward37_2
+   - 5.928031574917437 cluster9_cluster37_2 ^2
+   + 2 cluster9_cluster38_0 * avg_reward38_0
+   - 14.66318400706181 cluster9_cluster38_0 ^2
+   + 2 cluster9_cluster38_1 * avg_reward38_1
+   - 14.66318400706181 cluster9_cluster38_1 ^2
+   + 2 cluster9_cluster38_2 * avg_reward38_2
+   - 14.66318400706181 cluster9_cluster38_2 ^2
+   + 2 cluster9_cluster44_0 * avg_reward44_0
+   - 15.68947095136756 cluster9_cluster44_0 ^2
+   + 2 cluster9_cluster44_1 * avg_reward44_1
+   - 15.68947095136756 cluster9_cluster44_1 ^2
+   + 2 cluster9_cluster44_2 * avg_reward44_2
+   - 15.68947095136756 cluster9_cluster44_2 ^2
+   + 2 cluster9_cluster49_0 * avg_reward49_0
+   - 8.811929034503523 cluster9_cluster49_0 ^2
+   + 2 cluster9_cluster49_1 * avg_reward49_1
+   - 8.811929034503523 cluster9_cluster49_1 ^2
+   + 2 cluster9_cluster49_2 * avg_reward49_2
+   - 8.811929034503523 cluster9_cluster49_2 ^2
+   + 2 cluster10_cluster4_0 * avg_reward4_0
+   - 22.06252054185796 cluster10_cluster4_0 ^2
+   + 2 cluster10_cluster4_1 * avg_reward4_1
+   - 22.06252054185796 cluster10_cluster4_1 ^2
+   + 2 cluster10_cluster4_2 * avg_reward4_2
+   - 22.06252054185796 cluster10_cluster4_2 ^2
+   + 2 cluster10_cluster7_0 * avg_reward7_0
+   - 18.17871592361655 cluster10_cluster7_0 ^2
+   + 2 cluster10_cluster7_1 * avg_reward7_1
+   - 18.17871592361655 cluster10_cluster7_1 ^2
+   + 2 cluster10_cluster7_2 * avg_reward7_2
+   - 18.17871592361655 cluster10_cluster7_2 ^2
+   + 2 cluster10_cluster12_0 * avg_reward12_0
+   - 14.08850889439581 cluster10_cluster12_0 ^2
+   + 2 cluster10_cluster12_1 * avg_reward12_1
+   - 14.08850889439581 cluster10_cluster12_1 ^2
+   + 2 cluster10_cluster12_2 * avg_reward12_2
+   - 14.08850889439581 cluster10_cluster12_2 ^2
+   + 2 cluster10_cluster15_0 * avg_reward15_0
+   - 36.94350397148859 cluster10_cluster15_0 ^2
+   + 2 cluster10_cluster15_1 * avg_reward15_1
+   - 36.94350397148859 cluster10_cluster15_1 ^2
+   + 2 cluster10_cluster15_2 * avg_reward15_2
+   - 36.94350397148859 cluster10_cluster15_2 ^2
+   + 2 cluster10_cluster37_0 * avg_reward37_0
+   - 26.57754820460938 cluster10_cluster37_0 ^2
+   + 2 cluster10_cluster37_1 * avg_reward37_1
+   - 26.57754820460938 cluster10_cluster37_1 ^2
+   + 2 cluster10_cluster37_2 * avg_reward37_2
+   - 26.57754820460938 cluster10_cluster37_2 ^2
+   + 2 cluster10_cluster38_0 * avg_reward38_0
+   - 16.25166996078969 cluster10_cluster38_0 ^2
+   + 2 cluster10_cluster38_1 * avg_reward38_1
+   - 16.25166996078969 cluster10_cluster38_1 ^2
+   + 2 cluster10_cluster38_2 * avg_reward38_2
+   - 16.25166996078969 cluster10_cluster38_2 ^2
+   + 2 cluster10_cluster44_0 * avg_reward44_0
+   - 13.59689748785547 cluster10_cluster44_0 ^2
+   + 2 cluster10_cluster44_1 * avg_reward44_1
+   - 13.59689748785547 cluster10_cluster44_1 ^2
+   + 2 cluster10_cluster44_2 * avg_reward44_2
+   - 13.59689748785547 cluster10_cluster44_2 ^2
+   + 2 cluster10_cluster49_0 * avg_reward49_0
+   - 22.42646500846326 cluster10_cluster49_0 ^2
+   + 2 cluster10_cluster49_1 * avg_reward49_1
+   - 22.42646500846326 cluster10_cluster49_1 ^2
+   + 2 cluster10_cluster49_2 * avg_reward49_2
+   - 22.42646500846326 cluster10_cluster49_2 ^2
+   + 2 cluster11_cluster4_0 * avg_reward4_0
+   - 10.26863823995432 cluster11_cluster4_0 ^2
+   + 2 cluster11_cluster4_1 * avg_reward4_1
+   - 10.26863823995432 cluster11_cluster4_1 ^2
+   + 2 cluster11_cluster4_2 * avg_reward4_2
+   - 10.26863823995432 cluster11_cluster4_2 ^2
+   + 2 cluster11_cluster7_0 * avg_reward7_0
+   - 14.11807980057112 cluster11_cluster7_0 ^2
+   + 2 cluster11_cluster7_1 * avg_reward7_1
+   - 14.11807980057112 cluster11_cluster7_1 ^2
+   + 2 cluster11_cluster7_2 * avg_reward7_2
+   - 14.11807980057112 cluster11_cluster7_2 ^2
+   + 2 cluster11_cluster12_0 * avg_reward12_0
+   - 18.18651185608936 cluster11_cluster12_0 ^2
+   + 2 cluster11_cluster12_1 * avg_reward12_1
+   - 18.18651185608936 cluster11_cluster12_1 ^2
+   + 2 cluster11_cluster12_2 * avg_reward12_2
+   - 18.18651185608936 cluster11_cluster12_2 ^2
+   + 2 cluster11_cluster15_0 * avg_reward15_0
+   - 7.513714746378226 cluster11_cluster15_0 ^2
+   + 2 cluster11_cluster15_1 * avg_reward15_1
+   - 7.513714746378226 cluster11_cluster15_1 ^2
+   + 2 cluster11_cluster15_2 * avg_reward15_2
+   - 7.513714746378226 cluster11_cluster15_2 ^2
+   + 2 cluster11_cluster37_0 * avg_reward37_0
+   - 5.859831787899128 cluster11_cluster37_0 ^2
+   + 2 cluster11_cluster37_1 * avg_reward37_1
+   - 5.859831787899128 cluster11_cluster37_1 ^2
+   + 2 cluster11_cluster37_2 * avg_reward37_2
+   - 5.859831787899128 cluster11_cluster37_2 ^2
+   + 2 cluster11_cluster38_0 * avg_reward38_0
+   - 16.17889211084761 cluster11_cluster38_0 ^2
+   + 2 cluster11_cluster38_1 * avg_reward38_1
+   - 16.17889211084761 cluster11_cluster38_1 ^2
+   + 2 cluster11_cluster38_2 * avg_reward38_2
+   - 16.17889211084761 cluster11_cluster38_2 ^2
+   + 2 cluster11_cluster44_0 * avg_reward44_0
+   - 18.73784788250173 cluster11_cluster44_0 ^2
+   + 2 cluster11_cluster44_1 * avg_reward44_1
+   - 18.73784788250173 cluster11_cluster44_1 ^2
+   + 2 cluster11_cluster44_2 * avg_reward44_2
+   - 18.73784788250173 cluster11_cluster44_2 ^2
+   + 2 cluster11_cluster49_0 * avg_reward49_0
+   - 9.849084314360983 cluster11_cluster49_0 ^2
+   + 2 cluster11_cluster49_1 * avg_reward49_1
+   - 9.849084314360983 cluster11_cluster49_1 ^2
+   + 2 cluster11_cluster49_2 * avg_reward49_2
+   - 9.849084314360983 cluster11_cluster49_2 ^2
+   + 2 cluster13_cluster4_0 * avg_reward4_0
+   - 2.10485009142609 cluster13_cluster4_0 ^2
+   + 2 cluster13_cluster4_1 * avg_reward4_1
+   - 2.10485009142609 cluster13_cluster4_1 ^2
+   + 2 cluster13_cluster4_2 * avg_reward4_2
+   - 2.10485009142609 cluster13_cluster4_2 ^2
+   + 2 cluster13_cluster7_0 * avg_reward7_0
+   - 4.259207917112229 cluster13_cluster7_0 ^2
+   + 2 cluster13_cluster7_1 * avg_reward7_1
+   - 4.259207917112229 cluster13_cluster7_1 ^2
+   + 2 cluster13_cluster7_2 * avg_reward7_2
+   - 4.259207917112229 cluster13_cluster7_2 ^2
+   + 2 cluster13_cluster12_0 * avg_reward12_0
+   - 7.373264175286121 cluster13_cluster12_0 ^2
+   + 2 cluster13_cluster12_1 * avg_reward12_1
+   - 7.373264175286121 cluster13_cluster12_1 ^2
+   + 2 cluster13_cluster12_2 * avg_reward12_2
+   - 7.373264175286121 cluster13_cluster12_2 ^2
+   + 2 cluster13_cluster15_0 * avg_reward15_0
+   - 15.94190240767305 cluster13_cluster15_0 ^2
+   + 2 cluster13_cluster15_1 * avg_reward15_1
+   - 15.94190240767305 cluster13_cluster15_1 ^2
+   + 2 cluster13_cluster15_2 * avg_reward15_2
+   - 15.94190240767305 cluster13_cluster15_2 ^2
+   + 2 cluster13_cluster37_0 * avg_reward37_0
+   - 5.84051302704188 cluster13_cluster37_0 ^2
+   + 2 cluster13_cluster37_1 * avg_reward37_1
+   - 5.84051302704188 cluster13_cluster37_1 ^2
+   + 2 cluster13_cluster37_2 * avg_reward37_2
+   - 5.84051302704188 cluster13_cluster37_2 ^2
+   + 2 cluster13_cluster38_0 * avg_reward38_0
+   - 6.349072972711824 cluster13_cluster38_0 ^2
+   + 2 cluster13_cluster38_1 * avg_reward38_1
+   - 6.349072972711824 cluster13_cluster38_1 ^2
+   + 2 cluster13_cluster38_2 * avg_reward38_2
+   - 6.349072972711824 cluster13_cluster38_2 ^2
+   + 2 cluster13_cluster44_0 * avg_reward44_0
+   - 7.507101966709343 cluster13_cluster44_0 ^2
+   + 2 cluster13_cluster44_1 * avg_reward44_1
+   - 7.507101966709343 cluster13_cluster44_1 ^2
+   + 2 cluster13_cluster44_2 * avg_reward44_2
+   - 7.507101966709343 cluster13_cluster44_2 ^2
+   + 2 cluster13_cluster49_0 * avg_reward49_0
+   - 2.89778505446437 cluster13_cluster49_0 ^2
+   + 2 cluster13_cluster49_1 * avg_reward49_1
+   - 2.89778505446437 cluster13_cluster49_1 ^2
+   + 2 cluster13_cluster49_2 * avg_reward49_2
+   - 2.89778505446437 cluster13_cluster49_2 ^2
+   + 2 cluster14_cluster4_0 * avg_reward4_0
+   - 10.42453017837667 cluster14_cluster4_0 ^2
+   + 2 cluster14_cluster4_1 * avg_reward4_1
+   - 10.42453017837667 cluster14_cluster4_1 ^2
+   + 2 cluster14_cluster4_2 * avg_reward4_2
+   - 10.42453017837667 cluster14_cluster4_2 ^2
+   + 2 cluster14_cluster7_0 * avg_reward7_0
+   - 7.060502495184309 cluster14_cluster7_0 ^2
+   + 2 cluster14_cluster7_1 * avg_reward7_1
+   - 7.060502495184309 cluster14_cluster7_1 ^2
+   + 2 cluster14_cluster7_2 * avg_reward7_2
+   - 7.060502495184309 cluster14_cluster7_2 ^2
+   + 2 cluster14_cluster12_0 * avg_reward12_0
+   - 3.396095908717027 cluster14_cluster12_0 ^2
+   + 2 cluster14_cluster12_1 * avg_reward12_1
+   - 3.396095908717027 cluster14_cluster12_1 ^2
+   + 2 cluster14_cluster12_2 * avg_reward12_2
+   - 3.396095908717027 cluster14_cluster12_2 ^2
+   + 2 cluster14_cluster15_0 * avg_reward15_0
+   - 25.03780878890537 cluster14_cluster15_0 ^2
+   + 2 cluster14_cluster15_1 * avg_reward15_1
+   - 25.03780878890537 cluster14_cluster15_1 ^2
+   + 2 cluster14_cluster15_2 * avg_reward15_2
+   - 25.03780878890537 cluster14_cluster15_2 ^2
+   + 2 cluster14_cluster37_0 * avg_reward37_0
+   - 14.8777734844195 cluster14_cluster37_0 ^2
+   + 2 cluster14_cluster37_1 * avg_reward37_1
+   - 14.8777734844195 cluster14_cluster37_1 ^2
+   + 2 cluster14_cluster37_2 * avg_reward37_2
+   - 14.8777734844195 cluster14_cluster37_2 ^2
+   + 2 cluster14_cluster38_0 * avg_reward38_0
+   - 5.874670639599563 cluster14_cluster38_0 ^2
+   + 2 cluster14_cluster38_1 * avg_reward38_1
+   - 5.874670639599563 cluster14_cluster38_1 ^2
+   + 2 cluster14_cluster38_2 * avg_reward38_2
+   - 5.874670639599563 cluster14_cluster38_2 ^2
+   + 2 cluster14_cluster44_0 * avg_reward44_0
+   - 2.223529042125504 cluster14_cluster44_0 ^2
+   + 2 cluster14_cluster44_1 * avg_reward44_1
+   - 2.223529042125504 cluster14_cluster44_1 ^2
+   + 2 cluster14_cluster44_2 * avg_reward44_2
+   - 2.223529042125504 cluster14_cluster44_2 ^2
+   + 2 cluster14_cluster49_0 * avg_reward49_0
+   - 10.9093720820071 cluster14_cluster49_0 ^2
+   + 2 cluster14_cluster49_1 * avg_reward49_1
+   - 10.9093720820071 cluster14_cluster49_1 ^2
+   + 2 cluster14_cluster49_2 * avg_reward49_2
+   - 10.9093720820071 cluster14_cluster49_2 ^2
+   + 2 cluster16_cluster4_0 * avg_reward4_0
+   - 34.9765409338089 cluster16_cluster4_0 ^2
+   + 2 cluster16_cluster4_1 * avg_reward4_1
+   - 34.9765409338089 cluster16_cluster4_1 ^2
+   + 2 cluster16_cluster4_2 * avg_reward4_2
+   - 34.9765409338089 cluster16_cluster4_2 ^2
+   + 2 cluster16_cluster7_0 * avg_reward7_0
+   - 31.13152786958504 cluster16_cluster7_0 ^2
+   + 2 cluster16_cluster7_1 * avg_reward7_1
+   - 31.13152786958504 cluster16_cluster7_1 ^2
+   + 2 cluster16_cluster7_2 * avg_reward7_2
+   - 31.13152786958504 cluster16_cluster7_2 ^2
+   + 2 cluster16_cluster12_0 * avg_reward12_0
+   - 27.03696312440156 cluster16_cluster12_0 ^2
+   + 2 cluster16_cluster12_1 * avg_reward12_1
+   - 27.03696312440156 cluster16_cluster12_1 ^2
+   + 2 cluster16_cluster12_2 * avg_reward12_2
+   - 27.03696312440156 cluster16_cluster12_2 ^2
+   + 2 cluster16_cluster15_0 * avg_reward15_0
+   - 49.64557070356435 cluster16_cluster15_0 ^2
+   + 2 cluster16_cluster15_1 * avg_reward15_1
+   - 49.64557070356435 cluster16_cluster15_1 ^2
+   + 2 cluster16_cluster15_2 * avg_reward15_2
+   - 49.64557070356435 cluster16_cluster15_2 ^2
+   + 2 cluster16_cluster37_0 * avg_reward37_0
+   - 39.48338849959696 cluster16_cluster37_0 ^2
+   + 2 cluster16_cluster37_1 * avg_reward37_1
+   - 39.48338849959696 cluster16_cluster37_1 ^2
+   + 2 cluster16_cluster37_2 * avg_reward37_2
+   - 39.48338849959696 cluster16_cluster37_2 ^2
+   + 2 cluster16_cluster38_0 * avg_reward38_0
+   - 29.2012762137916 cluster16_cluster38_0 ^2
+   + 2 cluster16_cluster38_1 * avg_reward38_1
+   - 29.2012762137916 cluster16_cluster38_1 ^2
+   + 2 cluster16_cluster38_2 * avg_reward38_2
+   - 29.2012762137916 cluster16_cluster38_2 ^2
+   + 2 cluster16_cluster44_0 * avg_reward44_0
+   - 26.49406819488979 cluster16_cluster44_0 ^2
+   + 2 cluster16_cluster44_1 * avg_reward44_1
+   - 26.49406819488979 cluster16_cluster44_1 ^2
+   + 2 cluster16_cluster44_2 * avg_reward44_2
+   - 26.49406819488979 cluster16_cluster44_2 ^2
+   + 2 cluster16_cluster49_0 * avg_reward49_0
+   - 35.36229025898461 cluster16_cluster49_0 ^2
+   + 2 cluster16_cluster49_1 * avg_reward49_1
+   - 35.36229025898461 cluster16_cluster49_1 ^2
+   + 2 cluster16_cluster49_2 * avg_reward49_2
+   - 35.36229025898461 cluster16_cluster49_2 ^2
+   + 2 cluster17_cluster4_0 * avg_reward4_0
+   - 4.795954704248408 cluster17_cluster4_0 ^2
+   + 2 cluster17_cluster4_1 * avg_reward4_1
+   - 4.795954704248408 cluster17_cluster4_1 ^2
+   + 2 cluster17_cluster4_2 * avg_reward4_2
+   - 4.795954704248408 cluster17_cluster4_2 ^2
+   + 2 cluster17_cluster7_0 * avg_reward7_0
+   - 6.866370758798617 cluster17_cluster7_0 ^2
+   + 2 cluster17_cluster7_1 * avg_reward7_1
+   - 6.866370758798617 cluster17_cluster7_1 ^2
+   + 2 cluster17_cluster7_2 * avg_reward7_2
+   - 6.866370758798617 cluster17_cluster7_2 ^2
+   + 2 cluster17_cluster12_0 * avg_reward12_0
+   - 10.8672306168575 cluster17_cluster12_0 ^2
+   + 2 cluster17_cluster12_1 * avg_reward12_1
+   - 10.8672306168575 cluster17_cluster12_1 ^2
+   + 2 cluster17_cluster12_2 * avg_reward12_2
+   - 10.8672306168575 cluster17_cluster12_2 ^2
+   + 2 cluster17_cluster15_0 * avg_reward15_0
+   - 15.18097539859026 cluster17_cluster15_0 ^2
+   + 2 cluster17_cluster15_1 * avg_reward15_1
+   - 15.18097539859026 cluster17_cluster15_1 ^2
+   + 2 cluster17_cluster15_2 * avg_reward15_2
+   - 15.18097539859026 cluster17_cluster15_2 ^2
+   + 2 cluster17_cluster37_0 * avg_reward37_0
+   - 4.876763863907653 cluster17_cluster37_0 ^2
+   + 2 cluster17_cluster37_1 * avg_reward37_1
+   - 4.876763863907653 cluster17_cluster37_1 ^2
+   + 2 cluster17_cluster37_2 * avg_reward37_2
+   - 4.876763863907653 cluster17_cluster37_2 ^2
+   + 2 cluster17_cluster38_0 * avg_reward38_0
+   - 8.513796194201314 cluster17_cluster38_0 ^2
+   + 2 cluster17_cluster38_1 * avg_reward38_1
+   - 8.513796194201314 cluster17_cluster38_1 ^2
+   + 2 cluster17_cluster38_2 * avg_reward38_2
+   - 8.513796194201314 cluster17_cluster38_2 ^2
+   + 2 cluster17_cluster44_0 * avg_reward44_0
+   - 11.74539596026223 cluster17_cluster44_0 ^2
+   + 2 cluster17_cluster44_1 * avg_reward44_1
+   - 11.74539596026223 cluster17_cluster44_1 ^2
+   + 2 cluster17_cluster44_2 * avg_reward44_2
+   - 11.74539596026223 cluster17_cluster44_2 ^2
+   + 2 cluster17_cluster49_0 * avg_reward49_0
+   - 4.001923523961925 cluster17_cluster49_0 ^2
+   + 2 cluster17_cluster49_1 * avg_reward49_1
+   - 4.001923523961925 cluster17_cluster49_1 ^2
+   + 2 cluster17_cluster49_2 * avg_reward49_2
+   - 4.001923523961925 cluster17_cluster49_2 ^2
+   + 2 cluster18_cluster4_0 * avg_reward4_0
+   - 16.21082710549309 cluster18_cluster4_0 ^2
+   + 2 cluster18_cluster4_1 * avg_reward4_1
+   - 16.21082710549309 cluster18_cluster4_1 ^2
+   + 2 cluster18_cluster4_2 * avg_reward4_2
+   - 16.21082710549309 cluster18_cluster4_2 ^2
+   + 2 cluster18_cluster7_0 * avg_reward7_0
+   - 20.36011854069986 cluster18_cluster7_0 ^2
+   + 2 cluster18_cluster7_1 * avg_reward7_1
+   - 20.36011854069986 cluster18_cluster7_1 ^2
+   + 2 cluster18_cluster7_2 * avg_reward7_2
+   - 20.36011854069986 cluster18_cluster7_2 ^2
+   + 2 cluster18_cluster12_0 * avg_reward12_0
+   - 24.19767165531911 cluster18_cluster12_0 ^2
+   + 2 cluster18_cluster12_1 * avg_reward12_1
+   - 24.19767165531911 cluster18_cluster12_1 ^2
+   + 2 cluster18_cluster12_2 * avg_reward12_2
+   - 24.19767165531911 cluster18_cluster12_2 ^2
+   + 2 cluster18_cluster15_0 * avg_reward15_0
+   - 1.605700716490175 cluster18_cluster15_0 ^2
+   + 2 cluster18_cluster15_1 * avg_reward15_1
+   - 1.605700716490175 cluster18_cluster15_1 ^2
+   + 2 cluster18_cluster15_2 * avg_reward15_2
+   - 1.605700716490175 cluster18_cluster15_2 ^2
+   + 2 cluster18_cluster37_0 * avg_reward37_0
+   - 11.81238870617835 cluster18_cluster37_0 ^2
+   + 2 cluster18_cluster37_1 * avg_reward37_1
+   - 11.81238870617835 cluster18_cluster37_1 ^2
+   + 2 cluster18_cluster37_2 * avg_reward37_2
+   - 11.81238870617835 cluster18_cluster37_2 ^2
+   + 2 cluster18_cluster38_0 * avg_reward38_0
+   - 22.55539574571845 cluster18_cluster38_0 ^2
+   + 2 cluster18_cluster38_1 * avg_reward38_1
+   - 22.55539574571845 cluster18_cluster38_1 ^2
+   + 2 cluster18_cluster38_2 * avg_reward38_2
+   - 22.55539574571845 cluster18_cluster38_2 ^2
+   + 2 cluster18_cluster44_0 * avg_reward44_0
+   - 24.47315737905289 cluster18_cluster44_0 ^2
+   + 2 cluster18_cluster44_1 * avg_reward44_1
+   - 24.47315737905289 cluster18_cluster44_1 ^2
+   + 2 cluster18_cluster44_2 * avg_reward44_2
+   - 24.47315737905289 cluster18_cluster44_2 ^2
+   + 2 cluster18_cluster49_0 * avg_reward49_0
+   - 16.04951323614626 cluster18_cluster49_0 ^2
+   + 2 cluster18_cluster49_1 * avg_reward49_1
+   - 16.04951323614626 cluster18_cluster49_1 ^2
+   + 2 cluster18_cluster49_2 * avg_reward49_2
+   - 16.04951323614626 cluster18_cluster49_2 ^2
+   + 2 cluster19_cluster4_0 * avg_reward4_0
+   - 4.189453363508726 cluster19_cluster4_0 ^2
+   + 2 cluster19_cluster4_1 * avg_reward4_1
+   - 4.189453363508726 cluster19_cluster4_1 ^2
+   + 2 cluster19_cluster4_2 * avg_reward4_2
+   - 4.189453363508726 cluster19_cluster4_2 ^2
+   + 2 cluster19_cluster7_0 * avg_reward7_0
+   - 3.777048503639462 cluster19_cluster7_0 ^2
+   + 2 cluster19_cluster7_1 * avg_reward7_1
+   - 3.777048503639462 cluster19_cluster7_1 ^2
+   + 2 cluster19_cluster7_2 * avg_reward7_2
+   - 3.777048503639462 cluster19_cluster7_2 ^2
+   + 2 cluster19_cluster12_0 * avg_reward12_0
+   - 5.536655366499971 cluster19_cluster12_0 ^2
+   + 2 cluster19_cluster12_1 * avg_reward12_1
+   - 5.536655366499971 cluster19_cluster12_1 ^2
+   + 2 cluster19_cluster12_2 * avg_reward12_2
+   - 5.536655366499971 cluster19_cluster12_2 ^2
+   + 2 cluster19_cluster15_0 * avg_reward15_0
+   - 18.18079370950647 cluster19_cluster15_0 ^2
+   + 2 cluster19_cluster15_1 * avg_reward15_1
+   - 18.18079370950647 cluster19_cluster15_1 ^2
+   + 2 cluster19_cluster15_2 * avg_reward15_2
+   - 18.18079370950647 cluster19_cluster15_2 ^2
+   + 2 cluster19_cluster37_0 * avg_reward37_0
+   - 8.267683267348518 cluster19_cluster37_0 ^2
+   + 2 cluster19_cluster37_1 * avg_reward37_1
+   - 8.267683267348518 cluster19_cluster37_1 ^2
+   + 2 cluster19_cluster37_2 * avg_reward37_2
+   - 8.267683267348518 cluster19_cluster37_2 ^2
+   + 2 cluster19_cluster38_0 * avg_reward38_0
+   - 5.278882595162139 cluster19_cluster38_0 ^2
+   + 2 cluster19_cluster38_1 * avg_reward38_1
+   - 5.278882595162139 cluster19_cluster38_1 ^2
+   + 2 cluster19_cluster38_2 * avg_reward38_2
+   - 5.278882595162139 cluster19_cluster38_2 ^2
+   + 2 cluster19_cluster44_0 * avg_reward44_0
+   - 5.384607157041031 cluster19_cluster44_0 ^2
+   + 2 cluster19_cluster44_1 * avg_reward44_1
+   - 5.384607157041031 cluster19_cluster44_1 ^2
+   + 2 cluster19_cluster44_2 * avg_reward44_2
+   - 5.384607157041031 cluster19_cluster44_2 ^2
+   + 2 cluster19_cluster49_0 * avg_reward49_0
+   - 4.899276325294614 cluster19_cluster49_0 ^2
+   + 2 cluster19_cluster49_1 * avg_reward49_1
+   - 4.899276325294614 cluster19_cluster49_1 ^2
+   + 2 cluster19_cluster49_2 * avg_reward49_2
+   - 4.899276325294614 cluster19_cluster49_2 ^2
+   + 2 cluster20_cluster4_0 * avg_reward4_0
+   - 9.747681433907541 cluster20_cluster4_0 ^2
+   + 2 cluster20_cluster4_1 * avg_reward4_1
+   - 9.747681433907541 cluster20_cluster4_1 ^2
+   + 2 cluster20_cluster4_2 * avg_reward4_2
+   - 9.747681433907541 cluster20_cluster4_2 ^2
+   + 2 cluster20_cluster7_0 * avg_reward7_0
+   - 13.90899776973328 cluster20_cluster7_0 ^2
+   + 2 cluster20_cluster7_1 * avg_reward7_1
+   - 13.90899776973328 cluster20_cluster7_1 ^2
+   + 2 cluster20_cluster7_2 * avg_reward7_2
+   - 13.90899776973328 cluster20_cluster7_2 ^2
+   + 2 cluster20_cluster12_0 * avg_reward12_0
+   - 17.58386852982216 cluster20_cluster12_0 ^2
+   + 2 cluster20_cluster12_1 * avg_reward12_1
+   - 17.58386852982216 cluster20_cluster12_1 ^2
+   + 2 cluster20_cluster12_2 * avg_reward12_2
+   - 17.58386852982216 cluster20_cluster12_2 ^2
+   + 2 cluster20_cluster15_0 * avg_reward15_0
+   - 5.674104159138237 cluster20_cluster15_0 ^2
+   + 2 cluster20_cluster15_1 * avg_reward15_1
+   - 5.674104159138237 cluster20_cluster15_1 ^2
+   + 2 cluster20_cluster15_2 * avg_reward15_2
+   - 5.674104159138237 cluster20_cluster15_2 ^2
+   + 2 cluster20_cluster37_0 * avg_reward37_0
+   - 5.752490649750367 cluster20_cluster37_0 ^2
+   + 2 cluster20_cluster37_1 * avg_reward37_1
+   - 5.752490649750367 cluster20_cluster37_1 ^2
+   + 2 cluster20_cluster37_2 * avg_reward37_2
+   - 5.752490649750367 cluster20_cluster37_2 ^2
+   + 2 cluster20_cluster38_0 * avg_reward38_0
+   - 16.12923901314088 cluster20_cluster38_0 ^2
+   + 2 cluster20_cluster38_1 * avg_reward38_1
+   - 16.12923901314088 cluster20_cluster38_1 ^2
+   + 2 cluster20_cluster38_2 * avg_reward38_2
+   - 16.12923901314088 cluster20_cluster38_2 ^2
+   + 2 cluster20_cluster44_0 * avg_reward44_0
+   - 17.77527472419867 cluster20_cluster44_0 ^2
+   + 2 cluster20_cluster44_1 * avg_reward44_1
+   - 17.77527472419867 cluster20_cluster44_1 ^2
+   + 2 cluster20_cluster44_2 * avg_reward44_2
+   - 17.77527472419867 cluster20_cluster44_2 ^2
+   + 2 cluster20_cluster49_0 * avg_reward49_0
+   - 9.731447878305664 cluster20_cluster49_0 ^2
+   + 2 cluster20_cluster49_1 * avg_reward49_1
+   - 9.731447878305664 cluster20_cluster49_1 ^2
+   + 2 cluster20_cluster49_2 * avg_reward49_2
+   - 9.731447878305664 cluster20_cluster49_2 ^2
+   + 2 cluster21_cluster4_0 * avg_reward4_0
+   - 6.62907669051427 cluster21_cluster4_0 ^2
+   + 2 cluster21_cluster4_1 * avg_reward4_1
+   - 6.62907669051427 cluster21_cluster4_1 ^2
+   + 2 cluster21_cluster4_2 * avg_reward4_2
+   - 6.62907669051427 cluster21_cluster4_2 ^2
+   + 2 cluster21_cluster7_0 * avg_reward7_0
+   - 10.76729239900031 cluster21_cluster7_0 ^2
+   + 2 cluster21_cluster7_1 * avg_reward7_1
+   - 10.76729239900031 cluster21_cluster7_1 ^2
+   + 2 cluster21_cluster7_2 * avg_reward7_2
+   - 10.76729239900031 cluster21_cluster7_2 ^2
+   + 2 cluster21_cluster12_0 * avg_reward12_0
+   - 14.64992685932448 cluster21_cluster12_0 ^2
+   + 2 cluster21_cluster12_1 * avg_reward12_1
+   - 14.64992685932448 cluster21_cluster12_1 ^2
+   + 2 cluster21_cluster12_2 * avg_reward12_2
+   - 14.64992685932448 cluster21_cluster12_2 ^2
+   + 2 cluster21_cluster15_0 * avg_reward15_0
+   - 8.804631097815971 cluster21_cluster15_0 ^2
+   + 2 cluster21_cluster15_1 * avg_reward15_1
+   - 8.804631097815971 cluster21_cluster15_1 ^2
+   + 2 cluster21_cluster15_2 * avg_reward15_2
+   - 8.804631097815971 cluster21_cluster15_2 ^2
+   + 2 cluster21_cluster37_0 * avg_reward37_0
+   - 2.263582366509802 cluster21_cluster37_0 ^2
+   + 2 cluster21_cluster37_1 * avg_reward37_1
+   - 2.263582366509802 cluster21_cluster37_1 ^2
+   + 2 cluster21_cluster37_2 * avg_reward37_2
+   - 2.263582366509802 cluster21_cluster37_2 ^2
+   + 2 cluster21_cluster38_0 * avg_reward38_0
+   - 12.96167635395963 cluster21_cluster38_0 ^2
+   + 2 cluster21_cluster38_1 * avg_reward38_1
+   - 12.96167635395963 cluster21_cluster38_1 ^2
+   + 2 cluster21_cluster38_2 * avg_reward38_2
+   - 12.96167635395963 cluster21_cluster38_2 ^2
+   + 2 cluster21_cluster44_0 * avg_reward44_0
+   - 15.00950509774004 cluster21_cluster44_0 ^2
+   + 2 cluster21_cluster44_1 * avg_reward44_1
+   - 15.00950509774004 cluster21_cluster44_1 ^2
+   + 2 cluster21_cluster44_2 * avg_reward44_2
+   - 15.00950509774004 cluster21_cluster44_2 ^2
+   + 2 cluster21_cluster49_0 * avg_reward49_0
+   - 6.458676616723086 cluster21_cluster49_0 ^2
+   + 2 cluster21_cluster49_1 * avg_reward49_1
+   - 6.458676616723086 cluster21_cluster49_1 ^2
+   + 2 cluster21_cluster49_2 * avg_reward49_2
+   - 6.458676616723086 cluster21_cluster49_2 ^2
+   + 2 cluster22_cluster4_0 * avg_reward4_0
+   - 10.70398608147643 cluster22_cluster4_0 ^2
+   + 2 cluster22_cluster4_1 * avg_reward4_1
+   - 10.70398608147643 cluster22_cluster4_1 ^2
+   + 2 cluster22_cluster4_2 * avg_reward4_2
+   - 10.70398608147643 cluster22_cluster4_2 ^2
+   + 2 cluster22_cluster7_0 * avg_reward7_0
+   - 14.77370293209437 cluster22_cluster7_0 ^2
+   + 2 cluster22_cluster7_1 * avg_reward7_1
+   - 14.77370293209437 cluster22_cluster7_1 ^2
+   + 2 cluster22_cluster7_2 * avg_reward7_2
+   - 14.77370293209437 cluster22_cluster7_2 ^2
+   + 2 cluster22_cluster12_0 * avg_reward12_0
+   - 18.73769276919331 cluster22_cluster12_0 ^2
+   + 2 cluster22_cluster12_1 * avg_reward12_1
+   - 18.73769276919331 cluster22_cluster12_1 ^2
+   + 2 cluster22_cluster12_2 * avg_reward12_2
+   - 18.73769276919331 cluster22_cluster12_2 ^2
+   + 2 cluster22_cluster15_0 * avg_reward15_0
+   - 5.529209524839294 cluster22_cluster15_0 ^2
+   + 2 cluster22_cluster15_1 * avg_reward15_1
+   - 5.529209524839294 cluster22_cluster15_1 ^2
+   + 2 cluster22_cluster15_2 * avg_reward15_2
+   - 5.529209524839294 cluster22_cluster15_2 ^2
+   + 2 cluster22_cluster37_0 * avg_reward37_0
+   - 6.194300413958115 cluster22_cluster37_0 ^2
+   + 2 cluster22_cluster37_1 * avg_reward37_1
+   - 6.194300413958115 cluster22_cluster37_1 ^2
+   + 2 cluster22_cluster37_2 * avg_reward37_2
+   - 6.194300413958115 cluster22_cluster37_2 ^2
+   + 2 cluster22_cluster38_0 * avg_reward38_0
+   - 16.92862247496789 cluster22_cluster38_0 ^2
+   + 2 cluster22_cluster38_1 * avg_reward38_1
+   - 16.92862247496789 cluster22_cluster38_1 ^2
+   + 2 cluster22_cluster38_2 * avg_reward38_2
+   - 16.92862247496789 cluster22_cluster38_2 ^2
+   + 2 cluster22_cluster44_0 * avg_reward44_0
+   - 19.1470361518617 cluster22_cluster44_0 ^2
+   + 2 cluster22_cluster44_1 * avg_reward44_1
+   - 19.1470361518617 cluster22_cluster44_1 ^2
+   + 2 cluster22_cluster44_2 * avg_reward44_2
+   - 19.1470361518617 cluster22_cluster44_2 ^2
+   + 2 cluster22_cluster49_0 * avg_reward49_0
+   - 10.43546471415861 cluster22_cluster49_0 ^2
+   + 2 cluster22_cluster49_1 * avg_reward49_1
+   - 10.43546471415861 cluster22_cluster49_1 ^2
+   + 2 cluster22_cluster49_2 * avg_reward49_2
+   - 10.43546471415861 cluster22_cluster49_2 ^2
+   + 2 cluster23_cluster4_0 * avg_reward4_0
+   - 7.053806087260281 cluster23_cluster4_0 ^2
+   + 2 cluster23_cluster4_1 * avg_reward4_1
+   - 7.053806087260281 cluster23_cluster4_1 ^2
+   + 2 cluster23_cluster4_2 * avg_reward4_2
+   - 7.053806087260281 cluster23_cluster4_2 ^2
+   + 2 cluster23_cluster7_0 * avg_reward7_0
+   - 4.692797506245662 cluster23_cluster7_0 ^2
+   + 2 cluster23_cluster7_1 * avg_reward7_1
+   - 4.692797506245662 cluster23_cluster7_1 ^2
+   + 2 cluster23_cluster7_2 * avg_reward7_2
+   - 4.692797506245662 cluster23_cluster7_2 ^2
+   + 2 cluster23_cluster12_0 * avg_reward12_0
+   - 3.565494379395775 cluster23_cluster12_0 ^2
+   + 2 cluster23_cluster12_1 * avg_reward12_1
+   - 3.565494379395775 cluster23_cluster12_1 ^2
+   + 2 cluster23_cluster12_2 * avg_reward12_2
+   - 3.565494379395775 cluster23_cluster12_2 ^2
+   + 2 cluster23_cluster15_0 * avg_reward15_0
+   - 21.29177873204152 cluster23_cluster15_0 ^2
+   + 2 cluster23_cluster15_1 * avg_reward15_1
+   - 21.29177873204152 cluster23_cluster15_1 ^2
+   + 2 cluster23_cluster15_2 * avg_reward15_2
+   - 21.29177873204152 cluster23_cluster15_2 ^2
+   + 2 cluster23_cluster37_0 * avg_reward37_0
+   - 11.35514863001526 cluster23_cluster37_0 ^2
+   + 2 cluster23_cluster37_1 * avg_reward37_1
+   - 11.35514863001526 cluster23_cluster37_1 ^2
+   + 2 cluster23_cluster37_2 * avg_reward37_2
+   - 11.35514863001526 cluster23_cluster37_2 ^2
+   + 2 cluster23_cluster38_0 * avg_reward38_0
+   - 4.799228327756202 cluster23_cluster38_0 ^2
+   + 2 cluster23_cluster38_1 * avg_reward38_1
+   - 4.799228327756202 cluster23_cluster38_1 ^2
+   + 2 cluster23_cluster38_2 * avg_reward38_2
+   - 4.799228327756202 cluster23_cluster38_2 ^2
+   + 2 cluster23_cluster44_0 * avg_reward44_0
+   - 2.78630324016404 cluster23_cluster44_0 ^2
+   + 2 cluster23_cluster44_1 * avg_reward44_1
+   - 2.78630324016404 cluster23_cluster44_1 ^2
+   + 2 cluster23_cluster44_2 * avg_reward44_2
+   - 2.78630324016404 cluster23_cluster44_2 ^2
+   + 2 cluster23_cluster49_0 * avg_reward49_0
+   - 7.654811828054417 cluster23_cluster49_0 ^2
+   + 2 cluster23_cluster49_1 * avg_reward49_1
+   - 7.654811828054417 cluster23_cluster49_1 ^2
+   + 2 cluster23_cluster49_2 * avg_reward49_2
+   - 7.654811828054417 cluster23_cluster49_2 ^2
+   + 2 cluster24_cluster4_0 * avg_reward4_0
+   - 6.539078703703556 cluster24_cluster4_0 ^2
+   + 2 cluster24_cluster4_1 * avg_reward4_1
+   - 6.539078703703556 cluster24_cluster4_1 ^2
+   + 2 cluster24_cluster4_2 * avg_reward4_2
+   - 6.539078703703556 cluster24_cluster4_2 ^2
+   + 2 cluster24_cluster7_0 * avg_reward7_0
+   - 10.21137240741673 cluster24_cluster7_0 ^2
+   + 2 cluster24_cluster7_1 * avg_reward7_1
+   - 10.21137240741673 cluster24_cluster7_1 ^2
+   + 2 cluster24_cluster7_2 * avg_reward7_2
+   - 10.21137240741673 cluster24_cluster7_2 ^2
+   + 2 cluster24_cluster12_0 * avg_reward12_0
+   - 14.30097652264567 cluster24_cluster12_0 ^2
+   + 2 cluster24_cluster12_1 * avg_reward12_1
+   - 14.30097652264567 cluster24_cluster12_1 ^2
+   + 2 cluster24_cluster12_2 * avg_reward12_2
+   - 14.30097652264567 cluster24_cluster12_2 ^2
+   + 2 cluster24_cluster15_0 * avg_reward15_0
+   - 10.64252617595111 cluster24_cluster15_0 ^2
+   + 2 cluster24_cluster15_1 * avg_reward15_1
+   - 10.64252617595111 cluster24_cluster15_1 ^2
+   + 2 cluster24_cluster15_2 * avg_reward15_2
+   - 10.64252617595111 cluster24_cluster15_2 ^2
+   + 2 cluster24_cluster37_0 * avg_reward37_0
+   - 2.686494539087177 cluster24_cluster37_0 ^2
+   + 2 cluster24_cluster37_1 * avg_reward37_1
+   - 2.686494539087177 cluster24_cluster37_1 ^2
+   + 2 cluster24_cluster37_2 * avg_reward37_2
+   - 2.686494539087177 cluster24_cluster37_2 ^2
+   + 2 cluster24_cluster38_0 * avg_reward38_0
+   - 12.23844231089615 cluster24_cluster38_0 ^2
+   + 2 cluster24_cluster38_1 * avg_reward38_1
+   - 12.23844231089615 cluster24_cluster38_1 ^2
+   + 2 cluster24_cluster38_2 * avg_reward38_2
+   - 12.23844231089615 cluster24_cluster38_2 ^2
+   + 2 cluster24_cluster44_0 * avg_reward44_0
+   - 14.91596208938949 cluster24_cluster44_0 ^2
+   + 2 cluster24_cluster44_1 * avg_reward44_1
+   - 14.91596208938949 cluster24_cluster44_1 ^2
+   + 2 cluster24_cluster44_2 * avg_reward44_2
+   - 14.91596208938949 cluster24_cluster44_2 ^2
+   + 2 cluster24_cluster49_0 * avg_reward49_0
+   - 6.024623721487572 cluster24_cluster49_0 ^2
+   + 2 cluster24_cluster49_1 * avg_reward49_1
+   - 6.024623721487572 cluster24_cluster49_1 ^2
+   + 2 cluster24_cluster49_2 * avg_reward49_2
+   - 6.024623721487572 cluster24_cluster49_2 ^2
+   + 2 cluster25_cluster4_0 * avg_reward4_0
+   - 6.399753385718761 cluster25_cluster4_0 ^2
+   + 2 cluster25_cluster4_1 * avg_reward4_1
+   - 6.399753385718761 cluster25_cluster4_1 ^2
+   + 2 cluster25_cluster4_2 * avg_reward4_2
+   - 6.399753385718761 cluster25_cluster4_2 ^2
+   + 2 cluster25_cluster7_0 * avg_reward7_0
+   - 3.448983636319454 cluster25_cluster7_0 ^2
+   + 2 cluster25_cluster7_1 * avg_reward7_1
+   - 3.448983636319454 cluster25_cluster7_1 ^2
+   + 2 cluster25_cluster7_2 * avg_reward7_2
+   - 3.448983636319454 cluster25_cluster7_2 ^2
+   + 2 cluster25_cluster12_0 * avg_reward12_0
+   - 2.571281568730045 cluster25_cluster12_0 ^2
+   + 2 cluster25_cluster12_1 * avg_reward12_1
+   - 2.571281568730045 cluster25_cluster12_1 ^2
+   + 2 cluster25_cluster12_2 * avg_reward12_2
+   - 2.571281568730045 cluster25_cluster12_2 ^2
+   + 2 cluster25_cluster15_0 * avg_reward15_0
+   - 21.1811653986623 cluster25_cluster15_0 ^2
+   + 2 cluster25_cluster15_1 * avg_reward15_1
+   - 21.1811653986623 cluster25_cluster15_1 ^2
+   + 2 cluster25_cluster15_2 * avg_reward15_2
+   - 21.1811653986623 cluster25_cluster15_2 ^2
+   + 2 cluster25_cluster37_0 * avg_reward37_0
+   - 10.85590803406247 cluster25_cluster37_0 ^2
+   + 2 cluster25_cluster37_1 * avg_reward37_1
+   - 10.85590803406247 cluster25_cluster37_1 ^2
+   + 2 cluster25_cluster37_2 * avg_reward37_2
+   - 10.85590803406247 cluster25_cluster37_2 ^2
+   + 2 cluster25_cluster38_0 * avg_reward38_0
+   - 3.423255906122779 cluster25_cluster38_0 ^2
+   + 2 cluster25_cluster38_1 * avg_reward38_1
+   - 3.423255906122779 cluster25_cluster38_1 ^2
+   + 2 cluster25_cluster38_2 * avg_reward38_2
+   - 3.423255906122779 cluster25_cluster38_2 ^2
+   + 2 cluster25_cluster44_0 * avg_reward44_0
+   - 2.289136958410892 cluster25_cluster44_0 ^2
+   + 2 cluster25_cluster44_1 * avg_reward44_1
+   - 2.289136958410892 cluster25_cluster44_1 ^2
+   + 2 cluster25_cluster44_2 * avg_reward44_2
+   - 2.289136958410892 cluster25_cluster44_2 ^2
+   + 2 cluster25_cluster49_0 * avg_reward49_0
+   - 6.903615875751949 cluster25_cluster49_0 ^2
+   + 2 cluster25_cluster49_1 * avg_reward49_1
+   - 6.903615875751949 cluster25_cluster49_1 ^2
+   + 2 cluster25_cluster49_2 * avg_reward49_2
+   - 6.903615875751949 cluster25_cluster49_2 ^2
+   + 2 cluster26_cluster4_0 * avg_reward4_0
+   - 3.223361014271354 cluster26_cluster4_0 ^2
+   + 2 cluster26_cluster4_1 * avg_reward4_1
+   - 3.223361014271354 cluster26_cluster4_1 ^2
+   + 2 cluster26_cluster4_2 * avg_reward4_2
+   - 3.223361014271354 cluster26_cluster4_2 ^2
+   + 2 cluster26_cluster7_0 * avg_reward7_0
+   - 7.367421806628584 cluster26_cluster7_0 ^2
+   + 2 cluster26_cluster7_1 * avg_reward7_1
+   - 7.367421806628584 cluster26_cluster7_1 ^2
+   + 2 cluster26_cluster7_2 * avg_reward7_2
+   - 7.367421806628584 cluster26_cluster7_2 ^2
+   + 2 cluster26_cluster12_0 * avg_reward12_0
+   - 11.0778758222226 cluster26_cluster12_0 ^2
+   + 2 cluster26_cluster12_1 * avg_reward12_1
+   - 11.0778758222226 cluster26_cluster12_1 ^2
+   + 2 cluster26_cluster12_2 * avg_reward12_2
+   - 11.0778758222226 cluster26_cluster12_2 ^2
+   + 2 cluster26_cluster15_0 * avg_reward15_0
+   - 12.17385361727311 cluster26_cluster15_0 ^2
+   + 2 cluster26_cluster15_1 * avg_reward15_1
+   - 12.17385361727311 cluster26_cluster15_1 ^2
+   + 2 cluster26_cluster15_2 * avg_reward15_2
+   - 12.17385361727311 cluster26_cluster15_2 ^2
+   + 2 cluster26_cluster37_0 * avg_reward37_0
+   - 2.165557745162604 cluster26_cluster37_0 ^2
+   + 2 cluster26_cluster37_1 * avg_reward37_1
+   - 2.165557745162604 cluster26_cluster37_1 ^2
+   + 2 cluster26_cluster37_2 * avg_reward37_2
+   - 2.165557745162604 cluster26_cluster37_2 ^2
+   + 2 cluster26_cluster38_0 * avg_reward38_0
+   - 9.588734298227212 cluster26_cluster38_0 ^2
+   + 2 cluster26_cluster38_1 * avg_reward38_1
+   - 9.588734298227212 cluster26_cluster38_1 ^2
+   + 2 cluster26_cluster38_2 * avg_reward38_2
+   - 9.588734298227212 cluster26_cluster38_2 ^2
+   + 2 cluster26_cluster44_0 * avg_reward44_0
+   - 11.36281729268467 cluster26_cluster44_0 ^2
+   + 2 cluster26_cluster44_1 * avg_reward44_1
+   - 11.36281729268467 cluster26_cluster44_1 ^2
+   + 2 cluster26_cluster44_2 * avg_reward44_2
+   - 11.36281729268467 cluster26_cluster44_2 ^2
+   + 2 cluster26_cluster49_0 * avg_reward49_0
+   - 3.346838294416477 cluster26_cluster49_0 ^2
+   + 2 cluster26_cluster49_1 * avg_reward49_1
+   - 3.346838294416477 cluster26_cluster49_1 ^2
+   + 2 cluster26_cluster49_2 * avg_reward49_2
+   - 3.346838294416477 cluster26_cluster49_2 ^2
+   + 2 cluster27_cluster4_0 * avg_reward4_0
+   - 4.251218124636455 cluster27_cluster4_0 ^2
+   + 2 cluster27_cluster4_1 * avg_reward4_1
+   - 4.251218124636455 cluster27_cluster4_1 ^2
+   + 2 cluster27_cluster4_2 * avg_reward4_2
+   - 4.251218124636455 cluster27_cluster4_2 ^2
+   + 2 cluster27_cluster7_0 * avg_reward7_0
+   - 7.068487242700078 cluster27_cluster7_0 ^2
+   + 2 cluster27_cluster7_1 * avg_reward7_1
+   - 7.068487242700078 cluster27_cluster7_1 ^2
+   + 2 cluster27_cluster7_2 * avg_reward7_2
+   - 7.068487242700078 cluster27_cluster7_2 ^2
+   + 2 cluster27_cluster12_0 * avg_reward12_0
+   - 11.15704954857247 cluster27_cluster12_0 ^2
+   + 2 cluster27_cluster12_1 * avg_reward12_1
+   - 11.15704954857247 cluster27_cluster12_1 ^2
+   + 2 cluster27_cluster12_2 * avg_reward12_2
+   - 11.15704954857247 cluster27_cluster12_2 ^2
+   + 2 cluster27_cluster15_0 * avg_reward15_0
+   - 14.05437323136314 cluster27_cluster15_0 ^2
+   + 2 cluster27_cluster15_1 * avg_reward15_1
+   - 14.05437323136314 cluster27_cluster15_1 ^2
+   + 2 cluster27_cluster15_2 * avg_reward15_2
+   - 14.05437323136314 cluster27_cluster15_2 ^2
+   + 2 cluster27_cluster37_0 * avg_reward37_0
+   - 3.618859400652959 cluster27_cluster37_0 ^2
+   + 2 cluster27_cluster37_1 * avg_reward37_1
+   - 3.618859400652959 cluster27_cluster37_1 ^2
+   + 2 cluster27_cluster37_2 * avg_reward37_2
+   - 3.618859400652959 cluster27_cluster37_2 ^2
+   + 2 cluster27_cluster38_0 * avg_reward38_0
+   - 8.928287237977168 cluster27_cluster38_0 ^2
+   + 2 cluster27_cluster38_1 * avg_reward38_1
+   - 8.928287237977168 cluster27_cluster38_1 ^2
+   + 2 cluster27_cluster38_2 * avg_reward38_2
+   - 8.928287237977168 cluster27_cluster38_2 ^2
+   + 2 cluster27_cluster44_0 * avg_reward44_0
+   - 11.92516462679684 cluster27_cluster44_0 ^2
+   + 2 cluster27_cluster44_1 * avg_reward44_1
+   - 11.92516462679684 cluster27_cluster44_1 ^2
+   + 2 cluster27_cluster44_2 * avg_reward44_2
+   - 11.92516462679684 cluster27_cluster44_2 ^2
+   + 2 cluster27_cluster49_0 * avg_reward49_0
+   - 3.498985317707211 cluster27_cluster49_0 ^2
+   + 2 cluster27_cluster49_1 * avg_reward49_1
+   - 3.498985317707211 cluster27_cluster49_1 ^2
+   + 2 cluster27_cluster49_2 * avg_reward49_2
+   - 3.498985317707211 cluster27_cluster49_2 ^2
+   + 2 cluster28_cluster4_0 * avg_reward4_0
+   - 28.51025699400778 cluster28_cluster4_0 ^2
+   + 2 cluster28_cluster4_1 * avg_reward4_1
+   - 28.51025699400778 cluster28_cluster4_1 ^2
+   + 2 cluster28_cluster4_2 * avg_reward4_2
+   - 28.51025699400778 cluster28_cluster4_2 ^2
+   + 2 cluster28_cluster7_0 * avg_reward7_0
+   - 24.70609587179236 cluster28_cluster7_0 ^2
+   + 2 cluster28_cluster7_1 * avg_reward7_1
+   - 24.70609587179236 cluster28_cluster7_1 ^2
+   + 2 cluster28_cluster7_2 * avg_reward7_2
+   - 24.70609587179236 cluster28_cluster7_2 ^2
+   + 2 cluster28_cluster12_0 * avg_reward12_0
+   - 20.60528260805653 cluster28_cluster12_0 ^2
+   + 2 cluster28_cluster12_1 * avg_reward12_1
+   - 20.60528260805653 cluster28_cluster12_1 ^2
+   + 2 cluster28_cluster12_2 * avg_reward12_2
+   - 20.60528260805653 cluster28_cluster12_2 ^2
+   + 2 cluster28_cluster15_0 * avg_reward15_0
+   - 43.15936891461281 cluster28_cluster15_0 ^2
+   + 2 cluster28_cluster15_1 * avg_reward15_1
+   - 43.15936891461281 cluster28_cluster15_1 ^2
+   + 2 cluster28_cluster15_2 * avg_reward15_2
+   - 43.15936891461281 cluster28_cluster15_2 ^2
+   + 2 cluster28_cluster37_0 * avg_reward37_0
+   - 33.01184851594729 cluster28_cluster37_0 ^2
+   + 2 cluster28_cluster37_1 * avg_reward37_1
+   - 33.01184851594729 cluster28_cluster37_1 ^2
+   + 2 cluster28_cluster37_2 * avg_reward37_2
+   - 33.01184851594729 cluster28_cluster37_2 ^2
+   + 2 cluster28_cluster38_0 * avg_reward38_0
+   - 22.82034171858309 cluster28_cluster38_0 ^2
+   + 2 cluster28_cluster38_1 * avg_reward38_1
+   - 22.82034171858309 cluster28_cluster38_1 ^2
+   + 2 cluster28_cluster38_2 * avg_reward38_2
+   - 22.82034171858309 cluster28_cluster38_2 ^2
+   + 2 cluster28_cluster44_0 * avg_reward44_0
+   - 20.02678145614348 cluster28_cluster44_0 ^2
+   + 2 cluster28_cluster44_1 * avg_reward44_1
+   - 20.02678145614348 cluster28_cluster44_1 ^2
+   + 2 cluster28_cluster44_2 * avg_reward44_2
+   - 20.02678145614348 cluster28_cluster44_2 ^2
+   + 2 cluster28_cluster49_0 * avg_reward49_0
+   - 28.90951378727366 cluster28_cluster49_0 ^2
+   + 2 cluster28_cluster49_1 * avg_reward49_1
+   - 28.90951378727366 cluster28_cluster49_1 ^2
+   + 2 cluster28_cluster49_2 * avg_reward49_2
+   - 28.90951378727366 cluster28_cluster49_2 ^2
+   + 2 cluster29_cluster4_0 * avg_reward4_0
+   - 22.64677738877554 cluster29_cluster4_0 ^2
+   + 2 cluster29_cluster4_1 * avg_reward4_1
+   - 22.64677738877554 cluster29_cluster4_1 ^2
+   + 2 cluster29_cluster4_2 * avg_reward4_2
+   - 22.64677738877554 cluster29_cluster4_2 ^2
+   + 2 cluster29_cluster7_0 * avg_reward7_0
+   - 18.91827256987843 cluster29_cluster7_0 ^2
+   + 2 cluster29_cluster7_1 * avg_reward7_1
+   - 18.91827256987843 cluster29_cluster7_1 ^2
+   + 2 cluster29_cluster7_2 * avg_reward7_2
+   - 18.91827256987843 cluster29_cluster7_2 ^2
+   + 2 cluster29_cluster12_0 * avg_reward12_0
+   - 14.81870313875553 cluster29_cluster12_0 ^2
+   + 2 cluster29_cluster12_1 * avg_reward12_1
+   - 14.81870313875553 cluster29_cluster12_1 ^2
+   + 2 cluster29_cluster12_2 * avg_reward12_2
+   - 14.81870313875553 cluster29_cluster12_2 ^2
+   + 2 cluster29_cluster15_0 * avg_reward15_0
+   - 37.24566464915647 cluster29_cluster15_0 ^2
+   + 2 cluster29_cluster15_1 * avg_reward15_1
+   - 37.24566464915647 cluster29_cluster15_1 ^2
+   + 2 cluster29_cluster15_2 * avg_reward15_2
+   - 37.24566464915647 cluster29_cluster15_2 ^2
+   + 2 cluster29_cluster37_0 * avg_reward37_0
+   - 27.13686338236467 cluster29_cluster37_0 ^2
+   + 2 cluster29_cluster37_1 * avg_reward37_1
+   - 27.13686338236467 cluster29_cluster37_1 ^2
+   + 2 cluster29_cluster37_2 * avg_reward37_2
+   - 27.13686338236467 cluster29_cluster37_2 ^2
+   + 2 cluster29_cluster38_0 * avg_reward38_0
+   - 17.115618179749 cluster29_cluster38_0 ^2
+   + 2 cluster29_cluster38_1 * avg_reward38_1
+   - 17.115618179749 cluster29_cluster38_1 ^2
+   + 2 cluster29_cluster38_2 * avg_reward38_2
+   - 17.115618179749 cluster29_cluster38_2 ^2
+   + 2 cluster29_cluster44_0 * avg_reward44_0
+   - 14.17105379448526 cluster29_cluster44_0 ^2
+   + 2 cluster29_cluster44_1 * avg_reward44_1
+   - 14.17105379448526 cluster29_cluster44_1 ^2
+   + 2 cluster29_cluster44_2 * avg_reward44_2
+   - 14.17105379448526 cluster29_cluster44_2 ^2
+   + 2 cluster29_cluster49_0 * avg_reward49_0
+   - 23.06865023768762 cluster29_cluster49_0 ^2
+   + 2 cluster29_cluster49_1 * avg_reward49_1
+   - 23.06865023768762 cluster29_cluster49_1 ^2
+   + 2 cluster29_cluster49_2 * avg_reward49_2
+   - 23.06865023768762 cluster29_cluster49_2 ^2
+   + 2 cluster30_cluster4_0 * avg_reward4_0
+   - 3.585115869418951 cluster30_cluster4_0 ^2
+   + 2 cluster30_cluster4_1 * avg_reward4_1
+   - 3.585115869418951 cluster30_cluster4_1 ^2
+   + 2 cluster30_cluster4_2 * avg_reward4_2
+   - 3.585115869418951 cluster30_cluster4_2 ^2
+   + 2 cluster30_cluster7_0 * avg_reward7_0
+   - 1.874294828518763 cluster30_cluster7_0 ^2
+   + 2 cluster30_cluster7_1 * avg_reward7_1
+   - 1.874294828518763 cluster30_cluster7_1 ^2
+   + 2 cluster30_cluster7_2 * avg_reward7_2
+   - 1.874294828518763 cluster30_cluster7_2 ^2
+   + 2 cluster30_cluster12_0 * avg_reward12_0
+   - 4.613952645645223 cluster30_cluster12_0 ^2
+   + 2 cluster30_cluster12_1 * avg_reward12_1
+   - 4.613952645645223 cluster30_cluster12_1 ^2
+   + 2 cluster30_cluster12_2 * avg_reward12_2
+   - 4.613952645645223 cluster30_cluster12_2 ^2
+   + 2 cluster30_cluster15_0 * avg_reward15_0
+   - 18.63085890866429 cluster30_cluster15_0 ^2
+   + 2 cluster30_cluster15_1 * avg_reward15_1
+   - 18.63085890866429 cluster30_cluster15_1 ^2
+   + 2 cluster30_cluster15_2 * avg_reward15_2
+   - 18.63085890866429 cluster30_cluster15_2 ^2
+   + 2 cluster30_cluster37_0 * avg_reward37_0
+   - 8.07512336834124 cluster30_cluster37_0 ^2
+   + 2 cluster30_cluster37_1 * avg_reward37_1
+   - 8.07512336834124 cluster30_cluster37_1 ^2
+   + 2 cluster30_cluster37_2 * avg_reward37_2
+   - 8.07512336834124 cluster30_cluster37_2 ^2
+   + 2 cluster30_cluster38_0 * avg_reward38_0
+   - 3.643582863375953 cluster30_cluster38_0 ^2
+   + 2 cluster30_cluster38_1 * avg_reward38_1
+   - 3.643582863375953 cluster30_cluster38_1 ^2
+   + 2 cluster30_cluster38_2 * avg_reward38_2
+   - 3.643582863375953 cluster30_cluster38_2 ^2
+   + 2 cluster30_cluster44_0 * avg_reward44_0
+   - 4.917806782120536 cluster30_cluster44_0 ^2
+   + 2 cluster30_cluster44_1 * avg_reward44_1
+   - 4.917806782120536 cluster30_cluster44_1 ^2
+   + 2 cluster30_cluster44_2 * avg_reward44_2
+   - 4.917806782120536 cluster30_cluster44_2 ^2
+   + 2 cluster30_cluster49_0 * avg_reward49_0
+   - 4.081061445679837 cluster30_cluster49_0 ^2
+   + 2 cluster30_cluster49_1 * avg_reward49_1
+   - 4.081061445679837 cluster30_cluster49_1 ^2
+   + 2 cluster30_cluster49_2 * avg_reward49_2
+   - 4.081061445679837 cluster30_cluster49_2 ^2
+   + 2 cluster31_cluster4_0 * avg_reward4_0
+   - 5.50543998586572 cluster31_cluster4_0 ^2
+   + 2 cluster31_cluster4_1 * avg_reward4_1
+   - 5.50543998586572 cluster31_cluster4_1 ^2
+   + 2 cluster31_cluster4_2 * avg_reward4_2
+   - 5.50543998586572 cluster31_cluster4_2 ^2
+   + 2 cluster31_cluster7_0 * avg_reward7_0
+   - 9.622810724718915 cluster31_cluster7_0 ^2
+   + 2 cluster31_cluster7_1 * avg_reward7_1
+   - 9.622810724718915 cluster31_cluster7_1 ^2
+   + 2 cluster31_cluster7_2 * avg_reward7_2
+   - 9.622810724718915 cluster31_cluster7_2 ^2
+   + 2 cluster31_cluster12_0 * avg_reward12_0
+   - 13.22214897956676 cluster31_cluster12_0 ^2
+   + 2 cluster31_cluster12_1 * avg_reward12_1
+   - 13.22214897956676 cluster31_cluster12_1 ^2
+   + 2 cluster31_cluster12_2 * avg_reward12_2
+   - 13.22214897956676 cluster31_cluster12_2 ^2
+   + 2 cluster31_cluster15_0 * avg_reward15_0
+   - 10.03891846861821 cluster31_cluster15_0 ^2
+   + 2 cluster31_cluster15_1 * avg_reward15_1
+   - 10.03891846861821 cluster31_cluster15_1 ^2
+   + 2 cluster31_cluster15_2 * avg_reward15_2
+   - 10.03891846861821 cluster31_cluster15_2 ^2
+   + 2 cluster31_cluster37_0 * avg_reward37_0
+   - 2.678610792001184 cluster31_cluster37_0 ^2
+   + 2 cluster31_cluster37_1 * avg_reward37_1
+   - 2.678610792001184 cluster31_cluster37_1 ^2
+   + 2 cluster31_cluster37_2 * avg_reward37_2
+   - 2.678610792001184 cluster31_cluster37_2 ^2
+   + 2 cluster31_cluster38_0 * avg_reward38_0
+   - 11.84291123874416 cluster31_cluster38_0 ^2
+   + 2 cluster31_cluster38_1 * avg_reward38_1
+   - 11.84291123874416 cluster31_cluster38_1 ^2
+   + 2 cluster31_cluster38_2 * avg_reward38_2
+   - 11.84291123874416 cluster31_cluster38_2 ^2
+   + 2 cluster31_cluster44_0 * avg_reward44_0
+   - 13.41066508532623 cluster31_cluster44_0 ^2
+   + 2 cluster31_cluster44_1 * avg_reward44_1
+   - 13.41066508532623 cluster31_cluster44_1 ^2
+   + 2 cluster31_cluster44_2 * avg_reward44_2
+   - 13.41066508532623 cluster31_cluster44_2 ^2
+   + 2 cluster31_cluster49_0 * avg_reward49_0
+   - 5.625450566890463 cluster31_cluster49_0 ^2
+   + 2 cluster31_cluster49_1 * avg_reward49_1
+   - 5.625450566890463 cluster31_cluster49_1 ^2
+   + 2 cluster31_cluster49_2 * avg_reward49_2
+   - 5.625450566890463 cluster31_cluster49_2 ^2
+   + 2 cluster32_cluster4_0 * avg_reward4_0
+   - 14.90030197299569 cluster32_cluster4_0 ^2
+   + 2 cluster32_cluster4_1 * avg_reward4_1
+   - 14.90030197299569 cluster32_cluster4_1 ^2
+   + 2 cluster32_cluster4_2 * avg_reward4_2
+   - 14.90030197299569 cluster32_cluster4_2 ^2
+   + 2 cluster32_cluster7_0 * avg_reward7_0
+   - 18.98728239787847 cluster32_cluster7_0 ^2
+   + 2 cluster32_cluster7_1 * avg_reward7_1
+   - 18.98728239787847 cluster32_cluster7_1 ^2
+   + 2 cluster32_cluster7_2 * avg_reward7_2
+   - 18.98728239787847 cluster32_cluster7_2 ^2
+   + 2 cluster32_cluster12_0 * avg_reward12_0
+   - 22.93418332020556 cluster32_cluster12_0 ^2
+   + 2 cluster32_cluster12_1 * avg_reward12_1
+   - 22.93418332020556 cluster32_cluster12_1 ^2
+   + 2 cluster32_cluster12_2 * avg_reward12_2
+   - 22.93418332020556 cluster32_cluster12_2 ^2
+   + 2 cluster32_cluster15_0 * avg_reward15_0
+   - 3.101990104110441 cluster32_cluster15_0 ^2
+   + 2 cluster32_cluster15_1 * avg_reward15_1
+   - 3.101990104110441 cluster32_cluster15_1 ^2
+   + 2 cluster32_cluster15_2 * avg_reward15_2
+   - 3.101990104110441 cluster32_cluster15_2 ^2
+   + 2 cluster32_cluster37_0 * avg_reward37_0
+   - 10.40232853772359 cluster32_cluster37_0 ^2
+   + 2 cluster32_cluster37_1 * avg_reward37_1
+   - 10.40232853772359 cluster32_cluster37_1 ^2
+   + 2 cluster32_cluster37_2 * avg_reward37_2
+   - 10.40232853772359 cluster32_cluster37_2 ^2
+   + 2 cluster32_cluster38_0 * avg_reward38_0
+   - 21.14540412226571 cluster32_cluster38_0 ^2
+   + 2 cluster32_cluster38_1 * avg_reward38_1
+   - 21.14540412226571 cluster32_cluster38_1 ^2
+   + 2 cluster32_cluster38_2 * avg_reward38_2
+   - 21.14540412226571 cluster32_cluster38_2 ^2
+   + 2 cluster32_cluster44_0 * avg_reward44_0
+   - 23.31130163602085 cluster32_cluster44_0 ^2
+   + 2 cluster32_cluster44_1 * avg_reward44_1
+   - 23.31130163602085 cluster32_cluster44_1 ^2
+   + 2 cluster32_cluster44_2 * avg_reward44_2
+   - 23.31130163602085 cluster32_cluster44_2 ^2
+   + 2 cluster32_cluster49_0 * avg_reward49_0
+   - 14.64927320204746 cluster32_cluster49_0 ^2
+   + 2 cluster32_cluster49_1 * avg_reward49_1
+   - 14.64927320204746 cluster32_cluster49_1 ^2
+   + 2 cluster32_cluster49_2 * avg_reward49_2
+   - 14.64927320204746 cluster32_cluster49_2 ^2
+   + 2 cluster33_cluster4_0 * avg_reward4_0
+   - 25.91777434321666 cluster33_cluster4_0 ^2
+   + 2 cluster33_cluster4_1 * avg_reward4_1
+   - 25.91777434321666 cluster33_cluster4_1 ^2
+   + 2 cluster33_cluster4_2 * avg_reward4_2
+   - 25.91777434321666 cluster33_cluster4_2 ^2
+   + 2 cluster33_cluster7_0 * avg_reward7_0
+   - 22.02940229823885 cluster33_cluster7_0 ^2
+   + 2 cluster33_cluster7_1 * avg_reward7_1
+   - 22.02940229823885 cluster33_cluster7_1 ^2
+   + 2 cluster33_cluster7_2 * avg_reward7_2
+   - 22.02940229823885 cluster33_cluster7_2 ^2
+   + 2 cluster33_cluster12_0 * avg_reward12_0
+   - 17.94223709386273 cluster33_cluster12_0 ^2
+   + 2 cluster33_cluster12_1 * avg_reward12_1
+   - 17.94223709386273 cluster33_cluster12_1 ^2
+   + 2 cluster33_cluster12_2 * avg_reward12_2
+   - 17.94223709386273 cluster33_cluster12_2 ^2
+   + 2 cluster33_cluster15_0 * avg_reward15_0
+   - 40.76107585215086 cluster33_cluster15_0 ^2
+   + 2 cluster33_cluster15_1 * avg_reward15_1
+   - 40.76107585215086 cluster33_cluster15_1 ^2
+   + 2 cluster33_cluster15_2 * avg_reward15_2
+   - 40.76107585215086 cluster33_cluster15_2 ^2
+   + 2 cluster33_cluster37_0 * avg_reward37_0
+   - 30.43234894047697 cluster33_cluster37_0 ^2
+   + 2 cluster33_cluster37_1 * avg_reward37_1
+   - 30.43234894047697 cluster33_cluster37_1 ^2
+   + 2 cluster33_cluster37_2 * avg_reward37_2
+   - 30.43234894047697 cluster33_cluster37_2 ^2
+   + 2 cluster33_cluster38_0 * avg_reward38_0
+   - 20.08464482518902 cluster33_cluster38_0 ^2
+   + 2 cluster33_cluster38_1 * avg_reward38_1
+   - 20.08464482518902 cluster33_cluster38_1 ^2
+   + 2 cluster33_cluster38_2 * avg_reward38_2
+   - 20.08464482518902 cluster33_cluster38_2 ^2
+   + 2 cluster33_cluster44_0 * avg_reward44_0
+   - 17.44889893132173 cluster33_cluster44_0 ^2
+   + 2 cluster33_cluster44_1 * avg_reward44_1
+   - 17.44889893132173 cluster33_cluster44_1 ^2
+   + 2 cluster33_cluster44_2 * avg_reward44_2
+   - 17.44889893132173 cluster33_cluster44_2 ^2
+   + 2 cluster33_cluster49_0 * avg_reward49_0
+   - 26.28200186062878 cluster33_cluster49_0 ^2
+   + 2 cluster33_cluster49_1 * avg_reward49_1
+   - 26.28200186062878 cluster33_cluster49_1 ^2
+   + 2 cluster33_cluster49_2 * avg_reward49_2
+   - 26.28200186062878 cluster33_cluster49_2 ^2
+   + 2 cluster34_cluster4_0 * avg_reward4_0
+   - 15.21124241610576 cluster34_cluster4_0 ^2
+   + 2 cluster34_cluster4_1 * avg_reward4_1
+   - 15.21124241610576 cluster34_cluster4_1 ^2
+   + 2 cluster34_cluster4_2 * avg_reward4_2
+   - 15.21124241610576 cluster34_cluster4_2 ^2
+   + 2 cluster34_cluster7_0 * avg_reward7_0
+   - 19.13337272995511 cluster34_cluster7_0 ^2
+   + 2 cluster34_cluster7_1 * avg_reward7_1
+   - 19.13337272995511 cluster34_cluster7_1 ^2
+   + 2 cluster34_cluster7_2 * avg_reward7_2
+   - 19.13337272995511 cluster34_cluster7_2 ^2
+   + 2 cluster34_cluster12_0 * avg_reward12_0
+   - 23.18562082090235 cluster34_cluster12_0 ^2
+   + 2 cluster34_cluster12_1 * avg_reward12_1
+   - 23.18562082090235 cluster34_cluster12_1 ^2
+   + 2 cluster34_cluster12_2 * avg_reward12_2
+   - 23.18562082090235 cluster34_cluster12_2 ^2
+   + 2 cluster34_cluster15_0 * avg_reward15_0
+   - 5.615358420238381 cluster34_cluster15_0 ^2
+   + 2 cluster34_cluster15_1 * avg_reward15_1
+   - 5.615358420238381 cluster34_cluster15_1 ^2
+   + 2 cluster34_cluster15_2 * avg_reward15_2
+   - 5.615358420238381 cluster34_cluster15_2 ^2
+   + 2 cluster34_cluster37_0 * avg_reward37_0
+   - 10.71909307582489 cluster34_cluster37_0 ^2
+   + 2 cluster34_cluster37_1 * avg_reward37_1
+   - 10.71909307582489 cluster34_cluster37_1 ^2
+   + 2 cluster34_cluster37_2 * avg_reward37_2
+   - 10.71909307582489 cluster34_cluster37_2 ^2
+   + 2 cluster34_cluster38_0 * avg_reward38_0
+   - 21.20880524461616 cluster34_cluster38_0 ^2
+   + 2 cluster34_cluster38_1 * avg_reward38_1
+   - 21.20880524461616 cluster34_cluster38_1 ^2
+   + 2 cluster34_cluster38_2 * avg_reward38_2
+   - 21.20880524461616 cluster34_cluster38_2 ^2
+   + 2 cluster34_cluster44_0 * avg_reward44_0
+   - 23.69478042244098 cluster34_cluster44_0 ^2
+   + 2 cluster34_cluster44_1 * avg_reward44_1
+   - 23.69478042244098 cluster34_cluster44_1 ^2
+   + 2 cluster34_cluster44_2 * avg_reward44_2
+   - 23.69478042244098 cluster34_cluster44_2 ^2
+   + 2 cluster34_cluster49_0 * avg_reward49_0
+   - 14.83736353467531 cluster34_cluster49_0 ^2
+   + 2 cluster34_cluster49_1 * avg_reward49_1
+   - 14.83736353467531 cluster34_cluster49_1 ^2
+   + 2 cluster34_cluster49_2 * avg_reward49_2
+   - 14.83736353467531 cluster34_cluster49_2 ^2
+   + 2 cluster35_cluster4_0 * avg_reward4_0
+   - 19.32429501307968 cluster35_cluster4_0 ^2
+   + 2 cluster35_cluster4_1 * avg_reward4_1
+   - 19.32429501307968 cluster35_cluster4_1 ^2
+   + 2 cluster35_cluster4_2 * avg_reward4_2
+   - 19.32429501307968 cluster35_cluster4_2 ^2
+   + 2 cluster35_cluster7_0 * avg_reward7_0
+   - 23.48784500067923 cluster35_cluster7_0 ^2
+   + 2 cluster35_cluster7_1 * avg_reward7_1
+   - 23.48784500067923 cluster35_cluster7_1 ^2
+   + 2 cluster35_cluster7_2 * avg_reward7_2
+   - 23.48784500067923 cluster35_cluster7_2 ^2
+   + 2 cluster35_cluster12_0 * avg_reward12_0
+   - 27.25523321761357 cluster35_cluster12_0 ^2
+   + 2 cluster35_cluster12_1 * avg_reward12_1
+   - 27.25523321761357 cluster35_cluster12_1 ^2
+   + 2 cluster35_cluster12_2 * avg_reward12_2
+   - 27.25523321761357 cluster35_cluster12_2 ^2
+   + 2 cluster35_cluster15_0 * avg_reward15_0
+   - 4.01912912597515 cluster35_cluster15_0 ^2
+   + 2 cluster35_cluster15_1 * avg_reward15_1
+   - 4.01912912597515 cluster35_cluster15_1 ^2
+   + 2 cluster35_cluster15_2 * avg_reward15_2
+   - 4.01912912597515 cluster35_cluster15_2 ^2
+   + 2 cluster35_cluster37_0 * avg_reward37_0
+   - 14.99436096893803 cluster35_cluster37_0 ^2
+   + 2 cluster35_cluster37_1 * avg_reward37_1
+   - 14.99436096893803 cluster35_cluster37_1 ^2
+   + 2 cluster35_cluster37_2 * avg_reward37_2
+   - 14.99436096893803 cluster35_cluster37_2 ^2
+   + 2 cluster35_cluster38_0 * avg_reward38_0
+   - 25.69541630120437 cluster35_cluster38_0 ^2
+   + 2 cluster35_cluster38_1 * avg_reward38_1
+   - 25.69541630120437 cluster35_cluster38_1 ^2
+   + 2 cluster35_cluster38_2 * avg_reward38_2
+   - 25.69541630120437 cluster35_cluster38_2 ^2
+   + 2 cluster35_cluster44_0 * avg_reward44_0
+   - 27.46808167173338 cluster35_cluster44_0 ^2
+   + 2 cluster35_cluster44_1 * avg_reward44_1
+   - 27.46808167173338 cluster35_cluster44_1 ^2
+   + 2 cluster35_cluster44_2 * avg_reward44_2
+   - 27.46808167173338 cluster35_cluster44_2 ^2
+   + 2 cluster35_cluster49_0 * avg_reward49_0
+   - 19.2054214474502 cluster35_cluster49_0 ^2
+   + 2 cluster35_cluster49_1 * avg_reward49_1
+   - 19.2054214474502 cluster35_cluster49_1 ^2
+   + 2 cluster35_cluster49_2 * avg_reward49_2
+   - 19.2054214474502 cluster35_cluster49_2 ^2
+   + 2 cluster36_cluster4_0 * avg_reward4_0
+   - 9.642044318284562 cluster36_cluster4_0 ^2
+   + 2 cluster36_cluster4_1 * avg_reward4_1
+   - 9.642044318284562 cluster36_cluster4_1 ^2
+   + 2 cluster36_cluster4_2 * avg_reward4_2
+   - 9.642044318284562 cluster36_cluster4_2 ^2
+   + 2 cluster36_cluster7_0 * avg_reward7_0
+   - 5.754713910082545 cluster36_cluster7_0 ^2
+   + 2 cluster36_cluster7_1 * avg_reward7_1
+   - 5.754713910082545 cluster36_cluster7_1 ^2
+   + 2 cluster36_cluster7_2 * avg_reward7_2
+   - 5.754713910082545 cluster36_cluster7_2 ^2
+   + 2 cluster36_cluster12_0 * avg_reward12_0
+   - 1.652604832495727 cluster36_cluster12_0 ^2
+   + 2 cluster36_cluster12_1 * avg_reward12_1
+   - 1.652604832495727 cluster36_cluster12_1 ^2
+   + 2 cluster36_cluster12_2 * avg_reward12_2
+   - 1.652604832495727 cluster36_cluster12_2 ^2
+   + 2 cluster36_cluster15_0 * avg_reward15_0
+   - 24.77204757102337 cluster36_cluster15_0 ^2
+   + 2 cluster36_cluster15_1 * avg_reward15_1
+   - 24.77204757102337 cluster36_cluster15_1 ^2
+   + 2 cluster36_cluster15_2 * avg_reward15_2
+   - 24.77204757102337 cluster36_cluster15_2 ^2
+   + 2 cluster36_cluster37_0 * avg_reward37_0
+   - 14.15887054799163 cluster36_cluster37_0 ^2
+   + 2 cluster36_cluster37_1 * avg_reward37_1
+   - 14.15887054799163 cluster36_cluster37_1 ^2
+   + 2 cluster36_cluster37_2 * avg_reward37_2
+   - 14.15887054799163 cluster36_cluster37_2 ^2
+   + 2 cluster36_cluster38_0 * avg_reward38_0
+   - 4.050796652876951 cluster36_cluster38_0 ^2
+   + 2 cluster36_cluster38_1 * avg_reward38_1
+   - 4.050796652876951 cluster36_cluster38_1 ^2
+   + 2 cluster36_cluster38_2 * avg_reward38_2
+   - 4.050796652876951 cluster36_cluster38_2 ^2
+   + 2 cluster36_cluster44_0 * avg_reward44_0
+   - 1.50030535476489 cluster36_cluster44_0 ^2
+   + 2 cluster36_cluster44_1 * avg_reward44_1
+   - 1.50030535476489 cluster36_cluster44_1 ^2
+   + 2 cluster36_cluster44_2 * avg_reward44_2
+   - 1.50030535476489 cluster36_cluster44_2 ^2
+   + 2 cluster36_cluster49_0 * avg_reward49_0
+   - 9.982158553333001 cluster36_cluster49_0 ^2
+   + 2 cluster36_cluster49_1 * avg_reward49_1
+   - 9.982158553333001 cluster36_cluster49_1 ^2
+   + 2 cluster36_cluster49_2 * avg_reward49_2
+   - 9.982158553333001 cluster36_cluster49_2 ^2
+   + 2 cluster39_cluster4_0 * avg_reward4_0
+   - 18.27662663615078 cluster39_cluster4_0 ^2
+   + 2 cluster39_cluster4_1 * avg_reward4_1
+   - 18.27662663615078 cluster39_cluster4_1 ^2
+   + 2 cluster39_cluster4_2 * avg_reward4_2
+   - 18.27662663615078 cluster39_cluster4_2 ^2
+   + 2 cluster39_cluster7_0 * avg_reward7_0
+   - 14.57460614778392 cluster39_cluster7_0 ^2
+   + 2 cluster39_cluster7_1 * avg_reward7_1
+   - 14.57460614778392 cluster39_cluster7_1 ^2
+   + 2 cluster39_cluster7_2 * avg_reward7_2
+   - 14.57460614778392 cluster39_cluster7_2 ^2
+   + 2 cluster39_cluster12_0 * avg_reward12_0
+   - 10.48297602154756 cluster39_cluster12_0 ^2
+   + 2 cluster39_cluster12_1 * avg_reward12_1
+   - 10.48297602154756 cluster39_cluster12_1 ^2
+   + 2 cluster39_cluster12_2 * avg_reward12_2
+   - 10.48297602154756 cluster39_cluster12_2 ^2
+   + 2 cluster39_cluster15_0 * avg_reward15_0
+   - 32.93441664351386 cluster39_cluster15_0 ^2
+   + 2 cluster39_cluster15_1 * avg_reward15_1
+   - 32.93441664351386 cluster39_cluster15_1 ^2
+   + 2 cluster39_cluster15_2 * avg_reward15_2
+   - 32.93441664351386 cluster39_cluster15_2 ^2
+   + 2 cluster39_cluster37_0 * avg_reward37_0
+   - 22.76702890513734 cluster39_cluster37_0 ^2
+   + 2 cluster39_cluster37_1 * avg_reward37_1
+   - 22.76702890513734 cluster39_cluster37_1 ^2
+   + 2 cluster39_cluster37_2 * avg_reward37_2
+   - 22.76702890513734 cluster39_cluster37_2 ^2
+   + 2 cluster39_cluster38_0 * avg_reward38_0
+   - 12.82868891742263 cluster39_cluster38_0 ^2
+   + 2 cluster39_cluster38_1 * avg_reward38_1
+   - 12.82868891742263 cluster39_cluster38_1 ^2
+   + 2 cluster39_cluster38_2 * avg_reward38_2
+   - 12.82868891742263 cluster39_cluster38_2 ^2
+   + 2 cluster39_cluster44_0 * avg_reward44_0
+   - 9.803120431690994 cluster39_cluster44_0 ^2
+   + 2 cluster39_cluster44_1 * avg_reward44_1
+   - 9.803120431690994 cluster39_cluster44_1 ^2
+   + 2 cluster39_cluster44_2 * avg_reward44_2
+   - 9.803120431690994 cluster39_cluster44_2 ^2
+   + 2 cluster39_cluster49_0 * avg_reward49_0
+   - 18.7019413990069 cluster39_cluster49_0 ^2
+   + 2 cluster39_cluster49_1 * avg_reward49_1
+   - 18.7019413990069 cluster39_cluster49_1 ^2
+   + 2 cluster39_cluster49_2 * avg_reward49_2
+   - 18.7019413990069 cluster39_cluster49_2 ^2
+   + 2 cluster40_cluster4_0 * avg_reward4_0
+   - 13.12464590812177 cluster40_cluster4_0 ^2
+   + 2 cluster40_cluster4_1 * avg_reward4_1
+   - 13.12464590812177 cluster40_cluster4_1 ^2
+   + 2 cluster40_cluster4_2 * avg_reward4_2
+   - 13.12464590812177 cluster40_cluster4_2 ^2
+   + 2 cluster40_cluster7_0 * avg_reward7_0
+   - 17.25887078251204 cluster40_cluster7_0 ^2
+   + 2 cluster40_cluster7_1 * avg_reward7_1
+   - 17.25887078251204 cluster40_cluster7_1 ^2
+   + 2 cluster40_cluster7_2 * avg_reward7_2
+   - 17.25887078251204 cluster40_cluster7_2 ^2
+   + 2 cluster40_cluster12_0 * avg_reward12_0
+   - 21.13771396291825 cluster40_cluster12_0 ^2
+   + 2 cluster40_cluster12_1 * avg_reward12_1
+   - 21.13771396291825 cluster40_cluster12_1 ^2
+   + 2 cluster40_cluster12_2 * avg_reward12_2
+   - 21.13771396291825 cluster40_cluster12_2 ^2
+   + 2 cluster40_cluster15_0 * avg_reward15_0
+   - 2.838539714693291 cluster40_cluster15_0 ^2
+   + 2 cluster40_cluster15_1 * avg_reward15_1
+   - 2.838539714693291 cluster40_cluster15_1 ^2
+   + 2 cluster40_cluster15_2 * avg_reward15_2
+   - 2.838539714693291 cluster40_cluster15_2 ^2
+   + 2 cluster40_cluster37_0 * avg_reward37_0
+   - 8.689656776388022 cluster40_cluster37_0 ^2
+   + 2 cluster40_cluster37_1 * avg_reward37_1
+   - 8.689656776388022 cluster40_cluster37_1 ^2
+   + 2 cluster40_cluster37_2 * avg_reward37_2
+   - 8.689656776388022 cluster40_cluster37_2 ^2
+   + 2 cluster40_cluster38_0 * avg_reward38_0
+   - 19.44533280351417 cluster40_cluster38_0 ^2
+   + 2 cluster40_cluster38_1 * avg_reward38_1
+   - 19.44533280351417 cluster40_cluster38_1 ^2
+   + 2 cluster40_cluster38_2 * avg_reward38_2
+   - 19.44533280351417 cluster40_cluster38_2 ^2
+   + 2 cluster40_cluster44_0 * avg_reward44_0
+   - 21.45795270737776 cluster40_cluster44_0 ^2
+   + 2 cluster40_cluster44_1 * avg_reward44_1
+   - 21.45795270737776 cluster40_cluster44_1 ^2
+   + 2 cluster40_cluster44_2 * avg_reward44_2
+   - 21.45795270737776 cluster40_cluster44_2 ^2
+   + 2 cluster40_cluster49_0 * avg_reward49_0
+   - 12.93614974829003 cluster40_cluster49_0 ^2
+   + 2 cluster40_cluster49_1 * avg_reward49_1
+   - 12.93614974829003 cluster40_cluster49_1 ^2
+   + 2 cluster40_cluster49_2 * avg_reward49_2
+   - 12.93614974829003 cluster40_cluster49_2 ^2
+   + 2 cluster41_cluster4_0 * avg_reward4_0
+   - 5.945398309056013 cluster41_cluster4_0 ^2
+   + 2 cluster41_cluster4_1 * avg_reward4_1
+   - 5.945398309056013 cluster41_cluster4_1 ^2
+   + 2 cluster41_cluster4_2 * avg_reward4_2
+   - 5.945398309056013 cluster41_cluster4_2 ^2
+   + 2 cluster41_cluster7_0 * avg_reward7_0
+   - 8.596550748049861 cluster41_cluster7_0 ^2
+   + 2 cluster41_cluster7_1 * avg_reward7_1
+   - 8.596550748049861 cluster41_cluster7_1 ^2
+   + 2 cluster41_cluster7_2 * avg_reward7_2
+   - 8.596550748049861 cluster41_cluster7_2 ^2
+   + 2 cluster41_cluster12_0 * avg_reward12_0
+   - 10.92373704117237 cluster41_cluster12_0 ^2
+   + 2 cluster41_cluster12_1 * avg_reward12_1
+   - 10.92373704117237 cluster41_cluster12_1 ^2
+   + 2 cluster41_cluster12_2 * avg_reward12_2
+   - 10.92373704117237 cluster41_cluster12_2 ^2
+   + 2 cluster41_cluster15_0 * avg_reward15_0
+   - 13.98422970819012 cluster41_cluster15_0 ^2
+   + 2 cluster41_cluster15_1 * avg_reward15_1
+   - 13.98422970819012 cluster41_cluster15_1 ^2
+   + 2 cluster41_cluster15_2 * avg_reward15_2
+   - 13.98422970819012 cluster41_cluster15_2 ^2
+   + 2 cluster41_cluster37_0 * avg_reward37_0
+   - 6.938222930427131 cluster41_cluster37_0 ^2
+   + 2 cluster41_cluster37_1 * avg_reward37_1
+   - 6.938222930427131 cluster41_cluster37_1 ^2
+   + 2 cluster41_cluster37_2 * avg_reward37_2
+   - 6.938222930427131 cluster41_cluster37_2 ^2
+   + 2 cluster41_cluster38_0 * avg_reward38_0
+   - 10.50875796692961 cluster41_cluster38_0 ^2
+   + 2 cluster41_cluster38_1 * avg_reward38_1
+   - 10.50875796692961 cluster41_cluster38_1 ^2
+   + 2 cluster41_cluster38_2 * avg_reward38_2
+   - 10.50875796692961 cluster41_cluster38_2 ^2
+   + 2 cluster41_cluster44_0 * avg_reward44_0
+   - 10.62751401161799 cluster41_cluster44_0 ^2
+   + 2 cluster41_cluster44_1 * avg_reward44_1
+   - 10.62751401161799 cluster41_cluster44_1 ^2
+   + 2 cluster41_cluster44_2 * avg_reward44_2
+   - 10.62751401161799 cluster41_cluster44_2 ^2
+   + 2 cluster41_cluster49_0 * avg_reward49_0
+   - 6.630037004732927 cluster41_cluster49_0 ^2
+   + 2 cluster41_cluster49_1 * avg_reward49_1
+   - 6.630037004732927 cluster41_cluster49_1 ^2
+   + 2 cluster41_cluster49_2 * avg_reward49_2
+   - 6.630037004732927 cluster41_cluster49_2 ^2
+   + 2 cluster42_cluster4_0 * avg_reward4_0
+   - 6.014269852209607 cluster42_cluster4_0 ^2
+   + 2 cluster42_cluster4_1 * avg_reward4_1
+   - 6.014269852209607 cluster42_cluster4_1 ^2
+   + 2 cluster42_cluster4_2 * avg_reward4_2
+   - 6.014269852209607 cluster42_cluster4_2 ^2
+   + 2 cluster42_cluster7_0 * avg_reward7_0
+   - 5.624023406340667 cluster42_cluster7_0 ^2
+   + 2 cluster42_cluster7_1 * avg_reward7_1
+   - 5.624023406340667 cluster42_cluster7_1 ^2
+   + 2 cluster42_cluster7_2 * avg_reward7_2
+   - 5.624023406340667 cluster42_cluster7_2 ^2
+   + 2 cluster42_cluster12_0 * avg_reward12_0
+   - 6.265366158879933 cluster42_cluster12_0 ^2
+   + 2 cluster42_cluster12_1 * avg_reward12_1
+   - 6.265366158879933 cluster42_cluster12_1 ^2
+   + 2 cluster42_cluster12_2 * avg_reward12_2
+   - 6.265366158879933 cluster42_cluster12_2 ^2
+   + 2 cluster42_cluster15_0 * avg_reward15_0
+   - 18.8398414282116 cluster42_cluster15_0 ^2
+   + 2 cluster42_cluster15_1 * avg_reward15_1
+   - 18.8398414282116 cluster42_cluster15_1 ^2
+   + 2 cluster42_cluster15_2 * avg_reward15_2
+   - 18.8398414282116 cluster42_cluster15_2 ^2
+   + 2 cluster42_cluster37_0 * avg_reward37_0
+   - 9.67945061163149 cluster42_cluster37_0 ^2
+   + 2 cluster42_cluster37_1 * avg_reward37_1
+   - 9.67945061163149 cluster42_cluster37_1 ^2
+   + 2 cluster42_cluster37_2 * avg_reward37_2
+   - 9.67945061163149 cluster42_cluster37_2 ^2
+   + 2 cluster42_cluster38_0 * avg_reward38_0
+   - 6.728618073896105 cluster42_cluster38_0 ^2
+   + 2 cluster42_cluster38_1 * avg_reward38_1
+   - 6.728618073896105 cluster42_cluster38_1 ^2
+   + 2 cluster42_cluster38_2 * avg_reward38_2
+   - 6.728618073896105 cluster42_cluster38_2 ^2
+   + 2 cluster42_cluster44_0 * avg_reward44_0
+   - 5.680475297931716 cluster42_cluster44_0 ^2
+   + 2 cluster42_cluster44_1 * avg_reward44_1
+   - 5.680475297931716 cluster42_cluster44_1 ^2
+   + 2 cluster42_cluster44_2 * avg_reward44_2
+   - 5.680475297931716 cluster42_cluster44_2 ^2
+   + 2 cluster42_cluster49_0 * avg_reward49_0
+   - 6.771814823493448 cluster42_cluster49_0 ^2
+   + 2 cluster42_cluster49_1 * avg_reward49_1
+   - 6.771814823493448 cluster42_cluster49_1 ^2
+   + 2 cluster42_cluster49_2 * avg_reward49_2
+   - 6.771814823493448 cluster42_cluster49_2 ^2
+   + 2 cluster43_cluster4_0 * avg_reward4_0
+   - 3.677081900329417 cluster43_cluster4_0 ^2
+   + 2 cluster43_cluster4_1 * avg_reward4_1
+   - 3.677081900329417 cluster43_cluster4_1 ^2
+   + 2 cluster43_cluster4_2 * avg_reward4_2
+   - 3.677081900329417 cluster43_cluster4_2 ^2
+   + 2 cluster43_cluster7_0 * avg_reward7_0
+   - 4.56062734415366 cluster43_cluster7_0 ^2
+   + 2 cluster43_cluster7_1 * avg_reward7_1
+   - 4.56062734415366 cluster43_cluster7_1 ^2
+   + 2 cluster43_cluster7_2 * avg_reward7_2
+   - 4.56062734415366 cluster43_cluster7_2 ^2
+   + 2 cluster43_cluster12_0 * avg_reward12_0
+   - 8.501282290843204 cluster43_cluster12_0 ^2
+   + 2 cluster43_cluster12_1 * avg_reward12_1
+   - 8.501282290843204 cluster43_cluster12_1 ^2
+   + 2 cluster43_cluster12_2 * avg_reward12_2
+   - 8.501282290843204 cluster43_cluster12_2 ^2
+   + 2 cluster43_cluster15_0 * avg_reward15_0
+   - 16.84482535848426 cluster43_cluster15_0 ^2
+   + 2 cluster43_cluster15_1 * avg_reward15_1
+   - 16.84482535848426 cluster43_cluster15_1 ^2
+   + 2 cluster43_cluster15_2 * avg_reward15_2
+   - 16.84482535848426 cluster43_cluster15_2 ^2
+   + 2 cluster43_cluster37_0 * avg_reward37_0
+   - 5.925995426939914 cluster43_cluster37_0 ^2
+   + 2 cluster43_cluster37_1 * avg_reward37_1
+   - 5.925995426939914 cluster43_cluster37_1 ^2
+   + 2 cluster43_cluster37_2 * avg_reward37_2
+   - 5.925995426939914 cluster43_cluster37_2 ^2
+   + 2 cluster43_cluster38_0 * avg_reward38_0
+   - 6.132943604040422 cluster43_cluster38_0 ^2
+   + 2 cluster43_cluster38_1 * avg_reward38_1
+   - 6.132943604040422 cluster43_cluster38_1 ^2
+   + 2 cluster43_cluster38_2 * avg_reward38_2
+   - 6.132943604040422 cluster43_cluster38_2 ^2
+   + 2 cluster43_cluster44_0 * avg_reward44_0
+   - 9.415386673403466 cluster43_cluster44_0 ^2
+   + 2 cluster43_cluster44_1 * avg_reward44_1
+   - 9.415386673403466 cluster43_cluster44_1 ^2
+   + 2 cluster43_cluster44_2 * avg_reward44_2
+   - 9.415386673403466 cluster43_cluster44_2 ^2
+   + 2 cluster43_cluster49_0 * avg_reward49_0
+   - 2.985589301638387 cluster43_cluster49_0 ^2
+   + 2 cluster43_cluster49_1 * avg_reward49_1
+   - 2.985589301638387 cluster43_cluster49_1 ^2
+   + 2 cluster43_cluster49_2 * avg_reward49_2
+   - 2.985589301638387 cluster43_cluster49_2 ^2
+   + 2 cluster45_cluster4_0 * avg_reward4_0
+   - 4.397779330774402 cluster45_cluster4_0 ^2
+   + 2 cluster45_cluster4_1 * avg_reward4_1
+   - 4.397779330774402 cluster45_cluster4_1 ^2
+   + 2 cluster45_cluster4_2 * avg_reward4_2
+   - 4.397779330774402 cluster45_cluster4_2 ^2
+   + 2 cluster45_cluster7_0 * avg_reward7_0
+   - 8.18239098563272 cluster45_cluster7_0 ^2
+   + 2 cluster45_cluster7_1 * avg_reward7_1
+   - 8.18239098563272 cluster45_cluster7_1 ^2
+   + 2 cluster45_cluster7_2 * avg_reward7_2
+   - 8.18239098563272 cluster45_cluster7_2 ^2
+   + 2 cluster45_cluster12_0 * avg_reward12_0
+   - 11.45442772031668 cluster45_cluster12_0 ^2
+   + 2 cluster45_cluster12_1 * avg_reward12_1
+   - 11.45442772031668 cluster45_cluster12_1 ^2
+   + 2 cluster45_cluster12_2 * avg_reward12_2
+   - 11.45442772031668 cluster45_cluster12_2 ^2
+   + 2 cluster45_cluster15_0 * avg_reward15_0
+   - 12.02425058054606 cluster45_cluster15_0 ^2
+   + 2 cluster45_cluster15_1 * avg_reward15_1
+   - 12.02425058054606 cluster45_cluster15_1 ^2
+   + 2 cluster45_cluster15_2 * avg_reward15_2
+   - 12.02425058054606 cluster45_cluster15_2 ^2
+   + 2 cluster45_cluster37_0 * avg_reward37_0
+   - 3.878513349823695 cluster45_cluster37_0 ^2
+   + 2 cluster45_cluster37_1 * avg_reward37_1
+   - 3.878513349823695 cluster45_cluster37_1 ^2
+   + 2 cluster45_cluster37_2 * avg_reward37_2
+   - 3.878513349823695 cluster45_cluster37_2 ^2
+   + 2 cluster45_cluster38_0 * avg_reward38_0
+   - 10.35787266362593 cluster45_cluster38_0 ^2
+   + 2 cluster45_cluster38_1 * avg_reward38_1
+   - 10.35787266362593 cluster45_cluster38_1 ^2
+   + 2 cluster45_cluster38_2 * avg_reward38_2
+   - 10.35787266362593 cluster45_cluster38_2 ^2
+   + 2 cluster45_cluster44_0 * avg_reward44_0
+   - 11.51023910271785 cluster45_cluster44_0 ^2
+   + 2 cluster45_cluster44_1 * avg_reward44_1
+   - 11.51023910271785 cluster45_cluster44_1 ^2
+   + 2 cluster45_cluster44_2 * avg_reward44_2
+   - 11.51023910271785 cluster45_cluster44_2 ^2
+   + 2 cluster45_cluster49_0 * avg_reward49_0
+   - 4.814044080824974 cluster45_cluster49_0 ^2
+   + 2 cluster45_cluster49_1 * avg_reward49_1
+   - 4.814044080824974 cluster45_cluster49_1 ^2
+   + 2 cluster45_cluster49_2 * avg_reward49_2
+   - 4.814044080824974 cluster45_cluster49_2 ^2
+   + 2 cluster46_cluster4_0 * avg_reward4_0
+   - 20.35067233434371 cluster46_cluster4_0 ^2
+   + 2 cluster46_cluster4_1 * avg_reward4_1
+   - 20.35067233434371 cluster46_cluster4_1 ^2
+   + 2 cluster46_cluster4_2 * avg_reward4_2
+   - 20.35067233434371 cluster46_cluster4_2 ^2
+   + 2 cluster46_cluster7_0 * avg_reward7_0
+   - 24.49638289979787 cluster46_cluster7_0 ^2
+   + 2 cluster46_cluster7_1 * avg_reward7_1
+   - 24.49638289979787 cluster46_cluster7_1 ^2
+   + 2 cluster46_cluster7_2 * avg_reward7_2
+   - 24.49638289979787 cluster46_cluster7_2 ^2
+   + 2 cluster46_cluster12_0 * avg_reward12_0
+   - 28.33969748611465 cluster46_cluster12_0 ^2
+   + 2 cluster46_cluster12_1 * avg_reward12_1
+   - 28.33969748611465 cluster46_cluster12_1 ^2
+   + 2 cluster46_cluster12_2 * avg_reward12_2
+   - 28.33969748611465 cluster46_cluster12_2 ^2
+   + 2 cluster46_cluster15_0 * avg_reward15_0
+   - 5.278861908751885 cluster46_cluster15_0 ^2
+   + 2 cluster46_cluster15_1 * avg_reward15_1
+   - 5.278861908751885 cluster46_cluster15_1 ^2
+   + 2 cluster46_cluster15_2 * avg_reward15_2
+   - 5.278861908751885 cluster46_cluster15_2 ^2
+   + 2 cluster46_cluster37_0 * avg_reward37_0
+   - 15.93544184062382 cluster46_cluster37_0 ^2
+   + 2 cluster46_cluster37_1 * avg_reward37_1
+   - 15.93544184062382 cluster46_cluster37_1 ^2
+   + 2 cluster46_cluster37_2 * avg_reward37_2
+   - 15.93544184062382 cluster46_cluster37_2 ^2
+   + 2 cluster46_cluster38_0 * avg_reward38_0
+   - 26.68789135128873 cluster46_cluster38_0 ^2
+   + 2 cluster46_cluster38_1 * avg_reward38_1
+   - 26.68789135128873 cluster46_cluster38_1 ^2
+   + 2 cluster46_cluster38_2 * avg_reward38_2
+   - 26.68789135128873 cluster46_cluster38_2 ^2
+   + 2 cluster46_cluster44_0 * avg_reward44_0
+   - 28.60898190978748 cluster46_cluster44_0 ^2
+   + 2 cluster46_cluster44_1 * avg_reward44_1
+   - 28.60898190978748 cluster46_cluster44_1 ^2
+   + 2 cluster46_cluster44_2 * avg_reward44_2
+   - 28.60898190978748 cluster46_cluster44_2 ^2
+   + 2 cluster46_cluster49_0 * avg_reward49_0
+   - 20.17963851812845 cluster46_cluster49_0 ^2
+   + 2 cluster46_cluster49_1 * avg_reward49_1
+   - 20.17963851812845 cluster46_cluster49_1 ^2
+   + 2 cluster46_cluster49_2 * avg_reward49_2
+   - 20.17963851812845 cluster46_cluster49_2 ^2
+   + 2 cluster47_cluster4_0 * avg_reward4_0
+   - 8.233172545874435 cluster47_cluster4_0 ^2
+   + 2 cluster47_cluster4_1 * avg_reward4_1
+   - 8.233172545874435 cluster47_cluster4_1 ^2
+   + 2 cluster47_cluster4_2 * avg_reward4_2
+   - 8.233172545874435 cluster47_cluster4_2 ^2
+   + 2 cluster47_cluster7_0 * avg_reward7_0
+   - 6.011989964897344 cluster47_cluster7_0 ^2
+   + 2 cluster47_cluster7_1 * avg_reward7_1
+   - 6.011989964897344 cluster47_cluster7_1 ^2
+   + 2 cluster47_cluster7_2 * avg_reward7_2
+   - 6.011989964897344 cluster47_cluster7_2 ^2
+   + 2 cluster47_cluster12_0 * avg_reward12_0
+   - 4.329857438898111 cluster47_cluster12_0 ^2
+   + 2 cluster47_cluster12_1 * avg_reward12_1
+   - 4.329857438898111 cluster47_cluster12_1 ^2
+   + 2 cluster47_cluster12_2 * avg_reward12_2
+   - 4.329857438898111 cluster47_cluster12_2 ^2
+   + 2 cluster47_cluster15_0 * avg_reward15_0
+   - 22.05555931692921 cluster47_cluster15_0 ^2
+   + 2 cluster47_cluster15_1 * avg_reward15_1
+   - 22.05555931692921 cluster47_cluster15_1 ^2
+   + 2 cluster47_cluster15_2 * avg_reward15_2
+   - 22.05555931692921 cluster47_cluster15_2 ^2
+   + 2 cluster47_cluster37_0 * avg_reward37_0
+   - 12.42239903031727 cluster47_cluster37_0 ^2
+   + 2 cluster47_cluster37_1 * avg_reward37_1
+   - 12.42239903031727 cluster47_cluster37_1 ^2
+   + 2 cluster47_cluster37_2 * avg_reward37_2
+   - 12.42239903031727 cluster47_cluster37_2 ^2
+   + 2 cluster47_cluster38_0 * avg_reward38_0
+   - 5.959169742499834 cluster47_cluster38_0 ^2
+   + 2 cluster47_cluster38_1 * avg_reward38_1
+   - 5.959169742499834 cluster47_cluster38_1 ^2
+   + 2 cluster47_cluster38_2 * avg_reward38_2
+   - 5.959169742499834 cluster47_cluster38_2 ^2
+   + 2 cluster47_cluster44_0 * avg_reward44_0
+   - 3.242684977055216 cluster47_cluster44_0 ^2
+   + 2 cluster47_cluster44_1 * avg_reward44_1
+   - 3.242684977055216 cluster47_cluster44_1 ^2
+   + 2 cluster47_cluster44_2 * avg_reward44_2
+   - 3.242684977055216 cluster47_cluster44_2 ^2
+   + 2 cluster47_cluster49_0 * avg_reward49_0
+   - 8.869657861731838 cluster47_cluster49_0 ^2
+   + 2 cluster47_cluster49_1 * avg_reward49_1
+   - 8.869657861731838 cluster47_cluster49_1 ^2
+   + 2 cluster47_cluster49_2 * avg_reward49_2
+   - 8.869657861731838 cluster47_cluster49_2 ^2
+   + 2 cluster48_cluster4_0 * avg_reward4_0
+   - 10.84318437058085 cluster48_cluster4_0 ^2
+   + 2 cluster48_cluster4_1 * avg_reward4_1
+   - 10.84318437058085 cluster48_cluster4_1 ^2
+   + 2 cluster48_cluster4_2 * avg_reward4_2
+   - 10.84318437058085 cluster48_cluster4_2 ^2
+   + 2 cluster48_cluster7_0 * avg_reward7_0
+   - 15.00577651965866 cluster48_cluster7_0 ^2
+   + 2 cluster48_cluster7_1 * avg_reward7_1
+   - 15.00577651965866 cluster48_cluster7_1 ^2
+   + 2 cluster48_cluster7_2 * avg_reward7_2
+   - 15.00577651965866 cluster48_cluster7_2 ^2
+   + 2 cluster48_cluster12_0 * avg_reward12_0
+   - 18.80133361527501 cluster48_cluster12_0 ^2
+   + 2 cluster48_cluster12_1 * avg_reward12_1
+   - 18.80133361527501 cluster48_cluster12_1 ^2
+   + 2 cluster48_cluster12_2 * avg_reward12_2
+   - 18.80133361527501 cluster48_cluster12_2 ^2
+   + 2 cluster48_cluster15_0 * avg_reward15_0
+   - 4.514342173757092 cluster48_cluster15_0 ^2
+   + 2 cluster48_cluster15_1 * avg_reward15_1
+   - 4.514342173757092 cluster48_cluster15_1 ^2
+   + 2 cluster48_cluster15_2 * avg_reward15_2
+   - 4.514342173757092 cluster48_cluster15_2 ^2
+   + 2 cluster48_cluster37_0 * avg_reward37_0
+   - 6.551966031531528 cluster48_cluster37_0 ^2
+   + 2 cluster48_cluster37_1 * avg_reward37_1
+   - 6.551966031531528 cluster48_cluster37_1 ^2
+   + 2 cluster48_cluster37_2 * avg_reward37_2
+   - 6.551966031531528 cluster48_cluster37_2 ^2
+   + 2 cluster48_cluster38_0 * avg_reward38_0
+   - 17.21352569383341 cluster48_cluster38_0 ^2
+   + 2 cluster48_cluster38_1 * avg_reward38_1
+   - 17.21352569383341 cluster48_cluster38_1 ^2
+   + 2 cluster48_cluster38_2 * avg_reward38_2
+   - 17.21352569383341 cluster48_cluster38_2 ^2
+   + 2 cluster48_cluster44_0 * avg_reward44_0
+   - 19.06676294603192 cluster48_cluster44_0 ^2
+   + 2 cluster48_cluster44_1 * avg_reward44_1
+   - 19.06676294603192 cluster48_cluster44_1 ^2
+   + 2 cluster48_cluster44_2 * avg_reward44_2
+   - 19.06676294603192 cluster48_cluster44_2 ^2
+   + 2 cluster48_cluster49_0 * avg_reward49_0
+   - 10.72967598735187 cluster48_cluster49_0 ^2
+   + 2 cluster48_cluster49_1 * avg_reward49_1
+   - 10.72967598735187 cluster48_cluster49_1 ^2
+   + 2 cluster48_cluster49_2 * avg_reward49_2
+   - 10.72967598735187 cluster48_cluster49_2 ^2 ] / 2 
+Subject To
+Bounds
+Generals
+ cluster0_cluster4_0 cluster0_cluster4_1 cluster0_cluster4_2
+ cluster0_cluster7_0 cluster0_cluster7_1 cluster0_cluster7_2
+ cluster0_cluster12_0 cluster0_cluster12_1 cluster0_cluster12_2
+ cluster0_cluster15_0 cluster0_cluster15_1 cluster0_cluster15_2
+ cluster0_cluster37_0 cluster0_cluster37_1 cluster0_cluster37_2
+ cluster0_cluster38_0 cluster0_cluster38_1 cluster0_cluster38_2
+ cluster0_cluster44_0 cluster0_cluster44_1 cluster0_cluster44_2
+ cluster0_cluster49_0 cluster0_cluster49_1 cluster0_cluster49_2
+ cluster1_cluster4_0 cluster1_cluster4_1 cluster1_cluster4_2
+ cluster1_cluster7_0 cluster1_cluster7_1 cluster1_cluster7_2
+ cluster1_cluster12_0 cluster1_cluster12_1 cluster1_cluster12_2
+ cluster1_cluster15_0 cluster1_cluster15_1 cluster1_cluster15_2
+ cluster1_cluster37_0 cluster1_cluster37_1 cluster1_cluster37_2
+ cluster1_cluster38_0 cluster1_cluster38_1 cluster1_cluster38_2
+ cluster1_cluster44_0 cluster1_cluster44_1 cluster1_cluster44_2
+ cluster1_cluster49_0 cluster1_cluster49_1 cluster1_cluster49_2
+ cluster2_cluster4_0 cluster2_cluster4_1 cluster2_cluster4_2
+ cluster2_cluster7_0 cluster2_cluster7_1 cluster2_cluster7_2
+ cluster2_cluster12_0 cluster2_cluster12_1 cluster2_cluster12_2
+ cluster2_cluster15_0 cluster2_cluster15_1 cluster2_cluster15_2
+ cluster2_cluster37_0 cluster2_cluster37_1 cluster2_cluster37_2
+ cluster2_cluster38_0 cluster2_cluster38_1 cluster2_cluster38_2
+ cluster2_cluster44_0 cluster2_cluster44_1 cluster2_cluster44_2
+ cluster2_cluster49_0 cluster2_cluster49_1 cluster2_cluster49_2
+ cluster3_cluster4_0 cluster3_cluster4_1 cluster3_cluster4_2
+ cluster3_cluster7_0 cluster3_cluster7_1 cluster3_cluster7_2
+ cluster3_cluster12_0 cluster3_cluster12_1 cluster3_cluster12_2
+ cluster3_cluster15_0 cluster3_cluster15_1 cluster3_cluster15_2
+ cluster3_cluster37_0 cluster3_cluster37_1 cluster3_cluster37_2
+ cluster3_cluster38_0 cluster3_cluster38_1 cluster3_cluster38_2
+ cluster3_cluster44_0 cluster3_cluster44_1 cluster3_cluster44_2
+ cluster3_cluster49_0 cluster3_cluster49_1 cluster3_cluster49_2
+ cluster5_cluster4_0 cluster5_cluster4_1 cluster5_cluster4_2
+ cluster5_cluster7_0 cluster5_cluster7_1 cluster5_cluster7_2
+ cluster5_cluster12_0 cluster5_cluster12_1 cluster5_cluster12_2
+ cluster5_cluster15_0 cluster5_cluster15_1 cluster5_cluster15_2
+ cluster5_cluster37_0 cluster5_cluster37_1 cluster5_cluster37_2
+ cluster5_cluster38_0 cluster5_cluster38_1 cluster5_cluster38_2
+ cluster5_cluster44_0 cluster5_cluster44_1 cluster5_cluster44_2
+ cluster5_cluster49_0 cluster5_cluster49_1 cluster5_cluster49_2
+ cluster6_cluster4_0 cluster6_cluster4_1 cluster6_cluster4_2
+ cluster6_cluster7_0 cluster6_cluster7_1 cluster6_cluster7_2
+ cluster6_cluster12_0 cluster6_cluster12_1 cluster6_cluster12_2
+ cluster6_cluster15_0 cluster6_cluster15_1 cluster6_cluster15_2
+ cluster6_cluster37_0 cluster6_cluster37_1 cluster6_cluster37_2
+ cluster6_cluster38_0 cluster6_cluster38_1 cluster6_cluster38_2
+ cluster6_cluster44_0 cluster6_cluster44_1 cluster6_cluster44_2
+ cluster6_cluster49_0 cluster6_cluster49_1 cluster6_cluster49_2
+ cluster8_cluster4_0 cluster8_cluster4_1 cluster8_cluster4_2
+ cluster8_cluster7_0 cluster8_cluster7_1 cluster8_cluster7_2
+ cluster8_cluster12_0 cluster8_cluster12_1 cluster8_cluster12_2
+ cluster8_cluster15_0 cluster8_cluster15_1 cluster8_cluster15_2
+ cluster8_cluster37_0 cluster8_cluster37_1 cluster8_cluster37_2
+ cluster8_cluster38_0 cluster8_cluster38_1 cluster8_cluster38_2
+ cluster8_cluster44_0 cluster8_cluster44_1 cluster8_cluster44_2
+ cluster8_cluster49_0 cluster8_cluster49_1 cluster8_cluster49_2
+ cluster9_cluster4_0 cluster9_cluster4_1 cluster9_cluster4_2
+ cluster9_cluster7_0 cluster9_cluster7_1 cluster9_cluster7_2
+ cluster9_cluster12_0 cluster9_cluster12_1 cluster9_cluster12_2
+ cluster9_cluster15_0 cluster9_cluster15_1 cluster9_cluster15_2
+ cluster9_cluster37_0 cluster9_cluster37_1 cluster9_cluster37_2
+ cluster9_cluster38_0 cluster9_cluster38_1 cluster9_cluster38_2
+ cluster9_cluster44_0 cluster9_cluster44_1 cluster9_cluster44_2
+ cluster9_cluster49_0 cluster9_cluster49_1 cluster9_cluster49_2
+ cluster10_cluster4_0 cluster10_cluster4_1 cluster10_cluster4_2
+ cluster10_cluster7_0 cluster10_cluster7_1 cluster10_cluster7_2
+ cluster10_cluster12_0 cluster10_cluster12_1 cluster10_cluster12_2
+ cluster10_cluster15_0 cluster10_cluster15_1 cluster10_cluster15_2
+ cluster10_cluster37_0 cluster10_cluster37_1 cluster10_cluster37_2
+ cluster10_cluster38_0 cluster10_cluster38_1 cluster10_cluster38_2
+ cluster10_cluster44_0 cluster10_cluster44_1 cluster10_cluster44_2
+ cluster10_cluster49_0 cluster10_cluster49_1 cluster10_cluster49_2
+ cluster11_cluster4_0 cluster11_cluster4_1 cluster11_cluster4_2
+ cluster11_cluster7_0 cluster11_cluster7_1 cluster11_cluster7_2
+ cluster11_cluster12_0 cluster11_cluster12_1 cluster11_cluster12_2
+ cluster11_cluster15_0 cluster11_cluster15_1 cluster11_cluster15_2
+ cluster11_cluster37_0 cluster11_cluster37_1 cluster11_cluster37_2
+ cluster11_cluster38_0 cluster11_cluster38_1 cluster11_cluster38_2
+ cluster11_cluster44_0 cluster11_cluster44_1 cluster11_cluster44_2
+ cluster11_cluster49_0 cluster11_cluster49_1 cluster11_cluster49_2
+ cluster13_cluster4_0 cluster13_cluster4_1 cluster13_cluster4_2
+ cluster13_cluster7_0 cluster13_cluster7_1 cluster13_cluster7_2
+ cluster13_cluster12_0 cluster13_cluster12_1 cluster13_cluster12_2
+ cluster13_cluster15_0 cluster13_cluster15_1 cluster13_cluster15_2
+ cluster13_cluster37_0 cluster13_cluster37_1 cluster13_cluster37_2
+ cluster13_cluster38_0 cluster13_cluster38_1 cluster13_cluster38_2
+ cluster13_cluster44_0 cluster13_cluster44_1 cluster13_cluster44_2
+ cluster13_cluster49_0 cluster13_cluster49_1 cluster13_cluster49_2
+ cluster14_cluster4_0 cluster14_cluster4_1 cluster14_cluster4_2
+ cluster14_cluster7_0 cluster14_cluster7_1 cluster14_cluster7_2
+ cluster14_cluster12_0 cluster14_cluster12_1 cluster14_cluster12_2
+ cluster14_cluster15_0 cluster14_cluster15_1 cluster14_cluster15_2
+ cluster14_cluster37_0 cluster14_cluster37_1 cluster14_cluster37_2
+ cluster14_cluster38_0 cluster14_cluster38_1 cluster14_cluster38_2
+ cluster14_cluster44_0 cluster14_cluster44_1 cluster14_cluster44_2
+ cluster14_cluster49_0 cluster14_cluster49_1 cluster14_cluster49_2
+ cluster16_cluster4_0 cluster16_cluster4_1 cluster16_cluster4_2
+ cluster16_cluster7_0 cluster16_cluster7_1 cluster16_cluster7_2
+ cluster16_cluster12_0 cluster16_cluster12_1 cluster16_cluster12_2
+ cluster16_cluster15_0 cluster16_cluster15_1 cluster16_cluster15_2
+ cluster16_cluster37_0 cluster16_cluster37_1 cluster16_cluster37_2
+ cluster16_cluster38_0 cluster16_cluster38_1 cluster16_cluster38_2
+ cluster16_cluster44_0 cluster16_cluster44_1 cluster16_cluster44_2
+ cluster16_cluster49_0 cluster16_cluster49_1 cluster16_cluster49_2
+ cluster17_cluster4_0 cluster17_cluster4_1 cluster17_cluster4_2
+ cluster17_cluster7_0 cluster17_cluster7_1 cluster17_cluster7_2
+ cluster17_cluster12_0 cluster17_cluster12_1 cluster17_cluster12_2
+ cluster17_cluster15_0 cluster17_cluster15_1 cluster17_cluster15_2
+ cluster17_cluster37_0 cluster17_cluster37_1 cluster17_cluster37_2
+ cluster17_cluster38_0 cluster17_cluster38_1 cluster17_cluster38_2
+ cluster17_cluster44_0 cluster17_cluster44_1 cluster17_cluster44_2
+ cluster17_cluster49_0 cluster17_cluster49_1 cluster17_cluster49_2
+ cluster18_cluster4_0 cluster18_cluster4_1 cluster18_cluster4_2
+ cluster18_cluster7_0 cluster18_cluster7_1 cluster18_cluster7_2
+ cluster18_cluster12_0 cluster18_cluster12_1 cluster18_cluster12_2
+ cluster18_cluster15_0 cluster18_cluster15_1 cluster18_cluster15_2
+ cluster18_cluster37_0 cluster18_cluster37_1 cluster18_cluster37_2
+ cluster18_cluster38_0 cluster18_cluster38_1 cluster18_cluster38_2
+ cluster18_cluster44_0 cluster18_cluster44_1 cluster18_cluster44_2
+ cluster18_cluster49_0 cluster18_cluster49_1 cluster18_cluster49_2
+ cluster19_cluster4_0 cluster19_cluster4_1 cluster19_cluster4_2
+ cluster19_cluster7_0 cluster19_cluster7_1 cluster19_cluster7_2
+ cluster19_cluster12_0 cluster19_cluster12_1 cluster19_cluster12_2
+ cluster19_cluster15_0 cluster19_cluster15_1 cluster19_cluster15_2
+ cluster19_cluster37_0 cluster19_cluster37_1 cluster19_cluster37_2
+ cluster19_cluster38_0 cluster19_cluster38_1 cluster19_cluster38_2
+ cluster19_cluster44_0 cluster19_cluster44_1 cluster19_cluster44_2
+ cluster19_cluster49_0 cluster19_cluster49_1 cluster19_cluster49_2
+ cluster20_cluster4_0 cluster20_cluster4_1 cluster20_cluster4_2
+ cluster20_cluster7_0 cluster20_cluster7_1 cluster20_cluster7_2
+ cluster20_cluster12_0 cluster20_cluster12_1 cluster20_cluster12_2
+ cluster20_cluster15_0 cluster20_cluster15_1 cluster20_cluster15_2
+ cluster20_cluster37_0 cluster20_cluster37_1 cluster20_cluster37_2
+ cluster20_cluster38_0 cluster20_cluster38_1 cluster20_cluster38_2
+ cluster20_cluster44_0 cluster20_cluster44_1 cluster20_cluster44_2
+ cluster20_cluster49_0 cluster20_cluster49_1 cluster20_cluster49_2
+ cluster21_cluster4_0 cluster21_cluster4_1 cluster21_cluster4_2
+ cluster21_cluster7_0 cluster21_cluster7_1 cluster21_cluster7_2
+ cluster21_cluster12_0 cluster21_cluster12_1 cluster21_cluster12_2
+ cluster21_cluster15_0 cluster21_cluster15_1 cluster21_cluster15_2
+ cluster21_cluster37_0 cluster21_cluster37_1 cluster21_cluster37_2
+ cluster21_cluster38_0 cluster21_cluster38_1 cluster21_cluster38_2
+ cluster21_cluster44_0 cluster21_cluster44_1 cluster21_cluster44_2
+ cluster21_cluster49_0 cluster21_cluster49_1 cluster21_cluster49_2
+ cluster22_cluster4_0 cluster22_cluster4_1 cluster22_cluster4_2
+ cluster22_cluster7_0 cluster22_cluster7_1 cluster22_cluster7_2
+ cluster22_cluster12_0 cluster22_cluster12_1 cluster22_cluster12_2
+ cluster22_cluster15_0 cluster22_cluster15_1 cluster22_cluster15_2
+ cluster22_cluster37_0 cluster22_cluster37_1 cluster22_cluster37_2
+ cluster22_cluster38_0 cluster22_cluster38_1 cluster22_cluster38_2
+ cluster22_cluster44_0 cluster22_cluster44_1 cluster22_cluster44_2
+ cluster22_cluster49_0 cluster22_cluster49_1 cluster22_cluster49_2
+ cluster23_cluster4_0 cluster23_cluster4_1 cluster23_cluster4_2
+ cluster23_cluster7_0 cluster23_cluster7_1 cluster23_cluster7_2
+ cluster23_cluster12_0 cluster23_cluster12_1 cluster23_cluster12_2
+ cluster23_cluster15_0 cluster23_cluster15_1 cluster23_cluster15_2
+ cluster23_cluster37_0 cluster23_cluster37_1 cluster23_cluster37_2
+ cluster23_cluster38_0 cluster23_cluster38_1 cluster23_cluster38_2
+ cluster23_cluster44_0 cluster23_cluster44_1 cluster23_cluster44_2
+ cluster23_cluster49_0 cluster23_cluster49_1 cluster23_cluster49_2
+ cluster24_cluster4_0 cluster24_cluster4_1 cluster24_cluster4_2
+ cluster24_cluster7_0 cluster24_cluster7_1 cluster24_cluster7_2
+ cluster24_cluster12_0 cluster24_cluster12_1 cluster24_cluster12_2
+ cluster24_cluster15_0 cluster24_cluster15_1 cluster24_cluster15_2
+ cluster24_cluster37_0 cluster24_cluster37_1 cluster24_cluster37_2
+ cluster24_cluster38_0 cluster24_cluster38_1 cluster24_cluster38_2
+ cluster24_cluster44_0 cluster24_cluster44_1 cluster24_cluster44_2
+ cluster24_cluster49_0 cluster24_cluster49_1 cluster24_cluster49_2
+ cluster25_cluster4_0 cluster25_cluster4_1 cluster25_cluster4_2
+ cluster25_cluster7_0 cluster25_cluster7_1 cluster25_cluster7_2
+ cluster25_cluster12_0 cluster25_cluster12_1 cluster25_cluster12_2
+ cluster25_cluster15_0 cluster25_cluster15_1 cluster25_cluster15_2
+ cluster25_cluster37_0 cluster25_cluster37_1 cluster25_cluster37_2
+ cluster25_cluster38_0 cluster25_cluster38_1 cluster25_cluster38_2
+ cluster25_cluster44_0 cluster25_cluster44_1 cluster25_cluster44_2
+ cluster25_cluster49_0 cluster25_cluster49_1 cluster25_cluster49_2
+ cluster26_cluster4_0 cluster26_cluster4_1 cluster26_cluster4_2
+ cluster26_cluster7_0 cluster26_cluster7_1 cluster26_cluster7_2
+ cluster26_cluster12_0 cluster26_cluster12_1 cluster26_cluster12_2
+ cluster26_cluster15_0 cluster26_cluster15_1 cluster26_cluster15_2
+ cluster26_cluster37_0 cluster26_cluster37_1 cluster26_cluster37_2
+ cluster26_cluster38_0 cluster26_cluster38_1 cluster26_cluster38_2
+ cluster26_cluster44_0 cluster26_cluster44_1 cluster26_cluster44_2
+ cluster26_cluster49_0 cluster26_cluster49_1 cluster26_cluster49_2
+ cluster27_cluster4_0 cluster27_cluster4_1 cluster27_cluster4_2
+ cluster27_cluster7_0 cluster27_cluster7_1 cluster27_cluster7_2
+ cluster27_cluster12_0 cluster27_cluster12_1 cluster27_cluster12_2
+ cluster27_cluster15_0 cluster27_cluster15_1 cluster27_cluster15_2
+ cluster27_cluster37_0 cluster27_cluster37_1 cluster27_cluster37_2
+ cluster27_cluster38_0 cluster27_cluster38_1 cluster27_cluster38_2
+ cluster27_cluster44_0 cluster27_cluster44_1 cluster27_cluster44_2
+ cluster27_cluster49_0 cluster27_cluster49_1 cluster27_cluster49_2
+ cluster28_cluster4_0 cluster28_cluster4_1 cluster28_cluster4_2
+ cluster28_cluster7_0 cluster28_cluster7_1 cluster28_cluster7_2
+ cluster28_cluster12_0 cluster28_cluster12_1 cluster28_cluster12_2
+ cluster28_cluster15_0 cluster28_cluster15_1 cluster28_cluster15_2
+ cluster28_cluster37_0 cluster28_cluster37_1 cluster28_cluster37_2
+ cluster28_cluster38_0 cluster28_cluster38_1 cluster28_cluster38_2
+ cluster28_cluster44_0 cluster28_cluster44_1 cluster28_cluster44_2
+ cluster28_cluster49_0 cluster28_cluster49_1 cluster28_cluster49_2
+ cluster29_cluster4_0 cluster29_cluster4_1 cluster29_cluster4_2
+ cluster29_cluster7_0 cluster29_cluster7_1 cluster29_cluster7_2
+ cluster29_cluster12_0 cluster29_cluster12_1 cluster29_cluster12_2
+ cluster29_cluster15_0 cluster29_cluster15_1 cluster29_cluster15_2
+ cluster29_cluster37_0 cluster29_cluster37_1 cluster29_cluster37_2
+ cluster29_cluster38_0 cluster29_cluster38_1 cluster29_cluster38_2
+ cluster29_cluster44_0 cluster29_cluster44_1 cluster29_cluster44_2
+ cluster29_cluster49_0 cluster29_cluster49_1 cluster29_cluster49_2
+ cluster30_cluster4_0 cluster30_cluster4_1 cluster30_cluster4_2
+ cluster30_cluster7_0 cluster30_cluster7_1 cluster30_cluster7_2
+ cluster30_cluster12_0 cluster30_cluster12_1 cluster30_cluster12_2
+ cluster30_cluster15_0 cluster30_cluster15_1 cluster30_cluster15_2
+ cluster30_cluster37_0 cluster30_cluster37_1 cluster30_cluster37_2
+ cluster30_cluster38_0 cluster30_cluster38_1 cluster30_cluster38_2
+ cluster30_cluster44_0 cluster30_cluster44_1 cluster30_cluster44_2
+ cluster30_cluster49_0 cluster30_cluster49_1 cluster30_cluster49_2
+ cluster31_cluster4_0 cluster31_cluster4_1 cluster31_cluster4_2
+ cluster31_cluster7_0 cluster31_cluster7_1 cluster31_cluster7_2
+ cluster31_cluster12_0 cluster31_cluster12_1 cluster31_cluster12_2
+ cluster31_cluster15_0 cluster31_cluster15_1 cluster31_cluster15_2
+ cluster31_cluster37_0 cluster31_cluster37_1 cluster31_cluster37_2
+ cluster31_cluster38_0 cluster31_cluster38_1 cluster31_cluster38_2
+ cluster31_cluster44_0 cluster31_cluster44_1 cluster31_cluster44_2
+ cluster31_cluster49_0 cluster31_cluster49_1 cluster31_cluster49_2
+ cluster32_cluster4_0 cluster32_cluster4_1 cluster32_cluster4_2
+ cluster32_cluster7_0 cluster32_cluster7_1 cluster32_cluster7_2
+ cluster32_cluster12_0 cluster32_cluster12_1 cluster32_cluster12_2
+ cluster32_cluster15_0 cluster32_cluster15_1 cluster32_cluster15_2
+ cluster32_cluster37_0 cluster32_cluster37_1 cluster32_cluster37_2
+ cluster32_cluster38_0 cluster32_cluster38_1 cluster32_cluster38_2
+ cluster32_cluster44_0 cluster32_cluster44_1 cluster32_cluster44_2
+ cluster32_cluster49_0 cluster32_cluster49_1 cluster32_cluster49_2
+ cluster33_cluster4_0 cluster33_cluster4_1 cluster33_cluster4_2
+ cluster33_cluster7_0 cluster33_cluster7_1 cluster33_cluster7_2
+ cluster33_cluster12_0 cluster33_cluster12_1 cluster33_cluster12_2
+ cluster33_cluster15_0 cluster33_cluster15_1 cluster33_cluster15_2
+ cluster33_cluster37_0 cluster33_cluster37_1 cluster33_cluster37_2
+ cluster33_cluster38_0 cluster33_cluster38_1 cluster33_cluster38_2
+ cluster33_cluster44_0 cluster33_cluster44_1 cluster33_cluster44_2
+ cluster33_cluster49_0 cluster33_cluster49_1 cluster33_cluster49_2
+ cluster34_cluster4_0 cluster34_cluster4_1 cluster34_cluster4_2
+ cluster34_cluster7_0 cluster34_cluster7_1 cluster34_cluster7_2
+ cluster34_cluster12_0 cluster34_cluster12_1 cluster34_cluster12_2
+ cluster34_cluster15_0 cluster34_cluster15_1 cluster34_cluster15_2
+ cluster34_cluster37_0 cluster34_cluster37_1 cluster34_cluster37_2
+ cluster34_cluster38_0 cluster34_cluster38_1 cluster34_cluster38_2
+ cluster34_cluster44_0 cluster34_cluster44_1 cluster34_cluster44_2
+ cluster34_cluster49_0 cluster34_cluster49_1 cluster34_cluster49_2
+ cluster35_cluster4_0 cluster35_cluster4_1 cluster35_cluster4_2
+ cluster35_cluster7_0 cluster35_cluster7_1 cluster35_cluster7_2
+ cluster35_cluster12_0 cluster35_cluster12_1 cluster35_cluster12_2
+ cluster35_cluster15_0 cluster35_cluster15_1 cluster35_cluster15_2
+ cluster35_cluster37_0 cluster35_cluster37_1 cluster35_cluster37_2
+ cluster35_cluster38_0 cluster35_cluster38_1 cluster35_cluster38_2
+ cluster35_cluster44_0 cluster35_cluster44_1 cluster35_cluster44_2
+ cluster35_cluster49_0 cluster35_cluster49_1 cluster35_cluster49_2
+ cluster36_cluster4_0 cluster36_cluster4_1 cluster36_cluster4_2
+ cluster36_cluster7_0 cluster36_cluster7_1 cluster36_cluster7_2
+ cluster36_cluster12_0 cluster36_cluster12_1 cluster36_cluster12_2
+ cluster36_cluster15_0 cluster36_cluster15_1 cluster36_cluster15_2
+ cluster36_cluster37_0 cluster36_cluster37_1 cluster36_cluster37_2
+ cluster36_cluster38_0 cluster36_cluster38_1 cluster36_cluster38_2
+ cluster36_cluster44_0 cluster36_cluster44_1 cluster36_cluster44_2
+ cluster36_cluster49_0 cluster36_cluster49_1 cluster36_cluster49_2
+ cluster39_cluster4_0 cluster39_cluster4_1 cluster39_cluster4_2
+ cluster39_cluster7_0 cluster39_cluster7_1 cluster39_cluster7_2
+ cluster39_cluster12_0 cluster39_cluster12_1 cluster39_cluster12_2
+ cluster39_cluster15_0 cluster39_cluster15_1 cluster39_cluster15_2
+ cluster39_cluster37_0 cluster39_cluster37_1 cluster39_cluster37_2
+ cluster39_cluster38_0 cluster39_cluster38_1 cluster39_cluster38_2
+ cluster39_cluster44_0 cluster39_cluster44_1 cluster39_cluster44_2
+ cluster39_cluster49_0 cluster39_cluster49_1 cluster39_cluster49_2
+ cluster40_cluster4_0 cluster40_cluster4_1 cluster40_cluster4_2
+ cluster40_cluster7_0 cluster40_cluster7_1 cluster40_cluster7_2
+ cluster40_cluster12_0 cluster40_cluster12_1 cluster40_cluster12_2
+ cluster40_cluster15_0 cluster40_cluster15_1 cluster40_cluster15_2
+ cluster40_cluster37_0 cluster40_cluster37_1 cluster40_cluster37_2
+ cluster40_cluster38_0 cluster40_cluster38_1 cluster40_cluster38_2
+ cluster40_cluster44_0 cluster40_cluster44_1 cluster40_cluster44_2
+ cluster40_cluster49_0 cluster40_cluster49_1 cluster40_cluster49_2
+ cluster41_cluster4_0 cluster41_cluster4_1 cluster41_cluster4_2
+ cluster41_cluster7_0 cluster41_cluster7_1 cluster41_cluster7_2
+ cluster41_cluster12_0 cluster41_cluster12_1 cluster41_cluster12_2
+ cluster41_cluster15_0 cluster41_cluster15_1 cluster41_cluster15_2
+ cluster41_cluster37_0 cluster41_cluster37_1 cluster41_cluster37_2
+ cluster41_cluster38_0 cluster41_cluster38_1 cluster41_cluster38_2
+ cluster41_cluster44_0 cluster41_cluster44_1 cluster41_cluster44_2
+ cluster41_cluster49_0 cluster41_cluster49_1 cluster41_cluster49_2
+ cluster42_cluster4_0 cluster42_cluster4_1 cluster42_cluster4_2
+ cluster42_cluster7_0 cluster42_cluster7_1 cluster42_cluster7_2
+ cluster42_cluster12_0 cluster42_cluster12_1 cluster42_cluster12_2
+ cluster42_cluster15_0 cluster42_cluster15_1 cluster42_cluster15_2
+ cluster42_cluster37_0 cluster42_cluster37_1 cluster42_cluster37_2
+ cluster42_cluster38_0 cluster42_cluster38_1 cluster42_cluster38_2
+ cluster42_cluster44_0 cluster42_cluster44_1 cluster42_cluster44_2
+ cluster42_cluster49_0 cluster42_cluster49_1 cluster42_cluster49_2
+ cluster43_cluster4_0 cluster43_cluster4_1 cluster43_cluster4_2
+ cluster43_cluster7_0 cluster43_cluster7_1 cluster43_cluster7_2
+ cluster43_cluster12_0 cluster43_cluster12_1 cluster43_cluster12_2
+ cluster43_cluster15_0 cluster43_cluster15_1 cluster43_cluster15_2
+ cluster43_cluster37_0 cluster43_cluster37_1 cluster43_cluster37_2
+ cluster43_cluster38_0 cluster43_cluster38_1 cluster43_cluster38_2
+ cluster43_cluster44_0 cluster43_cluster44_1 cluster43_cluster44_2
+ cluster43_cluster49_0 cluster43_cluster49_1 cluster43_cluster49_2
+ cluster45_cluster4_0 cluster45_cluster4_1 cluster45_cluster4_2
+ cluster45_cluster7_0 cluster45_cluster7_1 cluster45_cluster7_2
+ cluster45_cluster12_0 cluster45_cluster12_1 cluster45_cluster12_2
+ cluster45_cluster15_0 cluster45_cluster15_1 cluster45_cluster15_2
+ cluster45_cluster37_0 cluster45_cluster37_1 cluster45_cluster37_2
+ cluster45_cluster38_0 cluster45_cluster38_1 cluster45_cluster38_2
+ cluster45_cluster44_0 cluster45_cluster44_1 cluster45_cluster44_2
+ cluster45_cluster49_0 cluster45_cluster49_1 cluster45_cluster49_2
+ cluster46_cluster4_0 cluster46_cluster4_1 cluster46_cluster4_2
+ cluster46_cluster7_0 cluster46_cluster7_1 cluster46_cluster7_2
+ cluster46_cluster12_0 cluster46_cluster12_1 cluster46_cluster12_2
+ cluster46_cluster15_0 cluster46_cluster15_1 cluster46_cluster15_2
+ cluster46_cluster37_0 cluster46_cluster37_1 cluster46_cluster37_2
+ cluster46_cluster38_0 cluster46_cluster38_1 cluster46_cluster38_2
+ cluster46_cluster44_0 cluster46_cluster44_1 cluster46_cluster44_2
+ cluster46_cluster49_0 cluster46_cluster49_1 cluster46_cluster49_2
+ cluster47_cluster4_0 cluster47_cluster4_1 cluster47_cluster4_2
+ cluster47_cluster7_0 cluster47_cluster7_1 cluster47_cluster7_2
+ cluster47_cluster12_0 cluster47_cluster12_1 cluster47_cluster12_2
+ cluster47_cluster15_0 cluster47_cluster15_1 cluster47_cluster15_2
+ cluster47_cluster37_0 cluster47_cluster37_1 cluster47_cluster37_2
+ cluster47_cluster38_0 cluster47_cluster38_1 cluster47_cluster38_2
+ cluster47_cluster44_0 cluster47_cluster44_1 cluster47_cluster44_2
+ cluster47_cluster49_0 cluster47_cluster49_1 cluster47_cluster49_2
+ cluster48_cluster4_0 cluster48_cluster4_1 cluster48_cluster4_2
+ cluster48_cluster7_0 cluster48_cluster7_1 cluster48_cluster7_2
+ cluster48_cluster12_0 cluster48_cluster12_1 cluster48_cluster12_2
+ cluster48_cluster15_0 cluster48_cluster15_1 cluster48_cluster15_2
+ cluster48_cluster37_0 cluster48_cluster37_1 cluster48_cluster37_2
+ cluster48_cluster38_0 cluster48_cluster38_1 cluster48_cluster38_2
+ cluster48_cluster44_0 cluster48_cluster44_1 cluster48_cluster44_2
+ cluster48_cluster49_0 cluster48_cluster49_1 cluster48_cluster49_2
+End

@@ -1,0 +1,2367 @@
+\ LP format - for model browsing. Use MPS format to capture full model detail.
+Minimize
+  33.79950731904677 cluster0_cluster4_0
+   + 33.79950731904677 cluster0_cluster4_1
+   + 33.79950731904677 cluster0_cluster4_2
+   + 2131.080618876474 cluster0_cluster7_0
+   + 2131.080618876474 cluster0_cluster7_1
+   + 2131.080618876474 cluster0_cluster7_2
+   + 14069.77009117104 cluster0_cluster12_0
+   + 14069.77009117104 cluster0_cluster12_1
+   + 14069.77009117104 cluster0_cluster12_2
+   + 21.90056393507725 cluster0_cluster15_0
+   + 21.90056393507725 cluster0_cluster15_1
+   + 21.90056393507725 cluster0_cluster15_2
+   - 252.3266176501511 cluster0_cluster37_0
+   - 252.3266176501511 cluster0_cluster37_1
+   - 252.3266176501511 cluster0_cluster37_2
+   + 325.0295566231724 cluster0_cluster38_0
+   + 325.0295566231724 cluster0_cluster38_1
+   + 325.0295566231724 cluster0_cluster38_2
+   + 89.77482970842205 cluster0_cluster44_0
+   + 89.77482970842205 cluster0_cluster44_1
+   + 89.77482970842205 cluster0_cluster44_2
+   - 13744.1710772478 cluster0_cluster49_0
+   - 13744.1710772478 cluster0_cluster49_1
+   - 13744.1710772478 cluster0_cluster49_2
+   + 18.12017566552004 cluster1_cluster4_0
+   + 18.12017566552004 cluster1_cluster4_1
+   + 18.12017566552004 cluster1_cluster4_2
+   + 856.5472450700139 cluster1_cluster7_0
+   + 856.5472450700139 cluster1_cluster7_1
+   + 856.5472450700139 cluster1_cluster7_2
+   + 6727.813269586437 cluster1_cluster12_0
+   + 6727.813269586437 cluster1_cluster12_1
+   + 6727.813269586437 cluster1_cluster12_2
+   + 51.39548870478511 cluster1_cluster15_0
+   + 51.39548870478511 cluster1_cluster15_1
+   + 51.39548870478511 cluster1_cluster15_2
+   - 207.732009918755 cluster1_cluster37_0
+   - 207.732009918755 cluster1_cluster37_1
+   - 207.732009918755 cluster1_cluster37_2
+   + 138.5725677451873 cluster1_cluster38_0
+   + 138.5725677451873 cluster1_cluster38_1
+   + 138.5725677451873 cluster1_cluster38_2
+   + 45.24369107151356 cluster1_cluster44_0
+   + 45.24369107151356 cluster1_cluster44_1
+   + 45.24369107151356 cluster1_cluster44_2
+   - 7273.811419182205 cluster1_cluster49_0
+   - 7273.811419182205 cluster1_cluster49_1
+   - 7273.811419182205 cluster1_cluster49_2
+   + 23.27935448255929 cluster2_cluster4_0
+   + 23.27935448255929 cluster2_cluster4_1
+   + 23.27935448255929 cluster2_cluster4_2
+   + 964.3429942125654 cluster2_cluster7_0
+   + 964.3429942125654 cluster2_cluster7_1
+   + 964.3429942125654 cluster2_cluster7_2
+   + 4719.326648270206 cluster2_cluster12_0
+   + 4719.326648270206 cluster2_cluster12_1
+   + 4719.326648270206 cluster2_cluster12_2
+   + 58.81174812458821 cluster2_cluster15_0
+   + 58.81174812458821 cluster2_cluster15_1
+   + 58.81174812458821 cluster2_cluster15_2
+   - 259.3710893569398 cluster2_cluster37_0
+   - 259.3710893569398 cluster2_cluster37_1
+   - 259.3710893569398 cluster2_cluster37_2
+   + 118.090463768835 cluster2_cluster38_0
+   + 118.090463768835 cluster2_cluster38_1
+   + 118.090463768835 cluster2_cluster38_2
+   + 33.42179542188264 cluster2_cluster44_0
+   + 33.42179542188264 cluster2_cluster44_1
+   + 33.42179542188264 cluster2_cluster44_2
+   - 9590.130363688473 cluster2_cluster49_0
+   - 9590.130363688473 cluster2_cluster49_1
+   - 9590.130363688473 cluster2_cluster49_2
+   + 18.6969871096491 cluster3_cluster4_0
+   + 18.6969871096491 cluster3_cluster4_1
+   + 18.6969871096491 cluster3_cluster4_2
+   + 1113.854234947442 cluster3_cluster7_0
+   + 1113.854234947442 cluster3_cluster7_1
+   + 1113.854234947442 cluster3_cluster7_2
+   + 7506.25918077292 cluster3_cluster12_0
+   + 7506.25918077292 cluster3_cluster12_1
+   + 7506.25918077292 cluster3_cluster12_2
+   + 47.52639842573564 cluster3_cluster15_0
+   + 47.52639842573564 cluster3_cluster15_1
+   + 47.52639842573564 cluster3_cluster15_2
+   - 203.4839967808179 cluster3_cluster37_0
+   - 203.4839967808179 cluster3_cluster37_1
+   - 203.4839967808179 cluster3_cluster37_2
+   + 176.4162382352181 cluster3_cluster38_0
+   + 176.4162382352181 cluster3_cluster38_1
+   + 176.4162382352181 cluster3_cluster38_2
+   + 47.24365536039956 cluster3_cluster44_0
+   + 47.24365536039956 cluster3_cluster44_1
+   + 47.24365536039956 cluster3_cluster44_2
+   - 8029.835711809596 cluster3_cluster49_0
+   - 8029.835711809596 cluster3_cluster49_1
+   - 8029.835711809596 cluster3_cluster49_2
+   + 17.12468415494593 cluster5_cluster4_0
+   + 17.12468415494593 cluster5_cluster4_1
+   + 17.12468415494593 cluster5_cluster4_2
+   + 1140.409005054208 cluster5_cluster7_0
+   + 1140.409005054208 cluster5_cluster7_1
+   + 1140.409005054208 cluster5_cluster7_2
+   + 8470.123800306821 cluster5_cluster12_0
+   + 8470.123800306821 cluster5_cluster12_1
+   + 8470.123800306821 cluster5_cluster12_2
+   + 44.30069862067499 cluster5_cluster15_0
+   + 44.30069862067499 cluster5_cluster15_1
+   + 44.30069862067499 cluster5_cluster15_2
+   - 161.9764350098733 cluster5_cluster37_0
+   - 161.9764350098733 cluster5_cluster37_1
+   - 161.9764350098733 cluster5_cluster37_2
+   + 182.0373723553353 cluster5_cluster38_0
+   + 182.0373723553353 cluster5_cluster38_1
+   + 182.0373723553353 cluster5_cluster38_2
+   + 55.82450164382813 cluster5_cluster44_0
+   + 55.82450164382813 cluster5_cluster44_1
+   + 55.82450164382813 cluster5_cluster44_2
+   - 6538.250414587737 cluster5_cluster49_0
+   - 6538.250414587737 cluster5_cluster49_1
+   - 6538.250414587737 cluster5_cluster49_2
+   + 24.55170325193183 cluster6_cluster4_0
+   + 24.55170325193183 cluster6_cluster4_1
+   + 24.55170325193183 cluster6_cluster4_2
+   + 1583.778095089293 cluster6_cluster7_0
+   + 1583.778095089293 cluster6_cluster7_1
+   + 1583.778095089293 cluster6_cluster7_2
+   + 11081.40719184442 cluster6_cluster12_0
+   + 11081.40719184442 cluster6_cluster12_1
+   + 11081.40719184442 cluster6_cluster12_2
+   + 36.50150903294036 cluster6_cluster15_0
+   + 36.50150903294036 cluster6_cluster15_1
+   + 36.50150903294036 cluster6_cluster15_2
+   - 172.2259615024182 cluster6_cluster37_0
+   - 172.2259615024182 cluster6_cluster37_1
+   - 172.2259615024182 cluster6_cluster37_2
+   + 244.5858788422575 cluster6_cluster38_0
+   + 244.5858788422575 cluster6_cluster38_1
+   + 244.5858788422575 cluster6_cluster38_2
+   + 72.36046180649191 cluster6_cluster44_0
+   + 72.36046180649191 cluster6_cluster44_1
+   + 72.36046180649191 cluster6_cluster44_2
+   - 9669.252617085465 cluster6_cluster49_0
+   - 9669.252617085465 cluster6_cluster49_1
+   - 9669.252617085465 cluster6_cluster49_2
+   + 41.70288890094841 cluster8_cluster4_0
+   + 41.70288890094841 cluster8_cluster4_1
+   + 41.70288890094841 cluster8_cluster4_2
+   + 2556.840561470108 cluster8_cluster7_0
+   + 2556.840561470108 cluster8_cluster7_1
+   + 2556.840561470108 cluster8_cluster7_2
+   + 16731.945734475 cluster8_cluster12_0
+   + 16731.945734475 cluster8_cluster12_1
+   + 16731.945734475 cluster8_cluster12_2
+   + 29.64829231422415 cluster8_cluster15_0
+   + 29.64829231422415 cluster8_cluster15_1
+   + 29.64829231422415 cluster8_cluster15_2
+   - 316.2821944779757 cluster8_cluster37_0
+   - 316.2821944779757 cluster8_cluster37_1
+   - 316.2821944779757 cluster8_cluster37_2
+   + 384.8542823985809 cluster8_cluster38_0
+   + 384.8542823985809 cluster8_cluster38_1
+   + 384.8542823985809 cluster8_cluster38_2
+   + 107.3752270139677 cluster8_cluster44_0
+   + 107.3752270139677 cluster8_cluster44_1
+   + 107.3752270139677 cluster8_cluster44_2
+   - 16822.67190937879 cluster8_cluster49_0
+   - 16822.67190937879 cluster8_cluster49_1
+   - 16822.67190937879 cluster8_cluster49_2
+   + 24.85935642430329 cluster9_cluster4_0
+   + 24.85935642430329 cluster9_cluster4_1
+   + 24.85935642430329 cluster9_cluster4_2
+   + 1631.346609219768 cluster9_cluster7_0
+   + 1631.346609219768 cluster9_cluster7_1
+   + 1631.346609219768 cluster9_cluster7_2
+   + 10991.20752836054 cluster9_cluster12_0
+   + 10991.20752836054 cluster9_cluster12_1
+   + 10991.20752836054 cluster9_cluster12_2
+   + 33.07829610174998 cluster9_cluster15_0
+   + 33.07829610174998 cluster9_cluster15_1
+   + 33.07829610174998 cluster9_cluster15_2
+   - 189.06573479427 cluster9_cluster37_0
+   - 189.06573479427 cluster9_cluster37_1
+   - 189.06573479427 cluster9_cluster37_2
+   + 253.784163432666 cluster9_cluster38_0
+   + 253.784163432666 cluster9_cluster38_1
+   + 253.784163432666 cluster9_cluster38_2
+   + 69.87536098771976 cluster9_cluster44_0
+   + 69.87536098771976 cluster9_cluster44_1
+   + 69.87536098771976 cluster9_cluster44_2
+   - 10242.53100141613 cluster9_cluster49_0
+   - 10242.53100141613 cluster9_cluster49_1
+   - 10242.53100141613 cluster9_cluster49_2
+   + 42.96377752608967 cluster10_cluster4_0
+   + 42.96377752608967 cluster10_cluster4_1
+   + 42.96377752608967 cluster10_cluster4_2
+   + 2044.929414576853 cluster10_cluster7_0
+   + 2044.929414576853 cluster10_cluster7_1
+   + 2044.929414576853 cluster10_cluster7_2
+   + 10295.91047164266 cluster10_cluster12_0
+   + 10295.91047164266 cluster10_cluster12_1
+   + 10295.91047164266 cluster10_cluster12_2
+   + 84.49830714867946 cluster10_cluster15_0
+   + 84.49830714867946 cluster10_cluster15_1
+   + 84.49830714867946 cluster10_cluster15_2
+   - 434.1754971887134 cluster10_cluster37_0
+   - 434.1754971887134 cluster10_cluster37_1
+   - 434.1754971887134 cluster10_cluster37_2
+   + 270.1296838965259 cluster10_cluster38_0
+   + 270.1296838965259 cluster10_cluster38_1
+   + 270.1296838965259 cluster10_cluster38_2
+   + 64.18356116696688 cluster10_cluster44_0
+   + 64.18356116696688 cluster10_cluster44_1
+   + 64.18356116696688 cluster10_cluster44_2
+   - 17655.237403158 cluster10_cluster49_0
+   - 17655.237403158 cluster10_cluster49_1
+   - 17655.237403158 cluster10_cluster49_2
+   + 27.15997524153879 cluster11_cluster4_0
+   + 27.15997524153879 cluster11_cluster4_1
+   + 27.15997524153879 cluster11_cluster4_2
+   + 1750.249051127446 cluster11_cluster7_0
+   + 1750.249051127446 cluster11_cluster7_1
+   + 1750.249051127446 cluster11_cluster7_2
+   + 12047.47889752971 cluster11_cluster12_0
+   + 12047.47889752971 cluster11_cluster12_1
+   + 12047.47889752971 cluster11_cluster12_2
+   + 31.52468654348081 cluster11_cluster15_0
+   + 31.52468654348081 cluster11_cluster15_1
+   + 31.52468654348081 cluster11_cluster15_2
+   - 188.2562033223626 cluster11_cluster37_0
+   - 188.2562033223626 cluster11_cluster37_1
+   - 188.2562033223626 cluster11_cluster37_2
+   + 269.3807998206219 cluster11_cluster38_0
+   + 269.3807998206219 cluster11_cluster38_1
+   + 269.3807998206219 cluster11_cluster38_2
+   + 78.16694624040471 cluster11_cluster44_0
+   + 78.16694624040471 cluster11_cluster44_1
+   + 78.16694624040471 cluster11_cluster44_2
+   - 10807.23093664012 cluster11_cluster49_0
+   - 10807.23093664012 cluster11_cluster49_1
+   - 10807.23093664012 cluster11_cluster49_2
+   + 16.22049912251096 cluster13_cluster4_0
+   + 16.22049912251096 cluster13_cluster4_1
+   + 16.22049912251096 cluster13_cluster4_2
+   + 1034.790718544834 cluster13_cluster7_0
+   + 1034.790718544834 cluster13_cluster7_1
+   + 1034.790718544834 cluster13_cluster7_2
+   + 7425.680573800794 cluster13_cluster12_0
+   + 7425.680573800794 cluster13_cluster12_1
+   + 7425.680573800794 cluster13_cluster12_2
+   + 46.6954243338115 cluster13_cluster15_0
+   + 46.6954243338115 cluster13_cluster15_1
+   + 46.6954243338115 cluster13_cluster15_2
+   - 188.0268896309871 cluster13_cluster37_0
+   - 188.0268896309871 cluster13_cluster37_1
+   - 188.0268896309871 cluster13_cluster37_2
+   + 168.2319608892047 cluster13_cluster38_0
+   + 168.2319608892047 cluster13_cluster38_1
+   + 168.2319608892047 cluster13_cluster38_2
+   + 47.61931734944942 cluster13_cluster44_0
+   + 47.61931734944942 cluster13_cluster44_1
+   + 47.61931734944942 cluster13_cluster44_2
+   - 7022.457028604215 cluster13_cluster49_0
+   - 7022.457028604215 cluster13_cluster49_1
+   - 7022.457028604215 cluster13_cluster49_2
+   + 27.36887043902474 cluster14_cluster4_0
+   + 27.36887043902474 cluster14_cluster4_1
+   + 27.36887043902474 cluster14_cluster4_2
+   + 1238.080666075525 cluster14_cluster7_0
+   + 1238.080666075525 cluster14_cluster7_1
+   + 1238.080666075525 cluster14_cluster7_2
+   + 5725.759313303832 cluster14_cluster12_0
+   + 5725.759313303832 cluster14_cluster12_1
+   + 5725.759313303832 cluster14_cluster12_2
+   + 63.06805582002967 cluster14_cluster15_0
+   + 63.06805582002967 cluster14_cluster15_1
+   + 63.06805582002967 cluster14_cluster15_2
+   - 295.2991712600594 cluster14_cluster37_0
+   - 295.2991712600594 cluster14_cluster37_1
+   - 295.2991712600594 cluster14_cluster37_2
+   + 163.3503608814795 cluster14_cluster38_0
+   + 163.3503608814795 cluster14_cluster38_1
+   + 163.3503608814795 cluster14_cluster38_2
+   + 33.24799899458137 cluster14_cluster44_0
+   + 33.24799899458137 cluster14_cluster44_1
+   + 33.24799899458137 cluster14_cluster44_2
+   - 11384.52581749041 cluster14_cluster49_0
+   - 11384.52581749041 cluster14_cluster49_1
+   - 11384.52581749041 cluster14_cluster49_2
+   + 60.26856485130393 cluster16_cluster4_0
+   + 60.26856485130393 cluster16_cluster4_1
+   + 60.26856485130393 cluster16_cluster4_2
+   + 2984.914977495786 cluster16_cluster7_0
+   + 2984.914977495786 cluster16_cluster7_1
+   + 2984.914977495786 cluster16_cluster7_2
+   + 15830.33877863171 cluster16_cluster12_0
+   + 15830.33877863171 cluster16_cluster12_1
+   + 15830.33877863171 cluster16_cluster12_2
+   + 107.3620272664158 cluster16_cluster15_0
+   + 107.3620272664158 cluster16_cluster15_1
+   + 107.3620272664158 cluster16_cluster15_2
+   - 587.3678214902159 cluster16_cluster37_0
+   - 587.3678214902159 cluster16_cluster37_1
+   - 587.3678214902159 cluster16_cluster37_2
+   + 403.3811322399155 cluster16_cluster38_0
+   + 403.3811322399155 cluster16_cluster38_1
+   + 403.3811322399155 cluster16_cluster38_2
+   + 99.26386549010024 cluster16_cluster44_0
+   + 99.26386549010024 cluster16_cluster44_1
+   + 99.26386549010024 cluster16_cluster44_2
+   - 24698.40617730936 cluster16_cluster49_0
+   - 24698.40617730936 cluster16_cluster49_1
+   - 24698.40617730936 cluster16_cluster49_2
+   + 19.82657930369287 cluster17_cluster4_0
+   + 19.82657930369287 cluster17_cluster4_1
+   + 19.82657930369287 cluster17_cluster4_2
+   + 1223.992525966016 cluster17_cluster7_0
+   + 1223.992525966016 cluster17_cluster7_1
+   + 1223.992525966016 cluster17_cluster7_2
+   + 8919.071710257234 cluster17_cluster12_0
+   + 8919.071710257234 cluster17_cluster12_1
+   + 8919.071710257234 cluster17_cluster12_2
+   + 45.32575571746246 cluster17_cluster15_0
+   + 45.32575571746246 cluster17_cluster15_1
+   + 45.32575571746246 cluster17_cluster15_2
+   - 176.5871870645838 cluster17_cluster37_0
+   - 176.5871870645838 cluster17_cluster37_1
+   - 176.5871870645838 cluster17_cluster37_2
+   + 190.5069628383315 cluster17_cluster38_0
+   + 190.5069628383315 cluster17_cluster38_1
+   + 190.5069628383315 cluster17_cluster38_2
+   + 59.14747701191329 cluster17_cluster44_0
+   + 59.14747701191329 cluster17_cluster44_1
+   + 59.14747701191329 cluster17_cluster44_2
+   - 7623.627301091549 cluster17_cluster49_0
+   - 7623.627301091549 cluster17_cluster49_1
+   - 7623.627301091549 cluster17_cluster49_2
+   + 35.12250832136075 cluster18_cluster4_0
+   + 35.12250832136075 cluster18_cluster4_1
+   + 35.12250832136075 cluster18_cluster4_2
+   + 2203.233802498588 cluster18_cluster7_0
+   + 2203.233802498588 cluster18_cluster7_1
+   + 2203.233802498588 cluster18_cluster7_2
+   + 14616.7688189165 cluster18_cluster12_0
+   + 14616.7688189165 cluster18_cluster12_1
+   + 14616.7688189165 cluster18_cluster12_2
+   + 20.89026128968231 cluster18_cluster15_0
+   + 20.89026128968231 cluster18_cluster15_1
+   + 20.89026128968231 cluster18_cluster15_2
+   - 258.913053942337 cluster18_cluster37_0
+   - 258.913053942337 cluster18_cluster37_1
+   - 258.913053942337 cluster18_cluster37_2
+   + 334.9950222234429 cluster18_cluster38_0
+   + 334.9950222234429 cluster18_cluster38_1
+   + 334.9950222234429 cluster18_cluster38_2
+   + 93.76698807102387 cluster18_cluster44_0
+   + 93.76698807102387 cluster18_cluster44_1
+   + 93.76698807102387 cluster18_cluster44_2
+   - 14183.17847168456 cluster18_cluster49_0
+   - 14183.17847168456 cluster18_cluster49_1
+   - 14183.17847168456 cluster18_cluster49_2
+   + 19.01386750710169 cluster19_cluster4_0
+   + 19.01386750710169 cluster19_cluster4_1
+   + 19.01386750710169 cluster19_cluster4_2
+   + 999.8004099091157 cluster19_cluster7_0
+   + 999.8004099091157 cluster19_cluster7_1
+   + 999.8004099091157 cluster19_cluster7_2
+   + 6640.677236749418 cluster19_cluster12_0
+   + 6640.677236749418 cluster19_cluster12_1
+   + 6640.677236749418 cluster19_cluster12_2
+   + 50.72542867711165 cluster19_cluster15_0
+   + 50.72542867711165 cluster19_cluster15_1
+   + 50.72542867711165 cluster19_cluster15_2
+   - 216.8374003834269 cluster19_cluster37_0
+   - 216.8374003834269 cluster19_cluster37_1
+   - 216.8374003834269 cluster19_cluster37_2
+   + 157.2197019042184 cluster19_cluster38_0
+   + 157.2197019042184 cluster19_cluster38_1
+   + 157.2197019042184 cluster19_cluster38_2
+   + 41.84613146715161 cluster19_cluster44_0
+   + 41.84613146715161 cluster19_cluster44_1
+   + 41.84613146715161 cluster19_cluster44_2
+   - 8112.208980833159 cluster19_cluster49_0
+   - 8112.208980833159 cluster19_cluster49_1
+   - 8112.208980833159 cluster19_cluster49_2
+   + 26.46189312143611 cluster20_cluster4_0
+   + 26.46189312143611 cluster20_cluster4_1
+   + 26.46189312143611 cluster20_cluster4_2
+   + 1735.075968149544 cluster20_cluster7_0
+   + 1735.075968149544 cluster20_cluster7_1
+   + 1735.075968149544 cluster20_cluster7_2
+   + 11789.89708701659 cluster20_cluster12_0
+   + 11789.89708701659 cluster20_cluster12_1
+   + 11789.89708701659 cluster20_cluster12_2
+   + 28.21338748644883 cluster20_cluster15_0
+   + 28.21338748644883 cluster20_cluster15_1
+   + 28.21338748644883 cluster20_cluster15_2
+   - 186.9820640125369 cluster20_cluster37_0
+   - 186.9820640125369 cluster20_cluster37_1
+   - 186.9820640125369 cluster20_cluster37_2
+   + 268.8698694452196 cluster20_cluster38_0
+   + 268.8698694452196 cluster20_cluster38_1
+   + 268.8698694452196 cluster20_cluster38_2
+   + 75.54874724982039 cluster20_cluster44_0
+   + 75.54874724982039 cluster20_cluster44_1
+   + 75.54874724982039 cluster20_cluster44_2
+   - 10743.18142630109 cluster20_cluster49_0
+   - 10743.18142630109 cluster20_cluster49_1
+   - 10743.18142630109 cluster20_cluster49_2
+   + 22.28296276528912 cluster21_cluster4_0
+   + 22.28296276528912 cluster21_cluster4_1
+   + 22.28296276528912 cluster21_cluster4_2
+   + 1507.082409395452 cluster21_cluster7_0
+   + 1507.082409395452 cluster21_cluster7_1
+   + 1507.082409395452 cluster21_cluster7_2
+   + 10535.87173821247 cluster21_cluster12_0
+   + 10535.87173821247 cluster21_cluster12_1
+   + 10535.87173821247 cluster21_cluster12_2
+   + 33.84833597606875 cluster21_cluster15_0
+   + 33.84833597606875 cluster21_cluster15_1
+   + 33.84833597606875 cluster21_cluster15_2
+   - 145.5687226904713 cluster21_cluster37_0
+   - 145.5687226904713 cluster21_cluster37_1
+   - 145.5687226904713 cluster21_cluster37_2
+   + 236.2756496822446 cluster21_cluster38_0
+   + 236.2756496822446 cluster21_cluster38_1
+   + 236.2756496822446 cluster21_cluster38_2
+   + 68.02585386585291 cluster21_cluster44_0
+   + 68.02585386585291 cluster21_cluster44_1
+   + 68.02585386585291 cluster21_cluster44_2
+   - 8961.255657507219 cluster21_cluster49_0
+   - 8961.255657507219 cluster21_cluster49_1
+   - 8961.255657507219 cluster21_cluster49_2
+   + 27.74334134917841 cluster22_cluster4_0
+   + 27.74334134917841 cluster22_cluster4_1
+   + 27.74334134917841 cluster22_cluster4_2
+   + 1797.827621782088 cluster22_cluster7_0
+   + 1797.827621782088 cluster22_cluster7_1
+   + 1797.827621782088 cluster22_cluster7_2
+   + 12283.0646434086 cluster22_cluster12_0
+   + 12283.0646434086 cluster22_cluster12_1
+   + 12283.0646434086 cluster22_cluster12_2
+   + 27.95257714471073 cluster22_cluster15_0
+   + 27.95257714471073 cluster22_cluster15_1
+   + 27.95257714471073 cluster22_cluster15_2
+   - 192.2263459136828 cluster22_cluster37_0
+   - 192.2263459136828 cluster22_cluster37_1
+   - 192.2263459136828 cluster22_cluster37_2
+   + 277.0955252674196 cluster22_cluster38_0
+   + 277.0955252674196 cluster22_cluster38_1
+   + 277.0955252674196 cluster22_cluster38_2
+   + 79.27993833306382 cluster22_cluster44_0
+   + 79.27993833306382 cluster22_cluster44_1
+   + 79.27993833306382 cluster22_cluster44_2
+   - 11126.49747291794 cluster22_cluster49_0
+   - 11126.49747291794 cluster22_cluster49_1
+   - 11126.49747291794 cluster22_cluster49_2
+   + 22.85210015692878 cluster23_cluster4_0
+   + 22.85210015692878 cluster23_cluster4_1
+   + 22.85210015692878 cluster23_cluster4_2
+   + 1066.256315028248 cluster23_cluster7_0
+   + 1066.256315028248 cluster23_cluster7_1
+   + 1066.256315028248 cluster23_cluster7_2
+   + 5798.163607641343 cluster23_cluster12_0
+   + 5798.163607641343 cluster23_cluster12_1
+   + 5798.163607641343 cluster23_cluster12_2
+   + 56.32520171767473 cluster23_cluster15_0
+   + 56.32520171767473 cluster23_cluster15_1
+   + 56.32520171767473 cluster23_cluster15_2
+   - 253.4856142382811 cluster23_cluster37_0
+   - 253.4856142382811 cluster23_cluster37_1
+   - 253.4856142382811 cluster23_cluster37_2
+   + 152.2840594926113 cluster23_cluster38_0
+   + 152.2840594926113 cluster23_cluster38_1
+   + 152.2840594926113 cluster23_cluster38_2
+   + 34.77874481324619 cluster23_cluster44_0
+   + 34.77874481324619 cluster23_cluster44_1
+   + 34.77874481324619 cluster23_cluster44_2
+   - 9612.515396020788 cluster23_cluster49_0
+   - 9612.515396020788 cluster23_cluster49_1
+   - 9612.515396020788 cluster23_cluster49_2
+   + 22.16236546296276 cluster24_cluster4_0
+   + 22.16236546296276 cluster24_cluster4_1
+   + 22.16236546296276 cluster24_cluster4_2
+   + 1466.739295606232 cluster24_cluster7_0
+   + 1466.739295606232 cluster24_cluster7_1
+   + 1466.739295606232 cluster24_cluster7_2
+   + 10386.72338530921 cluster24_cluster12_0
+   + 10386.72338530921 cluster24_cluster12_1
+   + 10386.72338530921 cluster24_cluster12_2
+   + 37.15654711671201 cluster24_cluster15_0
+   + 37.15654711671201 cluster24_cluster15_1
+   + 37.15654711671201 cluster24_cluster15_2
+   - 150.5886901789648 cluster24_cluster37_0
+   - 150.5886901789648 cluster24_cluster37_1
+   - 150.5886901789648 cluster24_cluster37_2
+   + 228.8335713791214 cluster24_cluster38_0
+   + 228.8335713791214 cluster24_cluster38_1
+   + 228.8335713791214 cluster24_cluster38_2
+   + 67.77141688313942 cluster24_cluster44_0
+   + 67.77141688313942 cluster24_cluster44_1
+   + 67.77141688313942 cluster24_cluster44_2
+   - 8724.92687763834 cluster24_cluster49_0
+   - 8724.92687763834 cluster24_cluster49_1
+   - 8724.92687763834 cluster24_cluster49_2
+   + 21.97566953686314 cluster25_cluster4_0
+   + 21.97566953686314 cluster25_cluster4_1
+   + 21.97566953686314 cluster25_cluster4_2
+   + 975.9927424877027 cluster25_cluster7_0
+   + 975.9927424877027 cluster25_cluster7_1
+   + 975.9927424877027 cluster25_cluster7_2
+   + 5373.217168106597 cluster25_cluster12_0
+   + 5373.217168106597 cluster25_cluster12_1
+   + 5373.217168106597 cluster25_cluster12_2
+   + 56.12609771759214 cluster25_cluster15_0
+   + 56.12609771759214 cluster25_cluster15_1
+   + 56.12609771759214 cluster25_cluster15_2
+   - 247.5596283643215 cluster25_cluster37_0
+   - 247.5596283643215 cluster25_cluster37_1
+   - 247.5596283643215 cluster25_cluster37_2
+   + 138.1253032740034 cluster25_cluster38_0
+   + 138.1253032740034 cluster25_cluster38_1
+   + 138.1253032740034 cluster25_cluster38_2
+   + 33.42645252687763 cluster25_cluster44_0
+   + 33.42645252687763 cluster25_cluster44_1
+   + 33.42645252687763 cluster25_cluster44_2
+   - 9203.511735870665 cluster25_cluster49_0
+   - 9203.511735870665 cluster25_cluster49_1
+   - 9203.511735870665 cluster25_cluster49_2
+   + 17.71930375912362 cluster26_cluster4_0
+   + 17.71930375912362 cluster26_cluster4_1
+   + 17.71930375912362 cluster26_cluster4_2
+   + 1260.353800507036 cluster26_cluster7_0
+   + 1260.353800507036 cluster26_cluster7_1
+   + 1260.353800507036 cluster26_cluster7_2
+   + 9009.105683934384 cluster26_cluster12_0
+   + 9009.105683934384 cluster26_cluster12_1
+   + 9009.105683934384 cluster26_cluster12_2
+   + 39.91293651109161 cluster26_cluster15_0
+   + 39.91293651109161 cluster26_cluster15_1
+   + 39.91293651109161 cluster26_cluster15_2
+   - 144.4051704350801 cluster26_cluster37_0
+   - 144.4051704350801 cluster26_cluster37_1
+   - 144.4051704350801 cluster26_cluster37_2
+   + 201.568075928758 cluster26_cluster38_0
+   + 201.568075928758 cluster26_cluster38_1
+   + 201.568075928758 cluster26_cluster38_2
+   + 58.1068630361023 cluster26_cluster44_0
+   + 58.1068630361023 cluster26_cluster44_1
+   + 58.1068630361023 cluster26_cluster44_2
+   - 7266.953046160939 cluster26_cluster49_0
+   - 7266.953046160939 cluster26_cluster49_1
+   - 7266.953046160939 cluster26_cluster49_2
+   + 19.09663228701285 cluster27_cluster4_0
+   + 19.09663228701285 cluster27_cluster4_1
+   + 19.09663228701285 cluster27_cluster4_2
+   + 1238.660119202745 cluster27_cluster7_0
+   + 1238.660119202745 cluster27_cluster7_1
+   + 1238.660119202745 cluster27_cluster7_2
+   + 9042.946118050846 cluster27_cluster12_0
+   + 9042.946118050846 cluster27_cluster12_1
+   + 9042.946118050846 cluster27_cluster12_2
+   + 43.29787181645365 cluster27_cluster15_0
+   + 43.29787181645365 cluster27_cluster15_1
+   + 43.29787181645365 cluster27_cluster15_2
+   - 161.6558610857506 cluster27_cluster37_0
+   - 161.6558610857506 cluster27_cluster37_1
+   - 161.6558610857506 cluster27_cluster37_2
+   + 194.772075678785 cluster27_cluster38_0
+   + 194.772075678785 cluster27_cluster38_1
+   + 194.772075678785 cluster27_cluster38_2
+   + 59.63644778488742 cluster27_cluster44_0
+   + 59.63644778488742 cluster27_cluster44_1
+   + 59.63644778488742 cluster27_cluster44_2
+   - 7349.792535932045 cluster27_cluster49_0
+   - 7349.792535932045 cluster27_cluster49_1
+   - 7349.792535932045 cluster27_cluster49_2
+   + 51.60374437197042 cluster28_cluster4_0
+   + 51.60374437197042 cluster28_cluster4_1
+   + 51.60374437197042 cluster28_cluster4_2
+   + 2518.621377415971 cluster28_cluster7_0
+   + 2518.621377415971 cluster28_cluster7_1
+   + 2518.621377415971 cluster28_cluster7_2
+   + 13081.30989233552 cluster28_cluster12_0
+   + 13081.30989233552 cluster28_cluster12_1
+   + 13081.30989233552 cluster28_cluster12_2
+   + 95.68686404630306 cluster28_cluster15_0
+   + 95.68686404630306 cluster28_cluster15_1
+   + 95.68686404630306 cluster28_cluster15_2
+   - 510.5506418842942 cluster28_cluster37_0
+   - 510.5506418842942 cluster28_cluster37_1
+   - 510.5506418842942 cluster28_cluster37_2
+   + 337.72131628422 cluster28_cluster38_0
+   + 337.72131628422 cluster28_cluster38_1
+   + 337.72131628422 cluster28_cluster38_2
+   + 81.67284556071027 cluster28_cluster44_0
+   + 81.67284556071027 cluster28_cluster44_1
+   + 81.67284556071027 cluster28_cluster44_2
+   - 21185.06297175689 cluster28_cluster49_0
+   - 21185.06297175689 cluster28_cluster49_1
+   - 21185.06297175689 cluster28_cluster49_2
+   + 43.74668170095923 cluster29_cluster4_0
+   + 43.74668170095923 cluster29_cluster4_1
+   + 43.74668170095923 cluster29_cluster4_2
+   + 2098.599040396077 cluster29_cluster7_0
+   + 2098.599040396077 cluster29_cluster7_1
+   + 2098.599040396077 cluster29_cluster7_2
+   + 10608.01009556689 cluster29_cluster12_0
+   + 10608.01009556689 cluster29_cluster12_1
+   + 10608.01009556689 cluster29_cluster12_2
+   + 85.04219636848164 cluster29_cluster15_0
+   + 85.04219636848164 cluster29_cluster15_1
+   + 85.04219636848164 cluster29_cluster15_2
+   - 440.8145683486686 cluster29_cluster37_0
+   - 440.8145683486686 cluster29_cluster37_1
+   - 440.8145683486686 cluster29_cluster37_2
+   + 279.0197110696171 cluster29_cluster38_0
+   + 279.0197110696171 cluster29_cluster38_1
+   + 279.0197110696171 cluster29_cluster38_2
+   + 65.7452663209999 cluster29_cluster44_0
+   + 65.7452663209999 cluster29_cluster44_1
+   + 65.7452663209999 cluster29_cluster44_2
+   - 18004.88799491378 cluster29_cluster49_0
+   - 18004.88799491378 cluster29_cluster49_1
+   - 18004.88799491378 cluster29_cluster49_2
+   + 18.2040552650214 cluster30_cluster4_0
+   + 18.2040552650214 cluster30_cluster4_1
+   + 18.2040552650214 cluster30_cluster4_2
+   + 861.7175757056066 cluster30_cluster7_0
+   + 861.7175757056066 cluster30_cluster7_1
+   + 861.7175757056066 cluster30_cluster7_2
+   + 6246.295639801682 cluster30_cluster12_0
+   + 6246.295639801682 cluster30_cluster12_1
+   + 6246.295639801682 cluster30_cluster12_2
+   + 51.53554603559573 cluster30_cluster15_0
+   + 51.53554603559573 cluster30_cluster15_1
+   + 51.53554603559573 cluster30_cluster15_2
+   - 214.5517143822105 cluster30_cluster37_0
+   - 214.5517143822105 cluster30_cluster37_1
+   - 214.5517143822105 cluster30_cluster37_2
+   + 140.3924676641385 cluster30_cluster38_0
+   + 140.3924676641385 cluster30_cluster38_1
+   + 140.3924676641385 cluster30_cluster38_2
+   + 40.57643444736786 cluster30_cluster44_0
+   + 40.57643444736786 cluster30_cluster44_1
+   + 40.57643444736786 cluster30_cluster44_2
+   - 7666.7155253293 cluster30_cluster49_0
+   - 7666.7155253293 cluster30_cluster49_1
+   - 7666.7155253293 cluster30_cluster49_2
+   + 20.77728958106007 cluster31_cluster4_0
+   + 20.77728958106007 cluster31_cluster4_1
+   + 20.77728958106007 cluster31_cluster4_2
+   + 1424.027374292852 cluster31_cluster7_0
+   + 1424.027374292852 cluster31_cluster7_1
+   + 1424.027374292852 cluster31_cluster7_2
+   + 9925.610916846425 cluster31_cluster12_0
+   + 9925.610916846425 cluster31_cluster12_1
+   + 9925.610916846425 cluster31_cluster12_2
+   + 36.07005324351279 cluster31_cluster15_0
+   + 36.07005324351279 cluster31_cluster15_1
+   + 36.07005324351279 cluster31_cluster15_2
+   - 150.4951101010541 cluster31_cluster37_0
+   - 150.4951101010541 cluster31_cluster37_1
+   - 150.4951101010541 cluster31_cluster37_2
+   + 224.7635566466774 cluster31_cluster38_0
+   + 224.7635566466774 cluster31_cluster38_1
+   + 224.7635566466774 cluster31_cluster38_2
+   + 63.67700903208737 cluster31_cluster44_0
+   + 63.67700903208737 cluster31_cluster44_1
+   + 63.67700903208737 cluster31_cluster44_2
+   - 8507.589070154851 cluster31_cluster49_0
+   - 8507.589070154851 cluster31_cluster49_1
+   - 8507.589070154851 cluster31_cluster49_2
+   + 33.36640464381423 cluster32_cluster4_0
+   + 33.36640464381423 cluster32_cluster4_1
+   + 33.36640464381423 cluster32_cluster4_2
+   + 2103.60708361404 cluster32_cluster7_0
+   + 2103.60708361404 cluster32_cluster7_1
+   + 2103.60708361404 cluster32_cluster7_2
+   + 14076.72863472226 cluster32_cluster12_0
+   + 14076.72863472226 cluster32_cluster12_1
+   + 14076.72863472226 cluster32_cluster12_2
+   + 23.5835821873988 cluster32_cluster15_0
+   + 23.5835821873988 cluster32_cluster15_1
+   + 23.5835821873988 cluster32_cluster15_2
+   - 242.1756397427791 cluster32_cluster37_0
+   - 242.1756397427791 cluster32_cluster37_1
+   - 242.1756397427791 cluster32_cluster37_2
+   + 320.4862084181141 cluster32_cluster38_0
+   + 320.4862084181141 cluster32_cluster38_1
+   + 320.4862084181141 cluster32_cluster38_2
+   + 90.60674044997674 cluster32_cluster44_0
+   + 90.60674044997674 cluster32_cluster44_1
+   + 90.60674044997674 cluster32_cluster44_2
+   - 13420.78978031878 cluster32_cluster49_0
+   - 13420.78978031878 cluster32_cluster49_1
+   - 13420.78978031878 cluster32_cluster49_2
+   + 48.12981761991033 cluster33_cluster4_0
+   + 48.12981761991033 cluster33_cluster4_1
+   + 48.12981761991033 cluster33_cluster4_2
+   + 2324.373724783193 cluster33_cluster7_0
+   + 2324.373724783193 cluster33_cluster7_1
+   + 2324.373724783193 cluster33_cluster7_2
+   + 11943.07097865881 cluster33_cluster12_0
+   + 11943.07097865881 cluster33_cluster12_1
+   + 11943.07097865881 cluster33_cluster12_2
+   + 91.36993653387155 cluster33_cluster15_0
+   + 91.36993653387155 cluster33_cluster15_1
+   + 91.36993653387155 cluster33_cluster15_2
+   - 479.9319819234616 cluster33_cluster37_0
+   - 479.9319819234616 cluster33_cluster37_1
+   - 479.9319819234616 cluster33_cluster37_2
+   + 309.570995251195 cluster33_cluster38_0
+   + 309.570995251195 cluster33_cluster38_1
+   + 309.570995251195 cluster33_cluster38_2
+   + 74.6610050931951 cluster33_cluster44_0
+   + 74.6610050931951 cluster33_cluster44_1
+   + 74.6610050931951 cluster33_cluster44_2
+   - 19754.46155305655 cluster33_cluster49_0
+   - 19754.46155305655 cluster33_cluster49_1
+   - 19754.46155305655 cluster33_cluster49_2
+   + 33.78306483758173 cluster34_cluster4_0
+   + 33.78306483758173 cluster34_cluster4_1
+   + 33.78306483758173 cluster34_cluster4_2
+   + 2114.208859012842 cluster34_cluster7_0
+   + 2114.208859012842 cluster34_cluster7_1
+   + 2114.208859012842 cluster34_cluster7_2
+   + 14184.19805127008 cluster34_cluster12_0
+   + 14184.19805127008 cluster34_cluster12_1
+   + 14184.19805127008 cluster34_cluster12_2
+   + 28.10764515642909 cluster34_cluster15_0
+   + 28.10764515642909 cluster34_cluster15_1
+   + 28.10764515642909 cluster34_cluster15_2
+   - 245.9356348100415 cluster34_cluster37_0
+   - 245.9356348100415 cluster34_cluster37_1
+   - 245.9356348100415 cluster34_cluster37_2
+   + 321.1386059671003 cluster34_cluster38_0
+   + 321.1386059671003 cluster34_cluster38_1
+   + 321.1386059671003 cluster34_cluster38_2
+   + 91.64980274903948 cluster34_cluster44_0
+   + 91.64980274903948 cluster34_cluster44_1
+   + 91.64980274903948 cluster34_cluster44_2
+   - 13523.19932372467 cluster34_cluster49_0
+   - 13523.19932372467 cluster34_cluster49_1
+   - 13523.19932372467 cluster34_cluster49_2
+   + 39.29455531752677 cluster35_cluster4_0
+   + 39.29455531752677 cluster35_cluster4_1
+   + 39.29455531752677 cluster35_cluster4_2
+   + 2430.212911699291 cluster35_cluster7_0
+   + 2430.212911699291 cluster35_cluster7_1
+   + 2430.212911699291 cluster35_cluster7_2
+   + 15923.63178187239 cluster35_cluster12_0
+   + 15923.63178187239 cluster35_cluster12_1
+   + 15923.63178187239 cluster35_cluster12_2
+   + 25.23443242675527 cluster35_cluster15_0
+   + 25.23443242675527 cluster35_cluster15_1
+   + 25.23443242675527 cluster35_cluster15_2
+   - 296.6830647012944 cluster35_cluster37_0
+   - 296.6830647012944 cluster35_cluster37_1
+   - 296.6830647012944 cluster35_cluster37_2
+   + 367.305833739393 cluster35_cluster38_0
+   + 367.305833739393 cluster35_cluster38_1
+   + 367.305833739393 cluster35_cluster38_2
+   + 101.9131821471148 cluster35_cluster44_0
+   + 101.9131821471148 cluster35_cluster44_1
+   + 101.9131821471148 cluster35_cluster44_2
+   - 15901.47581549321 cluster35_cluster49_0
+   - 15901.47581549321 cluster35_cluster49_1
+   - 15901.47581549321 cluster35_cluster49_2
+   + 26.32033938650131 cluster36_cluster4_0
+   + 26.32033938650131 cluster36_cluster4_1
+   + 26.32033938650131 cluster36_cluster4_2
+   + 1143.31958845469 cluster36_cluster7_0
+   + 1143.31958845469 cluster36_cluster7_1
+   + 1143.31958845469 cluster36_cluster7_2
+   + 4980.556357505324 cluster36_cluster12_0
+   + 4980.556357505324 cluster36_cluster12_1
+   + 4980.556357505324 cluster36_cluster12_2
+   + 62.58968562784207 cluster36_cluster15_0
+   + 62.58968562784207 cluster36_cluster15_1
+   + 62.58968562784207 cluster36_cluster15_2
+   - 286.7657934046607 cluster36_cluster37_0
+   - 286.7657934046607 cluster36_cluster37_1
+   - 286.7657934046607 cluster36_cluster37_2
+   + 144.5826975581038 cluster36_cluster38_0
+   + 144.5826975581038 cluster36_cluster38_1
+   + 144.5826975581038 cluster36_cluster38_2
+   + 31.2808305649605 cluster36_cluster44_0
+   + 31.2808305649605 cluster36_cluster44_1
+   + 31.2808305649605 cluster36_cluster44_2
+   - 10879.68586753322 cluster36_cluster49_0
+   - 10879.68586753322 cluster36_cluster49_1
+   - 10879.68586753322 cluster36_cluster49_2
+   + 37.89067969244206 cluster39_cluster4_0
+   + 37.89067969244206 cluster39_cluster4_1
+   + 37.89067969244206 cluster39_cluster4_2
+   + 1783.379168144679 cluster39_cluster7_0
+   + 1783.379168144679 cluster39_cluster7_1
+   + 1783.379168144679 cluster39_cluster7_2
+   + 8754.833611129858 cluster39_cluster12_0
+   + 8754.833611129858 cluster39_cluster12_1
+   + 8754.833611129858 cluster39_cluster12_2
+   + 77.28194995832494 cluster39_cluster15_0
+   + 77.28194995832494 cluster39_cluster15_1
+   + 77.28194995832494 cluster39_cluster15_2
+   - 388.9446331039802 cluster39_cluster37_0
+   - 388.9446331039802 cluster39_cluster37_1
+   - 388.9446331039802 cluster39_cluster37_2
+   + 234.9072089602789 cluster39_cluster38_0
+   + 234.9072089602789 cluster39_cluster38_1
+   + 234.9072089602789 cluster39_cluster38_2
+   + 53.8644875741995 cluster39_cluster44_0
+   + 53.8644875741995 cluster39_cluster44_1
+   + 53.8644875741995 cluster39_cluster44_2
+   - 15627.34603351729 cluster39_cluster49_0
+   - 15627.34603351729 cluster39_cluster49_1
+   - 15627.34603351729 cluster39_cluster49_2
+   + 30.98702551688316 cluster40_cluster4_0
+   + 30.98702551688316 cluster40_cluster4_1
+   + 30.98702551688316 cluster40_cluster4_2
+   + 1978.176252686898 cluster40_cluster7_0
+   + 1978.176252686898 cluster40_cluster7_1
+   + 1978.176252686898 cluster40_cluster7_2
+   + 13308.88170203052 cluster40_cluster12_0
+   + 13308.88170203052 cluster40_cluster12_1
+   + 13308.88170203052 cluster40_cluster12_2
+   + 23.10937148644792 cluster40_cluster15_0
+   + 23.10937148644792 cluster40_cluster15_1
+   + 23.10937148644792 cluster40_cluster15_2
+   - 221.8462259357258 cluster40_cluster37_0
+   - 221.8462259357258 cluster40_cluster37_1
+   - 221.8462259357258 cluster40_cluster37_2
+   + 302.9924745481608 cluster40_cluster38_0
+   + 302.9924745481608 cluster40_cluster38_1
+   + 302.9924745481608 cluster40_cluster38_2
+   + 85.56563136406753 cluster40_cluster44_0
+   + 85.56563136406753 cluster40_cluster44_1
+   + 85.56563136406753 cluster40_cluster44_2
+   - 12488.04545345147 cluster40_cluster49_0
+   - 12488.04545345147 cluster40_cluster49_1
+   - 12488.04545345147 cluster40_cluster49_2
+   + 21.36683373413506 cluster41_cluster4_0
+   + 21.36683373413506 cluster41_cluster4_1
+   + 21.36683373413506 cluster41_cluster4_2
+   + 1349.551687785978 cluster41_cluster7_0
+   + 1349.551687785978 cluster41_cluster7_1
+   + 1349.551687785978 cluster41_cluster7_2
+   + 8943.223686137895 cluster41_cluster12_0
+   + 8943.223686137895 cluster41_cluster12_1
+   + 8943.223686137895 cluster41_cluster12_2
+   + 43.17161347474222 cluster41_cluster15_0
+   + 43.17161347474222 cluster41_cluster15_1
+   + 43.17161347474222 cluster41_cluster15_2
+   - 201.05670618417 cluster41_cluster37_0
+   - 201.05670618417 cluster41_cluster37_1
+   - 201.05670618417 cluster41_cluster37_2
+   + 211.0351194797057 cluster41_cluster38_0
+   + 211.0351194797057 cluster41_cluster38_1
+   + 211.0351194797057 cluster41_cluster38_2
+   + 56.10683811160094 cluster41_cluster44_0
+   + 56.10683811160094 cluster41_cluster44_1
+   + 56.10683811160094 cluster41_cluster44_2
+   - 9054.556247966937 cluster41_cluster49_0
+   - 9054.556247966937 cluster41_cluster49_1
+   - 9054.556247966937 cluster41_cluster49_2
+   + 21.45912160196088 cluster42_cluster4_0
+   + 21.45912160196088 cluster42_cluster4_1
+   + 21.45912160196088 cluster42_cluster4_2
+   + 1133.835378598142 cluster42_cluster7_0
+   + 1133.835378598142 cluster42_cluster7_1
+   + 1133.835378598142 cluster42_cluster7_2
+   + 6952.142803628462 cluster42_cluster12_0
+   + 6952.142803628462 cluster42_cluster12_1
+   + 6952.142803628462 cluster42_cluster12_2
+   + 51.91171457078088 cluster42_cluster15_0
+   + 51.91171457078088 cluster42_cluster15_1
+   + 51.91171457078088 cluster42_cluster15_2
+   - 233.5950787600657 cluster42_cluster37_0
+   - 233.5950787600657 cluster42_cluster37_1
+   - 233.5950787600657 cluster42_cluster37_2
+   + 172.1374799803909 cluster42_cluster38_0
+   + 172.1374799803909 cluster42_cluster38_1
+   + 172.1374799803909 cluster42_cluster38_2
+   + 42.65089281037427 cluster42_cluster44_0
+   + 42.65089281037427 cluster42_cluster44_1
+   + 42.65089281037427 cluster42_cluster44_2
+   - 9131.750016947477 cluster42_cluster49_0
+   - 9131.750016947477 cluster42_cluster49_1
+   - 9131.750016947477 cluster42_cluster49_2
+   + 18.32728974644142 cluster43_cluster4_0
+   + 18.32728974644142 cluster43_cluster4_1
+   + 18.32728974644142 cluster43_cluster4_2
+   + 1056.664726365231 cluster43_cluster7_0
+   + 1056.664726365231 cluster43_cluster7_1
+   + 1056.664726365231 cluster43_cluster7_2
+   + 7907.818076752203 cluster43_cluster12_0
+   + 7907.818076752203 cluster43_cluster12_1
+   + 7907.818076752203 cluster43_cluster12_2
+   + 48.32068564527167 cluster43_cluster15_0
+   + 48.32068564527167 cluster43_cluster15_1
+   + 48.32068564527167 cluster43_cluster15_2
+   - 189.0415657177768 cluster43_cluster37_0
+   - 189.0415657177768 cluster43_cluster37_1
+   - 189.0415657177768 cluster43_cluster37_2
+   + 166.0079896855759 cluster43_cluster38_0
+   + 166.0079896855759 cluster43_cluster38_1
+   + 166.0079896855759 cluster43_cluster38_2
+   + 52.80985175165743 cluster43_cluster44_0
+   + 52.80985175165743 cluster43_cluster44_1
+   + 52.80985175165743 cluster43_cluster44_2
+   - 7070.263807063054 cluster43_cluster49_0
+   - 7070.263807063054 cluster43_cluster49_1
+   - 7070.263807063054 cluster43_cluster49_2
+   + 19.2930243032377 cluster45_cluster4_0
+   + 19.2930243032377 cluster45_cluster4_1
+   + 19.2930243032377 cluster45_cluster4_2
+   + 1319.496113827367 cluster45_cluster7_0
+   + 1319.496113827367 cluster45_cluster7_1
+   + 1319.496113827367 cluster45_cluster7_2
+   + 9170.051496217757 cluster45_cluster12_0
+   + 9170.051496217757 cluster45_cluster12_1
+   + 9170.051496217757 cluster45_cluster12_2
+   + 39.64365104498291 cluster45_cluster15_0
+   + 39.64365104498291 cluster45_cluster15_1
+   + 39.64365104498291 cluster45_cluster15_2
+   - 164.7379534624073 cluster45_cluster37_0
+   - 164.7379534624073 cluster45_cluster37_1
+   - 164.7379534624073 cluster45_cluster37_2
+   + 209.4825097087108 cluster45_cluster38_0
+   + 209.4825097087108 cluster45_cluster38_1
+   + 209.4825097087108 cluster45_cluster38_2
+   + 58.50785035939257 cluster45_cluster44_0
+   + 58.50785035939257 cluster45_cluster44_1
+   + 58.50785035939257 cluster45_cluster44_2
+   - 8065.802580686774 cluster45_cluster49_0
+   - 8065.802580686774 cluster45_cluster49_1
+   - 8065.802580686774 cluster45_cluster49_2
+   + 40.66990092802057 cluster46_cluster4_0
+   + 40.66990092802057 cluster46_cluster4_1
+   + 40.66990092802057 cluster46_cluster4_2
+   + 2503.402507038331 cluster46_cluster7_0
+   + 2503.402507038331 cluster46_cluster7_1
+   + 2503.402507038331 cluster46_cluster7_2
+   + 16387.15349951512 cluster46_cluster12_0
+   + 16387.15349951512 cluster46_cluster12_1
+   + 16387.15349951512 cluster46_cluster12_2
+   + 27.50195143575339 cluster46_cluster15_0
+   + 27.50195143575339 cluster46_cluster15_1
+   + 27.50195143575339 cluster46_cluster15_2
+   - 307.8536946482048 cluster46_cluster37_0
+   - 307.8536946482048 cluster46_cluster37_1
+   - 307.8536946482048 cluster46_cluster37_2
+   + 377.518402004761 cluster46_cluster38_0
+   + 377.518402004761 cluster46_cluster38_1
+   + 377.518402004761 cluster46_cluster38_2
+   + 105.016430794622 cluster46_cluster44_0
+   + 105.016430794622 cluster46_cluster44_1
+   + 105.016430794622 cluster46_cluster44_2
+   - 16431.9077839654 cluster46_cluster49_0
+   - 16431.9077839654 cluster46_cluster49_1
+   - 16431.9077839654 cluster46_cluster49_2
+   + 24.43245121147174 cluster47_cluster4_0
+   + 24.43245121147174 cluster47_cluster4_1
+   + 24.43245121147174 cluster47_cluster4_2
+   + 1161.9901117526 cluster47_cluster7_0
+   + 1161.9901117526 cluster47_cluster7_1
+   + 1161.9901117526 cluster47_cluster7_2
+   + 6124.867666533831 cluster47_cluster12_0
+   + 6124.867666533831 cluster47_cluster12_1
+   + 6124.867666533831 cluster47_cluster12_2
+   + 57.70000677047258 cluster47_cluster15_0
+   + 57.70000677047258 cluster47_cluster15_1
+   + 57.70000677047258 cluster47_cluster15_2
+   - 266.153876489866 cluster47_cluster37_0
+   - 266.153876489866 cluster47_cluster37_1
+   - 266.153876489866 cluster47_cluster37_2
+   + 164.2198566503233 cluster47_cluster38_0
+   + 164.2198566503233 cluster47_cluster38_1
+   + 164.2198566503233 cluster47_cluster38_2
+   + 36.02010313759019 cluster47_cluster44_0
+   + 36.02010313759019 cluster47_cluster44_1
+   + 36.02010313759019 cluster47_cluster44_2
+   - 10273.96261597713 cluster47_cluster49_0
+   - 10273.96261597713 cluster47_cluster49_1
+   - 10273.96261597713 cluster47_cluster49_2
+   + 27.92986705657833 cluster48_cluster4_0
+   + 27.92986705657833 cluster48_cluster4_1
+   + 27.92986705657833 cluster48_cluster4_2
+   + 1814.669202031629 cluster48_cluster7_0
+   + 1814.669202031629 cluster48_cluster7_1
+   + 1814.669202031629 cluster48_cluster7_2
+   + 12310.26601384085 cluster48_cluster12_0
+   + 12310.26601384085 cluster48_cluster12_1
+   + 12310.26601384085 cluster48_cluster12_2
+   + 26.12581591276277 cluster48_cluster15_0
+   + 26.12581591276277 cluster48_cluster15_1
+   + 26.12581591276277 cluster48_cluster15_2
+   - 196.4718367942792 cluster48_cluster37_0
+   - 196.4718367942792 cluster48_cluster37_1
+   - 196.4718367942792 cluster48_cluster37_2
+   + 280.0271793895458 cluster48_cluster38_0
+   + 280.0271793895458 cluster48_cluster38_1
+   + 280.0271793895458 cluster48_cluster38_2
+   + 79.06159521320683 cluster48_cluster44_0
+   + 79.06159521320683 cluster48_cluster44_1
+   + 79.06159521320683 cluster48_cluster44_2
+   - 11286.68668483348 cluster48_cluster49_0
+   - 11286.68668483348 cluster48_cluster49_1
+   - 11286.68668483348 cluster48_cluster49_2 + 0 avg_reward4_0
+   + 0 avg_reward4_1 + 0 avg_reward4_2 + 0 avg_reward7_0 + 0 avg_reward7_1
+   + 0 avg_reward7_2 + 0 avg_reward12_0 + 0 avg_reward12_1
+   + 0 avg_reward12_2 + 0 avg_reward15_0 + 0 avg_reward15_1
+   + 0 avg_reward15_2 + 0 avg_reward37_0 + 0 avg_reward37_1
+   + 0 avg_reward37_2 + 0 avg_reward38_0 + 0 avg_reward38_1
+   + 0 avg_reward38_2 + 0 avg_reward44_0 + 0 avg_reward44_1
+   + 0 avg_reward44_2 + 0 avg_reward49_0 + 0 avg_reward49_1
+   + 0 avg_reward49_2 + 6.7721360466973758e+08 Constant + [
+   25.22351292466177 cluster0_cluster4_0 ^2
+   + 25.22351292466177 cluster0_cluster4_1 ^2
+   + 25.22351292466177 cluster0_cluster4_2 ^2
+   + 29.36586218652988 cluster0_cluster7_0 ^2
+   + 29.36586218652988 cluster0_cluster7_1 ^2
+   + 29.36586218652988 cluster0_cluster7_2 ^2
+   + 32.9179029787353 cluster0_cluster12_0 ^2
+   + 32.9179029787353 cluster0_cluster12_1 ^2
+   + 32.9179029787353 cluster0_cluster12_2 ^2
+   + 12.16697996393181 cluster0_cluster15_0 ^2
+   + 12.16697996393181 cluster0_cluster15_1 ^2
+   + 12.16697996393181 cluster0_cluster15_2 ^2
+   + 21.25750780540448 cluster0_cluster37_0 ^2
+   + 21.25750780540448 cluster0_cluster37_1 ^2
+   + 21.25750780540448 cluster0_cluster37_2 ^2
+   + 31.58693456007507 cluster0_cluster38_0 ^2
+   + 31.58693456007507 cluster0_cluster38_1 ^2
+   + 31.58693456007507 cluster0_cluster38_2 ^2
+   + 33.00545209868457 cluster0_cluster44_0 ^2
+   + 33.00545209868457 cluster0_cluster44_1 ^2
+   + 33.00545209868457 cluster0_cluster44_2 ^2
+   + 25.24321097075652 cluster0_cluster49_0 ^2
+   + 25.24321097075652 cluster0_cluster49_1 ^2
+   + 25.24321097075652 cluster0_cluster49_2 ^2
+   + 13.52251915337316 cluster1_cluster4_0 ^2
+   + 13.52251915337316 cluster1_cluster4_1 ^2
+   + 13.52251915337316 cluster1_cluster4_2 ^2
+   + 11.80304871255359 cluster1_cluster7_0 ^2
+   + 11.80304871255359 cluster1_cluster7_1 ^2
+   + 11.80304871255359 cluster1_cluster7_2 ^2
+   + 15.74052049409582 cluster1_cluster12_0 ^2
+   + 15.74052049409582 cluster1_cluster12_1 ^2
+   + 15.74052049409582 cluster1_cluster12_2 ^2
+   + 28.55304928043617 cluster1_cluster15_0 ^2
+   + 28.55304928043617 cluster1_cluster15_1 ^2
+   + 28.55304928043617 cluster1_cluster15_2 ^2
+   + 17.50059055760363 cluster1_cluster37_0 ^2
+   + 17.50059055760363 cluster1_cluster37_1 ^2
+   + 17.50059055760363 cluster1_cluster37_2 ^2
+   + 13.46672184112607 cluster1_cluster38_0 ^2
+   + 13.46672184112607 cluster1_cluster38_1 ^2
+   + 13.46672184112607 cluster1_cluster38_2 ^2
+   + 16.63370995276234 cluster1_cluster44_0 ^2
+   + 16.63370995276234 cluster1_cluster44_1 ^2
+   + 16.63370995276234 cluster1_cluster44_2 ^2
+   + 13.35943471482764 cluster1_cluster49_0 ^2
+   + 13.35943471482764 cluster1_cluster49_1 ^2
+   + 13.35943471482764 cluster1_cluster49_2 ^2
+   + 17.37265259892484 cluster2_cluster4_0 ^2
+   + 17.37265259892484 cluster2_cluster4_1 ^2
+   + 17.37265259892484 cluster2_cluster4_2 ^2
+   + 13.2884524488434 cluster2_cluster7_0 ^2
+   + 13.2884524488434 cluster2_cluster7_1 ^2
+   + 13.2884524488434 cluster2_cluster7_2 ^2
+   + 11.04142681266718 cluster2_cluster12_0 ^2
+   + 11.04142681266718 cluster2_cluster12_1 ^2
+   + 11.04142681266718 cluster2_cluster12_2 ^2
+   + 32.673193402549 cluster2_cluster15_0 ^2
+   + 32.673193402549 cluster2_cluster15_1 ^2
+   + 32.673193402549 cluster2_cluster15_2 ^2
+   + 21.85097635694522 cluster2_cluster37_0 ^2
+   + 21.85097635694522 cluster2_cluster37_1 ^2
+   + 21.85097635694522 cluster2_cluster37_2 ^2
+   + 11.4762355460481 cluster2_cluster38_0 ^2
+   + 11.4762355460481 cluster2_cluster38_1 ^2
+   + 11.4762355460481 cluster2_cluster38_2 ^2
+   + 12.28742478745685 cluster2_cluster44_0 ^2
+   + 12.28742478745685 cluster2_cluster44_1 ^2
+   + 12.28742478745685 cluster2_cluster44_2 ^2
+   + 17.61369839236041 cluster2_cluster49_0 ^2
+   + 17.61369839236041 cluster2_cluster49_1 ^2
+   + 17.61369839236041 cluster2_cluster49_2 ^2
+   + 13.95297545496202 cluster3_cluster4_0 ^2
+   + 13.95297545496202 cluster3_cluster4_1 ^2
+   + 13.95297545496202 cluster3_cluster4_2 ^2
+   + 15.34868726674166 cluster3_cluster7_0 ^2
+   + 15.34868726674166 cluster3_cluster7_1 ^2
+   + 15.34868726674166 cluster3_cluster7_2 ^2
+   + 17.561787424016 cluster3_cluster12_0 ^2
+   + 17.561787424016 cluster3_cluster12_1 ^2
+   + 17.561787424016 cluster3_cluster12_2 ^2
+   + 26.40355468096424 cluster3_cluster15_0 ^2
+   + 26.40355468096424 cluster3_cluster15_1 ^2
+   + 26.40355468096424 cluster3_cluster15_2 ^2
+   + 17.14271244994254 cluster3_cluster37_0 ^2
+   + 17.14271244994254 cluster3_cluster37_1 ^2
+   + 17.14271244994254 cluster3_cluster37_2 ^2
+   + 17.1444352026451 cluster3_cluster38_0 ^2
+   + 17.1444352026451 cluster3_cluster38_1 ^2
+   + 17.1444352026451 cluster3_cluster38_2 ^2
+   + 17.36899094132336 cluster3_cluster44_0 ^2
+   + 17.36899094132336 cluster3_cluster44_1 ^2
+   + 17.36899094132336 cluster3_cluster44_2 ^2
+   + 14.74798558563299 cluster3_cluster49_0 ^2
+   + 14.74798558563299 cluster3_cluster49_1 ^2
+   + 14.74798558563299 cluster3_cluster49_2 ^2
+   + 12.77961504100442 cluster5_cluster4_0 ^2
+   + 12.77961504100442 cluster5_cluster4_1 ^2
+   + 12.77961504100442 cluster5_cluster4_2 ^2
+   + 15.71460665638981 cluster5_cluster7_0 ^2
+   + 15.71460665638981 cluster5_cluster7_1 ^2
+   + 15.71460665638981 cluster5_cluster7_2 ^2
+   + 19.81686350733897 cluster5_cluster12_0 ^2
+   + 19.81686350733897 cluster5_cluster12_1 ^2
+   + 19.81686350733897 cluster5_cluster12_2 ^2
+   + 24.61149923370833 cluster5_cluster15_0 ^2
+   + 24.61149923370833 cluster5_cluster15_1 ^2
+   + 24.61149923370833 cluster5_cluster15_2 ^2
+   + 13.64586647092445 cluster5_cluster37_0 ^2
+   + 13.64586647092445 cluster5_cluster37_1 ^2
+   + 13.64586647092445 cluster5_cluster37_2 ^2
+   + 17.69070674007146 cluster5_cluster38_0 ^2
+   + 17.69070674007146 cluster5_cluster38_1 ^2
+   + 17.69070674007146 cluster5_cluster38_2 ^2
+   + 20.52371383964269 cluster5_cluster44_0 ^2
+   + 20.52371383964269 cluster5_cluster44_1 ^2
+   + 20.52371383964269 cluster5_cluster44_2 ^2
+   + 12.00846771096247 cluster5_cluster49_0 ^2
+   + 12.00846771096247 cluster5_cluster49_1 ^2
+   + 12.00846771096247 cluster5_cluster49_2 ^2
+   + 18.32216660591928 cluster6_cluster4_0 ^2
+   + 18.32216660591928 cluster6_cluster4_1 ^2
+   + 18.32216660591928 cluster6_cluster4_2 ^2
+   + 21.8241435178351 cluster6_cluster7_0 ^2
+   + 21.8241435178351 cluster6_cluster7_1 ^2
+   + 21.8241435178351 cluster6_cluster7_2 ^2
+   + 25.92627203182915 cluster6_cluster12_0 ^2
+   + 25.92627203182915 cluster6_cluster12_1 ^2
+   + 25.92627203182915 cluster6_cluster12_2 ^2
+   + 20.27861612941131 cluster6_cluster15_0 ^2
+   + 20.27861612941131 cluster6_cluster15_1 ^2
+   + 20.27861612941131 cluster6_cluster15_2 ^2
+   + 14.50934806254577 cluster6_cluster37_0 ^2
+   + 14.50934806254577 cluster6_cluster37_1 ^2
+   + 14.50934806254577 cluster6_cluster37_2 ^2
+   + 23.76927879905321 cluster6_cluster38_0 ^2
+   + 23.76927879905321 cluster6_cluster38_1 ^2
+   + 23.76927879905321 cluster6_cluster38_2 ^2
+   + 26.60311095826908 cluster6_cluster44_0 ^2
+   + 26.60311095826908 cluster6_cluster44_1 ^2
+   + 26.60311095826908 cluster6_cluster44_2 ^2
+   + 17.75901815910053 cluster6_cluster49_0 ^2
+   + 17.75901815910053 cluster6_cluster49_1 ^2
+   + 17.75901815910053 cluster6_cluster49_2 ^2
+   + 31.12155888130478 cluster8_cluster4_0 ^2
+   + 31.12155888130478 cluster8_cluster4_1 ^2
+   + 31.12155888130478 cluster8_cluster4_2 ^2
+   + 35.23274853892943 cluster8_cluster7_0 ^2
+   + 35.23274853892943 cluster8_cluster7_1 ^2
+   + 35.23274853892943 cluster8_cluster7_2 ^2
+   + 39.14637998800944 cluster8_cluster12_0 ^2
+   + 39.14637998800944 cluster8_cluster12_1 ^2
+   + 39.14637998800944 cluster8_cluster12_2 ^2
+   + 16.47127350790231 cluster8_cluster15_0 ^2
+   + 16.47127350790231 cluster8_cluster15_1 ^2
+   + 16.47127350790231 cluster8_cluster15_2 ^2
+   + 26.64550922308136 cluster8_cluster37_0 ^2
+   + 26.64550922308136 cluster8_cluster37_1 ^2
+   + 26.64550922308136 cluster8_cluster37_2 ^2
+   + 37.40080489782128 cluster8_cluster38_0 ^2
+   + 37.40080489782128 cluster8_cluster38_1 ^2
+   + 37.40080489782128 cluster8_cluster38_2 ^2
+   + 39.47618640219399 cluster8_cluster44_0 ^2
+   + 39.47618640219399 cluster8_cluster44_1 ^2
+   + 39.47618640219399 cluster8_cluster44_2 ^2
+   + 30.89733485661062 cluster8_cluster49_0 ^2
+   + 30.89733485661062 cluster8_cluster49_1 ^2
+   + 30.89733485661062 cluster8_cluster49_2 ^2
+   + 18.55175852559947 cluster9_cluster4_0 ^2
+   + 18.55175852559947 cluster9_cluster4_1 ^2
+   + 18.55175852559947 cluster9_cluster4_2 ^2
+   + 22.47962807247854 cluster9_cluster7_0 ^2
+   + 22.47962807247854 cluster9_cluster7_1 ^2
+   + 22.47962807247854 cluster9_cluster7_2 ^2
+   + 25.71523917542591 cluster9_cluster12_0 ^2
+   + 25.71523917542591 cluster9_cluster12_1 ^2
+   + 25.71523917542591 cluster9_cluster12_2 ^2
+   + 18.37683116763888 cluster9_cluster15_0 ^2
+   + 18.37683116763888 cluster9_cluster15_1 ^2
+   + 18.37683116763888 cluster9_cluster15_2 ^2
+   + 15.92803157491744 cluster9_cluster37_0 ^2
+   + 15.92803157491744 cluster9_cluster37_1 ^2
+   + 15.92803157491744 cluster9_cluster37_2 ^2
+   + 24.66318400706181 cluster9_cluster38_0 ^2
+   + 24.66318400706181 cluster9_cluster38_1 ^2
+   + 24.66318400706181 cluster9_cluster38_2 ^2
+   + 25.68947095136756 cluster9_cluster44_0 ^2
+   + 25.68947095136756 cluster9_cluster44_1 ^2
+   + 25.68947095136756 cluster9_cluster44_2 ^2
+   + 18.81192903450352 cluster9_cluster49_0 ^2
+   + 18.81192903450352 cluster9_cluster49_1 ^2
+   + 18.81192903450352 cluster9_cluster49_2 ^2
+   + 32.06252054185796 cluster10_cluster4_0 ^2
+   + 32.06252054185796 cluster10_cluster4_1 ^2
+   + 32.06252054185796 cluster10_cluster4_2 ^2
+   + 28.17871592361655 cluster10_cluster7_0 ^2
+   + 28.17871592361655 cluster10_cluster7_1 ^2
+   + 28.17871592361655 cluster10_cluster7_2 ^2
+   + 24.08850889439581 cluster10_cluster12_0 ^2
+   + 24.08850889439581 cluster10_cluster12_1 ^2
+   + 24.08850889439581 cluster10_cluster12_2 ^2
+   + 46.94350397148859 cluster10_cluster15_0 ^2
+   + 46.94350397148859 cluster10_cluster15_1 ^2
+   + 46.94350397148859 cluster10_cluster15_2 ^2
+   + 36.57754820460939 cluster10_cluster37_0 ^2
+   + 36.57754820460939 cluster10_cluster37_1 ^2
+   + 36.57754820460939 cluster10_cluster37_2 ^2
+   + 26.25166996078969 cluster10_cluster38_0 ^2
+   + 26.25166996078969 cluster10_cluster38_1 ^2
+   + 26.25166996078969 cluster10_cluster38_2 ^2
+   + 23.59689748785547 cluster10_cluster44_0 ^2
+   + 23.59689748785547 cluster10_cluster44_1 ^2
+   + 23.59689748785547 cluster10_cluster44_2 ^2
+   + 32.42646500846327 cluster10_cluster49_0 ^2
+   + 32.42646500846327 cluster10_cluster49_1 ^2
+   + 32.42646500846327 cluster10_cluster49_2 ^2
+   + 20.26863823995432 cluster11_cluster4_0 ^2
+   + 20.26863823995432 cluster11_cluster4_1 ^2
+   + 20.26863823995432 cluster11_cluster4_2 ^2
+   + 24.11807980057112 cluster11_cluster7_0 ^2
+   + 24.11807980057112 cluster11_cluster7_1 ^2
+   + 24.11807980057112 cluster11_cluster7_2 ^2
+   + 28.18651185608936 cluster11_cluster12_0 ^2
+   + 28.18651185608936 cluster11_cluster12_1 ^2
+   + 28.18651185608936 cluster11_cluster12_2 ^2
+   + 17.51371474637823 cluster11_cluster15_0 ^2
+   + 17.51371474637823 cluster11_cluster15_1 ^2
+   + 17.51371474637823 cluster11_cluster15_2 ^2
+   + 15.85983178789913 cluster11_cluster37_0 ^2
+   + 15.85983178789913 cluster11_cluster37_1 ^2
+   + 15.85983178789913 cluster11_cluster37_2 ^2
+   + 26.17889211084761 cluster11_cluster38_0 ^2
+   + 26.17889211084761 cluster11_cluster38_1 ^2
+   + 26.17889211084761 cluster11_cluster38_2 ^2
+   + 28.73784788250173 cluster11_cluster44_0 ^2
+   + 28.73784788250173 cluster11_cluster44_1 ^2
+   + 28.73784788250173 cluster11_cluster44_2 ^2
+   + 19.84908431436098 cluster11_cluster49_0 ^2
+   + 19.84908431436098 cluster11_cluster49_1 ^2
+   + 19.84908431436098 cluster11_cluster49_2 ^2
+   + 12.10485009142609 cluster13_cluster4_0 ^2
+   + 12.10485009142609 cluster13_cluster4_1 ^2
+   + 12.10485009142609 cluster13_cluster4_2 ^2
+   + 14.25920791711223 cluster13_cluster7_0 ^2
+   + 14.25920791711223 cluster13_cluster7_1 ^2
+   + 14.25920791711223 cluster13_cluster7_2 ^2
+   + 17.37326417528612 cluster13_cluster12_0 ^2
+   + 17.37326417528612 cluster13_cluster12_1 ^2
+   + 17.37326417528612 cluster13_cluster12_2 ^2
+   + 25.94190240767306 cluster13_cluster15_0 ^2
+   + 25.94190240767306 cluster13_cluster15_1 ^2
+   + 25.94190240767306 cluster13_cluster15_2 ^2
+   + 15.84051302704188 cluster13_cluster37_0 ^2
+   + 15.84051302704188 cluster13_cluster37_1 ^2
+   + 15.84051302704188 cluster13_cluster37_2 ^2
+   + 16.34907297271182 cluster13_cluster38_0 ^2
+   + 16.34907297271182 cluster13_cluster38_1 ^2
+   + 16.34907297271182 cluster13_cluster38_2 ^2
+   + 17.50710196670934 cluster13_cluster44_0 ^2
+   + 17.50710196670934 cluster13_cluster44_1 ^2
+   + 17.50710196670934 cluster13_cluster44_2 ^2
+   + 12.89778505446437 cluster13_cluster49_0 ^2
+   + 12.89778505446437 cluster13_cluster49_1 ^2
+   + 12.89778505446437 cluster13_cluster49_2 ^2
+   + 20.42453017837667 cluster14_cluster4_0 ^2
+   + 20.42453017837667 cluster14_cluster4_1 ^2
+   + 20.42453017837667 cluster14_cluster4_2 ^2
+   + 17.06050249518431 cluster14_cluster7_0 ^2
+   + 17.06050249518431 cluster14_cluster7_1 ^2
+   + 17.06050249518431 cluster14_cluster7_2 ^2
+   + 13.39609590871703 cluster14_cluster12_0 ^2
+   + 13.39609590871703 cluster14_cluster12_1 ^2
+   + 13.39609590871703 cluster14_cluster12_2 ^2
+   + 35.03780878890537 cluster14_cluster15_0 ^2
+   + 35.03780878890537 cluster14_cluster15_1 ^2
+   + 35.03780878890537 cluster14_cluster15_2 ^2
+   + 24.8777734844195 cluster14_cluster37_0 ^2
+   + 24.8777734844195 cluster14_cluster37_1 ^2
+   + 24.8777734844195 cluster14_cluster37_2 ^2
+   + 15.87467063959956 cluster14_cluster38_0 ^2
+   + 15.87467063959956 cluster14_cluster38_1 ^2
+   + 15.87467063959956 cluster14_cluster38_2 ^2
+   + 12.2235290421255 cluster14_cluster44_0 ^2
+   + 12.2235290421255 cluster14_cluster44_1 ^2
+   + 12.2235290421255 cluster14_cluster44_2 ^2
+   + 20.9093720820071 cluster14_cluster49_0 ^2
+   + 20.9093720820071 cluster14_cluster49_1 ^2
+   + 20.9093720820071 cluster14_cluster49_2 ^2
+   + 44.9765409338089 cluster16_cluster4_0 ^2
+   + 44.9765409338089 cluster16_cluster4_1 ^2
+   + 44.9765409338089 cluster16_cluster4_2 ^2
+   + 41.13152786958504 cluster16_cluster7_0 ^2
+   + 41.13152786958504 cluster16_cluster7_1 ^2
+   + 41.13152786958504 cluster16_cluster7_2 ^2
+   + 37.03696312440155 cluster16_cluster12_0 ^2
+   + 37.03696312440155 cluster16_cluster12_1 ^2
+   + 37.03696312440155 cluster16_cluster12_2 ^2
+   + 59.64557070356435 cluster16_cluster15_0 ^2
+   + 59.64557070356435 cluster16_cluster15_1 ^2
+   + 59.64557070356435 cluster16_cluster15_2 ^2
+   + 49.48338849959696 cluster16_cluster37_0 ^2
+   + 49.48338849959696 cluster16_cluster37_1 ^2
+   + 49.48338849959696 cluster16_cluster37_2 ^2
+   + 39.2012762137916 cluster16_cluster38_0 ^2
+   + 39.2012762137916 cluster16_cluster38_1 ^2
+   + 39.2012762137916 cluster16_cluster38_2 ^2
+   + 36.49406819488979 cluster16_cluster44_0 ^2
+   + 36.49406819488979 cluster16_cluster44_1 ^2
+   + 36.49406819488979 cluster16_cluster44_2 ^2
+   + 45.36229025898461 cluster16_cluster49_0 ^2
+   + 45.36229025898461 cluster16_cluster49_1 ^2
+   + 45.36229025898461 cluster16_cluster49_2 ^2
+   + 14.79595470424841 cluster17_cluster4_0 ^2
+   + 14.79595470424841 cluster17_cluster4_1 ^2
+   + 14.79595470424841 cluster17_cluster4_2 ^2
+   + 16.86637075879862 cluster17_cluster7_0 ^2
+   + 16.86637075879862 cluster17_cluster7_1 ^2
+   + 16.86637075879862 cluster17_cluster7_2 ^2
+   + 20.8672306168575 cluster17_cluster12_0 ^2
+   + 20.8672306168575 cluster17_cluster12_1 ^2
+   + 20.8672306168575 cluster17_cluster12_2 ^2
+   + 25.18097539859026 cluster17_cluster15_0 ^2
+   + 25.18097539859026 cluster17_cluster15_1 ^2
+   + 25.18097539859026 cluster17_cluster15_2 ^2
+   + 14.87676386390765 cluster17_cluster37_0 ^2
+   + 14.87676386390765 cluster17_cluster37_1 ^2
+   + 14.87676386390765 cluster17_cluster37_2 ^2
+   + 18.51379619420131 cluster17_cluster38_0 ^2
+   + 18.51379619420131 cluster17_cluster38_1 ^2
+   + 18.51379619420131 cluster17_cluster38_2 ^2
+   + 21.74539596026224 cluster17_cluster44_0 ^2
+   + 21.74539596026224 cluster17_cluster44_1 ^2
+   + 21.74539596026224 cluster17_cluster44_2 ^2
+   + 14.00192352396192 cluster17_cluster49_0 ^2
+   + 14.00192352396192 cluster17_cluster49_1 ^2
+   + 14.00192352396192 cluster17_cluster49_2 ^2
+   + 26.21082710549309 cluster18_cluster4_0 ^2
+   + 26.21082710549309 cluster18_cluster4_1 ^2
+   + 26.21082710549309 cluster18_cluster4_2 ^2
+   + 30.36011854069986 cluster18_cluster7_0 ^2
+   + 30.36011854069986 cluster18_cluster7_1 ^2
+   + 30.36011854069986 cluster18_cluster7_2 ^2
+   + 34.19767165531911 cluster18_cluster12_0 ^2
+   + 34.19767165531911 cluster18_cluster12_1 ^2
+   + 34.19767165531911 cluster18_cluster12_2 ^2
+   + 11.60570071649017 cluster18_cluster15_0 ^2
+   + 11.60570071649017 cluster18_cluster15_1 ^2
+   + 11.60570071649017 cluster18_cluster15_2 ^2
+   + 21.81238870617835 cluster18_cluster37_0 ^2
+   + 21.81238870617835 cluster18_cluster37_1 ^2
+   + 21.81238870617835 cluster18_cluster37_2 ^2
+   + 32.55539574571846 cluster18_cluster38_0 ^2
+   + 32.55539574571846 cluster18_cluster38_1 ^2
+   + 32.55539574571846 cluster18_cluster38_2 ^2
+   + 34.47315737905289 cluster18_cluster44_0 ^2
+   + 34.47315737905289 cluster18_cluster44_1 ^2
+   + 34.47315737905289 cluster18_cluster44_2 ^2
+   + 26.04951323614626 cluster18_cluster49_0 ^2
+   + 26.04951323614626 cluster18_cluster49_1 ^2
+   + 26.04951323614626 cluster18_cluster49_2 ^2
+   + 14.18945336350873 cluster19_cluster4_0 ^2
+   + 14.18945336350873 cluster19_cluster4_1 ^2
+   + 14.18945336350873 cluster19_cluster4_2 ^2
+   + 13.77704850363946 cluster19_cluster7_0 ^2
+   + 13.77704850363946 cluster19_cluster7_1 ^2
+   + 13.77704850363946 cluster19_cluster7_2 ^2
+   + 15.53665536649997 cluster19_cluster12_0 ^2
+   + 15.53665536649997 cluster19_cluster12_1 ^2
+   + 15.53665536649997 cluster19_cluster12_2 ^2
+   + 28.18079370950647 cluster19_cluster15_0 ^2
+   + 28.18079370950647 cluster19_cluster15_1 ^2
+   + 28.18079370950647 cluster19_cluster15_2 ^2
+   + 18.26768326734852 cluster19_cluster37_0 ^2
+   + 18.26768326734852 cluster19_cluster37_1 ^2
+   + 18.26768326734852 cluster19_cluster37_2 ^2
+   + 15.27888259516214 cluster19_cluster38_0 ^2
+   + 15.27888259516214 cluster19_cluster38_1 ^2
+   + 15.27888259516214 cluster19_cluster38_2 ^2
+   + 15.38460715704103 cluster19_cluster44_0 ^2
+   + 15.38460715704103 cluster19_cluster44_1 ^2
+   + 15.38460715704103 cluster19_cluster44_2 ^2
+   + 14.89927632529461 cluster19_cluster49_0 ^2
+   + 14.89927632529461 cluster19_cluster49_1 ^2
+   + 14.89927632529461 cluster19_cluster49_2 ^2
+   + 19.74768143390754 cluster20_cluster4_0 ^2
+   + 19.74768143390754 cluster20_cluster4_1 ^2
+   + 19.74768143390754 cluster20_cluster4_2 ^2
+   + 23.90899776973328 cluster20_cluster7_0 ^2
+   + 23.90899776973328 cluster20_cluster7_1 ^2
+   + 23.90899776973328 cluster20_cluster7_2 ^2
+   + 27.58386852982216 cluster20_cluster12_0 ^2
+   + 27.58386852982216 cluster20_cluster12_1 ^2
+   + 27.58386852982216 cluster20_cluster12_2 ^2
+   + 15.67410415913824 cluster20_cluster15_0 ^2
+   + 15.67410415913824 cluster20_cluster15_1 ^2
+   + 15.67410415913824 cluster20_cluster15_2 ^2
+   + 15.75249064975037 cluster20_cluster37_0 ^2
+   + 15.75249064975037 cluster20_cluster37_1 ^2
+   + 15.75249064975037 cluster20_cluster37_2 ^2
+   + 26.12923901314088 cluster20_cluster38_0 ^2
+   + 26.12923901314088 cluster20_cluster38_1 ^2
+   + 26.12923901314088 cluster20_cluster38_2 ^2
+   + 27.77527472419867 cluster20_cluster44_0 ^2
+   + 27.77527472419867 cluster20_cluster44_1 ^2
+   + 27.77527472419867 cluster20_cluster44_2 ^2
+   + 19.73144787830567 cluster20_cluster49_0 ^2
+   + 19.73144787830567 cluster20_cluster49_1 ^2
+   + 19.73144787830567 cluster20_cluster49_2 ^2
+   + 16.62907669051427 cluster21_cluster4_0 ^2
+   + 16.62907669051427 cluster21_cluster4_1 ^2
+   + 16.62907669051427 cluster21_cluster4_2 ^2
+   + 20.76729239900031 cluster21_cluster7_0 ^2
+   + 20.76729239900031 cluster21_cluster7_1 ^2
+   + 20.76729239900031 cluster21_cluster7_2 ^2
+   + 24.64992685932447 cluster21_cluster12_0 ^2
+   + 24.64992685932447 cluster21_cluster12_1 ^2
+   + 24.64992685932447 cluster21_cluster12_2 ^2
+   + 18.80463109781597 cluster21_cluster15_0 ^2
+   + 18.80463109781597 cluster21_cluster15_1 ^2
+   + 18.80463109781597 cluster21_cluster15_2 ^2
+   + 12.2635823665098 cluster21_cluster37_0 ^2
+   + 12.2635823665098 cluster21_cluster37_1 ^2
+   + 12.2635823665098 cluster21_cluster37_2 ^2
+   + 22.96167635395963 cluster21_cluster38_0 ^2
+   + 22.96167635395963 cluster21_cluster38_1 ^2
+   + 22.96167635395963 cluster21_cluster38_2 ^2
+   + 25.00950509774004 cluster21_cluster44_0 ^2
+   + 25.00950509774004 cluster21_cluster44_1 ^2
+   + 25.00950509774004 cluster21_cluster44_2 ^2
+   + 16.45867661672309 cluster21_cluster49_0 ^2
+   + 16.45867661672309 cluster21_cluster49_1 ^2
+   + 16.45867661672309 cluster21_cluster49_2 ^2
+   + 20.70398608147643 cluster22_cluster4_0 ^2
+   + 20.70398608147643 cluster22_cluster4_1 ^2
+   + 20.70398608147643 cluster22_cluster4_2 ^2
+   + 24.77370293209437 cluster22_cluster7_0 ^2
+   + 24.77370293209437 cluster22_cluster7_1 ^2
+   + 24.77370293209437 cluster22_cluster7_2 ^2
+   + 28.73769276919331 cluster22_cluster12_0 ^2
+   + 28.73769276919331 cluster22_cluster12_1 ^2
+   + 28.73769276919331 cluster22_cluster12_2 ^2
+   + 15.52920952483929 cluster22_cluster15_0 ^2
+   + 15.52920952483929 cluster22_cluster15_1 ^2
+   + 15.52920952483929 cluster22_cluster15_2 ^2
+   + 16.19430041395811 cluster22_cluster37_0 ^2
+   + 16.19430041395811 cluster22_cluster37_1 ^2
+   + 16.19430041395811 cluster22_cluster37_2 ^2
+   + 26.92862247496789 cluster22_cluster38_0 ^2
+   + 26.92862247496789 cluster22_cluster38_1 ^2
+   + 26.92862247496789 cluster22_cluster38_2 ^2
+   + 29.1470361518617 cluster22_cluster44_0 ^2
+   + 29.1470361518617 cluster22_cluster44_1 ^2
+   + 29.1470361518617 cluster22_cluster44_2 ^2
+   + 20.43546471415861 cluster22_cluster49_0 ^2
+   + 20.43546471415861 cluster22_cluster49_1 ^2
+   + 20.43546471415861 cluster22_cluster49_2 ^2
+   + 17.05380608726028 cluster23_cluster4_0 ^2
+   + 17.05380608726028 cluster23_cluster4_1 ^2
+   + 17.05380608726028 cluster23_cluster4_2 ^2
+   + 14.69279750624566 cluster23_cluster7_0 ^2
+   + 14.69279750624566 cluster23_cluster7_1 ^2
+   + 14.69279750624566 cluster23_cluster7_2 ^2
+   + 13.56549437939578 cluster23_cluster12_0 ^2
+   + 13.56549437939578 cluster23_cluster12_1 ^2
+   + 13.56549437939578 cluster23_cluster12_2 ^2
+   + 31.29177873204152 cluster23_cluster15_0 ^2
+   + 31.29177873204152 cluster23_cluster15_1 ^2
+   + 31.29177873204152 cluster23_cluster15_2 ^2
+   + 21.35514863001526 cluster23_cluster37_0 ^2
+   + 21.35514863001526 cluster23_cluster37_1 ^2
+   + 21.35514863001526 cluster23_cluster37_2 ^2
+   + 14.7992283277562 cluster23_cluster38_0 ^2
+   + 14.7992283277562 cluster23_cluster38_1 ^2
+   + 14.7992283277562 cluster23_cluster38_2 ^2
+   + 12.78630324016404 cluster23_cluster44_0 ^2
+   + 12.78630324016404 cluster23_cluster44_1 ^2
+   + 12.78630324016404 cluster23_cluster44_2 ^2
+   + 17.65481182805442 cluster23_cluster49_0 ^2
+   + 17.65481182805442 cluster23_cluster49_1 ^2
+   + 17.65481182805442 cluster23_cluster49_2 ^2
+   + 16.53907870370356 cluster24_cluster4_0 ^2
+   + 16.53907870370356 cluster24_cluster4_1 ^2
+   + 16.53907870370356 cluster24_cluster4_2 ^2
+   + 20.21137240741673 cluster24_cluster7_0 ^2
+   + 20.21137240741673 cluster24_cluster7_1 ^2
+   + 20.21137240741673 cluster24_cluster7_2 ^2
+   + 24.30097652264567 cluster24_cluster12_0 ^2
+   + 24.30097652264567 cluster24_cluster12_1 ^2
+   + 24.30097652264567 cluster24_cluster12_2 ^2
+   + 20.64252617595111 cluster24_cluster15_0 ^2
+   + 20.64252617595111 cluster24_cluster15_1 ^2
+   + 20.64252617595111 cluster24_cluster15_2 ^2
+   + 12.68649453908718 cluster24_cluster37_0 ^2
+   + 12.68649453908718 cluster24_cluster37_1 ^2
+   + 12.68649453908718 cluster24_cluster37_2 ^2
+   + 22.23844231089615 cluster24_cluster38_0 ^2
+   + 22.23844231089615 cluster24_cluster38_1 ^2
+   + 22.23844231089615 cluster24_cluster38_2 ^2
+   + 24.91596208938949 cluster24_cluster44_0 ^2
+   + 24.91596208938949 cluster24_cluster44_1 ^2
+   + 24.91596208938949 cluster24_cluster44_2 ^2
+   + 16.02462372148757 cluster24_cluster49_0 ^2
+   + 16.02462372148757 cluster24_cluster49_1 ^2
+   + 16.02462372148757 cluster24_cluster49_2 ^2
+   + 16.39975338571876 cluster25_cluster4_0 ^2
+   + 16.39975338571876 cluster25_cluster4_1 ^2
+   + 16.39975338571876 cluster25_cluster4_2 ^2
+   + 13.44898363631945 cluster25_cluster7_0 ^2
+   + 13.44898363631945 cluster25_cluster7_1 ^2
+   + 13.44898363631945 cluster25_cluster7_2 ^2
+   + 12.57128156873005 cluster25_cluster12_0 ^2
+   + 12.57128156873005 cluster25_cluster12_1 ^2
+   + 12.57128156873005 cluster25_cluster12_2 ^2
+   + 31.1811653986623 cluster25_cluster15_0 ^2
+   + 31.1811653986623 cluster25_cluster15_1 ^2
+   + 31.1811653986623 cluster25_cluster15_2 ^2
+   + 20.85590803406247 cluster25_cluster37_0 ^2
+   + 20.85590803406247 cluster25_cluster37_1 ^2
+   + 20.85590803406247 cluster25_cluster37_2 ^2
+   + 13.42325590612278 cluster25_cluster38_0 ^2
+   + 13.42325590612278 cluster25_cluster38_1 ^2
+   + 13.42325590612278 cluster25_cluster38_2 ^2
+   + 12.28913695841089 cluster25_cluster44_0 ^2
+   + 12.28913695841089 cluster25_cluster44_1 ^2
+   + 12.28913695841089 cluster25_cluster44_2 ^2
+   + 16.90361587575195 cluster25_cluster49_0 ^2
+   + 16.90361587575195 cluster25_cluster49_1 ^2
+   + 16.90361587575195 cluster25_cluster49_2 ^2
+   + 13.22336101427135 cluster26_cluster4_0 ^2
+   + 13.22336101427135 cluster26_cluster4_1 ^2
+   + 13.22336101427135 cluster26_cluster4_2 ^2
+   + 17.36742180662858 cluster26_cluster7_0 ^2
+   + 17.36742180662858 cluster26_cluster7_1 ^2
+   + 17.36742180662858 cluster26_cluster7_2 ^2
+   + 21.0778758222226 cluster26_cluster12_0 ^2
+   + 21.0778758222226 cluster26_cluster12_1 ^2
+   + 21.0778758222226 cluster26_cluster12_2 ^2
+   + 22.17385361727311 cluster26_cluster15_0 ^2
+   + 22.17385361727311 cluster26_cluster15_1 ^2
+   + 22.17385361727311 cluster26_cluster15_2 ^2
+   + 12.16555774516261 cluster26_cluster37_0 ^2
+   + 12.16555774516261 cluster26_cluster37_1 ^2
+   + 12.16555774516261 cluster26_cluster37_2 ^2
+   + 19.58873429822721 cluster26_cluster38_0 ^2
+   + 19.58873429822721 cluster26_cluster38_1 ^2
+   + 19.58873429822721 cluster26_cluster38_2 ^2
+   + 21.36281729268467 cluster26_cluster44_0 ^2
+   + 21.36281729268467 cluster26_cluster44_1 ^2
+   + 21.36281729268467 cluster26_cluster44_2 ^2
+   + 13.34683829441648 cluster26_cluster49_0 ^2
+   + 13.34683829441648 cluster26_cluster49_1 ^2
+   + 13.34683829441648 cluster26_cluster49_2 ^2
+   + 14.25121812463646 cluster27_cluster4_0 ^2
+   + 14.25121812463646 cluster27_cluster4_1 ^2
+   + 14.25121812463646 cluster27_cluster4_2 ^2
+   + 17.06848724270008 cluster27_cluster7_0 ^2
+   + 17.06848724270008 cluster27_cluster7_1 ^2
+   + 17.06848724270008 cluster27_cluster7_2 ^2
+   + 21.15704954857247 cluster27_cluster12_0 ^2
+   + 21.15704954857247 cluster27_cluster12_1 ^2
+   + 21.15704954857247 cluster27_cluster12_2 ^2
+   + 24.05437323136314 cluster27_cluster15_0 ^2
+   + 24.05437323136314 cluster27_cluster15_1 ^2
+   + 24.05437323136314 cluster27_cluster15_2 ^2
+   + 13.61885940065296 cluster27_cluster37_0 ^2
+   + 13.61885940065296 cluster27_cluster37_1 ^2
+   + 13.61885940065296 cluster27_cluster37_2 ^2
+   + 18.92828723797717 cluster27_cluster38_0 ^2
+   + 18.92828723797717 cluster27_cluster38_1 ^2
+   + 18.92828723797717 cluster27_cluster38_2 ^2
+   + 21.92516462679684 cluster27_cluster44_0 ^2
+   + 21.92516462679684 cluster27_cluster44_1 ^2
+   + 21.92516462679684 cluster27_cluster44_2 ^2
+   + 13.49898531770721 cluster27_cluster49_0 ^2
+   + 13.49898531770721 cluster27_cluster49_1 ^2
+   + 13.49898531770721 cluster27_cluster49_2 ^2
+   + 38.51025699400778 cluster28_cluster4_0 ^2
+   + 38.51025699400778 cluster28_cluster4_1 ^2
+   + 38.51025699400778 cluster28_cluster4_2 ^2
+   + 34.70609587179236 cluster28_cluster7_0 ^2
+   + 34.70609587179236 cluster28_cluster7_1 ^2
+   + 34.70609587179236 cluster28_cluster7_2 ^2
+   + 30.60528260805653 cluster28_cluster12_0 ^2
+   + 30.60528260805653 cluster28_cluster12_1 ^2
+   + 30.60528260805653 cluster28_cluster12_2 ^2
+   + 53.15936891461281 cluster28_cluster15_0 ^2
+   + 53.15936891461281 cluster28_cluster15_1 ^2
+   + 53.15936891461281 cluster28_cluster15_2 ^2
+   + 43.01184851594729 cluster28_cluster37_0 ^2
+   + 43.01184851594729 cluster28_cluster37_1 ^2
+   + 43.01184851594729 cluster28_cluster37_2 ^2
+   + 32.82034171858309 cluster28_cluster38_0 ^2
+   + 32.82034171858309 cluster28_cluster38_1 ^2
+   + 32.82034171858309 cluster28_cluster38_2 ^2
+   + 30.02678145614348 cluster28_cluster44_0 ^2
+   + 30.02678145614348 cluster28_cluster44_1 ^2
+   + 30.02678145614348 cluster28_cluster44_2 ^2
+   + 38.90951378727365 cluster28_cluster49_0 ^2
+   + 38.90951378727365 cluster28_cluster49_1 ^2
+   + 38.90951378727365 cluster28_cluster49_2 ^2
+   + 32.64677738877554 cluster29_cluster4_0 ^2
+   + 32.64677738877554 cluster29_cluster4_1 ^2
+   + 32.64677738877554 cluster29_cluster4_2 ^2
+   + 28.91827256987843 cluster29_cluster7_0 ^2
+   + 28.91827256987843 cluster29_cluster7_1 ^2
+   + 28.91827256987843 cluster29_cluster7_2 ^2
+   + 24.81870313875553 cluster29_cluster12_0 ^2
+   + 24.81870313875553 cluster29_cluster12_1 ^2
+   + 24.81870313875553 cluster29_cluster12_2 ^2
+   + 47.24566464915647 cluster29_cluster15_0 ^2
+   + 47.24566464915647 cluster29_cluster15_1 ^2
+   + 47.24566464915647 cluster29_cluster15_2 ^2
+   + 37.13686338236467 cluster29_cluster37_0 ^2
+   + 37.13686338236467 cluster29_cluster37_1 ^2
+   + 37.13686338236467 cluster29_cluster37_2 ^2
+   + 27.115618179749 cluster29_cluster38_0 ^2
+   + 27.115618179749 cluster29_cluster38_1 ^2
+   + 27.115618179749 cluster29_cluster38_2 ^2
+   + 24.17105379448526 cluster29_cluster44_0 ^2
+   + 24.17105379448526 cluster29_cluster44_1 ^2
+   + 24.17105379448526 cluster29_cluster44_2 ^2
+   + 33.06865023768762 cluster29_cluster49_0 ^2
+   + 33.06865023768762 cluster29_cluster49_1 ^2
+   + 33.06865023768762 cluster29_cluster49_2 ^2
+   + 13.58511586941895 cluster30_cluster4_0 ^2
+   + 13.58511586941895 cluster30_cluster4_1 ^2
+   + 13.58511586941895 cluster30_cluster4_2 ^2
+   + 11.87429482851876 cluster30_cluster7_0 ^2
+   + 11.87429482851876 cluster30_cluster7_1 ^2
+   + 11.87429482851876 cluster30_cluster7_2 ^2
+   + 14.61395264564522 cluster30_cluster12_0 ^2
+   + 14.61395264564522 cluster30_cluster12_1 ^2
+   + 14.61395264564522 cluster30_cluster12_2 ^2
+   + 28.63085890866429 cluster30_cluster15_0 ^2
+   + 28.63085890866429 cluster30_cluster15_1 ^2
+   + 28.63085890866429 cluster30_cluster15_2 ^2
+   + 18.07512336834124 cluster30_cluster37_0 ^2
+   + 18.07512336834124 cluster30_cluster37_1 ^2
+   + 18.07512336834124 cluster30_cluster37_2 ^2
+   + 13.64358286337595 cluster30_cluster38_0 ^2
+   + 13.64358286337595 cluster30_cluster38_1 ^2
+   + 13.64358286337595 cluster30_cluster38_2 ^2
+   + 14.91780678212054 cluster30_cluster44_0 ^2
+   + 14.91780678212054 cluster30_cluster44_1 ^2
+   + 14.91780678212054 cluster30_cluster44_2 ^2
+   + 14.08106144567984 cluster30_cluster49_0 ^2
+   + 14.08106144567984 cluster30_cluster49_1 ^2
+   + 14.08106144567984 cluster30_cluster49_2 ^2
+   + 15.50543998586572 cluster31_cluster4_0 ^2
+   + 15.50543998586572 cluster31_cluster4_1 ^2
+   + 15.50543998586572 cluster31_cluster4_2 ^2
+   + 19.62281072471892 cluster31_cluster7_0 ^2
+   + 19.62281072471892 cluster31_cluster7_1 ^2
+   + 19.62281072471892 cluster31_cluster7_2 ^2
+   + 23.22214897956676 cluster31_cluster12_0 ^2
+   + 23.22214897956676 cluster31_cluster12_1 ^2
+   + 23.22214897956676 cluster31_cluster12_2 ^2
+   + 20.03891846861821 cluster31_cluster15_0 ^2
+   + 20.03891846861821 cluster31_cluster15_1 ^2
+   + 20.03891846861821 cluster31_cluster15_2 ^2
+   + 12.67861079200118 cluster31_cluster37_0 ^2
+   + 12.67861079200118 cluster31_cluster37_1 ^2
+   + 12.67861079200118 cluster31_cluster37_2 ^2
+   + 21.84291123874416 cluster31_cluster38_0 ^2
+   + 21.84291123874416 cluster31_cluster38_1 ^2
+   + 21.84291123874416 cluster31_cluster38_2 ^2
+   + 23.41066508532624 cluster31_cluster44_0 ^2
+   + 23.41066508532624 cluster31_cluster44_1 ^2
+   + 23.41066508532624 cluster31_cluster44_2 ^2
+   + 15.62545056689046 cluster31_cluster49_0 ^2
+   + 15.62545056689046 cluster31_cluster49_1 ^2
+   + 15.62545056689046 cluster31_cluster49_2 ^2
+   + 24.90030197299569 cluster32_cluster4_0 ^2
+   + 24.90030197299569 cluster32_cluster4_1 ^2
+   + 24.90030197299569 cluster32_cluster4_2 ^2
+   + 28.98728239787847 cluster32_cluster7_0 ^2
+   + 28.98728239787847 cluster32_cluster7_1 ^2
+   + 28.98728239787847 cluster32_cluster7_2 ^2
+   + 32.93418332020556 cluster32_cluster12_0 ^2
+   + 32.93418332020556 cluster32_cluster12_1 ^2
+   + 32.93418332020556 cluster32_cluster12_2 ^2
+   + 13.10199010411044 cluster32_cluster15_0 ^2
+   + 13.10199010411044 cluster32_cluster15_1 ^2
+   + 13.10199010411044 cluster32_cluster15_2 ^2
+   + 20.40232853772359 cluster32_cluster37_0 ^2
+   + 20.40232853772359 cluster32_cluster37_1 ^2
+   + 20.40232853772359 cluster32_cluster37_2 ^2
+   + 31.14540412226571 cluster32_cluster38_0 ^2
+   + 31.14540412226571 cluster32_cluster38_1 ^2
+   + 31.14540412226571 cluster32_cluster38_2 ^2
+   + 33.31130163602086 cluster32_cluster44_0 ^2
+   + 33.31130163602086 cluster32_cluster44_1 ^2
+   + 33.31130163602086 cluster32_cluster44_2 ^2
+   + 24.64927320204746 cluster32_cluster49_0 ^2
+   + 24.64927320204746 cluster32_cluster49_1 ^2
+   + 24.64927320204746 cluster32_cluster49_2 ^2
+   + 35.91777434321666 cluster33_cluster4_0 ^2
+   + 35.91777434321666 cluster33_cluster4_1 ^2
+   + 35.91777434321666 cluster33_cluster4_2 ^2
+   + 32.02940229823885 cluster33_cluster7_0 ^2
+   + 32.02940229823885 cluster33_cluster7_1 ^2
+   + 32.02940229823885 cluster33_cluster7_2 ^2
+   + 27.94223709386273 cluster33_cluster12_0 ^2
+   + 27.94223709386273 cluster33_cluster12_1 ^2
+   + 27.94223709386273 cluster33_cluster12_2 ^2
+   + 50.76107585215086 cluster33_cluster15_0 ^2
+   + 50.76107585215086 cluster33_cluster15_1 ^2
+   + 50.76107585215086 cluster33_cluster15_2 ^2
+   + 40.43234894047697 cluster33_cluster37_0 ^2
+   + 40.43234894047697 cluster33_cluster37_1 ^2
+   + 40.43234894047697 cluster33_cluster37_2 ^2
+   + 30.08464482518902 cluster33_cluster38_0 ^2
+   + 30.08464482518902 cluster33_cluster38_1 ^2
+   + 30.08464482518902 cluster33_cluster38_2 ^2
+   + 27.44889893132173 cluster33_cluster44_0 ^2
+   + 27.44889893132173 cluster33_cluster44_1 ^2
+   + 27.44889893132173 cluster33_cluster44_2 ^2
+   + 36.28200186062878 cluster33_cluster49_0 ^2
+   + 36.28200186062878 cluster33_cluster49_1 ^2
+   + 36.28200186062878 cluster33_cluster49_2 ^2
+   + 25.21124241610576 cluster34_cluster4_0 ^2
+   + 25.21124241610576 cluster34_cluster4_1 ^2
+   + 25.21124241610576 cluster34_cluster4_2 ^2
+   + 29.13337272995511 cluster34_cluster7_0 ^2
+   + 29.13337272995511 cluster34_cluster7_1 ^2
+   + 29.13337272995511 cluster34_cluster7_2 ^2
+   + 33.18562082090235 cluster34_cluster12_0 ^2
+   + 33.18562082090235 cluster34_cluster12_1 ^2
+   + 33.18562082090235 cluster34_cluster12_2 ^2
+   + 15.61535842023838 cluster34_cluster15_0 ^2
+   + 15.61535842023838 cluster34_cluster15_1 ^2
+   + 15.61535842023838 cluster34_cluster15_2 ^2
+   + 20.71909307582489 cluster34_cluster37_0 ^2
+   + 20.71909307582489 cluster34_cluster37_1 ^2
+   + 20.71909307582489 cluster34_cluster37_2 ^2
+   + 31.20880524461616 cluster34_cluster38_0 ^2
+   + 31.20880524461616 cluster34_cluster38_1 ^2
+   + 31.20880524461616 cluster34_cluster38_2 ^2
+   + 33.69478042244099 cluster34_cluster44_0 ^2
+   + 33.69478042244099 cluster34_cluster44_1 ^2
+   + 33.69478042244099 cluster34_cluster44_2 ^2
+   + 24.83736353467531 cluster34_cluster49_0 ^2
+   + 24.83736353467531 cluster34_cluster49_1 ^2
+   + 24.83736353467531 cluster34_cluster49_2 ^2
+   + 29.32429501307968 cluster35_cluster4_0 ^2
+   + 29.32429501307968 cluster35_cluster4_1 ^2
+   + 29.32429501307968 cluster35_cluster4_2 ^2
+   + 33.48784500067923 cluster35_cluster7_0 ^2
+   + 33.48784500067923 cluster35_cluster7_1 ^2
+   + 33.48784500067923 cluster35_cluster7_2 ^2
+   + 37.25523321761357 cluster35_cluster12_0 ^2
+   + 37.25523321761357 cluster35_cluster12_1 ^2
+   + 37.25523321761357 cluster35_cluster12_2 ^2
+   + 14.01912912597515 cluster35_cluster15_0 ^2
+   + 14.01912912597515 cluster35_cluster15_1 ^2
+   + 14.01912912597515 cluster35_cluster15_2 ^2
+   + 24.99436096893803 cluster35_cluster37_0 ^2
+   + 24.99436096893803 cluster35_cluster37_1 ^2
+   + 24.99436096893803 cluster35_cluster37_2 ^2
+   + 35.69541630120438 cluster35_cluster38_0 ^2
+   + 35.69541630120438 cluster35_cluster38_1 ^2
+   + 35.69541630120438 cluster35_cluster38_2 ^2
+   + 37.46808167173339 cluster35_cluster44_0 ^2
+   + 37.46808167173339 cluster35_cluster44_1 ^2
+   + 37.46808167173339 cluster35_cluster44_2 ^2
+   + 29.2054214474502 cluster35_cluster49_0 ^2
+   + 29.2054214474502 cluster35_cluster49_1 ^2
+   + 29.2054214474502 cluster35_cluster49_2 ^2
+   + 19.64204431828456 cluster36_cluster4_0 ^2
+   + 19.64204431828456 cluster36_cluster4_1 ^2
+   + 19.64204431828456 cluster36_cluster4_2 ^2
+   + 15.75471391008255 cluster36_cluster7_0 ^2
+   + 15.75471391008255 cluster36_cluster7_1 ^2
+   + 15.75471391008255 cluster36_cluster7_2 ^2
+   + 11.65260483249573 cluster36_cluster12_0 ^2
+   + 11.65260483249573 cluster36_cluster12_1 ^2
+   + 11.65260483249573 cluster36_cluster12_2 ^2
+   + 34.77204757102337 cluster36_cluster15_0 ^2
+   + 34.77204757102337 cluster36_cluster15_1 ^2
+   + 34.77204757102337 cluster36_cluster15_2 ^2
+   + 24.15887054799163 cluster36_cluster37_0 ^2
+   + 24.15887054799163 cluster36_cluster37_1 ^2
+   + 24.15887054799163 cluster36_cluster37_2 ^2
+   + 14.05079665287695 cluster36_cluster38_0 ^2
+   + 14.05079665287695 cluster36_cluster38_1 ^2
+   + 14.05079665287695 cluster36_cluster38_2 ^2
+   + 11.50030535476489 cluster36_cluster44_0 ^2
+   + 11.50030535476489 cluster36_cluster44_1 ^2
+   + 11.50030535476489 cluster36_cluster44_2 ^2
+   + 19.982158553333 cluster36_cluster49_0 ^2
+   + 19.982158553333 cluster36_cluster49_1 ^2
+   + 19.982158553333 cluster36_cluster49_2 ^2
+   + 28.27662663615078 cluster39_cluster4_0 ^2
+   + 28.27662663615078 cluster39_cluster4_1 ^2
+   + 28.27662663615078 cluster39_cluster4_2 ^2
+   + 24.57460614778392 cluster39_cluster7_0 ^2
+   + 24.57460614778392 cluster39_cluster7_1 ^2
+   + 24.57460614778392 cluster39_cluster7_2 ^2
+   + 20.48297602154756 cluster39_cluster12_0 ^2
+   + 20.48297602154756 cluster39_cluster12_1 ^2
+   + 20.48297602154756 cluster39_cluster12_2 ^2
+   + 42.93441664351386 cluster39_cluster15_0 ^2
+   + 42.93441664351386 cluster39_cluster15_1 ^2
+   + 42.93441664351386 cluster39_cluster15_2 ^2
+   + 32.76702890513734 cluster39_cluster37_0 ^2
+   + 32.76702890513734 cluster39_cluster37_1 ^2
+   + 32.76702890513734 cluster39_cluster37_2 ^2
+   + 22.82868891742263 cluster39_cluster38_0 ^2
+   + 22.82868891742263 cluster39_cluster38_1 ^2
+   + 22.82868891742263 cluster39_cluster38_2 ^2
+   + 19.80312043169099 cluster39_cluster44_0 ^2
+   + 19.80312043169099 cluster39_cluster44_1 ^2
+   + 19.80312043169099 cluster39_cluster44_2 ^2
+   + 28.7019413990069 cluster39_cluster49_0 ^2
+   + 28.7019413990069 cluster39_cluster49_1 ^2
+   + 28.7019413990069 cluster39_cluster49_2 ^2
+   + 23.12464590812176 cluster40_cluster4_0 ^2
+   + 23.12464590812176 cluster40_cluster4_1 ^2
+   + 23.12464590812176 cluster40_cluster4_2 ^2
+   + 27.25887078251204 cluster40_cluster7_0 ^2
+   + 27.25887078251204 cluster40_cluster7_1 ^2
+   + 27.25887078251204 cluster40_cluster7_2 ^2
+   + 31.13771396291825 cluster40_cluster12_0 ^2
+   + 31.13771396291825 cluster40_cluster12_1 ^2
+   + 31.13771396291825 cluster40_cluster12_2 ^2
+   + 12.83853971469329 cluster40_cluster15_0 ^2
+   + 12.83853971469329 cluster40_cluster15_1 ^2
+   + 12.83853971469329 cluster40_cluster15_2 ^2
+   + 18.68965677638802 cluster40_cluster37_0 ^2
+   + 18.68965677638802 cluster40_cluster37_1 ^2
+   + 18.68965677638802 cluster40_cluster37_2 ^2
+   + 29.44533280351417 cluster40_cluster38_0 ^2
+   + 29.44533280351417 cluster40_cluster38_1 ^2
+   + 29.44533280351417 cluster40_cluster38_2 ^2
+   + 31.45795270737776 cluster40_cluster44_0 ^2
+   + 31.45795270737776 cluster40_cluster44_1 ^2
+   + 31.45795270737776 cluster40_cluster44_2 ^2
+   + 22.93614974829003 cluster40_cluster49_0 ^2
+   + 22.93614974829003 cluster40_cluster49_1 ^2
+   + 22.93614974829003 cluster40_cluster49_2 ^2
+   + 15.94539830905601 cluster41_cluster4_0 ^2
+   + 15.94539830905601 cluster41_cluster4_1 ^2
+   + 15.94539830905601 cluster41_cluster4_2 ^2
+   + 18.59655074804986 cluster41_cluster7_0 ^2
+   + 18.59655074804986 cluster41_cluster7_1 ^2
+   + 18.59655074804986 cluster41_cluster7_2 ^2
+   + 20.92373704117237 cluster41_cluster12_0 ^2
+   + 20.92373704117237 cluster41_cluster12_1 ^2
+   + 20.92373704117237 cluster41_cluster12_2 ^2
+   + 23.98422970819012 cluster41_cluster15_0 ^2
+   + 23.98422970819012 cluster41_cluster15_1 ^2
+   + 23.98422970819012 cluster41_cluster15_2 ^2
+   + 16.93822293042713 cluster41_cluster37_0 ^2
+   + 16.93822293042713 cluster41_cluster37_1 ^2
+   + 16.93822293042713 cluster41_cluster37_2 ^2
+   + 20.50875796692961 cluster41_cluster38_0 ^2
+   + 20.50875796692961 cluster41_cluster38_1 ^2
+   + 20.50875796692961 cluster41_cluster38_2 ^2
+   + 20.62751401161799 cluster41_cluster44_0 ^2
+   + 20.62751401161799 cluster41_cluster44_1 ^2
+   + 20.62751401161799 cluster41_cluster44_2 ^2
+   + 16.63003700473293 cluster41_cluster49_0 ^2
+   + 16.63003700473293 cluster41_cluster49_1 ^2
+   + 16.63003700473293 cluster41_cluster49_2 ^2
+   + 16.01426985220961 cluster42_cluster4_0 ^2
+   + 16.01426985220961 cluster42_cluster4_1 ^2
+   + 16.01426985220961 cluster42_cluster4_2 ^2
+   + 15.62402340634067 cluster42_cluster7_0 ^2
+   + 15.62402340634067 cluster42_cluster7_1 ^2
+   + 15.62402340634067 cluster42_cluster7_2 ^2
+   + 16.26536615887994 cluster42_cluster12_0 ^2
+   + 16.26536615887994 cluster42_cluster12_1 ^2
+   + 16.26536615887994 cluster42_cluster12_2 ^2
+   + 28.8398414282116 cluster42_cluster15_0 ^2
+   + 28.8398414282116 cluster42_cluster15_1 ^2
+   + 28.8398414282116 cluster42_cluster15_2 ^2
+   + 19.67945061163149 cluster42_cluster37_0 ^2
+   + 19.67945061163149 cluster42_cluster37_1 ^2
+   + 19.67945061163149 cluster42_cluster37_2 ^2
+   + 16.7286180738961 cluster42_cluster38_0 ^2
+   + 16.7286180738961 cluster42_cluster38_1 ^2
+   + 16.7286180738961 cluster42_cluster38_2 ^2
+   + 15.68047529793172 cluster42_cluster44_0 ^2
+   + 15.68047529793172 cluster42_cluster44_1 ^2
+   + 15.68047529793172 cluster42_cluster44_2 ^2
+   + 16.77181482349345 cluster42_cluster49_0 ^2
+   + 16.77181482349345 cluster42_cluster49_1 ^2
+   + 16.77181482349345 cluster42_cluster49_2 ^2
+   + 13.67708190032942 cluster43_cluster4_0 ^2
+   + 13.67708190032942 cluster43_cluster4_1 ^2
+   + 13.67708190032942 cluster43_cluster4_2 ^2
+   + 14.56062734415366 cluster43_cluster7_0 ^2
+   + 14.56062734415366 cluster43_cluster7_1 ^2
+   + 14.56062734415366 cluster43_cluster7_2 ^2
+   + 18.5012822908432 cluster43_cluster12_0 ^2
+   + 18.5012822908432 cluster43_cluster12_1 ^2
+   + 18.5012822908432 cluster43_cluster12_2 ^2
+   + 26.84482535848426 cluster43_cluster15_0 ^2
+   + 26.84482535848426 cluster43_cluster15_1 ^2
+   + 26.84482535848426 cluster43_cluster15_2 ^2
+   + 15.92599542693991 cluster43_cluster37_0 ^2
+   + 15.92599542693991 cluster43_cluster37_1 ^2
+   + 15.92599542693991 cluster43_cluster37_2 ^2
+   + 16.13294360404042 cluster43_cluster38_0 ^2
+   + 16.13294360404042 cluster43_cluster38_1 ^2
+   + 16.13294360404042 cluster43_cluster38_2 ^2
+   + 19.41538667340347 cluster43_cluster44_0 ^2
+   + 19.41538667340347 cluster43_cluster44_1 ^2
+   + 19.41538667340347 cluster43_cluster44_2 ^2
+   + 12.98558930163839 cluster43_cluster49_0 ^2
+   + 12.98558930163839 cluster43_cluster49_1 ^2
+   + 12.98558930163839 cluster43_cluster49_2 ^2
+   + 14.3977793307744 cluster45_cluster4_0 ^2
+   + 14.3977793307744 cluster45_cluster4_1 ^2
+   + 14.3977793307744 cluster45_cluster4_2 ^2
+   + 18.18239098563272 cluster45_cluster7_0 ^2
+   + 18.18239098563272 cluster45_cluster7_1 ^2
+   + 18.18239098563272 cluster45_cluster7_2 ^2
+   + 21.45442772031668 cluster45_cluster12_0 ^2
+   + 21.45442772031668 cluster45_cluster12_1 ^2
+   + 21.45442772031668 cluster45_cluster12_2 ^2
+   + 22.02425058054606 cluster45_cluster15_0 ^2
+   + 22.02425058054606 cluster45_cluster15_1 ^2
+   + 22.02425058054606 cluster45_cluster15_2 ^2
+   + 13.8785133498237 cluster45_cluster37_0 ^2
+   + 13.8785133498237 cluster45_cluster37_1 ^2
+   + 13.8785133498237 cluster45_cluster37_2 ^2
+   + 20.35787266362593 cluster45_cluster38_0 ^2
+   + 20.35787266362593 cluster45_cluster38_1 ^2
+   + 20.35787266362593 cluster45_cluster38_2 ^2
+   + 21.51023910271785 cluster45_cluster44_0 ^2
+   + 21.51023910271785 cluster45_cluster44_1 ^2
+   + 21.51023910271785 cluster45_cluster44_2 ^2
+   + 14.81404408082497 cluster45_cluster49_0 ^2
+   + 14.81404408082497 cluster45_cluster49_1 ^2
+   + 14.81404408082497 cluster45_cluster49_2 ^2
+   + 30.35067233434371 cluster46_cluster4_0 ^2
+   + 30.35067233434371 cluster46_cluster4_1 ^2
+   + 30.35067233434371 cluster46_cluster4_2 ^2
+   + 34.49638289979787 cluster46_cluster7_0 ^2
+   + 34.49638289979787 cluster46_cluster7_1 ^2
+   + 34.49638289979787 cluster46_cluster7_2 ^2
+   + 38.33969748611464 cluster46_cluster12_0 ^2
+   + 38.33969748611464 cluster46_cluster12_1 ^2
+   + 38.33969748611464 cluster46_cluster12_2 ^2
+   + 15.27886190875189 cluster46_cluster15_0 ^2
+   + 15.27886190875189 cluster46_cluster15_1 ^2
+   + 15.27886190875189 cluster46_cluster15_2 ^2
+   + 25.93544184062382 cluster46_cluster37_0 ^2
+   + 25.93544184062382 cluster46_cluster37_1 ^2
+   + 25.93544184062382 cluster46_cluster37_2 ^2
+   + 36.68789135128873 cluster46_cluster38_0 ^2
+   + 36.68789135128873 cluster46_cluster38_1 ^2
+   + 36.68789135128873 cluster46_cluster38_2 ^2
+   + 38.60898190978748 cluster46_cluster44_0 ^2
+   + 38.60898190978748 cluster46_cluster44_1 ^2
+   + 38.60898190978748 cluster46_cluster44_2 ^2
+   + 30.17963851812845 cluster46_cluster49_0 ^2
+   + 30.17963851812845 cluster46_cluster49_1 ^2
+   + 30.17963851812845 cluster46_cluster49_2 ^2
+   + 18.23317254587444 cluster47_cluster4_0 ^2
+   + 18.23317254587444 cluster47_cluster4_1 ^2
+   + 18.23317254587444 cluster47_cluster4_2 ^2
+   + 16.01198996489735 cluster47_cluster7_0 ^2
+   + 16.01198996489735 cluster47_cluster7_1 ^2
+   + 16.01198996489735 cluster47_cluster7_2 ^2
+   + 14.32985743889811 cluster47_cluster12_0 ^2
+   + 14.32985743889811 cluster47_cluster12_1 ^2
+   + 14.32985743889811 cluster47_cluster12_2 ^2
+   + 32.05555931692921 cluster47_cluster15_0 ^2
+   + 32.05555931692921 cluster47_cluster15_1 ^2
+   + 32.05555931692921 cluster47_cluster15_2 ^2
+   + 22.42239903031727 cluster47_cluster37_0 ^2
+   + 22.42239903031727 cluster47_cluster37_1 ^2
+   + 22.42239903031727 cluster47_cluster37_2 ^2
+   + 15.95916974249984 cluster47_cluster38_0 ^2
+   + 15.95916974249984 cluster47_cluster38_1 ^2
+   + 15.95916974249984 cluster47_cluster38_2 ^2
+   + 13.24268497705522 cluster47_cluster44_0 ^2
+   + 13.24268497705522 cluster47_cluster44_1 ^2
+   + 13.24268497705522 cluster47_cluster44_2 ^2
+   + 18.86965786173184 cluster47_cluster49_0 ^2
+   + 18.86965786173184 cluster47_cluster49_1 ^2
+   + 18.86965786173184 cluster47_cluster49_2 ^2
+   + 20.84318437058084 cluster48_cluster4_0 ^2
+   + 20.84318437058084 cluster48_cluster4_1 ^2
+   + 20.84318437058084 cluster48_cluster4_2 ^2
+   + 25.00577651965866 cluster48_cluster7_0 ^2
+   + 25.00577651965866 cluster48_cluster7_1 ^2
+   + 25.00577651965866 cluster48_cluster7_2 ^2
+   + 28.80133361527501 cluster48_cluster12_0 ^2
+   + 28.80133361527501 cluster48_cluster12_1 ^2
+   + 28.80133361527501 cluster48_cluster12_2 ^2
+   + 14.51434217375709 cluster48_cluster15_0 ^2
+   + 14.51434217375709 cluster48_cluster15_1 ^2
+   + 14.51434217375709 cluster48_cluster15_2 ^2
+   + 16.55196603153153 cluster48_cluster37_0 ^2
+   + 16.55196603153153 cluster48_cluster37_1 ^2
+   + 16.55196603153153 cluster48_cluster37_2 ^2
+   + 27.21352569383341 cluster48_cluster38_0 ^2
+   + 27.21352569383341 cluster48_cluster38_1 ^2
+   + 27.21352569383341 cluster48_cluster38_2 ^2
+   + 29.06676294603192 cluster48_cluster44_0 ^2
+   + 29.06676294603192 cluster48_cluster44_1 ^2
+   + 29.06676294603192 cluster48_cluster44_2 ^2
+   + 20.72967598735188 cluster48_cluster49_0 ^2
+   + 20.72967598735188 cluster48_cluster49_1 ^2
+   + 20.72967598735188 cluster48_cluster49_2 ^2 ] / 2 
+Subject To
+Bounds
+ Constant = 1
+Generals
+ cluster0_cluster4_0 cluster0_cluster4_1 cluster0_cluster4_2
+ cluster0_cluster7_0 cluster0_cluster7_1 cluster0_cluster7_2
+ cluster0_cluster12_0 cluster0_cluster12_1 cluster0_cluster12_2
+ cluster0_cluster15_0 cluster0_cluster15_1 cluster0_cluster15_2
+ cluster0_cluster37_0 cluster0_cluster37_1 cluster0_cluster37_2
+ cluster0_cluster38_0 cluster0_cluster38_1 cluster0_cluster38_2
+ cluster0_cluster44_0 cluster0_cluster44_1 cluster0_cluster44_2
+ cluster0_cluster49_0 cluster0_cluster49_1 cluster0_cluster49_2
+ cluster1_cluster4_0 cluster1_cluster4_1 cluster1_cluster4_2
+ cluster1_cluster7_0 cluster1_cluster7_1 cluster1_cluster7_2
+ cluster1_cluster12_0 cluster1_cluster12_1 cluster1_cluster12_2
+ cluster1_cluster15_0 cluster1_cluster15_1 cluster1_cluster15_2
+ cluster1_cluster37_0 cluster1_cluster37_1 cluster1_cluster37_2
+ cluster1_cluster38_0 cluster1_cluster38_1 cluster1_cluster38_2
+ cluster1_cluster44_0 cluster1_cluster44_1 cluster1_cluster44_2
+ cluster1_cluster49_0 cluster1_cluster49_1 cluster1_cluster49_2
+ cluster2_cluster4_0 cluster2_cluster4_1 cluster2_cluster4_2
+ cluster2_cluster7_0 cluster2_cluster7_1 cluster2_cluster7_2
+ cluster2_cluster12_0 cluster2_cluster12_1 cluster2_cluster12_2
+ cluster2_cluster15_0 cluster2_cluster15_1 cluster2_cluster15_2
+ cluster2_cluster37_0 cluster2_cluster37_1 cluster2_cluster37_2
+ cluster2_cluster38_0 cluster2_cluster38_1 cluster2_cluster38_2
+ cluster2_cluster44_0 cluster2_cluster44_1 cluster2_cluster44_2
+ cluster2_cluster49_0 cluster2_cluster49_1 cluster2_cluster49_2
+ cluster3_cluster4_0 cluster3_cluster4_1 cluster3_cluster4_2
+ cluster3_cluster7_0 cluster3_cluster7_1 cluster3_cluster7_2
+ cluster3_cluster12_0 cluster3_cluster12_1 cluster3_cluster12_2
+ cluster3_cluster15_0 cluster3_cluster15_1 cluster3_cluster15_2
+ cluster3_cluster37_0 cluster3_cluster37_1 cluster3_cluster37_2
+ cluster3_cluster38_0 cluster3_cluster38_1 cluster3_cluster38_2
+ cluster3_cluster44_0 cluster3_cluster44_1 cluster3_cluster44_2
+ cluster3_cluster49_0 cluster3_cluster49_1 cluster3_cluster49_2
+ cluster5_cluster4_0 cluster5_cluster4_1 cluster5_cluster4_2
+ cluster5_cluster7_0 cluster5_cluster7_1 cluster5_cluster7_2
+ cluster5_cluster12_0 cluster5_cluster12_1 cluster5_cluster12_2
+ cluster5_cluster15_0 cluster5_cluster15_1 cluster5_cluster15_2
+ cluster5_cluster37_0 cluster5_cluster37_1 cluster5_cluster37_2
+ cluster5_cluster38_0 cluster5_cluster38_1 cluster5_cluster38_2
+ cluster5_cluster44_0 cluster5_cluster44_1 cluster5_cluster44_2
+ cluster5_cluster49_0 cluster5_cluster49_1 cluster5_cluster49_2
+ cluster6_cluster4_0 cluster6_cluster4_1 cluster6_cluster4_2
+ cluster6_cluster7_0 cluster6_cluster7_1 cluster6_cluster7_2
+ cluster6_cluster12_0 cluster6_cluster12_1 cluster6_cluster12_2
+ cluster6_cluster15_0 cluster6_cluster15_1 cluster6_cluster15_2
+ cluster6_cluster37_0 cluster6_cluster37_1 cluster6_cluster37_2
+ cluster6_cluster38_0 cluster6_cluster38_1 cluster6_cluster38_2
+ cluster6_cluster44_0 cluster6_cluster44_1 cluster6_cluster44_2
+ cluster6_cluster49_0 cluster6_cluster49_1 cluster6_cluster49_2
+ cluster8_cluster4_0 cluster8_cluster4_1 cluster8_cluster4_2
+ cluster8_cluster7_0 cluster8_cluster7_1 cluster8_cluster7_2
+ cluster8_cluster12_0 cluster8_cluster12_1 cluster8_cluster12_2
+ cluster8_cluster15_0 cluster8_cluster15_1 cluster8_cluster15_2
+ cluster8_cluster37_0 cluster8_cluster37_1 cluster8_cluster37_2
+ cluster8_cluster38_0 cluster8_cluster38_1 cluster8_cluster38_2
+ cluster8_cluster44_0 cluster8_cluster44_1 cluster8_cluster44_2
+ cluster8_cluster49_0 cluster8_cluster49_1 cluster8_cluster49_2
+ cluster9_cluster4_0 cluster9_cluster4_1 cluster9_cluster4_2
+ cluster9_cluster7_0 cluster9_cluster7_1 cluster9_cluster7_2
+ cluster9_cluster12_0 cluster9_cluster12_1 cluster9_cluster12_2
+ cluster9_cluster15_0 cluster9_cluster15_1 cluster9_cluster15_2
+ cluster9_cluster37_0 cluster9_cluster37_1 cluster9_cluster37_2
+ cluster9_cluster38_0 cluster9_cluster38_1 cluster9_cluster38_2
+ cluster9_cluster44_0 cluster9_cluster44_1 cluster9_cluster44_2
+ cluster9_cluster49_0 cluster9_cluster49_1 cluster9_cluster49_2
+ cluster10_cluster4_0 cluster10_cluster4_1 cluster10_cluster4_2
+ cluster10_cluster7_0 cluster10_cluster7_1 cluster10_cluster7_2
+ cluster10_cluster12_0 cluster10_cluster12_1 cluster10_cluster12_2
+ cluster10_cluster15_0 cluster10_cluster15_1 cluster10_cluster15_2
+ cluster10_cluster37_0 cluster10_cluster37_1 cluster10_cluster37_2
+ cluster10_cluster38_0 cluster10_cluster38_1 cluster10_cluster38_2
+ cluster10_cluster44_0 cluster10_cluster44_1 cluster10_cluster44_2
+ cluster10_cluster49_0 cluster10_cluster49_1 cluster10_cluster49_2
+ cluster11_cluster4_0 cluster11_cluster4_1 cluster11_cluster4_2
+ cluster11_cluster7_0 cluster11_cluster7_1 cluster11_cluster7_2
+ cluster11_cluster12_0 cluster11_cluster12_1 cluster11_cluster12_2
+ cluster11_cluster15_0 cluster11_cluster15_1 cluster11_cluster15_2
+ cluster11_cluster37_0 cluster11_cluster37_1 cluster11_cluster37_2
+ cluster11_cluster38_0 cluster11_cluster38_1 cluster11_cluster38_2
+ cluster11_cluster44_0 cluster11_cluster44_1 cluster11_cluster44_2
+ cluster11_cluster49_0 cluster11_cluster49_1 cluster11_cluster49_2
+ cluster13_cluster4_0 cluster13_cluster4_1 cluster13_cluster4_2
+ cluster13_cluster7_0 cluster13_cluster7_1 cluster13_cluster7_2
+ cluster13_cluster12_0 cluster13_cluster12_1 cluster13_cluster12_2
+ cluster13_cluster15_0 cluster13_cluster15_1 cluster13_cluster15_2
+ cluster13_cluster37_0 cluster13_cluster37_1 cluster13_cluster37_2
+ cluster13_cluster38_0 cluster13_cluster38_1 cluster13_cluster38_2
+ cluster13_cluster44_0 cluster13_cluster44_1 cluster13_cluster44_2
+ cluster13_cluster49_0 cluster13_cluster49_1 cluster13_cluster49_2
+ cluster14_cluster4_0 cluster14_cluster4_1 cluster14_cluster4_2
+ cluster14_cluster7_0 cluster14_cluster7_1 cluster14_cluster7_2
+ cluster14_cluster12_0 cluster14_cluster12_1 cluster14_cluster12_2
+ cluster14_cluster15_0 cluster14_cluster15_1 cluster14_cluster15_2
+ cluster14_cluster37_0 cluster14_cluster37_1 cluster14_cluster37_2
+ cluster14_cluster38_0 cluster14_cluster38_1 cluster14_cluster38_2
+ cluster14_cluster44_0 cluster14_cluster44_1 cluster14_cluster44_2
+ cluster14_cluster49_0 cluster14_cluster49_1 cluster14_cluster49_2
+ cluster16_cluster4_0 cluster16_cluster4_1 cluster16_cluster4_2
+ cluster16_cluster7_0 cluster16_cluster7_1 cluster16_cluster7_2
+ cluster16_cluster12_0 cluster16_cluster12_1 cluster16_cluster12_2
+ cluster16_cluster15_0 cluster16_cluster15_1 cluster16_cluster15_2
+ cluster16_cluster37_0 cluster16_cluster37_1 cluster16_cluster37_2
+ cluster16_cluster38_0 cluster16_cluster38_1 cluster16_cluster38_2
+ cluster16_cluster44_0 cluster16_cluster44_1 cluster16_cluster44_2
+ cluster16_cluster49_0 cluster16_cluster49_1 cluster16_cluster49_2
+ cluster17_cluster4_0 cluster17_cluster4_1 cluster17_cluster4_2
+ cluster17_cluster7_0 cluster17_cluster7_1 cluster17_cluster7_2
+ cluster17_cluster12_0 cluster17_cluster12_1 cluster17_cluster12_2
+ cluster17_cluster15_0 cluster17_cluster15_1 cluster17_cluster15_2
+ cluster17_cluster37_0 cluster17_cluster37_1 cluster17_cluster37_2
+ cluster17_cluster38_0 cluster17_cluster38_1 cluster17_cluster38_2
+ cluster17_cluster44_0 cluster17_cluster44_1 cluster17_cluster44_2
+ cluster17_cluster49_0 cluster17_cluster49_1 cluster17_cluster49_2
+ cluster18_cluster4_0 cluster18_cluster4_1 cluster18_cluster4_2
+ cluster18_cluster7_0 cluster18_cluster7_1 cluster18_cluster7_2
+ cluster18_cluster12_0 cluster18_cluster12_1 cluster18_cluster12_2
+ cluster18_cluster15_0 cluster18_cluster15_1 cluster18_cluster15_2
+ cluster18_cluster37_0 cluster18_cluster37_1 cluster18_cluster37_2
+ cluster18_cluster38_0 cluster18_cluster38_1 cluster18_cluster38_2
+ cluster18_cluster44_0 cluster18_cluster44_1 cluster18_cluster44_2
+ cluster18_cluster49_0 cluster18_cluster49_1 cluster18_cluster49_2
+ cluster19_cluster4_0 cluster19_cluster4_1 cluster19_cluster4_2
+ cluster19_cluster7_0 cluster19_cluster7_1 cluster19_cluster7_2
+ cluster19_cluster12_0 cluster19_cluster12_1 cluster19_cluster12_2
+ cluster19_cluster15_0 cluster19_cluster15_1 cluster19_cluster15_2
+ cluster19_cluster37_0 cluster19_cluster37_1 cluster19_cluster37_2
+ cluster19_cluster38_0 cluster19_cluster38_1 cluster19_cluster38_2
+ cluster19_cluster44_0 cluster19_cluster44_1 cluster19_cluster44_2
+ cluster19_cluster49_0 cluster19_cluster49_1 cluster19_cluster49_2
+ cluster20_cluster4_0 cluster20_cluster4_1 cluster20_cluster4_2
+ cluster20_cluster7_0 cluster20_cluster7_1 cluster20_cluster7_2
+ cluster20_cluster12_0 cluster20_cluster12_1 cluster20_cluster12_2
+ cluster20_cluster15_0 cluster20_cluster15_1 cluster20_cluster15_2
+ cluster20_cluster37_0 cluster20_cluster37_1 cluster20_cluster37_2
+ cluster20_cluster38_0 cluster20_cluster38_1 cluster20_cluster38_2
+ cluster20_cluster44_0 cluster20_cluster44_1 cluster20_cluster44_2
+ cluster20_cluster49_0 cluster20_cluster49_1 cluster20_cluster49_2
+ cluster21_cluster4_0 cluster21_cluster4_1 cluster21_cluster4_2
+ cluster21_cluster7_0 cluster21_cluster7_1 cluster21_cluster7_2
+ cluster21_cluster12_0 cluster21_cluster12_1 cluster21_cluster12_2
+ cluster21_cluster15_0 cluster21_cluster15_1 cluster21_cluster15_2
+ cluster21_cluster37_0 cluster21_cluster37_1 cluster21_cluster37_2
+ cluster21_cluster38_0 cluster21_cluster38_1 cluster21_cluster38_2
+ cluster21_cluster44_0 cluster21_cluster44_1 cluster21_cluster44_2
+ cluster21_cluster49_0 cluster21_cluster49_1 cluster21_cluster49_2
+ cluster22_cluster4_0 cluster22_cluster4_1 cluster22_cluster4_2
+ cluster22_cluster7_0 cluster22_cluster7_1 cluster22_cluster7_2
+ cluster22_cluster12_0 cluster22_cluster12_1 cluster22_cluster12_2
+ cluster22_cluster15_0 cluster22_cluster15_1 cluster22_cluster15_2
+ cluster22_cluster37_0 cluster22_cluster37_1 cluster22_cluster37_2
+ cluster22_cluster38_0 cluster22_cluster38_1 cluster22_cluster38_2
+ cluster22_cluster44_0 cluster22_cluster44_1 cluster22_cluster44_2
+ cluster22_cluster49_0 cluster22_cluster49_1 cluster22_cluster49_2
+ cluster23_cluster4_0 cluster23_cluster4_1 cluster23_cluster4_2
+ cluster23_cluster7_0 cluster23_cluster7_1 cluster23_cluster7_2
+ cluster23_cluster12_0 cluster23_cluster12_1 cluster23_cluster12_2
+ cluster23_cluster15_0 cluster23_cluster15_1 cluster23_cluster15_2
+ cluster23_cluster37_0 cluster23_cluster37_1 cluster23_cluster37_2
+ cluster23_cluster38_0 cluster23_cluster38_1 cluster23_cluster38_2
+ cluster23_cluster44_0 cluster23_cluster44_1 cluster23_cluster44_2
+ cluster23_cluster49_0 cluster23_cluster49_1 cluster23_cluster49_2
+ cluster24_cluster4_0 cluster24_cluster4_1 cluster24_cluster4_2
+ cluster24_cluster7_0 cluster24_cluster7_1 cluster24_cluster7_2
+ cluster24_cluster12_0 cluster24_cluster12_1 cluster24_cluster12_2
+ cluster24_cluster15_0 cluster24_cluster15_1 cluster24_cluster15_2
+ cluster24_cluster37_0 cluster24_cluster37_1 cluster24_cluster37_2
+ cluster24_cluster38_0 cluster24_cluster38_1 cluster24_cluster38_2
+ cluster24_cluster44_0 cluster24_cluster44_1 cluster24_cluster44_2
+ cluster24_cluster49_0 cluster24_cluster49_1 cluster24_cluster49_2
+ cluster25_cluster4_0 cluster25_cluster4_1 cluster25_cluster4_2
+ cluster25_cluster7_0 cluster25_cluster7_1 cluster25_cluster7_2
+ cluster25_cluster12_0 cluster25_cluster12_1 cluster25_cluster12_2
+ cluster25_cluster15_0 cluster25_cluster15_1 cluster25_cluster15_2
+ cluster25_cluster37_0 cluster25_cluster37_1 cluster25_cluster37_2
+ cluster25_cluster38_0 cluster25_cluster38_1 cluster25_cluster38_2
+ cluster25_cluster44_0 cluster25_cluster44_1 cluster25_cluster44_2
+ cluster25_cluster49_0 cluster25_cluster49_1 cluster25_cluster49_2
+ cluster26_cluster4_0 cluster26_cluster4_1 cluster26_cluster4_2
+ cluster26_cluster7_0 cluster26_cluster7_1 cluster26_cluster7_2
+ cluster26_cluster12_0 cluster26_cluster12_1 cluster26_cluster12_2
+ cluster26_cluster15_0 cluster26_cluster15_1 cluster26_cluster15_2
+ cluster26_cluster37_0 cluster26_cluster37_1 cluster26_cluster37_2
+ cluster26_cluster38_0 cluster26_cluster38_1 cluster26_cluster38_2
+ cluster26_cluster44_0 cluster26_cluster44_1 cluster26_cluster44_2
+ cluster26_cluster49_0 cluster26_cluster49_1 cluster26_cluster49_2
+ cluster27_cluster4_0 cluster27_cluster4_1 cluster27_cluster4_2
+ cluster27_cluster7_0 cluster27_cluster7_1 cluster27_cluster7_2
+ cluster27_cluster12_0 cluster27_cluster12_1 cluster27_cluster12_2
+ cluster27_cluster15_0 cluster27_cluster15_1 cluster27_cluster15_2
+ cluster27_cluster37_0 cluster27_cluster37_1 cluster27_cluster37_2
+ cluster27_cluster38_0 cluster27_cluster38_1 cluster27_cluster38_2
+ cluster27_cluster44_0 cluster27_cluster44_1 cluster27_cluster44_2
+ cluster27_cluster49_0 cluster27_cluster49_1 cluster27_cluster49_2
+ cluster28_cluster4_0 cluster28_cluster4_1 cluster28_cluster4_2
+ cluster28_cluster7_0 cluster28_cluster7_1 cluster28_cluster7_2
+ cluster28_cluster12_0 cluster28_cluster12_1 cluster28_cluster12_2
+ cluster28_cluster15_0 cluster28_cluster15_1 cluster28_cluster15_2
+ cluster28_cluster37_0 cluster28_cluster37_1 cluster28_cluster37_2
+ cluster28_cluster38_0 cluster28_cluster38_1 cluster28_cluster38_2
+ cluster28_cluster44_0 cluster28_cluster44_1 cluster28_cluster44_2
+ cluster28_cluster49_0 cluster28_cluster49_1 cluster28_cluster49_2
+ cluster29_cluster4_0 cluster29_cluster4_1 cluster29_cluster4_2
+ cluster29_cluster7_0 cluster29_cluster7_1 cluster29_cluster7_2
+ cluster29_cluster12_0 cluster29_cluster12_1 cluster29_cluster12_2
+ cluster29_cluster15_0 cluster29_cluster15_1 cluster29_cluster15_2
+ cluster29_cluster37_0 cluster29_cluster37_1 cluster29_cluster37_2
+ cluster29_cluster38_0 cluster29_cluster38_1 cluster29_cluster38_2
+ cluster29_cluster44_0 cluster29_cluster44_1 cluster29_cluster44_2
+ cluster29_cluster49_0 cluster29_cluster49_1 cluster29_cluster49_2
+ cluster30_cluster4_0 cluster30_cluster4_1 cluster30_cluster4_2
+ cluster30_cluster7_0 cluster30_cluster7_1 cluster30_cluster7_2
+ cluster30_cluster12_0 cluster30_cluster12_1 cluster30_cluster12_2
+ cluster30_cluster15_0 cluster30_cluster15_1 cluster30_cluster15_2
+ cluster30_cluster37_0 cluster30_cluster37_1 cluster30_cluster37_2
+ cluster30_cluster38_0 cluster30_cluster38_1 cluster30_cluster38_2
+ cluster30_cluster44_0 cluster30_cluster44_1 cluster30_cluster44_2
+ cluster30_cluster49_0 cluster30_cluster49_1 cluster30_cluster49_2
+ cluster31_cluster4_0 cluster31_cluster4_1 cluster31_cluster4_2
+ cluster31_cluster7_0 cluster31_cluster7_1 cluster31_cluster7_2
+ cluster31_cluster12_0 cluster31_cluster12_1 cluster31_cluster12_2
+ cluster31_cluster15_0 cluster31_cluster15_1 cluster31_cluster15_2
+ cluster31_cluster37_0 cluster31_cluster37_1 cluster31_cluster37_2
+ cluster31_cluster38_0 cluster31_cluster38_1 cluster31_cluster38_2
+ cluster31_cluster44_0 cluster31_cluster44_1 cluster31_cluster44_2
+ cluster31_cluster49_0 cluster31_cluster49_1 cluster31_cluster49_2
+ cluster32_cluster4_0 cluster32_cluster4_1 cluster32_cluster4_2
+ cluster32_cluster7_0 cluster32_cluster7_1 cluster32_cluster7_2
+ cluster32_cluster12_0 cluster32_cluster12_1 cluster32_cluster12_2
+ cluster32_cluster15_0 cluster32_cluster15_1 cluster32_cluster15_2
+ cluster32_cluster37_0 cluster32_cluster37_1 cluster32_cluster37_2
+ cluster32_cluster38_0 cluster32_cluster38_1 cluster32_cluster38_2
+ cluster32_cluster44_0 cluster32_cluster44_1 cluster32_cluster44_2
+ cluster32_cluster49_0 cluster32_cluster49_1 cluster32_cluster49_2
+ cluster33_cluster4_0 cluster33_cluster4_1 cluster33_cluster4_2
+ cluster33_cluster7_0 cluster33_cluster7_1 cluster33_cluster7_2
+ cluster33_cluster12_0 cluster33_cluster12_1 cluster33_cluster12_2
+ cluster33_cluster15_0 cluster33_cluster15_1 cluster33_cluster15_2
+ cluster33_cluster37_0 cluster33_cluster37_1 cluster33_cluster37_2
+ cluster33_cluster38_0 cluster33_cluster38_1 cluster33_cluster38_2
+ cluster33_cluster44_0 cluster33_cluster44_1 cluster33_cluster44_2
+ cluster33_cluster49_0 cluster33_cluster49_1 cluster33_cluster49_2
+ cluster34_cluster4_0 cluster34_cluster4_1 cluster34_cluster4_2
+ cluster34_cluster7_0 cluster34_cluster7_1 cluster34_cluster7_2
+ cluster34_cluster12_0 cluster34_cluster12_1 cluster34_cluster12_2
+ cluster34_cluster15_0 cluster34_cluster15_1 cluster34_cluster15_2
+ cluster34_cluster37_0 cluster34_cluster37_1 cluster34_cluster37_2
+ cluster34_cluster38_0 cluster34_cluster38_1 cluster34_cluster38_2
+ cluster34_cluster44_0 cluster34_cluster44_1 cluster34_cluster44_2
+ cluster34_cluster49_0 cluster34_cluster49_1 cluster34_cluster49_2
+ cluster35_cluster4_0 cluster35_cluster4_1 cluster35_cluster4_2
+ cluster35_cluster7_0 cluster35_cluster7_1 cluster35_cluster7_2
+ cluster35_cluster12_0 cluster35_cluster12_1 cluster35_cluster12_2
+ cluster35_cluster15_0 cluster35_cluster15_1 cluster35_cluster15_2
+ cluster35_cluster37_0 cluster35_cluster37_1 cluster35_cluster37_2
+ cluster35_cluster38_0 cluster35_cluster38_1 cluster35_cluster38_2
+ cluster35_cluster44_0 cluster35_cluster44_1 cluster35_cluster44_2
+ cluster35_cluster49_0 cluster35_cluster49_1 cluster35_cluster49_2
+ cluster36_cluster4_0 cluster36_cluster4_1 cluster36_cluster4_2
+ cluster36_cluster7_0 cluster36_cluster7_1 cluster36_cluster7_2
+ cluster36_cluster12_0 cluster36_cluster12_1 cluster36_cluster12_2
+ cluster36_cluster15_0 cluster36_cluster15_1 cluster36_cluster15_2
+ cluster36_cluster37_0 cluster36_cluster37_1 cluster36_cluster37_2
+ cluster36_cluster38_0 cluster36_cluster38_1 cluster36_cluster38_2
+ cluster36_cluster44_0 cluster36_cluster44_1 cluster36_cluster44_2
+ cluster36_cluster49_0 cluster36_cluster49_1 cluster36_cluster49_2
+ cluster39_cluster4_0 cluster39_cluster4_1 cluster39_cluster4_2
+ cluster39_cluster7_0 cluster39_cluster7_1 cluster39_cluster7_2
+ cluster39_cluster12_0 cluster39_cluster12_1 cluster39_cluster12_2
+ cluster39_cluster15_0 cluster39_cluster15_1 cluster39_cluster15_2
+ cluster39_cluster37_0 cluster39_cluster37_1 cluster39_cluster37_2
+ cluster39_cluster38_0 cluster39_cluster38_1 cluster39_cluster38_2
+ cluster39_cluster44_0 cluster39_cluster44_1 cluster39_cluster44_2
+ cluster39_cluster49_0 cluster39_cluster49_1 cluster39_cluster49_2
+ cluster40_cluster4_0 cluster40_cluster4_1 cluster40_cluster4_2
+ cluster40_cluster7_0 cluster40_cluster7_1 cluster40_cluster7_2
+ cluster40_cluster12_0 cluster40_cluster12_1 cluster40_cluster12_2
+ cluster40_cluster15_0 cluster40_cluster15_1 cluster40_cluster15_2
+ cluster40_cluster37_0 cluster40_cluster37_1 cluster40_cluster37_2
+ cluster40_cluster38_0 cluster40_cluster38_1 cluster40_cluster38_2
+ cluster40_cluster44_0 cluster40_cluster44_1 cluster40_cluster44_2
+ cluster40_cluster49_0 cluster40_cluster49_1 cluster40_cluster49_2
+ cluster41_cluster4_0 cluster41_cluster4_1 cluster41_cluster4_2
+ cluster41_cluster7_0 cluster41_cluster7_1 cluster41_cluster7_2
+ cluster41_cluster12_0 cluster41_cluster12_1 cluster41_cluster12_2
+ cluster41_cluster15_0 cluster41_cluster15_1 cluster41_cluster15_2
+ cluster41_cluster37_0 cluster41_cluster37_1 cluster41_cluster37_2
+ cluster41_cluster38_0 cluster41_cluster38_1 cluster41_cluster38_2
+ cluster41_cluster44_0 cluster41_cluster44_1 cluster41_cluster44_2
+ cluster41_cluster49_0 cluster41_cluster49_1 cluster41_cluster49_2
+ cluster42_cluster4_0 cluster42_cluster4_1 cluster42_cluster4_2
+ cluster42_cluster7_0 cluster42_cluster7_1 cluster42_cluster7_2
+ cluster42_cluster12_0 cluster42_cluster12_1 cluster42_cluster12_2
+ cluster42_cluster15_0 cluster42_cluster15_1 cluster42_cluster15_2
+ cluster42_cluster37_0 cluster42_cluster37_1 cluster42_cluster37_2
+ cluster42_cluster38_0 cluster42_cluster38_1 cluster42_cluster38_2
+ cluster42_cluster44_0 cluster42_cluster44_1 cluster42_cluster44_2
+ cluster42_cluster49_0 cluster42_cluster49_1 cluster42_cluster49_2
+ cluster43_cluster4_0 cluster43_cluster4_1 cluster43_cluster4_2
+ cluster43_cluster7_0 cluster43_cluster7_1 cluster43_cluster7_2
+ cluster43_cluster12_0 cluster43_cluster12_1 cluster43_cluster12_2
+ cluster43_cluster15_0 cluster43_cluster15_1 cluster43_cluster15_2
+ cluster43_cluster37_0 cluster43_cluster37_1 cluster43_cluster37_2
+ cluster43_cluster38_0 cluster43_cluster38_1 cluster43_cluster38_2
+ cluster43_cluster44_0 cluster43_cluster44_1 cluster43_cluster44_2
+ cluster43_cluster49_0 cluster43_cluster49_1 cluster43_cluster49_2
+ cluster45_cluster4_0 cluster45_cluster4_1 cluster45_cluster4_2
+ cluster45_cluster7_0 cluster45_cluster7_1 cluster45_cluster7_2
+ cluster45_cluster12_0 cluster45_cluster12_1 cluster45_cluster12_2
+ cluster45_cluster15_0 cluster45_cluster15_1 cluster45_cluster15_2
+ cluster45_cluster37_0 cluster45_cluster37_1 cluster45_cluster37_2
+ cluster45_cluster38_0 cluster45_cluster38_1 cluster45_cluster38_2
+ cluster45_cluster44_0 cluster45_cluster44_1 cluster45_cluster44_2
+ cluster45_cluster49_0 cluster45_cluster49_1 cluster45_cluster49_2
+ cluster46_cluster4_0 cluster46_cluster4_1 cluster46_cluster4_2
+ cluster46_cluster7_0 cluster46_cluster7_1 cluster46_cluster7_2
+ cluster46_cluster12_0 cluster46_cluster12_1 cluster46_cluster12_2
+ cluster46_cluster15_0 cluster46_cluster15_1 cluster46_cluster15_2
+ cluster46_cluster37_0 cluster46_cluster37_1 cluster46_cluster37_2
+ cluster46_cluster38_0 cluster46_cluster38_1 cluster46_cluster38_2
+ cluster46_cluster44_0 cluster46_cluster44_1 cluster46_cluster44_2
+ cluster46_cluster49_0 cluster46_cluster49_1 cluster46_cluster49_2
+ cluster47_cluster4_0 cluster47_cluster4_1 cluster47_cluster4_2
+ cluster47_cluster7_0 cluster47_cluster7_1 cluster47_cluster7_2
+ cluster47_cluster12_0 cluster47_cluster12_1 cluster47_cluster12_2
+ cluster47_cluster15_0 cluster47_cluster15_1 cluster47_cluster15_2
+ cluster47_cluster37_0 cluster47_cluster37_1 cluster47_cluster37_2
+ cluster47_cluster38_0 cluster47_cluster38_1 cluster47_cluster38_2
+ cluster47_cluster44_0 cluster47_cluster44_1 cluster47_cluster44_2
+ cluster47_cluster49_0 cluster47_cluster49_1 cluster47_cluster49_2
+ cluster48_cluster4_0 cluster48_cluster4_1 cluster48_cluster4_2
+ cluster48_cluster7_0 cluster48_cluster7_1 cluster48_cluster7_2
+ cluster48_cluster12_0 cluster48_cluster12_1 cluster48_cluster12_2
+ cluster48_cluster15_0 cluster48_cluster15_1 cluster48_cluster15_2
+ cluster48_cluster37_0 cluster48_cluster37_1 cluster48_cluster37_2
+ cluster48_cluster38_0 cluster48_cluster38_1 cluster48_cluster38_2
+ cluster48_cluster44_0 cluster48_cluster44_1 cluster48_cluster44_2
+ cluster48_cluster49_0 cluster48_cluster49_1 cluster48_cluster49_2
+End

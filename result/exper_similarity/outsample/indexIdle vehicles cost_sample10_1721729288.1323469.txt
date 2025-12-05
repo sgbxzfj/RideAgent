@@ -1,0 +1,1 @@
+temp_text:model.setObjective(gp.quicksum(w[S.index(i)][D.index(j)] * I[S.index(i)][K.index(k)] for i in S for j in D for k in K), GRB.MINIMIZE)
